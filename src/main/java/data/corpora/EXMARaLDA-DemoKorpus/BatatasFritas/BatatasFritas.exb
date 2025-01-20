@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basic-transcription>
+<head>
+<meta-information><project-name>EXMARaLDA DemoKorpus</project-name><transcription-name>Batatas Fritas</transcription-name><referenced-file url="BatatasFritas_web.mp4"/><referenced-file url="BatatasFritas.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention>HIAT (simplified)</transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>RAP</abbreviation>
+<sex value="m"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0" time="0.0"/>
+<tli id="T5" time="5.97329001315077"/>
+<tli id="T13" time="17.9023880698829"/>
+<tli id="T14" time="20.017145145422898"/>
+<tli id="T15" time="21.038871711273114"/>
+<tli id="T114" time="22.541706637623523"/>
+<tli id="T16" time="24.79099948288475"/>
+<tli id="T17" time="25.80403050349368"/>
+<tli id="T18" time="26.869234795550284"/>
+<tli id="T20" time="29.12645543242825"/>
+<tli id="T23" time="35.87307317049586"/>
+<tli id="T2" time="37.49306142183028"/>
+<tli id="T29" time="47.0663253268353"/>
+<tli id="T33" time="51.84629066101958"/>
+<tli id="T35" time="55.659596339057785"/>
+<tli id="T95" time="56.08690443800139"/>
+<tli id="T96" time="56.93324595631585"/>
+<tli id="T36" time="57.772914345942596"/>
+<tli id="T38" time="64.05953542005106"/>
+<tli id="T39" time="65.14619420592558"/>
+<tli id="T40" time="71.05948465421211"/>
+<tli id="T42" time="71.84614561576545"/>
+<tli id="T44" time="73.49280034037287"/>
+<tli id="T46" time="77.28610616345632"/>
+<tli id="T47" time="78.70609586524328"/>
+<tli id="T48" time="80.77274754390037"/>
+<tli id="T52" time="86.31937398468322"/>
+<tli id="T92" time="87.98006506582789"/>
+<tli id="T55" time="91.06600622727625"/>
+<tli id="T94" time="91.76600766106179"/>
+<tli id="T56" time="92.65934102607656"/>
+<tli id="T97" time="93.67265398971148"/>
+<tli id="T57" time="94.07265108880638"/>
+<tli id="T58" time="97.3392940647482"/>
+<tli id="T61" time="100.12600562547064"/>
+<tli id="T98" time="101.79368884340613"/>
+<tli id="T63" time="103.05266408792069"/>
+<tli id="T65" time="107.72588540457956"/>
+<tli id="T64" time="110.03253534269358"/>
+<tli id="T99" time="111.31252605979732"/>
+<tli id="T66" time="111.6125238841185"/>
+<tli id="T68" time="114.15251848411015"/>
+<tli id="T93" time="116.78019473987342"/>
+<tli id="T70" time="117.81247892008973"/>
+<tli id="T100" time="119.09246963719347"/>
+<tli id="T101" time="119.39914710057182"/>
+<tli id="T72" time="119.79247758134848"/>
+<tli id="T73" time="120.75912421675562"/>
+<tli id="T74" time="123.21914543840607"/>
+<tli id="T75" time="125.0591451149816"/>
+<tli id="T102" time="126.09378604893932"/>
+<tli id="T103" time="127.59216059892131"/>
+<tli id="T76" time="128.6124005956525"/>
+<tli id="T78" time="133.3523922614051"/>
+<tli id="T3" time="134.0566059042257"/>
+<tli id="T104" time="137.4058133855504"/>
+<tli id="T105" time="138.59309644166598"/>
+<tli id="T80" time="138.93232575230138"/>
+<tli id="T106" time="140.0064716080903"/>
+<tli id="T107" time="140.69940929102106"/>
+<tli id="T81" time="141.7456386826023"/>
+<tli id="T82" time="144.89894914713392"/>
+<tli id="T83" time="147.0922665738377"/>
+<tli id="T84" time="148.6922549702174"/>
+<tli id="T85" time="150.65224075578246"/>
+<tli id="T108" time="151.98019987500422"/>
+<tli id="T86" time="152.81890472995218"/>
+<tli id="T109" time="154.13221551790824"/>
+<tli id="T87" time="154.82554382300611"/>
+<tli id="T110" time="156.3556368929554"/>
+<tli id="T111" time="157.3920226059261"/>
+<tli id="T112" time="157.71898638051505"/>
+<tli id="T88" time="158.46551742476987"/>
+<tli id="T89" time="162.49882150731025"/>
+<tli id="T113" time="163.21881628568113"/>
+<tli id="T1" time="172.76"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK0" category="v" type="t" display-name="RAP [v]"><event start="T0" end="T5">Olá, eu hoje tinha absoluta necessidade de vir falar-vos dum tema • que me ocorreu no outro dia, que é. </event>
+<event start="T5" end="T13">• • Vocês já repararam (quando), • às vezes, • • tá uma determinada situação, • • e chega • • uma pessoa que tem um certo comportamento • • que não se coaduna com a situação em que está! </event>
+<event start="T13" end="T14">((risos)) </event>
+<event start="T15" end="T114">Eu esqueci-me do tema que tinha agora. </event>
+<event start="T114" end="T16">N/ • não me lembro qual era o tema, • ehm, </event>
+<event start="T17" end="T18">porque eu ando transtornado. </event>
+<event start="T18" end="T20">• • Eu ando transtornado com o seguinte. </event>
+<event start="T20" end="T23">• • • É muito complicado • encontrar batatas fritas que saibam a batata frita hoje em dia. </event>
+<event start="T23" end="T2">• • É mesmo complicado. </event>
+<event start="T2" end="T29">• • Há batata frita que sabe a queijo, • • batata frita que sabe a cebola, • • batata frita que sabe a presunto, batata frita que sabe a barbecue. </event>
+<event start="T29" end="T33">• • Mas, eh, batatas que saibam a boa batata é muito complicado • • encontrar. </event>
+<event start="T33" end="T35">• • E depois, eu questiono por exemplo, batata frita com sabor a barbecue. </event>
+<event start="T35" end="T95">Não.</event>
+<event start="T95" end="T96">• • Não, não. </event>
+<event start="T96" end="T36">• Não, não pá! </event>
+<event start="T36" end="T38">• • Não, porque eles não dizem é barbecue de/ de peixe, ou barbecue de carne, ou es/ estas sabem a barbecue de frango. </event>
+<event start="T38" end="T39">Não, é só a barbecue. </event>
+<event start="T39" end="T40">• Ora, barbecue é, uh, uma coiso em que se faz o grelhado. </event>
+<event start="T40" end="T42">• • Ne? </event>
+<event start="T42" end="T44">• • E as batatas sabem àquilo. </event>
+<event start="T44" end="T46">• • • Eh, é basicamente outra maneira dizer n/ batatas com sabor a fumo. </event>
+<event start="T46" end="T47">• Eh, as batatas sabem a fumo. </event>
+<event start="T47" end="T48">• Põe aí barbecue, • que a malta come. </event>
+<event start="T48" end="T52">• • • E é isto agora por tod/ • a comida toda, comida que sabe a outra comida, • • todo o lado • • todo o lado. </event>
+<event start="T52" end="T92">• • • Eh • águas! </event>
+<event start="T92" end="T55">• As águas agora eh • água • com sabor a morango. </event>
+<event start="T55" end="T94">• Não! </event>
+<event start="T94" end="T56">• • Não! </event>
+<event start="T56" end="T97">• • Não á água! </event>
+<event start="T97" end="T57">Atenção! </event>
+<event start="T57" end="T58">• Água é eu vou só/ só uma coisa • aqui para os senhores das águas. </event>
+<event start="T58" end="T61">• • • Ora bom • água, • • água. </event>
+<event start="T61" end="T98">• • • Dicionário. </event>
+<event start="T98" end="T63">• Água,• água. </event>
+<event start="T63" end="T65">• • Líquido incolor e transparente, insípido e inodoro.</event>
+<event start="T65" end="T64">Significa, não sabe a nada, nem cheira a nada. </event>
+<event start="T64" end="T99">• Água com sabor? </event>
+<event start="T99" end="T66">Não! </event>
+<event start="T66" end="T68">• • • Ah, mas este vem com sabor, não é água. </event>
+<event start="T68" end="T93">• • • Esta água é com sabor a quê? </event>
+<event start="T93" end="T70">A nada, é água.</event>
+<event start="T70" end="T100">• • • É com sabora a que? </event>
+<event start="T100" end="T101">Morango? </event>
+<event start="T101" end="T72">Não é água! </event>
+<event start="T72" end="T73">• • Não é água! </event>
+<event start="T73" end="T74">• • • Água com sabor • • não é água. </event>
+<event start="T74" end="T75">• • • Pft, • • não é água! </event>
+<event start="T75" end="T102">• • Não é água! </event>
+<event start="T102" end="T103">• • Não é • água!</event>
+<event start="T103" end="T76">• • Tá bem? </event>
+<event start="T76" end="T78">• • • Por exemplo, há iogurtes agora, iogurtes que é iogurte de chocolate com • • piri-píri. </event>
+<event start="T78" end="T3">• ((risos)) </event>
+<event start="T3" end="T104">Ah, requinte, o requinte, • chocolate com picante. </event>
+<event start="T104" end="T105">Pá, isto é requinte. </event>
+<event start="T105" end="T80">Não é.</event>
+<event start="T80" end="T106">• Não é requinte. </event>
+<event start="T106" end="T107">É jabardeira. </event>
+<event start="T107" end="T81">• • • Tá bem? </event>
+<event start="T81" end="T82">• • Sabem onde é que há também esse requinte, estas misturas de sabores?</event>
+<event start="T82" end="T83">• • Nos sítios onde os porcos comem.</event>
+<event start="T83" end="T84">• • • Que vai tudo para lá. </event>
+<event start="T84" end="T85">Olha, ohh, sobrou chocolate, põe pra o porco. </event>
+<event start="T85" end="T108">• O que é que eu faço com este picante? </event>
+<event start="T108" end="T86">Põe também para o porco.</event>
+<event start="T109" end="T87">E é o que há lá? </event>
+<event start="T110" end="T111">Os porcalhões. </event>
+<event start="T111" end="T112">É isso. </event>
+<event start="T112" end="T88">• ((incompreensível))</event>
+<event start="T89" end="T113">Não é água! </event>
+<event start="T113" end="T1">Não é água! </event>
+</tier><tier id="TIE1" speaker="SPK0" category="en" type="a" display-name="RAP [en]"><event start="T0" end="T5">Hello, today I found it absolutely neccessary to come speak to you about a topic • that occured to me the other day that is. </event>
+<event start="T5" end="T13">• • Have you ever noticed (how), • sometimes, • • there's a given situation, • • and a person appears • • with a certain behaviour that is inconsistent • • with the situation that person is in! </event>
+<event start="T13" end="T14">((laughs)) </event>
+<event start="T15" end="T114">Now I forgot the topic I had. </event>
+<event start="T114" end="T16">I don/ • don't remember the topic, • um, </event>
+<event start="T17" end="T18">because I've been troubled. </event>
+<event start="T18" end="T20">• • I've been troubled by the following. </event>
+<event start="T20" end="T23">• • • It is very difficult • to find french fries that taste like french fries in this day and age. </event>
+<event start="T23" end="T2">• • It is really difficult. </event>
+<event start="T2" end="T29">• • There are french fries that taste like cheese, • • french fries that taste like onion, • • french fries that taste like ham, barbecue-flavoured french fries. </event>
+<event start="T29" end="T33">• • But, um, finding french fries that taste like a good potato is very • • difficult. </event>
+<event start="T33" end="T35">• • And then I questioned french fries with barbecue flavour, for example. </event>
+<event start="T35" end="T95">No. </event>
+<event start="T95" end="T96">• • No, no. </event>
+<event start="T96" end="T36">• No, no way! </event>
+<event start="T36" end="T38">• • No, because they don't say whether it's barbecued fish or barbecued meat, or whether it/ it's barbecued chicken. </event>
+<event start="T38" end="T39">No, it's just barbecued. </event>
+<event start="T39" end="T40">• Now, barbecue is a thing, um, in which you can grill things. </event>
+<event start="T40" end="T42">• • Yes? </event>
+<event start="T42" end="T44">• • And the potatoes taste like it. </event>
+<event start="T44" end="T46">• • • Um, it's basically another of saying n/ potatoes with smoke flavour. </event>
+<event start="T46" end="T47">• Um, potatoes that taste like smoke. </event>
+<event start="T47" end="T48">• Put it on the grill, • and people will eat it. </event>
+<event start="T48" end="T52">• • • And it's the same for a/ , • all food today, food that tastes like other food, • • everywhere, • • everywhere. </event>
+<event start="T52" end="T92">• • • Uhm, • Water! </event>
+<event start="T92" end="T55">• The water of today, uhm, • water • with strawberry flavour. </event>
+<event start="T55" end="T94">• No! </event>
+<event start="T94" end="T56">• • No! </event>
+<event start="T56" end="T97">• • Not in the water! </event>
+<event start="T97" end="T57">Listen up! </event>
+<event start="T57" end="T58">• Water is only/ only a thing of the lords of the water. </event>
+<event start="T58" end="T61">• • • But well, • water, • • water. </event>
+<event start="T61" end="T98">• • • Dictionary. </event>
+<event start="T98" end="T63">• Water, • water. </event>
+<event start="T63" end="T65">• • Colourless, transparent, tasteless and odourless liquid. </event>
+<event start="T65" end="T64">This means you don't taste anything or smell anything. </event>
+<event start="T64" end="T99">• Water with flavour? </event>
+<event start="T99" end="T66">No! </event>
+<event start="T66" end="T68">• • • Ah, but that type that comes with a flavour, isn't water. </event>
+<event start="T68" end="T93">• • • This water tastes like what? </event>
+<event start="T93" end="T70">Like nothing, it's water. </event>
+<event start="T70" end="T100">• • • And with what flavour? </event>
+<event start="T100" end="T101">Strawberry? </event>
+<event start="T101" end="T72">That's not water! </event>
+<event start="T72" end="T73">• • That's not water! </event>
+<event start="T73" end="T74"> • • • Water with a flavour • • is not water. </event>
+<event start="T74" end="T75">• • • Pft, • • it's not water! </event>
+<event start="T75" end="T102">• • It's not water! </event>
+<event start="T102" end="T103">• • It's not • water! </event>
+<event start="T103" end="T76">• • Understood? </event>
+<event start="T76" end="T78">• • • There's yoghurt today, for example, yoghurt that is chocolate-flavoured yoghurt • • with tabasco. </event>
+<event start="T78" end="T3">• ((laughs)) </event>
+<event start="T3" end="T104">Ah, sophistication, what sophistication, • spicy chocolate. </event>
+<event start="T104" end="T105">Sure, this is sophisticated. </event>
+<event start="T105" end="T80">It's not. </event>
+<event start="T80" end="T106">• It's not sophisticated. </event>
+<event start="T106" end="T107">It's an atrocity. </event>
+<event start="T107" end="T81">• • • Understood? </event>
+<event start="T81" end="T82">• • Do you know where else they have that kind of sophistication, those mixes of flavour? </event>
+<event start="T82" end="T83">• • In places where pigs eat. </event>
+<event start="T83" end="T84">• • • Everything goes there. </event>
+<event start="T84" end="T85">Listen, oh, leftover chocolate, give it to the pig. </event>
+<event start="T85" end="T108">• What should I do with this chilly? </event>
+<event start="T108" end="T86">Give it to the pig as well. </event>
+<event start="T109" end="T87">And what else is there? </event>
+<event start="T110" end="T111">The enormous pigs. </event>
+<event start="T111" end="T112">That's how it is. </event>
+<event start="T112" end="T88">• ((incromprehensible)) </event>
+<event start="T89" end="T113">That's not water! </event>
+<event start="T113" end="T1">That's not water! </event>
+</tier><tier id="TIE2" speaker="SPK0" category="de" type="a" display-name="RAP [de]"><event start="T0" end="T5">Hallo, ich habe es heute für sehr wichtig gehalten mit Ihnen über ein Thema zu sprechen, • dass mir vor Kurzem auffiel, nämlich. </event>
+<event start="T5" end="T13">• • Haben Sie schon mal bemerkt (wie), • manchmal, • • in einer gegebenen Situation, • • eine Person mit einem bestimmten Verhalten erscheint, • • welches nicht zu der Situation passt, in der sie sich befindet! </event>
+<event start="T13" end="T14">((lacht)) </event>
+<event start="T15" end="T114">Jetzt habe ich mein Thema vergessen. </event>
+<event start="T114" end="T16">Ich erinn/ • erinner mich nich an mein Thema, • ähm, </event>
+<event start="T17" end="T18">weil ich verstört bin. </event>
+<event start="T18" end="T20">• • Mich hat das Folgende verstört. </event>
+<event start="T20" end="T23">• • • Es ist heutzutage sehr schwierig, • Pommes, die nach Pommes schmecken, zu finden. </event>
+<event start="T23" end="T2">• • Es ist wirklich schwierig. </event>
+<event start="T2" end="T29">• • Es gibt Pommes, die nach Käse schmecken, • • Pommes, die nach Zwiebeln schmecken, • • Pommes, die nach Schinken schmecken, Pommes die nach Barbecue schmecken. </event>
+<event start="T29" end="T33">• • Aber, ähm, Pommes, die nach einer guten Kartoffel schmecken zu finden, ist sehr • • schwierig. </event>
+<event start="T33" end="T35">• • Und dann habe ich Pommes mit Barbecue Geschmack in Frage gestellt. </event>
+<event start="T35" end="T95">Nein. </event>
+<event start="T95" end="T96">• • Nein, nein. </event>
+<event start="T96" end="T36">• Auf keinen Fall! </event>
+<event start="T36" end="T38">• • Nein, weil sie einem nicht sagen, ob es gegrillter Fisch oder gegrilltes Fleisch ist, oder ob e/es gegrilltes Hühnchen ist. </event>
+<event start="T38" end="T39">Nein, es ist nur Barbecue. </event>
+<event start="T39" end="T40">• Nun, ein Barbecue, ist etwas, äh, in dem man Sachen grillen kann. </event>
+<event start="T40" end="T42">• • Ne?</event>
+<event start="T42" end="T44">• • Und so schmecken die Kartoffeln. </event>
+<event start="T44" end="T46">• • • Ähm, man könnte also auch sagen, dass es n/ Kartoffeln mit Rauchgeschmack sind. </event>
+<event start="T46" end="T47">• Ähm, Kartoffeln, die nach Rauch schmecken. </event>
+<event start="T47" end="T48">• Leg es auf den Grill, • und die Leute werden es essen. </event>
+<event start="T48" end="T52">• • • Und das ist das Gleiche mit all/ , • allem Essen heutzutage, Essen, das nach anderem Essen schmeckt, • • überall, • • überall. </event>
+<event start="T52" end="T92">• • • Ähm, • Wasser! </event>
+<event start="T92" end="T55">• Das Wasser von heute, ähm, • Wasser • mit Erbeergeschmack. </event>
+<event start="T55" end="T94">• Nein! </event>
+<event start="T94" end="T56">• • Nein! </event>
+<event start="T56" end="T97">• • Nicht ins Wasser! </event>
+<event start="T97" end="T57">Hören Sie zu! </event>
+<event start="T57" end="T58">• Wasser ist nur/ nur eine Sache für die Herrschaften des Wassers. </event>
+<event start="T58" end="T61">• • • Okay, • Wasser, • • Wasser. </event>
+<event start="T61" end="T98">• • • Wörterbuch. </event>
+<event start="T98" end="T63">• Wasser, • Wasser. </event>
+<event start="T63" end="T65">• • Eine farblose, transparente, geschmacklose und geruchlose Flüssigkeit. </event>
+<event start="T65" end="T64">Das bedeutet, man schmeckt nichts und riecht nichts. </event>
+<event start="T64" end="T99">• Wasser mit Geschmack? </event>
+<event start="T99" end="T66">Nein! </event>
+<event start="T66" end="T68">• • • Ah, und diese Sorte, die Geschmack hat, ist kein Wasser. </event>
+<event start="T68" end="T93">• • • Wonach schmeckt dieses Wasser? </event>
+<event start="T93" end="T70">Nach nichts, es ist Wasser. </event>
+<event start="T70" end="T100">• • • Und welchen Geschmack hat es? </event>
+<event start="T100" end="T101">Erdbeere? </event>
+<event start="T101" end="T72">Das ist kein Wasser! </event>
+<event start="T72" end="T73">• • Das ist kein Wasser! </event>
+<event start="T73" end="T74"> • • • Wasser mit Geschmack • • ist kein Wasser. </event>
+<event start="T74" end="T75">• • • Pft, • • das ist kein Wasser! </event>
+<event start="T75" end="T102">• • Das ist kein Wasser! </event>
+<event start="T102" end="T103">• • Das ist kein • Wasser! </event>
+<event start="T103" end="T76">• • Verstanden? </event>
+<event start="T76" end="T78">• • • Zum Beispiel gibt es jetzt Joghurt, Schokoladenjoghurt mit • • Tabasco Geschmack. </event>
+<event start="T78" end="T3">• ((lacht)) </event>
+<event start="T3" end="T104">Oh, welch Kultiviertheit, welch Kultiviertheit, • scharfe Schokolade. </event>
+<event start="T104" end="T105">Klar, das ist kultiviert. </event>
+<event start="T105" end="T80">Es ist es nicht. </event>
+<event start="T80" end="T106">• Es ist nicht kultiviert. </event>
+<event start="T106" end="T107">Es ist eine Schweinerei. </event>
+<event start="T107" end="T81">• • • Verstanden? </event>
+<event start="T81" end="T82">• • Wissen Sie wo diese Kultiviertheit noch angetroffen werden kann, diese Mischung von Geschmäckern? </event>
+<event start="T82" end="T83">• • An Orten an denen Schweine essen. </event>
+<event start="T83" end="T84">• • • Da geht alles hin. </event>
+<event start="T84" end="T85">Hey, oh, es ist Schokolade übriggeblieben, gib sie dem Schwein. </event>
+<event start="T85" end="T108">• Was soll ich mit dieser Chilli machen? </event>
+<event start="T108" end="T86">Gib sie auch dem Schwein. </event>
+<event start="T109" end="T87">Und was ist da noch? </event>
+<event start="T110" end="T111">Riesige Schweine. </event>
+<event start="T111" end="T112">So ist das. </event>
+<event start="T112" end="T88">• ((unverständlich)) </event>
+<event start="T89" end="T113">Es ist kein Wasser! </event>
+<event start="T113" end="T1">Es ist kein Wasser! </event>
+</tier><tier id="TIE3" category="nn" type="d" display-name="[nn]"><event start="T14" end="T15">((1,0s)) </event>
+<event start="T16" end="T17">((1,0s))</event>
+<event start="T86" end="T109">((1,3s))</event>
+<event start="T87" end="T110">((1,5s))</event>
+<event start="T88" end="T89">((4,0s))</event>
+</tier></basic-body>
+</basic-transcription>

@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basic-transcription>
+<head>
+<meta-information><project-name>EXMARaLDA DemoKorpus</project-name><transcription-name>Szymon Majewski</transcription-name><referenced-file url="SzymonMajewski_web.mp4"/><referenced-file url="SzymonMajewski.wav"/><ud-meta-information><ud-information attribute-name="AutoSave">;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_12_09_55_08.exb at 2025_01_12_09_55_08;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_19_08_59_46.exb at 2025_01_19_08_59_46;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_19_09_04_46.exb at 2025_01_19_09_04_46</ud-information></ud-meta-information><comment></comment><transcription-convention>HIAT (simplified)</transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>SzyM</abbreviation>
+<sex value="m"/>
+<languages-used><language lang="pol"/></languages-used>
+<l1><language lang="pol"/></l1>
+<l2></l2>
+<ud-speaker-information>
+<ud-information attribute-name="Name">Szymon Majewski</ud-information><ud-information attribute-name="Age">43</ud-information></ud-speaker-information>
+<comment>Polish actor and TV presenter. Moderator of the "Szymon Majewski Show".</comment>
+</speaker>
+<speaker id="SPK1">
+<abbreviation>WojM</abbreviation>
+<sex value="m"/>
+<languages-used><language lang="pol"/></languages-used>
+<l1><language lang="pol"/></l1>
+<l2></l2>
+<ud-speaker-information>
+<ud-information attribute-name="Name">Wojciech Mecwaldowski</ud-information><ud-information attribute-name="Age">30</ud-information></ud-speaker-information>
+<comment>Polish actor. Among others in the serial "Usta Usta".</comment>
+</speaker>
+<speaker id="SPK2">
+<abbreviation>PawW</abbreviation>
+<sex value="m"/>
+<languages-used><language lang="pol"/></languages-used>
+<l1><language lang="pol"/></l1>
+<l2></l2>
+<ud-speaker-information>
+<ud-information attribute-name="Name">Paweł Wilczak</ud-information><ud-information attribute-name="Age">45</ud-information></ud-speaker-information>
+<comment>Polish actor. Among others in the serial "Usta Usta". Beard. </comment>
+</speaker>
+<speaker id="SPK3">
+<abbreviation>MagR</abbreviation>
+<sex value="f"/>
+<languages-used><language lang="pol"/></languages-used>
+<l1><language lang="pol"/></l1>
+<l2></l2>
+<ud-speaker-information>
+<ud-information attribute-name="Name">Magdalena Różczka</ud-information><ud-information attribute-name="Age">32</ud-information></ud-speaker-information>
+<comment>Polish actress. Among others in the serial "Usta Usta". Dark hair.</comment>
+</speaker>
+<speaker id="SPK4">
+<abbreviation>SonB</abbreviation>
+<sex value="f"/>
+<languages-used><language lang="pol"/></languages-used>
+<l1><language lang="pol"/></l1>
+<l2></l2>
+<ud-speaker-information>
+<ud-information attribute-name="Name">Sonia Bohosiewicz</ud-information><ud-information attribute-name="Age">35</ud-information></ud-speaker-information>
+<comment>Polish actress. Among others in the serial "Usta Usta". Blond hair.</comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0" time="0.0"/>
+<tli id="T1" time="1.996242166280598"/>
+<tli id="T2" time="6.959046818854133"/>
+<tli id="T3" time="7.577341199373476"/>
+<tli id="T4" time="8.110618661517645"/>
+<tli id="T5" time="8.646557535255049"/>
+<tli id="T6" time="9.226550214952189"/>
+<tli id="T7" time="10.469036535028694"/>
+<tli id="T8" time="11.407480662342069"/>
+<tli id="T9" time="12.033181458084321"/>
+<tli id="T10" time="12.606507555256206"/>
+<tli id="T11" time="13.799825827276758"/>
+<tli id="T12" time="14.379818506973896"/>
+<tli id="T13" time="15.526635008049537"/>
+<tli id="T14" time="15.906465905257171"/>
+<tli id="T15" time="15.961242329305321"/>
+<tli id="T16" time="16.999785439398902"/>
+<tli id="T17" time="17.316508329942593"/>
+<tli id="T18" time="18.37976802212658"/>
+<tli id="T19" time="18.59041380372634"/>
+<tli id="T20" time="20.722744635445036"/>
+<tli id="T21" time="21.233065342935497"/>
+<tli id="T22" time="24.499690780310186"/>
+<tli id="T23" time="25.146349285259873"/>
+<tli id="T24" time="25.21968169303767"/>
+<tli id="T25" time="25.30841664037855"/>
+<tli id="T26" time="27.01701492256071" type="intp"/>
+<tli id="T27" time="30.764907928637705"/>
+<tli id="T28" time="31.31985209635641"/>
+<tli id="T29" time="34.26395499661788" type="intp"/>
+<tli id="T30" time="37.87285532597066"/>
+<tli id="T31" time="38.693314886412935"/>
+<tli id="T32" time="39.009461195263015"/>
+<tli id="T33" time="39.28498483274436"/>
+<tli id="T34" time="39.60267317545341" type="intp"/>
+<tli id="T35" time="40.03949464667836"/>
+<tli id="T36" time="42.7127942393054"/>
+<tli id="T37" time="45.452573680534286"/>
+<tli id="T38" time="47.09912616016216"/>
+<tli id="T39" time="48.16482070207074"/>
+<tli id="T40" time="48.424699998544085"/>
+<tli id="T41" time="48.93303018266234"/>
+<tli id="T42" time="49.92594259660884"/>
+<tli id="T43" time="51.82834668414926"/>
+<tli id="T44" time="52.30822868732168"/>
+<tli id="T45" time="54.08219935293509"/>
+<tli id="T46" time="54.99088966504772"/>
+<tli id="T47" time="55.613607895047004"/>
+<tli id="T48" time="56.71391763728014"/>
+<tli id="T49" time="57.0515781079427"/>
+<tli id="T50" time="58.08942401717605"/>
+<tli id="T51" time="58.10238138487631"/>
+<tli id="T52" time="58.844824516624016"/>
+<tli id="T53" time="58.95901029388601" type="intp"/>
+<tli id="T54" time="59.031673970325464"/>
+<tli id="T55" time="59.25672134999257"/>
+<tli id="T56" time="60.18982050566063"/>
+<tli id="T57" time="60.39204207633129"/>
+<tli id="T58" time="60.95385213504056"/>
+<tli id="T59" time="61.624109168178464"/>
+<tli id="T60" time="62.041087464194135"/>
+<tli id="T61" time="62.55429152082879"/>
+<tli id="T62" time="63.2354189636417"/>
+<tli id="T63" time="63.64296336155745"/>
+<tli id="T64" time="65.06277256860092"/>
+<tli id="T65" time="65.87807645104459"/>
+<tli id="T66" time="66.4482232662807"/>
+<tli id="T67" time="66.50233204432949"/>
+<tli id="T68" time="66.72667461232352"/>
+<tli id="T69" time="67.31069410685024"/>
+<tli id="T70" time="67.49337015404052"/>
+<tli id="T71" time="68.31628518019768"/>
+<tli id="T72" time="68.54974474698497"/>
+<tli id="T73" time="69.05082516919403"/>
+<tli id="T74" time="69.5138895477453"/>
+<tli id="T75" time="70.38995729095039"/>
+<tli id="T76" time="70.54974474698497"/>
+<tli id="T77" time="71.09283391010901"/>
+<tli id="T78" time="71.44660748029759"/>
+<tli id="T79" time="72.14476240199718"/>
+<tli id="T80" time="72.24181532833208"/>
+<tli id="T81" time="72.77404105339455"/>
+<tli id="T82" time="72.98693134341956"/>
+<tli id="T83" time="74.76519141304004"/>
+<tli id="T84" time="75.10571872951688"/>
+<tli id="T85" time="75.31238278779978"/>
+<tli id="T86" time="75.45708485562125"/>
+<tli id="T87" time="76.78569752588102"/>
+<tli id="T88" time="77.05902740941644"/>
+<tli id="T89" time="77.71901907941664"/>
+<tli id="T90" time="77.84571995836978"/>
+<tli id="T91" time="78.09690585729754"/>
+<tli id="T92" time="78.64907326405478"/>
+<tli id="T93" time="78.89707842497296"/>
+<tli id="T94" time="79.16980457712263"/>
+<tli id="T95" time="80.9308363024319"/>
+<tli id="T96" time="82.14511702747923"/>
+<tli id="T97" time="82.97628244355438" type="intp"/>
+<tli id="T98" time="83.35030688078821"/>
+<tli id="T99" time="83.81134394751741"/>
+<tli id="T100" time="84.02692747731192"/>
+<tli id="T101" time="85.22302645888259"/>
+<tli id="T102" time="85.91133531906983"/>
+<tli id="T103" time="86.08536057806057"/>
+<tli id="T104" time="86.21523017432231"/>
+<tli id="T105" time="86.41782674449064"/>
+<tli id="T106" time="86.5412028609393"/>
+<tli id="T107" time="88.56854866850745"/>
+<tli id="T108" time="89.81029225222055"/>
+<tli id="T109" time="93.3788214312394"/>
+<tli id="T110" time="93.62940650380632" type="intp"/>
+<tli id="T111" time="93.85214879053247"/>
+<tli id="T112" time="97.02125592747183"/>
+<tli id="T113" time="100.84186525822686"/>
+<tli id="T114" time="102.05871187912072"/>
+<tli id="T115" time="102.30537543255514"/>
+<tli id="T116" time="102.77723642059794"/>
+<tli id="T117" time="103.2090544498738"/>
+<tli id="T118" time="104.94087201991705"/>
+<tli id="T119" time="105.46814456092761"/>
+<tli id="T120" time="106.33178061947933"/>
+<tli id="T121" time="107.58632563084926"/>
+<tli id="T122" time="108.29541628944966"/>
+<tli id="T123" time="109.13632508330267"/>
+<tli id="T124" time="109.48177950672337"/>
+<tli id="T125" time="109.85450664778253"/>
+<tli id="T126" time="110.1181429182878"/>
+<tli id="T127" time="110.38820501016129"/>
+<tli id="T128" time="111.58968024502892"/>
+<tli id="T129" time="111.94753236544517"/>
+<tli id="T130" time="113.69929560835234"/>
+<tli id="T131" time="114.09373760914355"/>
+<tli id="T132" time="114.55644966229764"/>
+<tli id="T133" time="114.99536785912828" type="intp"/>
+<tli id="T134" time="115.26359564608035"/>
+<tli id="T135" time="116.39853089094309"/>
+<tli id="T136" time="116.92041324261777" type="intp"/>
+<tli id="T137" time="116.99325165586313"/>
+<tli id="T138" time="117.10336400904085"/>
+<tli id="T139" time="118.22748184623042"/>
+<tli id="T140" time="119.58797345030801"/>
+<tli id="T141" time="120.7934264819183"/>
+<tli id="T142" time="121.01342954411389"/>
+<tli id="T143" time="121.18785487564092"/>
+<tli id="T144" time="123.48984511775957" type="intp"/>
+<tli id="T145" time="123.97963027565716"/>
+<tli id="T146" time="124.25176510569284"/>
+<tli id="T147" time="124.6460409476411"/>
+<tli id="T148" time="125.05412732721074" type="intp"/>
+<tli id="T149" time="125.29417813872229"/>
+<tli id="T150" time="125.57453077458875" type="intp"/>
+<tli id="T151" time="125.99505972838844"/>
+<tli id="T152" time="127.05779623392529"/>
+<tli id="T153" time="127.29245014515183"/>
+<tli id="T154" time="127.73552205953433"/>
+<tli id="T155" time="128.69868578528826"/>
+<tli id="T156" time="130.1058312948937"/>
+<tli id="T157" time="131.01200302253653"/>
+<tli id="T158" time="131.68911471310028"/>
+<tli id="T159" time="132.48483739537443"/>
+<tli id="T160" time="132.5975032066647" type="intp"/>
+<tli id="T161" time="133.160832263116"/>
+<tli id="T162" time="133.25868217038646"/>
+<tli id="T163" time="133.8700272005898"/>
+<tli id="T164" time="137.52044927006887"/>
+<tli id="T165" time="138.5547332950664"/>
+<tli id="T166" time="142.36545856496875"/>
+<tli id="T167" time="144.06540433697444"/>
+<tli id="T168" time="145.12537052422502"/>
+<tli id="T169" time="146.16533734945205"/>
+<tli id="T170" time="146.50532650385315"/>
+<tli id="T171" time="147.0586761049238"/>
+<tli id="T172" time="147.52880844717623"/>
+<tli id="T173" time="147.65597022054513"/>
+<tli id="T174" time="148.7256459110176"/>
+<tli id="T175" time="149.48529161228768"/>
+<tli id="T208" time="149.91315104166668"/>
+<tli id="T176" time="150.2940598993212"/>
+<tli id="T177" time="151.11310022097706"/>
+<tli id="T178" time="151.8712813468938"/>
+<tli id="T179" time="152.38533001124728"/>
+<tli id="T180" time="153.45004807967834"/>
+<tli id="T181" time="153.9573179606498"/>
+<tli id="T182" time="155.45003685770206"/>
+<tli id="T183" time="156.25185054052793"/>
+<tli id="T184" time="157.11444849832606"/>
+<tli id="T185" time="161.0118100872165"/>
+<tli id="T186" time="162.09810070869483" type="intp"/>
+<tli id="T187" time="163.57545595390536" type="intp"/>
+<tli id="T188" time="163.74926245334188"/>
+<tli id="T189" time="164.05978737048923"/>
+<tli id="T190" time="164.9413623471364"/>
+<tli id="T191" time="165.25188726428377"/>
+<tli id="T192" time="166.11889738922045" type="intp"/>
+<tli id="T193" time="166.53175935347602"/>
+<tli id="T194" time="166.94371966069832"/>
+<tli id="T195" time="167.14958289793242"/>
+<tli id="T196" time="167.9158651069607"/>
+<tli id="T197" time="168.55171186219744"/>
+<tli id="T198" time="169.0552701469859"/>
+<tli id="T199" time="170.16553458983978"/>
+<tli id="T200" time="170.2891983942358"/>
+<tli id="T201" time="170.4120301982354"/>
+<tli id="T202" time="171.62115899214407"/>
+<tli id="T203" time="172.34258051500964"/>
+<tli id="T204" time="172.49285686508898"/>
+<tli id="T205" time="172.73005261843724"/>
+<tli id="T206" time="172.904484375"/>
+<tli id="T207" time="175.736"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK0" category="v" type="t" display-name="SzyM [v]"><event start="T0" end="T1">Słuchajcie chciałem się spytać się o taką rzecz Wojtka. </event>
+<event start="T1" end="T2">Dlatego że się dowiedziałem, słuchajcie, że Wojtek ((0,5s)) ((zaczerpn. powietrza)) kolekcjonuje ((0,4s)) hm Kinder niespodzianki. </event>
+<event start="T2" end="T3">To prawda jest? </event>
+<event start="T5" end="T6">Nie poczek</event>
+<event start="T6" end="T7">ajcie ciekawa sprawa właśnie. </event>
+<event start="T7" end="T8">((0,9s)) </event>
+<event start="T9" end="T10">No patrz już ze</event>
+<event start="T10" end="T12">brałesz oklaski (Wierzuk). </event>
+<event start="T22" end="T23">Zjedzone? </event>
+<event start="T31" end="T32">Takie </event>
+<event start="T32" end="T33">są ((inc. )) ? </event>
+<event start="T37" end="T38">Ale to może podróba była jakaś wiesz hm </event>
+<event start="T38" end="T39">taiwańska. </event>
+<event start="T42" end="T43">((inc. )) </event>
+<event start="T43" end="T44">Nie, nie </event>
+<event start="T44" end="T45">bo to nie jest jakiś/ hm jest jakiś tem</event>
+<event start="T45" end="T46">at wiesz/ jest jak</event>
+<event start="T46" end="T47">iś temat no. </event>
+<event start="T48" end="T49">Nie to jes</event>
+<event start="T49" end="T50">t ((inc.)), bo to jest tak. </event>
+<event start="T69" end="T70">(Z) </event>
+<event start="T70" end="T71">Zapałki zbieraś </event>
+<event start="T71" end="T72">też? </event>
+<event start="T74" end="T75">Ty zbieraś zapał</event>
+<event start="T75" end="T76">ki? </event>
+<event start="T80" end="T81">Ale co, ale… </event>
+<event start="T90" end="T91">Że p</event>
+<event start="T91" end="T92">udełko mu się nie </event>
+<event start="T92" end="T93">podoba. </event>
+<event start="T96" end="T97">A co jest takiego w zapałkach </event>
+<event start="T97" end="T98">faj</event>
+<event start="T98" end="T99">nego </event>
+<event start="T99" end="T100">Paweł? </event>
+<event start="T109" end="T110">Hm˙ </event>
+<event start="T110" end="T111">OK˙ </event>
+<event start="T114" end="T115">Dla ma</event>
+<event start="T115" end="T116">lutkich dzieci</event>
+<event start="T116" end="T117">aczkuch, tak? </event>
+<event start="T117" end="T118">Sobie podpaliś domeczek, wiesz że </event>
+<event start="T118" end="T119">((0,5s)) </event>
+<event start="T119" end="T120">taki dwulatek hm </event>
+<event start="T120" end="T121">(twiela) ((inc. )) sobie domeczek swój ma… </event>
+<event start="T121" end="T122">i hm </event>
+<event start="T122" end="T123">dla lalecze</event>
+<event start="T123" end="T124">k, tak? </event>
+<event start="T125" end="T126">Sup</event>
+<event start="T126" end="T127">er, dobrze. </event>
+<event start="T127" end="T128">A dziewczyny wy coś zbieracie? </event>
+<event start="T130" end="T131">Słusz… </event>
+<event start="T132" end="T133">I jak to? </event>
+<event start="T133" end="T134">No al… </event>
+<event start="T134" end="T136">To/ to wy się nie wiedzałeś z kim… </event>
+<event start="T137" end="T138">z… </event>
+<event start="T141" end="T142">Hm˙ </event>
+<event start="T157" end="T158">To jest bardzo </event>
+<event start="T158" end="T159">męskie i/ ((jąkanie)) i… </event>
+<event start="T171" end="T172">A co się/ </event>
+<event start="T172" end="T174">a co ty spiś jak… </event>
+<event start="T177" end="T178">Przepraszam bardzo, </event>
+<event start="T178" end="T179">co ty śpisz </event>
+<event start="T179" end="T180">w jakimś jeziorze? </event>
+<event start="T181" end="T182">W jakimś jeziorze śpisz że to wszys</event>
+<event start="T182" end="T183">tko się zmieści? </event>
+<event start="T185" end="T186">((0,2s)) Ja sobie uczer… </event>
+<event start="T186" end="T187">I to sobie to wieczorem puszczasz. </event>
+<event start="T187" end="T188">Wcho</event>
+<event start="T188" end="T189">dzisz tam </event>
+<event start="T189" end="T190">i one sobie pływaj</event>
+<event start="T190" end="T191">om/ </event>
+<event start="T191" end="T193">ah/ pływają sobie. </event>
+<event start="T197" end="T198">Zaprosz na</event>
+<event start="T198" end="T199">s do swojego świata. </event>
+<event start="T199" end="T200">((0,1s)) </event>
+<event start="T200" end="T201">(kie) ((inc. )) </event>
+</tier><tier id="TIE12" speaker="SPK0" category="en" type="a" display-name="SzyM [en]"><event start="T0" end="T1">Listen, I wanted to ask you guys something about Wojtek. </event>
+<event start="T1" end="T2">Because I found out, listen, that Wojtek collects hm Kinder surprises. </event>
+<event start="T2" end="T3">Is that true? </event>
+<event start="T5" end="T7">No wait an interesting case just . </event>
+<event start="T9" end="T12">Well look you have already gathered applause Wierzuk . </event>
+<event start="T22" end="T23">Eaten? </event>
+<event start="T31" end="T33">These are ? </event>
+<event start="T37" end="T39">But it may have been a fake of some kind you know hm taiwanese . </event>
+<event start="T42" end="T47">No , no because it's not some / hm there's some topic you know / there's some topic no .</event>
+<event start="T48" end="T50">It is not , because it is so . </event>
+<event start="T69" end="T72">Do you collect from the Matchbox too? </event>
+<event start="T74" end="T76">Do you collect matches ? </event>
+<event start="T80" end="T81">But what , but ...</event>
+<event start="T90" end="T93">That he doesn't like the box . </event>
+<event start="T96" end="T100">And what is so cool about matches Paul ? </event>
+<event start="T109" end="T110">Hm ˙ </event>
+<event start="T110" end="T111">OK ˙</event>
+<event start="T114" end="T117">For little kids, right? </event>
+<event start="T117" end="T121">You know that two-year-olds, you know, they have their own little house ... </event>
+<event start="T121" end="T124">and, um, for dolls, right? </event>
+<event start="T125" end="T127">Super , good . </event>
+<event start="T127" end="T128">And you girls are collecting something ? </event>
+<event start="T130" end="T131">Right ...</event>
+<event start="T132" end="T133">And how so? </event>
+<event start="T133" end="T134">No al ... </event>
+<event start="T134" end="T136">This / that you did not know with whom ...</event>
+<event start="T137" end="T138">z ...</event>
+<event start="T141" end="T142">Hm ˙</event>
+<event start="T157" end="T159">This is very masculine and/or ...</event>
+<event start="T171" end="T174">And what do you get / and what do you sleep like ...</event>
+<event start="T177" end="T180">Excuse me , what are you sleeping in some lake ? </event>
+<event start="T181" end="T183">In what lake do you sleep that all this will fit ? </event>
+<event start="T185" end="T186">I uczer ... </event>
+<event start="T186" end="T187">And you let it go in the evening . </event>
+<event start="T187" end="T193">You go in there and they swim / ah / swim themselves . </event>
+<event start="T197" end="T199">Invite us into your world . </event>
+<event start="T200" end="T201">kie</event>
+</tier><tier id="TIE1" speaker="SPK0" category="de" type="a" display-name="SzyM [de]"><event start="T0" end="T1">Hört mal, ich wollte etwas zu einer Sache von Wojtek fragen. </event>
+<event start="T1" end="T2">Weil ich mitbekommen habe, hört mal, dass Wojtek ((0,5s)) ((Luft holen)) sammelt ((0,4s)) HM Kinderüberraschungseier sammelt. </event>
+<event start="T2" end="T3">Stimmt das?</event>
+<event start="T5" end="T7">Nee, warte, das ist ja eigentlich eine interessante Sache. </event>
+<event start="T7" end="T8">((0,9s)) </event>
+<event start="T9" end="T12">Schau mal, (Wierzuk) du bekommst schon Applaus. </event>
+<event start="T22" end="T23">Aufgegessene? </event>
+<event start="T31" end="T32">Solche</event>
+<event start="T32" end="T33">gibts ((unv. )) ? </event>
+<event start="T37" end="T39">Aber das war vielleicht irgendeine taiwanesische Nachmachung HM. </event>
+<event start="T42" end="T43">((unv. )) </event>
+<event start="T43" end="T47">Nein, nein,weil das nicht irgendein/ das ist irgendein Thema, weißt du, das ist irgendein Thema. </event>
+<event start="T48" end="T50">Nein, das ist ((unv.)), weil das so ist. </event>
+<event start="T70" end="T72">Streichhölzer sammelst du auch? </event>
+<event start="T74" end="T76">Sammelst du Streichhölzer? </event>
+<event start="T80" end="T81">Aber was, aber… </event>
+<event start="T90" end="T93">Dass ihm die Schachtel nicht gefällt. </event>
+<event start="T96" end="T100">Und was ist so toll an Streichhölzern Paweł? </event>
+<event start="T109" end="T110">HM˙ </event>
+<event start="T110" end="T111">OK˙ </event>
+<event start="T114" end="T117">Für kleine Kinderchen, ja? </event>
+<event start="T117" end="T118">Zündest du das Häuschen an, weißt du, dass </event>
+<event start="T118" end="T119">((0,5s)) </event>
+<event start="T119" end="T124">so ein Zweijähriger ((unv. )) hat sein kleines Häuschen und HM für Puppen, ja?</event>
+<event start="T125" end="T127">Super, gut. </event>
+<event start="T127" end="T128">Und die Mädels, sammelt ihr irgendetwas?</event>
+<event start="T130" end="T131">Richtig… </event>
+<event start="T132" end="T133">Und wie? </event>
+<event start="T134" end="T136">Aber dann wußtet ihr gar nicht mit wem… </event>
+<event start="T137" end="T138">mit… </event>
+<event start="T141" end="T142">HM˙ </event>
+<event start="T157" end="T159">Das ist sehr männlich und/ ((Stottern)) und… </event>
+<event start="T171" end="T174">Und was =/ aber wie, du schläfst wie… </event>
+<event start="T177" end="T180">Entschuldige mal, schläfst du in irgendeinem See? </event>
+<event start="T181" end="T183">Schläfst du in irgendeinem See, dass das alles reinpaßt? </event>
+<event start="T185" end="T186">((0,2s)) Ich = mir… </event>
+<event start="T186" end="T187">Und du lässt Dir abends. </event>
+<event start="T187" end="T193">Gehst da rein und die schwimmen/ ah/ schwimmen dann vor sich hin. </event>
+<event start="T197" end="T199">Lad uns in Deine Welt ein. </event>
+<event start="T199" end="T200">((0,1s)) </event>
+<event start="T200" end="T201">((unv. )) </event>
+</tier><tier id="TIE2" speaker="SPK1" category="v" type="t" display-name="WojM [v]"><event start="T3" end="T4">((0,5s)) </event>
+<event start="T4" end="T5">Hm, </event>
+<event start="T5" end="T6">e tak ((oddech, śmiech)). </event>
+<event start="T8" end="T10">Tak ((śmiech)). </event>
+<event start="T13" end="T15">Hm˙ </event>
+<event start="T16" end="T17">Dzię</event>
+<event start="T17" end="T18">kuję, dziękuję. </event>
+<event start="T18" end="T19">((0,1s)) Su</event>
+<event start="T19" end="T20">chaj, tak zbieram jajka niespodzianki. </event>
+<event start="T20" end="T21">((0,5s)) </event>
+<event start="T21" end="T22">Mam ponad hm sześćset sztuk hm </event>
+<event start="T22" end="T24">mógłbyś je… </event>
+<event start="T24" end="T25">((0,1s)) </event>
+<event start="T25" end="T26">Tak one są wszystkie zjedzone. </event>
+<event start="T26" end="T27">Hm, no bo kłaść hm wiesz niezjedzone to by się wszystko roztopiło. </event>
+<event start="T27" end="T28">To bez sensu. </event>
+<event start="T28" end="T29">Więc, wszystkie zabawki poskładane mam ponad sześćset sztuk. </event>
+<event start="T29" end="T30">Czasami są na przykład takie jajka, malutkie jajeczko a układasz taką zabawkę. </event>
+<event start="T32" end="T33">W Maro</event>
+<event start="T33" end="T34">ko, tak. </event>
+<event start="T34" end="T35">W Maroko ku</event>
+<event start="T35" end="T36">piłem jajka które/ ((0,3s)) hm z których bił ułozony samolot. </event>
+<event start="T36" end="T37">Więc, z takiego małego pudełeczka wywoziłes taki samolot. </event>
+<event start="T38" end="T39">No to było jakieś tam jaj</event>
+<event start="T39" end="T40">ko. </event>
+<event start="T40" end="T41">Ale to nie wiem. </event>
+<event start="T41" end="T42">No jajko niespodzianka. </event>
+<event start="T42" end="T43">A co ludzie o jajkach moich gadać </event>
+<event start="T43" end="T44">cały czas? </event>
+<event start="T51" end="T53">Co zbierasz </event>
+<event start="T53" end="T54">Paweł? </event>
+<event start="T54" end="T57">((śmiech, zaczerpn. powietrza)) </event>
+<event start="T65" end="T66">I zapałki. </event>
+<event start="T71" end="T72">Tak. </event>
+<event start="T73" end="T74">On. </event>
+<event start="T77" end="T78">Tak. </event>
+<event start="T82" end="T83">Kiedyś zapałki i powiedział że </event>
+<event start="T83" end="T84">((0,3s)) </event>
+<event start="T84" end="T87">to pudełko już się nie podoba, </event>
+<event start="T87" end="T88">((0,3s)) </event>
+<event start="T88" end="T89">na przykład. </event>
+<event start="T89" end="T94">((1,5s)) </event>
+<event start="T94" end="T95">Nie ma tego, ale to mu się nie podobało. </event>
+<event start="T95" end="T96">Wiesz przywiozłem mu zapałki, wiesz. </event>
+<event start="T101" end="T102">Że się palą na </event>
+<event start="T102" end="T103">przy</event>
+<event start="T103" end="T104">kład, </event>
+<event start="T104" end="T105">nie? </event>
+<event start="T145" end="T146">No, </event>
+<event start="T146" end="T147">kacz</event>
+<event start="T147" end="T148">uszki. </event>
+<event start="T148" end="T149">Nie, </event>
+<event start="T149" end="T151">((inc. ))… </event>
+<event start="T152" end="T153">Dobra </event>
+<event start="T153" end="T154">dobra do… </event>
+<event start="T154" end="T155">Nie o zbieram </event>
+<event start="T155" end="T156">playboii na przykład bardz</event>
+<event start="T156" end="T157">o hm lubię. </event>
+<event start="T159" end="T160">Ta</event>
+<event start="T160" end="T161">k, ale cz</event>
+<event start="T161" end="T163">asami jak gdzieś </event>
+<event start="T163" end="T164">właśnie/ hm gdzieś jestem, to kupuję takie dziwne rzeczy do wanny. </event>
+<event start="T164" end="T165">Na przykład jakąś kaczke. </event>
+<event start="T165" end="T166">Albo pływaka ostatnio kupiłem który tak, e bardzo szybko pływa w wannie jak się </event>
+<event start="T166" end="T167">wiesz. </event>
+<event start="T167" end="T168">O tak, no w ogóle… </event>
+<event start="T170" end="T171">Nie. </event>
+<event start="T172" end="T173">Tak. </event>
+<event start="T179" end="T180">Jak ((inc. )) </event>
+<event start="T180" end="T181">proszę? </event>
+<event start="T182" end="T183">Nie, nie, </event>
+<event start="T183" end="T184">tak poukładane jest. </event>
+<event start="T184" end="T185">Od mojej dziewczyny dostałem kiedyś taką wielką kaczkę z taką wielką fajką, na przykład. </event>
+<event start="T188" end="T189">Pływa. </event>
+<event start="T190" end="T191">Tak. </event>
+<event start="T194" end="T195">Ta</event>
+<event start="T195" end="T196">k, jakoś tak. </event>
+<event start="T196" end="T197">Właśnie </event>
+<event start="T197" end="T198">jest… </event>
+<event start="T201" end="T202">Nie zmieścimy się do wanny wszyscy. </event>
+<event start="T202" end="T203">Nie ma szans. </event>
+</tier><tier id="TIE13" speaker="SPK1" category="en" type="a" display-name="WojM [en]"><event start="T3" end="T6">Hm , e yes . </event>
+<event start="T8" end="T10">Yes . </event>
+<event start="T13" end="T15">Hm ˙</event>
+<event start="T16" end="T18">Thank you , thank you . </event>
+<event start="T18" end="T20">Suchaj , yes I collect surprise eggs . </event>
+<event start="T20" end="T24">I have over hm six hundred hm you could them ... </event>
+<event start="T24" end="T26">Yes they are all eaten . </event>
+<event start="T26" end="T27">Hm , well because to lay hm you know uneaten it would all melt . </event>
+<event start="T27" end="T28">It doesn't make sense . </event>
+<event start="T28" end="T29">So , all the toys put together I have over six hundred pieces . </event>
+<event start="T29" end="T30">Sometimes there are eggs for example , a tiny egg and you put a toy like that together . </event>
+<event start="T32" end="T34">In Morocco , yes . </event>
+<event start="T34" end="T36">In Morocco , I bought eggs which / hm from which beat an arranged plane . </event>
+<event start="T36" end="T37">So , from such a small box you exported such a plane . </event>
+<event start="T38" end="T40">Well that was some egg there . </event>
+<event start="T40" end="T41">But I don't know . </event>
+<event start="T41" end="T42">Well a surprise egg . </event>
+<event start="T42" end="T44">And what do people talk about my eggs all the time ? </event>
+<event start="T51" end="T54">What are you collecting Paul? </event>
+<event start="T65" end="T66">And matches . </event>
+<event start="T71" end="T72">Yes . </event>
+<event start="T73" end="T74">He . </event>
+<event start="T77" end="T78">Yes . </event>
+<event start="T82" end="T89">He used to make matches and said he didn't like this box any more , for example . </event>
+<event start="T94" end="T95">He doesn't have it , but he didn't like it . </event>
+<event start="T95" end="T96">You know I brought him matches , you know . </event>
+<event start="T101" end="T105">That they burn for example , no ? </event>
+<event start="T145" end="T148">Well , ducks . </event>
+<event start="T148" end="T151">No , ...</event>
+<event start="T152" end="T154">Good good to ...</event>
+<event start="T154" end="T157">I don't o collect playboii for example very hm like . </event>
+<event start="T159" end="T164">Yes , but sometimes when I am just / hm somewhere , I buy such strange things for the bath . </event>
+<event start="T164" end="T165">For example some kind of duck . </event>
+<event start="T165" end="T167">Or a float I recently bought that swims very fast in the tub as you know . </event>
+<event start="T167" end="T168">Oh yeah , well in general ...</event>
+<event start="T170" end="T171">No . </event>
+<event start="T172" end="T173">Yes . </event>
+<event start="T179" end="T181">How please? </event>
+<event start="T182" end="T184">No , no , it's arranged like that . </event>
+<event start="T184" end="T185">From my girlfriend I once got such a big duck with such a big pipe , for example . </event>
+<event start="T188" end="T189">Swimming . </event>
+<event start="T190" end="T191">Yes . </event>
+<event start="T194" end="T197">Yes , somehow . </event>
+<event start="T197" end="T198">It just is ...</event>
+<event start="T201" end="T202">We won't fit in the bath all . </event>
+<event start="T202" end="T203">Not a chance . </event>
+</tier><tier id="TIE3" speaker="SPK1" category="de" type="a" display-name="WojM [de]"><event start="T3" end="T4">((0,5s)) </event>
+<event start="T4" end="T6">HM, äh ja ((Ausatmen, Lachen)). </event>
+<event start="T8" end="T10">Ja ((Lachen)). </event>
+<event start="T13" end="T15">HM˙ </event>
+<event start="T16" end="T18">Danke, danke. </event>
+<event start="T18" end="T20">((0,1s)) Hör mal, ja, ich sammle Kinderüberraschungseier. </event>
+<event start="T20" end="T21">((0,5s)) </event>
+<event start="T21" end="T24">Ich habe fast sechshundert Stück HM, du könntest sie… </event>
+<event start="T24" end="T25">((0,1s)) </event>
+<event start="T25" end="T26">Ja, alle aufgegessen. </event>
+<event start="T26" end="T27">HM, weil sie HM, wenn man sie einfach liegen lassen würde, schmelzen würden. </event>
+<event start="T27" end="T28">Das wäre sinnlos. </event>
+<event start="T28" end="T29">Also ich habe insgesamt um die sechshundert zusammengesetzte Spielzeuge. </event>
+<event start="T29" end="T30">Manchmal gibt es solche kleinen Eier und dann setzt man so ein großes Spielzeug zusammen. </event>
+<event start="T32" end="T34">In Marokko, ja. </event>
+<event start="T34" end="T36">In Marokko hab ich Eier gekauft, die/ ((0,3s)) HM, aus denen ein Flugzeug zusammengelegt wird. </event>
+<event start="T36" end="T37">Also aus so einem kleinen Döschen so ein Flugzeug. </event>
+<event start="T38" end="T40">Ja das war irgendein Ei. </event>
+<event start="T40" end="T41">Aber keine Ahnung. </event>
+<event start="T41" end="T42">Ach ein Überraschungsei. </event>
+<event start="T42" end="T44">Aber Leute, werden wir uns die ganze Zeit über meine Eier unterhalten? </event>
+<event start="T51" end="T54">Was sammelst du Paweł? </event>
+<event start="T54" end="T57">((Lachen, Luft holen)) </event>
+<event start="T65" end="T66">Und Streichhölzer. </event>
+<event start="T71" end="T72">Ja. </event>
+<event start="T73" end="T74">Er. </event>
+<event start="T77" end="T78">Ja. </event>
+<event start="T82" end="T83">Irgendwann einmal Streichhölzer und er hat gesagt, dass </event>
+<event start="T83" end="T84">((0,3s)) </event>
+<event start="T84" end="T87">diese Schachtel ihm schon nicht gefällt, </event>
+<event start="T87" end="T88">((0,3s)) </event>
+<event start="T88" end="T89">zum Beispiel. </event>
+<event start="T89" end="T94">((1,5s)) </event>
+<event start="T94" end="T95">Die hat er noch nicht aber sie gefällt ihm nicht. </event>
+<event start="T95" end="T96">Weißt du ich habe ihm Streichhölzer mitgebracht, weißt du. </event>
+<event start="T101" end="T105">Dass sie brennen zum Beispiel, richtig? </event>
+<event start="T145" end="T148">Doch, Entchen. </event>
+<event start="T148" end="T151">Nein, ((unv. ))… </event>
+<event start="T152" end="T154">Gut, gut… </event>
+<event start="T154" end="T157">Nein ich sammle beispielsweise auch Playboy-Hefte, das mag ich sehr. </event>
+<event start="T159" end="T164">Ja, aber wenn ich manchmal irgendwo bin, dann kaufe ich solche komischen Sachen für die Badewanne. </event>
+<event start="T164" end="T165">Zum Beispiel irgendeine Ente. </event>
+<event start="T165" end="T167">Oder letztens habe ich so einen Schwimmer gekauft, der ganz schnell in der Badewanne schwimmt. </event>
+<event start="T167" end="T168">Na ja und überhaupt…</event>
+<event start="T170" end="T171">Nein. </event>
+<event start="T172" end="T173">Ja. </event>
+<event start="T179" end="T181">Wie ((unv. )) bitte? </event>
+<event start="T182" end="T184">Nein, nein, die sind besonders angeordnet. </event>
+<event start="T184" end="T185">Von meiner Freundin habe ich zum Beispiel mal so eine riesige Ente mit so einer riesigen Pfeife bekommen. </event>
+<event start="T188" end="T189">Schwimmt. </event>
+<event start="T190" end="T191">Ja. </event>
+<event start="T194" end="T196">Ja, irgendwie schon. </event>
+<event start="T196" end="T198">Das ist wohl… </event>
+<event start="T201" end="T202">Wir passen nicht alle in die Badewanne. </event>
+<event start="T202" end="T203">Keine Chance. </event>
+</tier><tier id="TIE4" speaker="SPK2" category="v" type="t" display-name="PawW [v]"><event start="T45" end="T46">Nie mówimy o wari</event>
+<event start="T46" end="T47">actwach. </event>
+<event start="T47" end="T48">Wojtuś mówimy o waria</event>
+<event start="T48" end="T49">ctwach. </event>
+<event start="T49" end="T50">Ty zbierasz ja</event>
+<event start="T50" end="T53">jka. </event>
+<event start="T55" end="T56">Hm, długo</event>
+<event start="T56" end="T58">pisy, </event>
+<event start="T58" end="T59">((0,7s)) </event>
+<event start="T59" end="T60">kielis</event>
+<event start="T60" end="T61">zki. </event>
+<event start="T62" end="T63">Aha. </event>
+<event start="T63" end="T64">Aha, już nie mam mięsza teraz. </event>
+<event start="T64" end="T65">Ale, ale, ale </event>
+<event start="T65" end="T66">zbierałem… </event>
+<event start="T66" end="T67">((0,1s)) </event>
+<event start="T67" end="T68">((zaczerpn. powietrza)) </event>
+<event start="T68" end="T69">I zapał</event>
+<event start="T69" end="T70">ki. </event>
+<event start="T72" end="T73">Ja… </event>
+<event start="T75" end="T78">Pudełeczka, tak. </event>
+<event start="T87" end="T88">((pociągn. nosa)) </event>
+<event start="T88" end="T89">Tak. </event>
+<event start="T93" end="T94">Tak. </event>
+<event start="T97" end="T99">((zaczerpn. powietrza)) </event>
+<event start="T100" end="T101">Przerózniste rzeczy. </event>
+<event start="T102" end="T103">Aha. </event>
+<event start="T104" end="T105">((dzwięk glotalny)) </event>
+<event start="T105" end="T106">Że </event>
+<event start="T106" end="T107">się pal/ ((śmiech)) ((0,4s)) że się </event>
+<event start="T107" end="T108">palą to jest fajne. </event>
+<event start="T108" end="T109">((0,1s)) Hm Graficzne jakieś rozwiązania to jest też fenomen</event>
+<event start="T109" end="T110">alne. </event>
+<event start="T110" end="T111">Ale </event>
+<event start="T111" end="T112">mam jedne zapałeczki czeskie które są tej wielkość… </event>
+<event start="T112" end="T113">To znaczy jest podełko (hm) i ta draska (ryska). </event>
+<event start="T113" end="T114">Jak to się nazywa? </event>
+<event start="T114" end="T115">((inc. )) </event>
+<event start="T117" end="T118">Dla malutenkych, tak</event>
+<event start="T118" end="T119">ich ((0,1s)) hm/ </event>
+<event start="T119" end="T120">i hm/ i hm… </event>
+<event start="T121" end="T122">Dokładnie, </event>
+<event start="T122" end="T123">dokładnie, tak, </event>
+<event start="T123" end="T124">((0,3s)) </event>
+<event start="T124" end="T125">tak, t</event>
+<event start="T125" end="T126">ak. </event>
+<event start="T150" end="T151">Przepraszam, </event>
+<event start="T151" end="T152">ty albo nie mówmi </event>
+<event start="T152" end="T153">sobie </event>
+<event start="T153" end="T154">wsystkie</event>
+<event start="T154" end="T155">go/ nie mów mi… </event>
+<event start="T167" end="T168">Metr osiemdzieś</event>
+<event start="T168" end="T169">ąt ma ten pływa k. </event>
+<event start="T169" end="T170">((śmiech)) </event>
+<event start="T170" end="T173">((śmiech)) </event>
+<event start="T174" end="T175">Właśnie He</event>
+<event start="T175" end="T208">rmann. </event>
+<event start="T208" end="T176">((śmiech)) </event>
+<event start="T191" end="T192">Taki jest twój świat. </event>
+<event start="T192" end="T194">Prawda Woj</event>
+<event start="T194" end="T195">tek? </event>
+<event start="T204" end="T205">Tak. </event>
+</tier><tier id="TIE14" speaker="SPK2" category="en" type="a" display-name="PawW [en]"><event start="T45" end="T47">We are not talking about crazies . </event>
+<event start="T47" end="T49">Vojtus we are talking about crazies . </event>
+<event start="T49" end="T53">You collect eggs . </event>
+<event start="T55" end="T61">Hm , pens , glasses . </event>
+<event start="T62" end="T63">Aha . </event>
+<event start="T63" end="T64">Aha , I don't have a mollusk now . </event>
+<event start="T64" end="T66">But , but , but I was collecting ... </event>
+<event start="T66" end="T70">And matches . </event>
+<event start="T72" end="T73">I ...</event>
+<event start="T75" end="T78">Boxes , yes . </event>
+<event start="T87" end="T89">Yes . </event>
+<event start="T93" end="T94">Yes . </event>
+<event start="T100" end="T101">Different things . </event>
+<event start="T102" end="T103">Aha . </event>
+<event start="T104" end="T108">That they burn / that they burn is cool . </event>
+<event start="T108" end="T110">Hm Graphic some solutions it is also phenomenal . </event>
+<event start="T110" end="T112">But I have one Czech match that is this size ... </event>
+<event start="T112" end="T113">I mean there is an undertow hm and this scratch . </event>
+<event start="T113" end="T114">What is it called ? </event>
+<event start="T117" end="T120">For the little ones , such hm / and hm / and hm ...</event>
+<event start="T121" end="T126">Exactly , exactly , yes , yes , yes . </event>
+<event start="T150" end="T155">Sorry , you or don't tell each other everything / don't tell me ...</event>
+<event start="T167" end="T169">One metre eighty has this float k . </event>
+<event start="T174" end="T208">Exactly Hermann . </event>
+<event start="T191" end="T192">This is your world . </event>
+<event start="T192" end="T195">Right Wojtek ? </event>
+<event start="T204" end="T205">Yes . </event>
+</tier><tier id="TIE5" speaker="SPK2" category="de" type="a" display-name="PawW [de]"><event start="T45" end="T47">Wir reden über Verrücktheiten. </event>
+<event start="T47" end="T49">Wojtuś wir reden über Verrücktheiten. </event>
+<event start="T49" end="T53">Du sammelst Eier. </event>
+<event start="T55" end="T58">HM, Kugelschreiber, </event>
+<event start="T58" end="T59">((0,7s)) </event>
+<event start="T59" end="T61">(Schnapps) Gläser. </event>
+<event start="T62" end="T63">HM. </event>
+<event start="T63" end="T64">HM, ich habe keinen Platz mehr. </event>
+<event start="T64" end="T66">Aber, aber, aber ich habe… gesammelt. </event>
+<event start="T66" end="T67">((0,1s)) </event>
+<event start="T67" end="T68">((Luft holen)) </event>
+<event start="T68" end="T70">Und Streichhölzer. </event>
+<event start="T72" end="T73">Ich… </event>
+<event start="T75" end="T78">Schachteln, ja. </event>
+<event start="T87" end="T88">((Nase hochziehen)) </event>
+<event start="T88" end="T89">Ja. </event>
+<event start="T93" end="T94">Ja. </event>
+<event start="T97" end="T99">((Luft holen)) </event>
+<event start="T100" end="T101">Verschiedene Sachen. </event>
+<event start="T102" end="T103">HM. </event>
+<event start="T104" end="T105">((glottaler Laut)) </event>
+<event start="T105" end="T108">Dass sie bre/ ((Lachen)) brennen ist super. </event>
+<event start="T108" end="T110">HM, die graphischen Lösungen, das ist auch phänomenal. </event>
+<event start="T110" end="T112">Aber/ aber ich habe bestimmte tschechische Streichhölzer, die diese Größe haben… </event>
+<event start="T112" end="T113">Das heißt, die Schachtel und die Reibefläche. </event>
+<event start="T113" end="T114">Wie heißt das? </event>
+<event start="T114" end="T115">((unv. )) </event>
+<event start="T117" end="T120">Für kleinste, solche HM/ und HM/ und HM…</event>
+<event start="T121" end="T122">Genau, </event>
+<event start="T122" end="T123">genau, ja,</event>
+<event start="T123" end="T124">((0,3s))</event>
+<event start="T124" end="T126">ja, ja. </event>
+<event start="T150" end="T155">Entschuldigung aber lass uns nicht alles erzählen/ uns nicht erzählen… </event>
+<event start="T167" end="T170">Dieser Schwimmer ist einen Meter achtzig groß. ((Lachen)) </event>
+<event start="T170" end="T173">((Lachen)) </event>
+<event start="T174" end="T208">Richtig Hermann. </event>
+<event start="T208" end="T176">((Lachen)) </event>
+<event start="T191" end="T192">So ist deine Welt. </event>
+<event start="T192" end="T195">Nicht wahr Wojtek? </event>
+<event start="T204" end="T205">Ja. </event>
+</tier><tier id="TIE11" speaker="SPK2" category="k" type="a" display-name="PawW [k]"></tier><tier id="TIE6" speaker="SPK4" category="v" type="t" display-name="SonB [v]"><event start="T14" end="T16">((śmiech)) </event>
+<event start="T44" end="T45">((śmiech)) </event>
+<event start="T52" end="T56">((śmiech)) </event>
+<event start="T59" end="T60">ɔ́ ɔ̀˙ </event>
+<event start="T78" end="T79">Jezus Maria! </event>
+<event start="T79" end="T80">J</event>
+<event start="T80" end="T81">uż nic nie mam </event>
+<event start="T81" end="T82">na to. </event>
+<event start="T85" end="T87">((śmiech)) </event>
+<event start="T129" end="T130">No ale, ale w ogóle się n… </event>
+<event start="T134" end="T135">A w ogóle nie wiedziała Pause ((0,3s)) ((jąkanie)) </event>
+<event start="T135" end="T137">w/ w/ my/ </event>
+<event start="T137" end="T138">że </event>
+<event start="T138" end="T139">Mecek zbiera hm/ </event>
+<event start="T139" end="T140">hm te jajka niespodzianki. </event>
+<event start="T140" end="T141">hm On dużo hm różnych rzeczy </event>
+<event start="T141" end="T142">z</event>
+<event start="T142" end="T143">biera. </event>
+<event start="T143" end="T144">Ma jakieś tam kaczuszki do kąpieli prze różne. </event>
+<event start="T144" end="T145">No powiedz </event>
+<event start="T145" end="T146">((inc. )) </event>
+<event start="T146" end="T147">prawda! </event>
+<event start="T149" end="T150">Ja </event>
+<event start="T150" end="T151">przepraszam. </event>
+<event start="T151" end="T152">((inc.)) coś. </event>
+<event start="T156" end="T157">A to teraz chce </event>
+<event start="T157" end="T158">się popisać. </event>
+<event start="T158" end="T159">Kaczki do kompiel</event>
+<event start="T159" end="T160">i… </event>
+<event start="T160" end="T161">Chodź, nie kłam! </event>
+<event start="T166" end="T167">I (Odzy) korzysta z tego. </event>
+<event start="T168" end="T169">Się z tym kąpie. </event>
+<event start="T172" end="T174">Mamy dmuchany bas</event>
+<event start="T174" end="T175">en na balkonie. </event>
+</tier><tier id="TIE15" speaker="SPK4" category="en" type="a" display-name="SonB [en]"><event start="T14" end="T16"></event>
+<event start="T59" end="T60">ɔ́ ɔ̀ ˙</event>
+<event start="T78" end="T79">Jesus Maria ! </event>
+<event start="T79" end="T82">I have nothing left for it .</event>
+<event start="T129" end="T130">Well, but , but at all n ...</event>
+<event start="T134" end="T140">And she didn't know at all Pause w / w / us / that Mecek collects hm / hm those surprise eggs . </event>
+<event start="T140" end="T143">hm He collects a lot of hm different things . </event>
+<event start="T143" end="T144">He's got some bath ducks over there . </event>
+<event start="T144" end="T147">Well tell the truth ! </event>
+<event start="T149" end="T152">I'm sorry . something . </event>
+<event start="T156" end="T158">And it now wants to show off . </event>
+<event start="T158" end="T160">Ducks for a bath ... </event>
+<event start="T160" end="T161">Come on , don't lie ! </event>
+<event start="T166" end="T167">And Odzy is taking advantage of this . </event>
+<event start="T168" end="T169">I am bathing with it . </event>
+<event start="T172" end="T175">We have an inflatable pool on the balcony . </event>
+</tier><tier id="TIE7" speaker="SPK4" category="de" type="a" display-name="SonB [de]"><event start="T14" end="T16">((Lachen)) </event>
+<event start="T44" end="T45">((Lachen)) </event>
+<event start="T52" end="T56">((Lachen)) </event>
+<event start="T59" end="T60">oh oh˙ </event>
+<event start="T78" end="T79">Oh Gott! </event>
+<event start="T79" end="T82">Da fällt mir nichts mehr zu ein. </event>
+<event start="T85" end="T87">((Lachen)) </event>
+<event start="T129" end="T130">Ja aber, ich… mich überhaupt (nicht) </event>
+<event start="T134" end="T135">A ich habe überhaupt nicht gewußt ((0,2s)) ((Stottern)) </event>
+<event start="T135" end="T137">in/ in/ wir/ </event>
+<event start="T137" end="T140">dass Mecek diese Überraschungseier sammelt. </event>
+<event start="T140" end="T143">HM, er sammelt viele verschiedene Dinge. </event>
+<event start="T143" end="T144">Er hat da irgendwelche verschiedenen Quietscheenten. </event>
+<event start="T144" end="T147">Komm erzähl ((unv. )) die Wahrheit! </event>
+<event start="T149" end="T151">Entschuldigung. </event>
+<event start="T156" end="T158">Ach, da möchte er sich jetzt profilieren. </event>
+<event start="T158" end="T160">Quietscheentchen… </event>
+<event start="T160" end="T161">Na komm, lüg nicht!</event>
+<event start="T166" end="T167">Und (Odzy) benutzt sie. </event>
+<event start="T168" end="T169">Er badet damit. </event>
+<event start="T172" end="T175">Wir haben einen aufblasbaren Pool auf dem Balkon. </event>
+</tier><tier id="TIE10" speaker="SPK4" category="k" type="a" display-name="SonB [k]"><event start="T135" end="T137">stotternd</event>
+</tier><tier id="TIE8" speaker="SPK3" category="v" type="t" display-name="MagR [v]"><event start="T11" end="T17">((długi głośny śmiech)) </event>
+<event start="T17" end="T19">((zaczerpn. powietrza)) </event>
+<event start="T30" end="T35">((powstrzymywany śmiech)) </event>
+<event start="T45" end="T46">((głośny śmiech)) </event>
+<event start="T56" end="T58">Tylko tobie się wydaje że </event>
+<event start="T58" end="T59">to tak normalne. </event>
+<event start="T61" end="T63">Kieliszky zbier ((inc. )) ? </event>
+<event start="T82" end="T83">Ja też nie ale jakie to głupie w o</event>
+<event start="T83" end="T84">góle to jest po</event>
+<event start="T84" end="T86">prostu ((inc. ))… </event>
+<event start="T91" end="T92">Co? </event>
+<event start="T106" end="T107">((śmiech)) </event>
+<event start="T116" end="T117">Pawełka. </event>
+<event start="T128" end="T129">Nie kom</event>
+<event start="T129" end="T130">pletnie i jes/ ((inc. )) </event>
+<event start="T130" end="T131">jestem też </event>
+<event start="T131" end="T132">tak zdziwiona, </event>
+<event start="T132" end="T133">daj spok</event>
+<event start="T133" end="T134">ój. </event>
+<event start="T139" end="T140">Tyle rzeczy na dwie osoby, </event>
+<event start="T140" end="T141">no kurczę! </event>
+<event start="T147" end="T162">((śmiech)) </event>
+<event start="T162" end="T163">((zaczerpn. powietrza)) </event>
+<event start="T176" end="T178">((śmiech)) </event>
+<event start="T203" end="T206">((śmiech)) </event>
+</tier><tier id="TIE16" speaker="SPK3" category="en" type="a" display-name="MagR [en]"><event start="T30" end="T35"></event>
+<event start="T56" end="T59">Only you think it's so normal . </event>
+<event start="T61" end="T63">Glasses collect? </event>
+<event start="T82" end="T86">Neither do I, but what a stupid thing to say in general it is just ...</event>
+<event start="T91" end="T92">What?</event>
+<event start="T106" end="T107"></event>
+<event start="T116" end="T117">Paulka . </event>
+<event start="T128" end="T134">Not completely and jes / I am also so surprised , come on . </event>
+<event start="T139" end="T141">So much stuff for two people , well gee ! </event>
+</tier><tier id="TIE9" speaker="SPK3" category="de" type="a" display-name="MagR [de]"><event start="T11" end="T17">((langes, lautes Lachen)) </event>
+<event start="T17" end="T19">((Luft holen)) </event>
+<event start="T30" end="T35">((unterdrücktes Lachen)) </event>
+<event start="T45" end="T46">((lautes Lachen)) </event>
+<event start="T56" end="T59">Nur dir kommt das normal vor. </event>
+<event start="T61" end="T63">(Schnapps) Gläser sammel… ? </event>
+<event start="T82" end="T86">Ich auch nicht aber wie blöd das Ganze überhaupt ist ((unv. ))… </event>
+<event start="T91" end="T92">Was? </event>
+<event start="T106" end="T107">((Lachen)) </event>
+<event start="T116" end="T117">Pawełka. </event>
+<event start="T128" end="T134">Nein, überhaupt nicht und ich bin auch so verwundert, hör mir auf. </event>
+<event start="T139" end="T141">So viele Sachen für zwei Personen, mein Gott! </event>
+<event start="T147" end="T162">((Lachen)) </event>
+<event start="T162" end="T163">((Luft holen)) </event>
+<event start="T176" end="T178">((Lachen)) </event>
+<event start="T203" end="T206">((Lachen)) </event>
+</tier></basic-body>
+<tierformat-table><timeline-item-format show-every-nth-numbering="1" show-every-nth-absolute="10" absolute-time-format="time" miliseconds-digits="2"/><tier-format tierref="TIE9"><property name="row-height-calculation">Generous</property><property name="font-face">Italic</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">#R64G64B64</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE8"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">11</property><property name="chunk-border"></property><property name="font-name">Arial Unicode MS</property></tier-format><tier-format tierref="TIE7"><property name="row-height-calculation">Generous</property><property name="font-face">Italic</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">#R64G64B64</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE6"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">11</property><property name="chunk-border"></property><property name="font-name">Arial Unicode MS</property></tier-format><tier-format tierref="COLUMN-LABEL"><property name="row-height-calculation">Generous</property><property name="font-face">Bold</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">#R99G99B99</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R99G99B99</property><property name="font-size">6</property><property name="chunk-border">l</property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE5"><property name="row-height-calculation">Generous</property><property name="font-face">Italic</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">#R64G64B64</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE4"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">11</property><property name="chunk-border"></property><property name="font-name">Arial Unicode MS</property></tier-format><tier-format tierref="TIE3"><property name="row-height-calculation">Generous</property><property name="font-face">Italic</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">#R64G64B64</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE2"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">11</property><property name="chunk-border"></property><property name="font-name">Arial Unicode MS</property></tier-format><tier-format tierref="TIE1"><property name="row-height-calculation">Generous</property><property name="font-face">Italic</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">#R64G64B64</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE0"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">11</property><property name="chunk-border"></property><property name="font-name">Arial Unicode MS</property></tier-format><tier-format tierref="TIE16"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">9</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE15"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">9</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE14"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">9</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE13"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">9</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE12"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">9</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE11"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">#Rf0Gf0Bf0</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE10"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">#Rf0Gf0Bf0</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="SUB-ROW-LABEL"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Right</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="ROW-LABEL"><property name="row-height-calculation">Generous</property><property name="font-face">Bold</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">11</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="EMPTY-EDITOR"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">lightGray</property><property name="font-color">white</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">2</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="EMPTY"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">white</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">2</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format></tierformat-table></basic-transcription>

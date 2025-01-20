@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon>
+    <w orth="nah" pho="n ' a:" />
+    <w orth="cdu-nahen" pho="k d ' u: . n a: . @ n" />
+    <w orth="oder" pho="? ' o: . d 6" />
+    <w orth="der" pho="d ' e:6" />
+    <w orth="studentenverbindung" pho="S t u . d ' E n . t @ n . v 6 . b I n . d U N" />
+    <w orth="des" pho="d ' E s" />
+    <w orth="rcds" pho="? E r . ts ' e: . d e: . ? E s" />
+    <w orth="ist" pho="? ' I s t" />
+    <w orth="das" pho="d ' a s" />
+    <w orth="gottfried" pho="g ' O t . f r i: t" />
+    <w orth="ludewig" pho="l ' u: . d @ . v I C" />
+    <w orth="herzlich" pho="h ' E6 ts . l I C" />
+    <w orth="willkommen" pho="v I l . k ' O m . @ n" />
+    <w orth="hallo" pho="h ' a l . o:" />
+    <w orth="sie" pho="z ' i:" />
+    <w orth="sind" pho="z ' I n t" />
+    <w orth="nicht" pho="n ' I C t" />
+    <w orth="nur" pho="n ' u:6" />
+    <w orth="vorsitzender" pho="f ' o:6 . z I t . s @ n . d 6" />
+    <w orth="auch" pho="? ' aU x" />
+    <w orth="cdu-mitglied" pho="k d ' u: . m I t . g l i: t" />
+    <w orth="muss" pho="m ' U s" />
+    <w orth="man" pho="m ' a n" />
+    <w orth="wissen" pho="v ' I s . @ n" />
+    <w orth="wenn" pho="v ' E n" />
+    <w orth="sich" pho="z ' I C" />
+    <w orth="jetzt" pho="j ' E t s t" />
+    <w orth="ihren" pho="? ' i: . r @ n" />
+    <w orth="vorschlag" pho="f ' o:6 . S l a: k" />
+    <w orth="anhört" pho="? ' a n . h 2:6 t" />
+    <w orth="haben" pho="h ' a: . b @ n" />
+    <w orth="nämlich" pho="n ' E: m . l I C" />
+    <w orth="gesagt" pho="g @ . z ' a: k t" />
+    <w orth="und" pho="? ' U n t" />
+    <w orth="damit" pho="d a m . ' I t" />
+    <w orth="ratzfatz" pho="r ' a: . t s f a t s" />
+    <w orth="auf" pho="? ' aU f" />
+    <w orth="seite" pho="z ' aI . t @" />
+    <w orth="eins" pho="? ' aI n s" />
+    <w orth="katapultiert" pho="k a t . a . p U l . t ' i: r t" />
+    <w orth="dass" pho="d ' a s" />
+    <w orth="wahlrecht" pho="v ' a: l . r E C t" />
+    <w orth="ändern" pho="? ' E n . d 6 n" />
+    <w orth="sollten" pho="z ' O l . t @ n" />
+    <w orth="für" pho="f ' y:6" />
+    <w orth="diejenigen" pho="d ' i: . j e: . n I . g @ n" />
+    <w orth="die" pho="d ' i:" />
+    <w orth="arbeiten" pho="? ' a r . b aI . t @ n" />
+    <w orth="solle" pho="z ' O l . @" />
+    <w orth="es" pho="? ' E s" />
+    <w orth="ein" pho="? ' aI n" />
+    <w orth="doppeltes" pho="d ' O p . @ l . t @ s" />
+    <w orth="geben" pho="g ' e: . b @ n" />
+    <w orth="alle" pho="? ' a l . @" />
+    <w orth="anderen" pho="? ' a n . d @ . r @ n" />
+    <w orth="einfaches" pho="? ' aI n . f a . x @ s" />
+    <w orth="sagen" pho="z ' a: . g @ n" />
+    <w orth="um" pho="? ' U m" />
+    <w orth="arbeitslosen" pho="? ' a r . b aI t s . l o: . z @ n" />
+    <w orth="einen" pho="? ' aI . n @ n" />
+    <w orth="anreiz" pho="? ' a n . r aI ts" />
+    <w orth="zu" pho="ts ' u" />
+    <w orth="wieder" pho="v ' i: . d 6" />
+    <w orth="n" pho="? ' E n" />
+    <w orth="job" pho="dZ ' O p" />
+    <w orth="suchen" pho="z ' u: . x @ n" />
+    <w orth="momen" pho="m o . m ' E n" />
+    <w orth="also" pho="? ' a l . z o:" />
+    <w orth="erstmal" pho="? ' e:6 s t . m a: l" />
+    <w orth="in" pho="? ' I n" />
+    <w orth="bildzeitung" pho="b ' I l t . t s aI . t U N" />
+    <w orth="stand" pho="S t ' a n t" />
+    <w orth="so" pho="z ' o:" />
+    <w orth="ich" pho="? ' I C" />
+    <w orth="hab" pho="h ' a: p" />
+    <w orth="brief" pho="b r ' i: f" />
+    <w orth="geschrieben" pho="g @ . S r ' i: . b @ n" />
+    <w orth="an" pho="? ' a n" />
+    <w orth="vorsitzende" pho="f ' o:6 . z I t . s @ n . d @" />
+    <w orth="vereinigung" pho="f E6 . ? ' aI . n I . g U N" />
+    <w orth="cdu" pho="k d ' u:" />
+    <w orth="dem" pho="d ' e: m" />
+    <w orth="habe" pho="h ' a: . b @" />
+    <w orth="irgendwie" pho="? ' I6 . g @ n t . v i:" />
+    <w orth="aus" pho="? ' aU s" />
+    <w orth="meiner" pho="m ' aI . n 6" />
+    <w orth="sicht" pho="z ' I C t" />
+    <w orth="balance" pho="b a l . ' a n . ts @" />
+    <w orth="diesem" pho="d ' i: . z @ m" />
+    <w orth="land" pho="l ' a n t" />
+    <w orth="bisschen" pho="b ' I s . C @ n" />
+    <w orth="auseinander" pho="? aU s . ? aI . n ' a n . d 6" />
+    <w orth="kommt" pho="k ' O m t" />
+    <w orth="wir" pho="v ' i:6" />
+    <w orth="habens" pho="h ' a: . b @ n s" />
+    <w orth="früher" pho="f r ' y:6" />
+    <w orth="geschaft" pho="g @ . S ' a f t" />
+    <w orth="letzte" pho="l ' E t s . t @" />
+    <w orth="generation" pho="g e . n @ . r a . ts j ' o: n" />
+    <w orth="hier" pho="h ' i:6" />
+    <w orth="sozialstaat" pho="z ' o . ts j a: l . S t a: t" />
+    <w orth="etablieren" pho="? e t . ? a . p l ' i: . r @ n" />
+    <w orth="gut" pho="g ' u: t" />
+    <w orth="funktioniert" pho="f U N k . ts j o . n ' i:6 t" />
+    <w orth="hat" pho="h ' a t" />
+    <w orth="aber" pho="? ' a: . b 6" />
+    <w orth="leistungsträger" pho="l ' aI s . t U N s . t r E: . g 6" />
+    <w orth="menschen" pho="m ' E n . S @ n" />
+    <w orth="gehen" pho="g ' e: . @ n" />
+    <w orth="diesen" pho="d ' i: . z @ n" />
+    <w orth="weiter" pho="v ' aI . t 6" />
+    <w orth="finanzieren" pho="f i . n a n . ts ' i: . r @ n" />
+    <w orth="können" pho="k ' 9 n . @ n" />
+    <w orth="da" pho="d ' a" />
+    <w orth="dann" pho="d ' a n" />
+    <w orth="natürlich" pho="n a t . ' y:6 . l I C" />
+    <w orth="etwas" pho="? ' E t . v a s" />
+    <w orth="provokant" pho="p r o . v o . k ' a n t" />
+    <w orth="eh" pho="? ' e:" />
+    <w orth="jung" pho="j ' U N" />
+    <w orth="könnten" pho="k ' 9 n . t @ n" />
+    <w orth="doch" pho="d ' O x" />
+    <w orth="mal" pho="m ' a: l" />
+    <w orth="über" pho="? ' y: . b 6" />
+    <w orth="nachdenken" pho="n ' a: x . d E N . k @ n" />
+    <w orth="vor" pho="f ' o:6" />
+    <w orth="allem" pho="? ' a l . @ m" />
+    <w orth="den" pho="d ' e: n" />
+    <w orth="innerparteilichen" pho="? ' I n . 6 . p a r . t aI . l I C . @ n" />
+    <w orth="eigentlich" pho="? ' aI . g @ n t . l I C" />
+    <w orth="gar" pho="g ' a: r" />
+    <w orth="keinen" pho="k ' aI . n @ n" />
+    <w orth="öffentlichen" pho="? ' 9 f . @ n t . l I C . @ n" />
+    <w orth="diskurs" pho="d I s . k ' U6 s" />
+    <w orth="anzufangen" pho="? ' a n . ts u . f a N . @ n" />
+    <w orth="darüber" pho="d a r . ' y: . b 6" />
+    <w orth="was" pho="v ' a s" />
+    <w orth="machen" pho="m ' a x . @ n" />
+    <w orth="will" pho="v ' I l" />
+    <w orth="kurz" pho="k ' U6 ts" />
+    <w orth="bei" pho="b ' aI" />
+    <w orth="wahlrechtsä" pho="v ' a: l . r E C t . z E:" />
+    <w orth="nderung" pho="n d @ . r ' U N" />
+    <w orth="bleiben" pho="b l ' aI . b @ n" />
+    <w orth="als" pho="? ' a l s" />
+    <w orth="verstehn" pho="f 6 . S t ' e: n" />
+    <w orth="ja" pho="j ' a" />
+    <w orth="leute" pho="l ' OY . t @" />
+    <w orth="s" pho="? ' E s" />
+    <w orth="is" pho="? ' I s" />
+    <w orth="schon" pho="S ' o: n" />
+    <w orth="untersch" pho="? ' U n . t 6 S" />
+    <w orth="ied" pho="' i: t" />
+    <w orth="leitungs" pho="l ' aI . t U N s" />
+    <w orth="trägern" pho="t r ' E: . g 6 n" />
+    <w orth="dieser" pho="d ' i: . z 6" />
+    <w orth="gesellschaft" pho="g @ . z ' E l . S a f t" />
+    <w orth="familien" pho="f a m . ' i: l . j @ n" />
+    <w orth="steuern" pho="S t ' OY . 6 n" />
+    <w orth="zahlen" pho="ts ' a: . l @ n" />
+    <w orth="trotzdem" pho="t r ' O t s . d e: m" />
+    <w orth="obwohl" pho="? O p . v ' o: l" />
+    <w orth="zwa" pho="ts v ' a" />
+    <w orth="zwei" pho="ts v ' aI" />
+    <w orth="verdiener" pho="f 6 . d ' i: . n 6" />
+    <w orth="spitzensteuersatz" pho="S p ' I t . s @ n . S t OY . 6 . z a t s" />
+    <w orth="bundesrepublik" pho="b ' U n . d @ s . r e . p u . b l i: k" />
+    <w orth="spitzenmanager" pho="S p ' I t . s @ n . m E n . I . dZ 6" />
+    <w orth="ab" pho="? ' a p" />
+    <w orth="hundertundfünfzigtausend" pho="h ' U n . d 6 . t U n t . f Y n f . ts I C . t aU . z @ n t" />
+    <w orth="euro" pho="? ' OY . r o" />
+    <w orth="herr" pho="h ' E6" />
+    <w orth="heil" pho="h ' aI l" />
+    <w orth="ganz" pho="g ' a n ts" />
+    <w orth="vorhin" pho="f ' o:6 . h I n" />
+    <w orth="immer" pho="? ' I m . 6" />
+    <w orth="diskutieren" pho="d I s . k u . t ' i: . r @ n" />
+    <w orth="falsch" pho="f ' a l S" />
+    <w orth="gesamte" pho="g @ . z ' a m . t @" />
+    <w orth="zeit" pho="ts ' aI t" />
+    <w orth="alt" pho="? ' a l t" />
+    <w orth="hergebrachten" pho="h e:6 . ' E6 . g @ . b r a x . t @ n" />
+    <w orth="positionen" pho="p o . z i . ts j ' o: . n @ n" />
+    <w orth="sagt" pho="z ' a: k t" />
+    <w orth="müssen" pho="m ' Y s . @ n" />
+    <w orth="diskutueren" pho="d I s . k u . t ' u . @ . r @ n" />
+    <w orth="wie" pho="v ' i:" />
+    <w orth="armut" pho="? ' a r . m u: t" />
+    <w orth="verhindern" pho="f E6 . h ' I n . d 6 n" />
+    <w orth="frag" pho="f r ' a: k" />
+    <w orth="mich" pho="m ' I C" />
+    <w orth="wo" pho="v ' o:" />
+    <w orth="denn" pho="d ' E n" />
+    <w orth="maßnahmen" pho="m ' a: . s n a: . m @ n" />
+    <w orth="betreuungsrelation" pho="b @ . t r ' OY . U N s . r e . l a . ts j o: n" />
+    <w orth="universitäten" pho="? u . n i . v E6 . z i . t ' E: . t @ n" />
+    <w orth="noch" pho="n ' O x" />
+    <w orth="schlecht" pho="S l ' E C t" />
+    <w orth="schulen" pho="S ' u: . l @ n" />
+    <w orth="würde" pho="v ' Y6 . d @" />
+    <w orth="gerne" pho="g ' E6 . n @" />
+    <w orth="wirs" pho="v ' i6 s" />
+    <w orth="verstehen" pho="f E6 . S t ' e: . @ n" />
+    <w orth="wollen" pho="v ' O l . @ n" />
+    <w orth="dokumentiert" pho="d o . k u . m E n . t ' i:6 t" />
+    <w orth="sehen" pho="z ' e: . @ n" />
+    <w orth="stimme" pho="S t ' I m . @" />
+    <w orth="eines" pho="? ' aI . n @ s" />
+    <w orth="rentners" pho="r ' E n t . n 6 s" />
+    <w orth="zählen" pho="ts ' E: . l @ n" />
+    <w orth="leistungsträgern" pho="l ' aI s . t U N s . t r E: . g 6 n" />
+    <w orth="weniger" pho="v ' e: . n I . g 6" />
+    <w orth="wert" pho="v ' e:6 t" />
+    <w orth="möchte" pho="m ' 9 C . t @" />
+    <w orth="eine" pho="? ' aI . n @" />
+    <w orth="debatte" pho="d e . b ' a . t @" />
+    <w orth="anfangen" pho="? ' a n . f a N . @ n" />
+    <w orth="diese" pho="d ' i: . z @" />
+    <w orth="stärken" pho="S t ' E6 . k @ n" />
+    <w orth="steht" pho="S t ' e: t" />
+    <w orth="lasst" pho="l ' a s t" />
+    <w orth="uns" pho="? ' U n s" />
+    <w orth="nein" pho="n ' aI n" />
+    <w orth="überhaupt" pho="? y: . b 6 . h ' aU p t" />
+    <w orth="zweiten" pho="ts v ' aI . t @ n" />
+    <w orth="wollte" pho="v ' O l . t @" />
+    <w orth="schritt" pho="S r ' I t" />
+    <w orth="ersten" pho="? ' e:6 s . t @ n" />
+    <w orth="zwar" pho="ts v ' a: r" />
+    <w orth="verteilen" pho="f E6 . t ' aI . l @ n" />
+    <w orth="gelder" pho="g ' E l . d 6" />
+    <w orth="im" pho="? ' I m" />
+    <w orth="einholn" pho="? ' aI n . h O l n" />
+    <w orth="leuten" pho="l ' OY . t @ n" />
+    <w orth="starten" pho="S t ' a r . t @ n" />
+    <w orth="war" pho="v ' a: r" />
+    <w orth="ziel" pho="ts ' i: l" />
+    <w orth="innerhalb" pho="? ' I n . 6 . h a l p" />
+    <w orth="partei" pho="p a r . t ' aI" />
+    <w orth="nachher" pho="n ' a: x . h e:6" />
+    <w orth="gekommen" pho="g @ . k ' O m . @ n" />
+    <w orth="hattens" pho="h ' a t . @ n s" />
+    <w orth="ernst" pho="? ' E6 n s t" />
+    <w orth="gemeint" pho="g @ . m ' aI n t" />
+    <w orth="wollten" pho="v ' O l . t @ n" />
+    <w orth="gibs" pho="g ' i: p s" />
+    <w orth="nich" pho="n ' I C" />
+    <w orth="viel" pho="f ' i: l" />
+    <w orth="positive" pho="p ' o: . z i . t i: . v @" />
+    <w orth="rückmeldungen" pho="r ' Y k . m E l . d U N . @ n" />
+    <w orth="bekomm" pho="b @ . k ' O m" />
+    <w orth="glauben" pho="g l ' aU . b @ n" />
+    <w orth="ehrlich" pho="? ' e:6 . l I C" />
+    <w orth="von" pho="f ' O n" />
+    <w orth="bürgern" pho="b ' Y6 . g 6 n" />
+    <w orth="mir" pho="m ' i:6" />
+    <w orth="emails" pho="? ' i: . m e: l s" />
+    <w orth="bekommen" pho="b @ . k ' O m . @ n" />
+    <w orth="reicht" pho="r ' aI C t" />
+    <w orth="hartz" pho="h ' a r t s" />
+    <w orth="vier" pho="f ' i:6" />
+    <w orth="sätze" pho="z ' E t . s @" />
+    <w orth="diskutiert" pho="d I s . k u . t ' i:6 t" />
+    <w orth="wird" pho="v ' I6 t" />
+    <w orth="macht" pho="m ' a x t" />
+    <w orth="mit" pho="m ' I t" />
+    <w orth="einfachen" pho="? ' aI n . f a . x @ n" />
+    <w orth="kritische" pho="k r ' i: . t I S . @" />
+    <w orth="rückmeldung" pho="r ' Y k . m E l . d U N" />
+    <w orth="viele" pho="f ' i: . l @" />
+    <w orth="gefragt" pho="g @ . f r ' a: k t" />
+    <w orth="setzen" pho="z ' E t . s @ n" />
+    <w orth="schwerpunkte" pho="S v ' e:6 . p U N k . t @" />
+    <w orth="eben" pho="? ' e . b @ n" />
+    <w orth="anderes" pho="? ' a n . d @ . r @ s" />
+    <w orth="geissler" pho="g ' aI s . l 6" />
+    <w orth="beeindruckt" pho="b @ . ? ' aI n . d r U k t" />
+    <w orth="vom" pho="f ' O m" />
+    <w orth="ihres" pho="? ' i: . r @ s" />
+    <w orth="jungen" pho="j ' U N . @ n" />
+    <w orth="parteifreundes" pho="p a r . t aI . f r ' OY n . d @ s" />
+    <w orth="ähm" pho="? ' E: m" />
+    <w orth="meine" pho="m ' aI . n @" />
+    <w orth="weiß" pho="v ' aI s" />
+    <w orth="al" pho="? ' a l" />
+    <w orth="wi" pho="v ' I" />
+    <w orth="unterhalten" pho="? U n . t 6 . h ' a l . t @ n" />
+    <w orth="fünfundzwanzig" pho="f ' Y n . f U n t . t s v a n . t s I C" />
+    <w orth="jahren" pho="j ' a: . r @ n" />
+    <w orth="kann" pho="k ' a n" />
+    <w orth="unsinniges" pho="? U n . z ' I n . I . g @ s" />
+    <w orth="bin" pho="b ' I n" />
+    <w orth="froh" pho="f r ' o:" />
+    <w orth="äh" pho="? ' E:" />
+    <w orth="deswegen" pho="d ' E s . v e: . g @ n" />
+    <w orth="sollte" pho="z ' O l . t @" />
+    <w orth="pfanne" pho="p f ' a n . @" />
+    <w orth="haun" pho="h ' aU n" />
+    <w orth="ne" pho="n ' E" />
+    <w orth="hinzu" pho="h ' I n . ts u:" />
+    <w orth="fü" pho="f ' y:" />
+    <w orth="gen" pho="g ' @ n" />
+    <w orth="aller" pho="? ' a l . 6" />
+    <w orth="achtung" pho="? ' a x . t U N" />
+    <w orth="dürfen" pho="d ' Y6 . f @ N" />
+    <w orth="schulter" pho="S ' U l . t 6" />
+    <w orth="klopfen" pho="k l ' O p . f @ n" />
+    <w orth="gescheites" pho="g @ . S ' aI . t @ s" />
+    <w orth="sehr" pho="z ' e:6" />
+    <w orth="gescheit" pho="g @ . S ' aI t" />
+    <w orth="wahr" pho="v ' a: r" />
+    <w orth="machste" pho="m ' a x s . t @" />
+    <w orth="de" pho="d ' e" />
+    <w orth="opelarbeiter" pho="? ' o . p @ l . ? a r . b aI . t 6" />
+    <w orth="nun" pho="n ' u: n" />
+    <w orth="plötzlich" pho="p l ' 9 t s . l I C" />
+    <w orth="weil" pho="v ' aI l" />
+    <w orth="denfer" pho="d ' E n . f 6" />
+    <w orth="kolo" pho="k ' o: . l o" />
+    <w orth="kolorado" pho="k o . l o . r ' a: . d o" />
+    <w orth="dortige" pho="d ' O6 . t I . g @" />
+    <w orth="bord" pho="b ' O6 t" />
+    <w orth="general" pho="g e . n @ . r ' a: l" />
+    <w orth="motors" pho="m ' o: . t O6 s" />
+    <w orth="mist" pho="m ' I s t" />
+    <w orth="gemacht" pho="g @ . m ' a x t" />
+    <w orth="arbeitslos" pho="? ' a r . b aI t s . l o: s" />
+    <w orth="vorher" pho="f ' o:6 . h e:6" />
+    <w orth="stimmen" pho="S t ' I m . @ n" />
+    <w orth="er" pho="? ' E6" />
+    <w orth="nächsten" pho="n ' E: C s . t @ n" />
+    <w orth="landtagswahl" pho="l a n t . t a: . k s v ' a: l" />
+    <w orth="kommen" pho="k ' O m . @ n" />
+    <w orth="unglauliche" pho="? ' U n . g l aU . l I C . @" />
+    <w orth="schwierigkeiten" pho="S v ' i: . r I C . k aI . t @ n" />
+    <w orth="grundansatz" pho="g r ' u: n . d a n . z a t s" />
+    <w orth="richtig" pho="r ' I C . t I C" />
+    <w orth="politik" pho="p o . l i . t ' i: k" />
+    <w orth="klar" pho="k l ' a: r" />
+    <w orth="kein" pho="k ' aI n" />
+    <w orth="gegensatz" pho="g ' e: . g @ n . z a t s" />
+    <w orth="arbeitsplatz" pho="? ' a r . b aI t s . p l a t s" />
+    <w orth="verloren" pho="f E6 . l ' o: . r @ n" />
+    <w orth="hilfe" pho="h ' I l . f @" />
+    <w orth="solidarität" pho="z o . l i . d a . r i . t ' E: t" />
+    <w orth="brauchn" pho="b r ' aU . x n" />
+    <w orth="gegen" pho="g ' e: . g @ n" />
+    <w orth="ausspielen" pho="? ' aU s . S p i: . l @ n" />
+    <w orth="endsolidarisierte" pho="? ' E n t . z o: . l i . d a . r i . z j 6 . t @" />
+    <w orth="läuft" pho="l ' OY f t" />
+    <w orth="ins" pho="? ' I n s" />
+    <w orth="elend" pho="? ' e . l E n t" />
+    <w orth="führn" pho="f ' y:6 n" />
+    <w orth="zusammen" pho="ts u . z ' a . m @ n" />
+    <w orth="entschuldigung" pho="? E n . t S ' U l . d I . g U N" />
+    <w orth="idiotischen" pho="? i . d j ' o: . t I S . @ n" />
+    <w orth="einzelnen" pho="? ' aI n . ts @ l . n @ n" />
+    <w orth="schule" pho="S ' u: . l @" />
+    <w orth="junge" pho="j ' U N . @" />
+    <w orth="unionvorsitzenden" pho="? u n . j ' o: n . f o:6 S . z I t . s @ n . d @ n" />
+    <w orth="älteren" pho="? ' E l . t @ . r @ n" />
+    <w orth="gleichzeitig" pho="g l ' aI C . ts aI . t I C" />
+    <w orth="hüftgelenk" pho="h ' Y f t . g @ . l E N k" />
+    <w orth="denke" pho="d ' E N . k @" />
+    <w orth="dahinter" pho="d a . h ' I n . t 6" />
+    <w orth="steckt" pho="S t ' E k t" />
+    <w orth="sorge" pho="z ' O6 . g @" />
+    <w orth="reihe" pho="r ' aI . @" />
+    <w orth="westerwelle" pho="v ' E s . t 6 . v E l . @" />
+    <w orth="genau" pho="g @ . n ' aU" />
+    <w orth="offensichtlich" pho="? ' O f . @ n . z I C t . l I C" />
+    <w orth="we" pho="v ' E" />
+    <w orth="stelle" pho="S t ' E l . @" />
+    <w orth="wolln" pho="v ' O l n" />
+    <w orth="ers" pho="? ' E6 s" />
+    <w orth="jedem" pho="j ' e: . d @ m" />
+    <w orth="studentenwitz" pho="S t u . d ' E n . t @ n . v I t s" />
+    <w orth="staatsaffaire" pho="S t ' a: . t s ? a . f aI . r @" />
+    <w orth="festhalten" pho="f ' E s t . h a l . t @ n" />
+    <w orth="sache" pho="z ' a x . @" />
+    <w orth="halbes" pho="h ' a l . b @ s" />
+    <w orth="rentner" pho="r ' E n t . n 6" />
+    <w orth="hieße" pho="h ' i: . s @" />
+    <w orth="kollege" pho="k O l . ' e: . g @" />
+    <w orth="studenten" pho="S t u . d ' E n . t @ n" />
+    <w orth="wäre" pho="v ' E: . r @" />
+    <w orth="dumm" pho="d ' U m" />
+    <w orth="gelaufen" pho="g @ . l ' aU . f @ n" />
+    <w orth="wär" pho="v ' E:6" />
+    <w orth="wirklich" pho="v ' I6 . k l I C" />
+    <w orth="hunderfünfzigprozentig" pho="h ' U n . d 6 . f Y n f . ts I C . p r o . ts E n . t I C" />
+    <w orth="erst" pho="? ' e:6 s t" />
+    <w orth="ihn" pho="? ' i: n" />
+    <w orth="geglaubt" pho="g @ . g l ' aU p t" />
+    <w orth="wiederhole" pho="v i: . d 6 . h ' o: . l @" />
+    <w orth="anstacheln" pho="? ' a n . S t a . x @ l n" />
+    <w orth="provoziert" pho="p r o . v o . ts ' i:6 t" />
+    <w orth="nach" pho="n ' a: x" />
+    <w orth="vorne" pho="f ' O6 . n @" />
+    <w orth="geht" pho="g ' e: t" />
+    <w orth="find" pho="f ' I n t" />
+    <w orth="meinung" pho="m ' aI . n U N" />
+    <w orth="ordnung" pho="? ' O6 . d n U N" />
+    <w orth="redet" pho="r ' e: . d @ t" />
+    <w orth="davon" pho="d a f . ' O n" />
+    <w orth="unbedingt" pho="? ' U n . b @ . d I N t" />
+    <w orth="andere" pho="? ' a n . d @ . r @" />
+    <w orth="antworten" pho="? ' a n t . v O6 . t @ n" />
+    <w orth="finden" pho="f ' I n . d @ n" />
+    <w orth="sehe" pho="z ' e: . @" />
+    <w orth="nei" pho="n ' aI" />
+    <w orth="bildungspolitik" pho="b ' I l . d U N s . p o . l i . t i: k" />
+    <w orth="antwort" pho="? ' a n t . v O6 t" />
+    <w orth="sendung" pho="z ' E n . d U N" />
+    <w orth="danke" pho="d ' a N . k @" />
+    <w orth="zunächst" pho="ts u . n ' E: C s t" />
+    <w orth="vielen" pho="f ' i: . l @ n" />
+    <w orth="dank" pho="d ' a N k" />
+    <w orth="geschildert" pho="g @ . S ' I l . d 6 t" />
+<w orth="wahlrechtsänderung" pho="v ' a: l . r E C t . z E n . d @ . r U N" /><w orth="wiederholen" pho="v i: . d 6 . h ' o: . l @ n" /><w orth="geschichte" pho="g @ . S ' I C . t @" /><w orth="tiefpunkt" pho="t ' i: f . p U N k t" /><w orth="tiefer" pho="t ' i: . f 6" /><w orth="ham" pho="h ' a m" /><w orth="heute" pho="h ' OY . t @" /><w orth="sebastian" pho="z e . b ' a s . t j a n" /><w orth="kehl" pho="k ' e: l" /><w orth="gerecht" pho="g @ . r ' E C t" /><w orth="beim" pho="b ' aI m" /><w orth="tabellenführer" pho="t a . b ' E l . @ n . f y: . r 6" /><w orth="gespielt" pho="g @ . S p ' i: l t" /><w orth="null" pho="n ' U l" /><w orth="sicherlich" pho="z ' I C . 6 . l I C" /><w orth="tick" pho="t ' I k" /><w orth="wenig" pho="v ' e: . n I C" /><w orth="unsere" pho="? ' U n . z @ . r @" /><w orth="ansprüche" pho="? ' a n . S p r Y C . @" /><w orth="vize-weltmeister" pho="f ' i: . ts @ . v E l t . m aI s . t 6" /><w orth="mehr" pho="m ' e:6" /><w orth="scheiß" pho="S ' aI s" /><w orth="gelabert" pho="g @ . l ' a: . b 6 t" /><w orth="gedanken" pho="g @ . d ' a N . k @ n" /><w orth="ob" pho="? ' O p" /><w orth="zukunft" pho="ts ' u: . k U n f t" /><w orth="weitermachen" pho="v ' aI . t 6 . m a . x @ n" /><w orth="alles" pho="? ' a l . @ s" /><w orth="dreck" pho="d r ' E k" /><w orth="ziehen" pho="ts ' i: . @ n" /><w orth="runter" pho="r ' U n . t 6" /><w orth="allerletzte" pho="? ' a l . 6 . l E t s . t @" /><w orth="lass" pho="l ' a s" /><w orth="lange" pho="l ' a N . @" /><w orth="gefallen" pho="g @ . f ' a . l @ n" /><w orth="sage" pho="z ' a: . g @" /><w orth="euch" pho="? ' OY C" /><w orth="rudi" pho="r ' u: . d i" /><w orth="darf" pho="d ' a r f" /><w orth="spiel" pho="S p ' i: l" /><w orth="zurückkommen" pho="ts u . r ' Y k . k O m . @ n" /><w orth="jà" pho="j ' a" /><w orth="okay" pho="? o . k ' e:" /><w orth="isländische" pho="? ' i: s . l E n . d I S . @" /><w orth="mannschaft" pho="m ' a n . S a f t" /><w orth="meisten" pho="m ' aI s . t @ n" /><w orth="spieler" pho="S p ' i: . l 6" /><w orth="spielen" pho="S p ' i: . l @ n" /><w orth="england" pho="? ' E N . l a n t" /><w orth="division" pho="d i . v i . z j ' o: n" /><w orth="stammspieler" pho="S t a m . S p ' i: . l 6" /><w orth="müssten" pho="m ' Y s . t @ n" /><w orth="position" pho="p o . z i . ts j ' o: n" /><w orth="her" pho="h ' e:6" /><w orth="besetzungen" pho="b @ . z ' E t . s U N . @ n" /><w orth="beherrschen" pho="b @ . h ' E6 . S @ n" /><w orth="ach" pho="? ' a x" /><w orth="wieso" pho="v i . z ' o:" /><w orth="mannschaften" pho="m ' a n . S a f . t @ n" /><w orth="isländer" pho="? ' i: s . l E n . d 6" /><w orth="weißt" pho="v ' aI s t" /><w orth="du" pho="d ' u:" /><w orth="waldi" pho="v ' a l . d i" /><w orth="gegner" pho="g ' e: . g n 6" /><w orth="auswärts" pho="? ' aU s . v E6 t s" /><w orth="welcher" pho="v ' E l . C 6" /><w orth="welt" pho="v ' E l t" /><w orth="leben" pho="l ' e: . b @ n" /><w orth="lebt" pho="l ' e: p t" /><w orth="ihr" pho="? ' i:6" /><w orth="nee" pho="n ' e:" /><w orth="gedacht" pho="g @ . d ' a x t" /><w orth="vergleiche" pho="f 6 . g l ' aI . C @" /><w orth="kritisiert" pho="k r i . t i . z ' i:6 t" /><w orth="laufbereitschaft" pho="l ' aU f . b @ . r aI . t S a f t" /><w orth="am" pho="? ' a m" /><w orth="mittwoch" pho="m ' I t . v O x" /><w orth="werden" pho="v ' e:6 . d @ n" /><w orth="hundertprozentig" pho="h U n . d 6 t . p r o . ts ' E n . t I C" /><w orth="arsch" pho="? ' a r S" /><w orth="aufreißen" pho="? ' aU . f r aI . s @ n" /><w orth="müsst" pho="m ' Y s t" /><w orth="eurem" pho="? ' OY . r @ m" /><w orth="hohen" pho="h ' o: . @ n" /><w orth="ross" pho="r ' O s" /><w orth="runterzu" pho="r ' U n . t 6 . ts u:" /><w orth="runterkommen" pho="r ' U n . t 6 . k O m . @ n" /><w orth="einbildet" pho="? ' aI n . b I l . d @ t" /><w orth="fußball" pho="f ' u: s . b a l" /><w orth="deutschland" pho="d ' OY t S . l a n t" /><w orth="habt" pho="h ' a: p t" /><w orth="günter" pho="g ' Y n . t 6" /><w orth="konnste" pho="k ' O n s . t @" /><w orth="hingegangen" pho="h ' I n . g @ . g a N . @ n" /><w orth="standfußball" pho="S t a n t . f ' u: s . b a l" /><w orth="komm" pho="k ' O m" /><w orth="zurück" pho="ts u . r ' Y k" /><w orth="schau" pho="S ' aU" /><w orth="meistens" pho="m ' aI s . t @ n s" /><w orth="beurteilung" pho="b @ . ? ' U6 . t aI . l U N" /><w orth="spiele" pho="S p ' i: . l @" /><w orth="einig" pho="? ' aI . n I C" /><w orth="i" pho="? ' i:" /><w orth="warum" pho="v a r . ' U m" /><w orth="schärfe" pho="S ' E6 . f @" /><w orth="reinkommt" pho="r ' aI n . k O m t" /><w orth="bringt" pho="b r ' I N t" /><w orth="rein" pho="r ' aI n" /><w orth="lassen" pho="l ' a s . @ n" /><w orth="keine" pho="k ' aI . n @" /><w orth="reingebracht" pho="r ' aI n . g @ . b r a x t" /><w orth="island" pho="? ' i: s . l a n t" /><w orth="gibt" pho="g ' i: p t" /><w orth="weizenbier" pho="v ' aI . ts @ n . b i:6" /><w orth="meinem" pho="m ' aI . n @ m" /><w orth="m" pho="? ' E m" /><w orth="weizenbiertrinker" pho="v ' aI . ts @ n . b i: r . t r I N . k 6" /><w orth="stil" pho="s t ' i: l" /><w orth="hast" pho="h ' a s t" /><w orth="simmer" pho="z ' I m . 6" /><w orth="waren" pho="v ' a: . r @ n" /><w orth="sollen" pho="z ' O l . @ n" /><w orth="mer" pho="m ' E6" /><w orth="punkt" pho="p ' U N k t" /><w orth="ma" pho="m ' a" /><w orth="sein" pho="z ' aI n" /><w orth="sitzen" pho="z ' I t . s @ n" /><w orth="bank" pho="b ' a N k" /><w orth="feld" pho="f ' E l t" /><w orth="gewesen" pho="g @ . v ' e: . z @ n" /><w orth="sitzt" pho="z ' I t s t" /><w orth="locker" pho="l ' O k . 6" /><w orth="bequem" pho="b @ . k v ' e: m" /><w orth="deinem" pho="d ' aI . n @ m" /><w orth="stuhl" pho="S t ' u: l" /><w orth="drei" pho="d r ' aI" /><w orth="getrunken" pho="g @ . t r ' U N . k @ n" /><w orth="bist" pho="b ' I s t" /><w orth="schön" pho="S ' 2: n" /><w orth="pofalla" pho="p o . f ' a . l a" /><w orth="moment" pho="m ' o . m E n t" /><w orth="liter" pho="l ' i: . t 6" /><w orth="diesel" pho="d ' i: . z @ l" /><w orth="kostet" pho="k ' O s . t @ t" /><w orth="wieviel" pho="v ' i: . f i: l" /><w orth="derzeit" pho="d ' e:6 . ts aI t" /><w orth="dreißig" pho="d r ' aI . s I C" /><w orth="dreiunddreißig" pho="d r ' aI . U n t . d r aI . s I C" /><w orth="sinds" pho="z ' I n t s" /><w orth="bundesdurchschnitt" pho="b ' U n . d @ s . d U6 C . C S n I t" /><w orth="vielleicht" pho="f i . l ' aI C t" /><w orth="günstige" pho="g ' Y n s . t I . g @" /><w orth="tankstelle" pho="t ' a N k . S t E l . @" /><w orth="berlin" pho="b E6 . l ' i: n" /><w orth="ihrem" pho="? ' i: . r @ m" /><w orth="budget" pho="b Y . dZ ' e:" /><w orth="frau" pho="f r ' aU" /><w orth="fährt" pho="f ' E:6 t" /><w orth="insofern" pho="? I n . z ' o: . f E6 n" /><w orth="dieselpreisentwicklung" pho="d ' i: . z @ l . p r aI . z @ n t . v I k . l U N" /><w orth="ausgewirkt" pho="? ' aU s . g @ . v i r k t" /><w orth="lieber" pho="l ' i: . b 6" /><w orth="kastenhuber" pho="k ' a s . t @ n . h u: . b 6" /><w orth="wirkt" pho="v ' I6 k t" /><w orth="dieselpreiserhöhung" pho="d ' i: . z @ l . p r aI . z 6 . h 2: n g" /><w orth="bayern" pho="b ' aI . 6 n" /><w orth="wars" pho="v ' a: r s" /><w orth="heut" pho="h ' OY t" /><w orth="früh" pho="f r ' y:" /><w orth="sechsunddreißig" pho="z ' E k . s U n t . d r aI . s I C" /><w orth="äähm" pho="? E . ? ' E: m" /><w orth="werd" pho="v ' e:6 t" /><w orth="einfach" pho="? ' aI n . f a x" /><w orth="weiterhin" pho="v ' aI . t 6 . h I n" /><w orth="zum" pho="ts ' U m" /><w orth="friseur" pho="f r I . z ' 2:6" /><w orth="nächste" pho="n ' E: C s . t @" /><w orth="sondern" pho="z ' O n . d 6 n" /><w orth="selber" pho="z ' E l . b 6" /><w orth="schnipseln" pho="S n ' I p . s @ l n" /><w orth="spars" pho="S p ' a r s" /><w orth="woanders" pho="v o . ? ' a n . d 6 s" /><w orth="drin" pho="d r ' I n" /><w orth="oft" pho="? ' O f t" /><w orth="ḿhm̀" pho="? E m . h ' a: . ? E m" /><w orth="spar" pho="S p ' a: r" /><w orth="kompliment" pho="k O m . p l i . m ' E n t" /><w orth="könnte" pho="k ' 9 n . t @" /><w orth="ähmm" pho="? ' E: m" /><w orth="bartel" pho="b ' a r . t @ l" /><w orth="dieselpreis" pho="d ' i: . z @ l . p r aI s" /><w orth="kastenhubers" pho="k ' a s . t @ n . h u: . b 6 s" /><w orth="energiekosten" pho="? e . n E6 . g ' i: . k O s . t @ n" /><w orth="strom" pho="S t r ' o: m" /><w orth="heizung" pho="h ' aI . ts U N" /><w orth="letzten" pho="l ' E t s . t @ n" /><w orth="fünfundsechzig" pho="f ' Y n . f U n t . z E C . t s I C" /><w orth="prozent" pho="p r o . ts ' E n t" /><w orth="gestiegen" pho="g @ . S t ' i: . g @ n" /><w orth="verändern" pho="f E6 . ? ' E n . d 6 n" /><w orth="gestiegenen" pho="g @ . S t ' i: . g @ . n @ n" /><w orth="heiz-" pho="h ' aI ts" /><w orth="stromkosten" pho="S t r ' O m . k O s . t @ n" /><w orth="ganze" pho="g ' a n . ts @" /><w orth="menge" pho="m ' E N . @" /><w orth="dabei" pho="d a . b ' aI" /><w orth="aufpassen" pho="? ' aU f . p a . s @ n" /><w orth="nehme" pho="n ' e: . m @" /><w orth="meinen" pho="m ' aI . n @ n" /><w orth="räumen" pho="r ' OY . m @ n" /><w orth="räume" pho="r ' OY . m @" /><w orth="kalt" pho="k ' a l t" /><w orth="raum" pho="r ' aU m" /><w orth="heiz" pho="h ' aI ts" /><w orth="winter" pho="v ' I n . t 6" /><w orth="küche" pho="k ' Y C . @" /><w orth="zimmer" pho="ts ' I m . 6" /><w orth="bad" pho="b ' a: t" /><w orth="wasch" pho="v ' a S" /><w orth="kalten" pho="k ' a l . t @ n" /><w orth="sparen" pho="S p ' a: . r @ n" /><w orth="sitz" pho="z ' I t s" /><w orth="kerzenlicht" pho="k 6 . ts @ n . l ' I C t" /><w orth="en" pho="? ' E n" /><w orth="kleines" pho="k l ' aI . n @ s" /><w orth="weihnachten" pho="v ' aI . n a x . t @ n" /><w orth="marotte" pho="m a r . ' O t . @" /><w orth="notwendigkeit" pho="n ' o: t . v E n . d I C . k aI t" /><w orth="sonst" pho="z ' O n s t" /><w orth="hinkommen" pho="h ' I n . k O m . @ n" /><w orth="nix" pho="n ' I k s" /><w orth="möglich" pho="m ' 2: . k l I C" /><w orth="zahl" pho="ts ' a: l" /><w orth="monat" pho="m ' o: . n a t" /><w orth="einunddreißig" pho="? ' aI . n U n t . d r aI . s I C" /><w orth="mark" pho="m ' a r k" /><w orth="eingespart" pho="? ' aI n . g @ . S p a: r t" /><w orth="ihnen" pho="? ' i: . n @ n" /><w orth="finanzen" pho="f i . n ' a n . ts @ n" /><w orth="aussieht" pho="? ' aU s . z i: t" /><w orth="gucken" pho="g ' U k . @ n" /><w orth="gleich" pho="g l ' aI C" /><w orth="berichteten" pho="b @ . r ' I C . t @ . t @ n" /><w orth="ehemalige" pho="? ' e: . @ . m a: . l I . g @" /><w orth="buchhändlerin" pho="b ' u: x . h E n . d l @ . r I n" /><w orth="arbeitende" pho="? ' a r . b aI . t @ n . d @" /><w orth="mutter" pho="m ' U t . 6" /><w orth="kindern" pho="k ' I n . d 6 n" /><w orth="einem" pho="? ' aI . n @ m" /><w orth="doppelverdienerhaushalt" pho="d ' O p . @ l . v 6 . d i: . n 6 . h ? aU s . h a l t" /><w orth="würden" pho="v ' Y6 . d @ n" /><w orth="frage" pho="f r ' a: . g @" /><w orth="beantworten" pho="b @ . ? ' a n t . v O6 . t @ n" /><w orth="mittelschicht" pho="m ' I t . @ l . S I C t" /><w orth="eingerahmt" pho="? ' aI n . g @ . r a: m t" /><w orth="übrigens" pho="? ' y: . b r I . g @ n s" /><w orth="seit" pho="z ' aI t" /><w orth="längeren" pho="l ' E N . @ . r @ n" /><w orth="prozess" pho="p r o . ts ' E s" /><w orth="entwicklung" pho="? E n t . v ' I k . l U N" /><w orth="jahrzehnte" pho="j a: r . ts ' e: n . t @" /><w orth="details" pho="d e . t ' aI s" /><w orth="besprechen" pho="b @ . S p r ' E C . @ n" /><w orth="verhältnisse" pho="f E6 . h ' E l t . n I s . @" /><w orth="gelebt" pho="g @ . l ' e: p t" /><w orth="nie" pho="n ' i:" /><w orth="individuell" pho="? I n . d i . v i . d u . ' E l" /><w orth="durchschnitt" pho="d ' U6 C . S n I t" /><w orth="staat" pho="S t ' a: t" /><w orth="verhalten" pho="f E6 . h ' a l . t @ n" /><w orth="sichtbar" pho="z ' I C t . b a: r" /><w orth="folgen" pho="f ' O l . g @ n" /><w orth="einer" pho="? ' aI . n 6" /><w orth="mehreren" pho="m ' e: . r @ . r @ n" /><w orth="jahrzehnten" pho="j a: r . ts ' e: n . t @ n" /><w orth="allerdings" pho="? a l . 6 . d ' I N s" /><w orth="versuchen" pho="f E6 . z ' u: . x @ n" /><w orth="versucht" pho="f E6 . z ' u: x t" /><w orth="entlasten" pho="? E n t . l ' a s . t @ n" /><w orth="durch" pho="d ' U6 C" /><w orth="senkung" pho="z ' E N . k U N" /><w orth="versicherungsbeiträge" pho="f ' E6 . z o . I C . @ . r U N s . b ? aI . t r E: . g @" /><w orth="sozialversicherungs" pho="z o . ts j ' a: l . v 6 . z I C . @ . r U N s" /><w orth="-systemen" pho="z Y s . t ' e: . m @ n" /><w orth="sprechen" pho="S p r ' E C . @ n" /><w orth="ausland" pho="? ' aU s . l a n t" /><w orth="gerade" pho="g @ . r ' a: . d @" /><w orth="zurückgekommen" pho="ts u . r ' Y k . g @ . k O m . @ n" /><w orth="stellen" pho="S t ' E l . @ n" /><w orth="fest" pho="f ' E s t" /><w orth="hilft" pho="h ' I l f t" /><w orth="drumrumzureden" pho="d r U m . r U m . ts u . r ' e: . d @ n" /><w orth="sozusagen" pho="z o: . ts u . z ' a: . g @ n" /><w orth="selbstkritisch" pho="z ' E l p s t . k r i: . t I S" /><w orth="k" pho="k ' a:" /><w orth="gegenüber" pho="g e: . g @ n . ? ' y: . b 6" /><w orth="kohlsche" pho="k ' o: l . S @" /><w orth="regierung" pho="r e . g ' i: . r U N" /><w orth="beispielsweise" pho="b ' aI . S p i: l s . v aI . z @" /><w orth="jahre" pho="j ' a: . r @" /><w orth="neunzehnhundertachtundneunzig" pho="n ' OY n . ts e: n . h U n . d 6 t . ? a x . t U n t . n OY n . ts I C" /><w orth="hätte" pho="h ' E t . @" /><w orth="demo" pho="d ' e: . m o" /><w orth="demographiefaktor" pho="d e . m o . g r a . f ' i: . f a k . t O r" /><w orth="rente" pho="r ' E n . t @" /><w orth="einführen" pho="? ' aI n . f y: . r @ n" /><w orth="gehört" pho="g @ . h ' 2:6 t" /><w orth="dazu" pho="d a ts . ' u:" /><w orth="schröder" pho="S r ' 2: . d 6" /><w orth="fehler" pho="f ' e: . l 6" /><w orth="abzuschaffen" pho="? ' a p . ts u . S a . f @ n" /><w orth="riester-treppe" pho="r ' i: s . t 6 . t r E p . @" /><w orth="zweitausenddrei" pho="ts v aI . t aU . z @ n t . d r ' aI" /><w orth="härter" pho="h ' E6 . t 6" /><w orth="einzuführen" pho="? ' aI n . ts u . f y: . r @ n" /><w orth="regierungen" pho="r e . g ' i: . r U N . @ n" /><w orth="vergangenen" pho="f E6 . g ' a N . @ . n @ n" /><w orth="jeweils" pho="j e . v ' aI l s" /><w orth="spät" pho="S p ' E: t" /><w orth="entwicklungen" pho="? E n t . v ' I k . l U N . @ n" /><w orth="reagiert" pho="r e . a . g ' i:6 t" /><w orth="f" pho="? ' E f" /><w orth="engelen-käfer" pho="? E N . @ . l @ n . k ' E: . f 6" /><w orth="schlagzeile" pho="S l ' a: k . ts aI . l @" /><w orth="em" pho="? e: . ? ' E m" /><w orth="kölner" pho="k ' 9 l . n 6" /><w orth="stadtanzeiger" pho="S t ' a t . ? a n . ts aI . g 6" /><w orth="zitiert" pho="ts i . t ' i:6 t" /><w orth="absturz" pho="? ' a p . S t U6 ts" /><w orth="augen" pho="? ' aU . g @ n" /><w orth="dramatisch" pho="d r a m . ' a: . t I S" /><w orth="wies" pho="v ' i: s" /><w orth="klingt" pho="k l ' I N t" /><w orth="stark" pho="S t ' a r k" /><w orth="abgestürzt" pho="? ' a p . g @ . S t Y6 ts t" /><w orth="untersuchungen" pho="? U n . t 6 . z ' u: . x U N . @ n" /><w orth="ungefähr" pho="? ' U n . g @ . f E:6" /><w orth="drittel" pho="d r ' I t . @ l" /><w orth="zehn" pho="ts ' e: n" /><w orth="knapp" pho="k n ' a p" /><w orth="hälfte" pho="h ' E l f . t @" /><w orth="einige" pho="? ' aI . n I . g @" /><w orth="oben" pho="? ' o: . b @ n" /><w orth="mehrzahl" pho="m ' e:6 . ts a: l" /><w orth="unten" pho="? ' U n . t @ n" /><w orth="abgesackt" pho="? ' a p . g @ . z a k t" /><w orth="globalisierung" pho="g l o . b a . l i . z ' i: . r U N" /><w orth="teil" pho="t ' aI l" /><w orth="gesetzgebung" pho="g @ . z ' E t s . g e: . b U N" /><w orth="wechselnden" pho="v ' E k . s @ l n . d @ n" /><w orth="regierungskoalitionen" pho="r e . g ' i: . r U N s . k o . ? a . l i . ts j o: . n @ n" /><w orth="beigetragen" pho="b ' aI . g @ . t r a: . g @ n" /><w orth="großen" pho="g r ' o: . s @ n" /><w orth="koalition" pho="k o . ? a . l i . ts j ' o: n" /><w orth="statement" pho="s t ' e: t . m @ n t" /><w orth="bahr" pho="b ' a: r" /><w orth="rot-grün" pho="r ' o: t . g r y: n" /><w orth="zusammenhang" pho="ts u . z ' a . m @ n . h a N" /><w orth="gesacht" pho="g @ . z ' a x t" /><w orth="wechselnde" pho="v ' E k . s @ l n . d @" /><w orth="schwarz-gelb" pho="S v ' a r ts . g E l p" /><w orth="geschenkt" pho="g @ . S ' E N k t" /><w orth="erklärung" pho="? E6 . k l ' E: . r U N" /><w orth="dafür" pho="d a f . ' y:6" /><w orth="erbittert" pho="? ' E6 r . b I t . 6 t" /><w orth="worden" pho="v ' O6 . d @ n" /><w orth="leidenschaftlich" pho="l ' aI . d @ n . S a f t . l I C" /><w orth="sicher" pho="z ' I C . 6" /><w orth="teilen" pho="t ' aI . l @ n" /><w orth="berechtigt" pho="b @ . r ' E C . t I C t" /><w orth="sogenannte" pho="z ' o: . g @ . n a n . t @" /><w orth="stillgehalten" pho="S t ' I l . g @ . h a l . t @ n" /><w orth="müssens" pho="m ' Y s . @ n s" /><w orth="erklären" pho="? E6 . k l ' E: . r @ n" /><w orth="sendungen" pho="z ' E n . d U N . @ n" /><w orth="randthemen" pho="r ' a n t . h E m . @ n" /><w orth="gemach" pho="g @ . m ' a: x" /><w orth="managergehälter" pho="m E n . ' I . dZ 6 . g @ . h E l . t 6" /><w orth="unheimlich" pho="? ' U n . h aI m . l I C" /><w orth="mindestlöhne" pho="m ' I n . d @ s t . l 2: . n @" /><w orth="sorgen" pho="z ' O6 . g @ n" /><w orth="derer" pho="d @ . r 6" /><w orth="morgens" pho="m ' O6 . g @ n s" /><w orth="zur" pho="ts ' u:6" /><w orth="arbeit" pho="? ' a r . b aI t" /><w orth="erwirtschaften" pho="? E6 . v ' I6 . t S a f . t @ n" /><w orth="verteilt" pho="f E6 . t ' aI l t" /><w orth="sozialversicherungsbeiträge" pho="z ' o . ts j a: l . v 6 . z I C . @ . r U N s . b ? aI . t r E: . g @" /><w orth="karren" pho="k ' a r . @ n" /><w orth="wurde" pho="v ' U6 . d @" /><w orth="entlastet" pho="? E n t . l ' a s . t @ t" /><w orth="nennt" pho="n ' E n t" /><w orth="einziges" pho="? ' aI n . ts I . g @ s" /><w orth="arbeitslosenversicherungsbeitrag" pho="? ' a r . b aI t s . l o: . z @ n . v 6 . z I C . @ . r U N s . b aI . t r a: k" /><w orth="vernachlässigen" pho="f E6 . n ' a: x . l E s . I . g @ n" /><w orth="schwarz" pho="S v ' a r ts" /><w orth="rote" pho="r ' o: . t @" /><w orth="schippe" pho="S ' I p . @" /><w orth="draufgelegt" pho="d r ' aU f . g @ . l e: k t" /><w orth="größten" pho="g r ' 2: s . t @ n" /><w orth="steuererhöhung" pho="S t ' OY . 6 . ? E6 . 2: . U N" /><w orth="hatten" pho="h ' a t . @ n" /><w orth="mehrwertsteuererhöhung" pho="m ' e: r . v E6 t s . S t OY . @ . r 6 . h 2: n g" /><w orth="versicherungssteuer" pho="f ' E6 . z o . I C . @ . r U N s . S t OY . 6" /><w orth="streichungen" pho="S t r ' aI . C U N . @ n" /><w orth="eigenheimzulage" pho="? ' aI . g @ n . h aI m . ts u . l a: . g @" /><w orth="pendlerpauschale" pho="p ' E n . d l 6 . p aU . S a: . l @" /><w orth="vieles" pho="f ' i: . l @ s" /><w orth="besonders" pho="b @ . z ' O n . d 6 s" /><w orth="getroffen" pho="g @ . t r ' O f . @ n" /><w orth="aufschwung" pho="? ' aU f S . v U N" /><w orth="profitiert" pho="p r ' o . f i . t j 6 t" /><w orth="erster" pho="? ' e:6 s . t 6" /><w orth="linie" pho="l ' i: n . j @" /><w orth="einnahmen" pho="? ' aI n . n a: . m @ n" /><w orth="lächeln" pho="l ' E C . @ l n" /><w orth="holen" pho="h ' o: . l @ n" /><w orth="netto" pho="n ' E t . o" /><w orth="bleibt" pho="b l ' aI p t" /><w orth="beantwortet" pho="b @ . ? ' a n t . v O6 . t @ t" /><w orth="schuld" pho="S ' U l t" /><w orth="daran" pho="d a r . ' a n" /><w orth="hart" pho="h ' a r t" /><w orth="fair" pho="f ' E:6" /><w orth="themen" pho="t ' e: . m @ n" /><w orth="spüren" pho="S p ' y: . r @ n" /><w orth="möcht" pho="m ' 9 C t" /><w orth="ffragen" pho="f r ' a: . g @ n" /><w orth="nichts" pho="n ' I C t s" /><w orth="hören" pho="h ' 2: . r @ n" /><w orth="lags" pho="l ' a: k s" /><w orth="getraut" pho="g @ . t r ' aU t" /><w orth="dreitausendfünfhundert" pho="d r aI . t ' aU . z @ n t . f Y n f . h U n . d 6 t" /><w orth="kaum" pho="k ' aU m" /><w orth="selbst" pho="z ' E l p s t" /><w orth="hoch" pho="h ' o: x" /><w orth="erscheint" pho="? E6 . S ' aI n t" /><w orth="rausgehen" pho="r ' aU s . g e: . @ n" /><w orth="sicherheit" pho="z I C . 6 . h ' aI t" /><w orth="verständnis" pho="f E6 . S t ' E n t . n I S" /><w orth="jeden" pho="j ' e: . d @ n" /><w orth="fall" pho="f ' a l" /><w orth="thema" pho="t ' e: . m a" /><w orth="vergessen" pho="f E6 . g ' E s . @ n" /><w orth="denkt" pho="d ' E N k t" /><w orth="genügend" pho="g @ . n ' y: . g @ n t" /><w orth="geld" pho="g ' E l t" /><w orth="gehn" pho="g ' e: n" /><w orth="ging" pho="g ' I N" /><w orth="sieben" pho="z ' i: . b @ n" /><w orth="acht" pho="? ' a x t" /><w orth="eingeschlichen" pho="? ' aI n . g @ . S l I C . @ n" /><w orth="stück" pho="S t ' Y k" /><w orth="irgendwann" pho="? ' I6 . g @ n t . v a n" /><w orth="gemerkt" pho="g @ . m ' E6 k t" /><w orth="konto" pho="k ' O n . t o" /><w orth="einmal" pho="? ' aI n . m a: l" /><w orth="leer" pho="l ' e:6" /><w orth="kürzer" pho="k ' Y6 . ts 6" /><w orth="weile" pho="v ' aI . l @" /><w orth="gedauert" pho="g @ . d ' aU . 6 t" /><w orth="bis" pho="b ' I s" /><w orth="gesetzt" pho="g @ . z ' E t s t" /><w orth="verstanden" pho="f E6 . S t ' a n . d @ n" /><w orth="urlaub" pho="? ' u:6 . l aU p" /><w orth="gefahren" pho="g @ . f ' a: . r @ n" /><w orth="allgemein" pho="? a l . g @ . m ' aI n" /><w orth="hinkriegen" pho="h ' I n . k r i: . g @ n" /><w orth="reagieren" pho="r e . a . g ' i: . r @ n" /><w orth="dauert" pho="d ' aU . 6 t" /><w orth="politiker" pho="p o . l ' i: . t I k . 6" /><w orth="haushaltsplan" pho="h ' aU s . h a l t s . p l a: n" /><w orth="familie" pho="f a m . ' i: l . j @" /><w orth="aktuellen" pho="? a k . t u . ' E l . @ n" /><w orth="offenlegen" pho="? ' O f . @ n . l e: . g @ n" /><w orth="be" pho="b ' @" /><w orth="ner" pho="n ' E6" /><w orth="kinder" pho="k ' I n . d 6" /><w orth="hinkommt" pho="h ' I n . k O m t" /><w orth="alss" pho="? ' a l s" /><w orth="väter" pho="f ' E: . t 6" /><w orth="krieg" pho="k r ' i: k" /><w orth="mütter" pho="m ' Y t . 6" /><w orth="kriegswirtschaft" pho="k r i: . k s v ' i: r . t S a f t" /><w orth="mussten" pho="m ' U s . t @ n" /><w orth="allein" pho="? a l . ' aI n" /><w orth="hause" pho="h ' aU . z @" /><w orth="húndért-" pho="h ' U n . d @ r t" /><w orth="-achtundzwanzig" pho="? ' a x . t U n t . t s v a n . t s I C" /><w orth="familienunterhalt" pho="f a m . ' i: l . j @ n . ? U n . t 6 . h a l t" /><w orth="hundert" pho="h ' U n . d 6 t" /><w orth="hundertachtundzwanzig" pho="h ' U n . d 6 t . ? a x . t U n t . t s v a n . t s I C" /><w orth="neununddreißig" pho="n ' OY . n U n t . d r aI . s I C" /><w orth="miete" pho="m ' i: . t @" /><w orth="bezahlt" pho="b @ . z ' a: l t" /><w orth="gas" pho="g ' a: s" /><w orth="kleinen" pho="k l ' aI . n @ n" /><w orth="rest" pho="r ' E s t" /><w orth="durften" pho="d ' U6 f . t @ n" /><w orth="ewiges" pho="? ' e: . v I . g @ s" /><w orth="affentheater" pho="? a f . ? E n . t e . ? ' a: . t 6" /><w orth="durchgehalten" pho="d ' U6 C . g @ . h a l . t @ n" /><w orth="gegenseitig" pho="g ' e: . g @ n . z aI . t I C" /><w orth="unterstützen" pho="? U n . t 6 . S t ' Y t . s @ n" /><w orth="geholfen" pho="g @ . h ' O l . f @ n" /><w orth="konnte" pho="k ' O n . t @" /><w orth="rüstung" pho="r ' Y s . t U N" /><w orth="fünf" pho="f ' Y n f" /><w orth="bahn" pho="b ' a: n" /><w orth="gebracht" pho="g @ . b r ' a x t" /><w orth="abends" pho="? ' a: . b @ n t s" /><w orth="abgeholt" pho="? ' a p . g @ . h o: l t" /><w orth="trauriges" pho="t r ' aU . r I . g @ s" /><w orth="dasein" pho="d a . z ' aI n" /><w orth="musste" pho="m ' U s . t @" /><w orth="meines" pho="m ' aI . n @ s" /><w orth="vaters" pho="f ' a: . t 6 s" /><w orth="fahrrad" pho="f ' a: r . r a: t" /><w orth="luftalarm" pho="l ' U f . t a l . ? a r m" /><w orth="hatte" pho="h ' a t . @" /><w orth="karte" pho="k ' a r . t @" /><w orth="durft" pho="d ' U6 f t" /><w orth="alleine" pho="? a l . ' aI . n @" /><w orth="losfahren" pho="l ' o: s . f a: . r @ n" /><w orth="nähe" pho="n ' E: . @" /><w orth="wohnte" pho="v ' o: n . t @" /><w orth="fabrik" pho="f a . b r ' i: k" /><w orth="gefahrn" pho="g @ . f ' a: r n" /><w orth="plagwitz" pho="p l ' a: . k v I t s" /><w orth="halbe" pho="h ' a l . b @" /><w orth="stunde" pho="S t ' U n . d @" /><w orth="amis" pho="? ' a m . I s" /><w orth="tommies" pho="t O m . ' i: s" /><w orth="schmissen" pho="S m ' I s . @ n" /><w orth="ihre" pho="? ' i: . r @" /><w orth="bomben" pho="b ' O m . b @ n" /><w orth="untendurch" pho="? ' U n . t @ n . d U6 C f" /><w orth="guckte" pho="g ' U k . t @" /><w orth="fiel" pho="f ' i: l" /><w orth="sodass" pho="z o . d ' a s" /><w orth="ge" pho="g ' e:" /><w orth="vorbeikam" pho="f o:6 . b ' aI . k a: m" /><w orth="kam" pho="k ' a: m" /><w orth="tür" pho="t ' y:6" /><w orth="offen" pho="? ' O f . @ n" /><w orth="kind" pho="k ' I n t" /><w orth="krachte" pho="k r ' a x . t @" /><w orth="wahrscheinlich" pho="v a: r . S ' aI n . l I C" /><w orth="woll" pho="v ' O l" /><w orth="warn" pho="v ' a r n" /><w orth="zeiten" pho="ts ' aI . t @ n" /><w orth="wa" pho="v ' a" /><w orth="leisten" pho="l ' aI s . t @ n" /><w orth="allen" pho="? ' a l . @ n" /><w orth="dingen" pho="d ' I N . @ n" /><w orth="menschlichkeit" pho="m ' E n . S l I C . k aI t" /><w orth="würd" pho="v ' Y6 t" /><w orth="satz" pho="z ' a t s" /><w orth="problem" pho="p r o . b l ' e: m" /><w orth="standard" pho="S t ' a n . d a r t" /><w orth="unserer" pho="? ' U n . z @ . r 6" /><w orth="unge" pho="? ' U N . @" /><w orth="erwartungshaltungen" pho="? ' E6 r . v a r . t U N s . h a l . t U N . @ n" /><w orth="beispiel" pho="b ' aI . S p i: l" /><w orth="versorgen" pho="f E6 . z ' O6 . g @ n" /><w orth="ähmmm" pho="? ' E: m . m" /><w orth="vorwärts" pho="f ' o:6 . v E6 t s" /><w orth="bringen" pho="b r ' I N . @ n" /><w orth="fördern" pho="f ' 96 . d 6 n" /><w orth="präsent" pho="p r E . z ' E n t" /><w orth="eltern" pho="? ' E l . t 6 n" /><w orth="großeltern" pho="g r ' o: s . ? E l . t 6 n" /><w orth="kümmern" pho="k ' Y m . 6 n" /><w orth="wieviele" pho="v i: . f ' i: . l @" /><w orth="arzttermine" pho="? ' a r ts . t 6 . m i: . n @" /><w orth="wahrnehmen" pho="v ' a: r . n e: . m @ n" /><w orth="woche" pho="v ' O x . @" /><w orth="lang" pho="l ' a N" /><w orth="gleichen" pho="g l ' aI . C @ n" /><w orth="kleidung" pho="k l ' aI . d U N" /><w orth="nachmittags" pho="n ' a: x . m I t . a: k s" /><w orth="spielkleidung" pho="S p ' i: l . k l aI . d U N" /><w orth="au" pho="? ' aU" /><w orth="mhm" pho="? m . h ' m" /><w orth="undenkbar" pho="? ' U n . d @ n . k b a: r" /><w orth="wärn" pho="v ' @ r n" /><w orth="erwartungshaltung" pho="? ' E6 r . v a r . t U N s . h a l . t U N" /><w orth="unglaublich" pho="? U n . g l ' aU . p l I C" /><w orth="tut" pho="t ' u: t" /><w orth="braver" pho="b r ' a: . v 6" /><w orth="bürger" pho="b ' Y6 . g 6" /><w orth="tun" pho="t ' u: n" /><w orth="unserm" pho="? ' U n . z 6 m" /><w orth="toningenieur" pho="t o: . n ' I N . @ n . j 2: r" /><w orth="aufs" pho="? ' aU f s" /><w orth="mikro" pho="m ' i . k r o" /><w orth="hauen" pho="h ' aU . @ n" /><w orth="bald" pho="b ' a l t" /><w orth="nen" pho="n ' E n" /><w orth="hörgerät" pho="h ' 2: r . g @ . r E: t" /><w orth="ans" pho="? ' a n s" /><w orth="jawohl" pho="j a . v ' o: l" /><w orth="ok" pho="o: . k ' e:" /><w orth="hau" pho="h ' aU" /><w orth="tisch" pho="t ' I S" /><w orth="schwierig" pho="S v ' i: . r I C" /><w orth="vergleichen" pho="f E6 . g l ' aI . C @ n" /><w orth="vergangenheit" pho="f E6 . g ' a N . @ n . h aI t" /><w orth="druck" pho="d r ' U k" /><w orth="auswirkt" pho="? ' aU s . v i r k t" /><w orth="schaun" pho="S ' aU n" /><w orth="wer" pho="v ' e:6" /><w orth="standzuhalten" pho="S t a n t . t s ' u: . a l . t @ n" /><w orth="nenn" pho="n ' E n" /><w orth="summe" pho="z ' U m . @" /><w orth="nochmal" pho="n ' O x . m a: l" /><w orth="draus" pho="d r ' aU s" /><w orth="haushalten" pho="h ' aU s . h a l . t @ n" /><w orth="zugemutet" pho="ts ' u: . g @ . m u: . t @ t" /><w orth="vermögen" pho="f E6 . m ' 2: . g @ n" /><w orth="einbringen" pho="? ' aI n . b r I N . @ n" /><w orth="dieses" pho="d ' i: . z @ s" /><w orth="klavier" pho="k l a . v ' i:6" /><w orth="zahnspange" pho="ts ' a: n . S p a N . @" /><w orth="naja" pho="n a . j ' a:" /><w orth="investition" pho="? I n . v E s . t i . ts j ' o: n" /><w orth="gesundheit" pho="g @ . z ' U n t . h aI t" /><w orth="kindes" pho="k ' I n . d @ s" /><w orth="sohnes" pho="z ' o: . n @ s" /><w orth="gespart" pho="g @ . S p ' a: r t" /><w orth="lasten" pho="l ' a s . t @ n" /><w orth="hundertdreißig" pho="h U n . d 6 t . d r ' aI . s I C" /><w orth="altes" pho="? ' a l . t @ s" /><w orth="aufgebracht" pho="? ' aU f . g @ . b r a x t" /><w orth="teuer" pho="t ' OY . 6" /><w orth="überlegen" pho="? y: . b 6 . l ' e: . g @ n" /><w orth="frühzeitig" pho="f r ' y: . ts aI . t I C" /><w orth="günstigen" pho="g ' Y n s . t I . g @ n" /><w orth="beiträgen" pho="b ' aI . t r E: . g @ n" /><w orth="zusatzversicherung" pho="t s ' u: . z a t s . f 6 . z I C . @ . r U N" /><w orth="abschließen" pho="? ' a p . S l i: . s @ n" /><w orth="sparvertrag" pho="s p ' a r . v 6 . t r a: k" /><w orth="dinge" pho="d ' I N . @" /><w orth="schwer" pho="S v ' e:6" /><w orth="spielraum" pho="S p ' i: l . r aU m" /><w orth="unterbrechen" pho="? U n . t 6 . b r ' E C . @ n" /><w orth="glaub" pho="g l ' aU p" /><w orth="mein" pho="m ' aI n" /><w orth="neffe" pho="n ' E f . @" /><w orth="wurden" pho="v ' U6 . d @ n" /><w orth="zahnspangen" pho="ts ' a: n . S p a N . @ n" /><w orth="jedes" pho="j ' e: . d @ s" /><w orth="un" pho="? ' U n" /><w orth="überbiss" pho="? y: . b 6 . b ' I s" /><w orth="best" pho="b ' E s t" /><w orth="jaja" pho="j a . j ' a:" /><w orth="geändert" pho="g @ . ? ' E n . d 6 t" /><w orth="uli" pho="' u: . l i" /><w orth="womit" pho="v o . m ' I t" /><w orth="verdienst" pho="f E6 . d ' i: n s t" /><w orth="dein" pho="d ' aI n" /><w orth="na" pho="n ' a" /><w orth="wirtschafter" pho="v ' i: r . t S a f . t 6" /><w orth="puff" pho="p ' u: f" /><w orth="genanntes" pho="g @ . n ' a n . t @ s" /><w orth="wohnheim" pho="v ' o: n . h aI m" /><w orth="deern-woohnheim" pho="d ' E6 r n . v u: n . h aI m" /><w orth="genannt" pho="g @ . n ' a n t" /><w orth="né" pho="n ' @" /><w orth="offiziell" pho="? O f . i . ts j ' E l" /><w orth="hm̌" pho="h ' a: . ? E m" /><w orth="jeder" pho="j ' e: . d 6" /><w orth="hafenarbeiter" pho="h ' a: . f @ n . ? a r . b aI . t 6" /><w orth="bürgermeister" pho="b ' Y6 . g 6 . m aI s . t 6" /><w orth="bloß" pho="b l ' o: s" /><w orth="staatsanwalt" pho="S t ' a: . t s ? a n . v a l t" /><w orth="hm̀hḿ" pho="h ' a: . ? E m . h a: . ? E m" /><w orth="gebaut" pho="g @ . b ' aU t" /><w orth="kontakthof" pho="k O n . t a k . t ' O f" /><w orth="etagen" pho="? e . t ' a: . g @ n" /><w orth="vermietet" pho="f E6 . m ' i: . t @ t" /><w orth="vielmehr" pho="f i: l . m ' e:6" /><w orth="verpachtet" pho="v 6 . p ' a x . t @ t" /><w orth="pächter" pho="p ' E C . t 6" /><w orth="insgesamt" pho="? ' I n s . g @ . z a m t" /><w orth="hundertvierzig" pho="h ' U n . d 6 t . f I6 . ts I C" /><w orth="pacht" pho="p ' a x t" /><w orth="pro" pho="p r ' o:" /><w orth="vierhundertfünfundsiebzig" pho="f ' i: r . h U n . d 6 t . f Y n . f U n t . z i: p . ts I C" /><w orth="sech" pho="z ' E C" /><w orth="bezahlen" pho="b @ . ts ' a: . l @ n" /><w orth="reinzukommen" pho="r ' aI n . ts u . k O m . @ n" /><w orth="verschieden" pho="f E6 . S ' i: . d @ n" /><w orth="sechzehn" pho="z ' E C . ts e: n" /><w orth="mill" pho="m ' I l" /><w orth="kaution" pho="k aU . ts j ' o: n" /><w orth="zimmern" pho="ts ' I m . 6 n" /><w orth="bezaahlt" pho="b @ . ts ' a . h l t" /><w orth="moonat" pho="m ' o: . n a t" /><w orth="etwaa" pho="? ' E t . v a:" /><w orth="achttausendvierhundert" pho="? ' a x t . t aU . z @ n t . f i: r . h U n . d 6 t" /><w orth="salon" pho="z ' a: . l O n" /><w orth="mit-" pho="m ' I t" /><w orth="-bezahlen" pho="b @ . ts ' a: . l @ n" /><w orth="mitbezahlen" pho="m ' I t . b @ . ts a: . l @ n" /><w orth="hm" pho="h ' m" /><w orth="etage" pho="? e . t ' a: . Z @" /><w orth="ja'à" pho="j ' a: . a" /><w orth="mädchen" pho="m ' E: t . C @ n" /><w orth="vierzig" pho="f ' I6 . ts I C" /><w orth="tach" pho="t ' a x" /><w orth="sonntag" pho="z ' O n . t a: k" /><w orth="frei" pho="f r ' aI" /><w orth="brauchen" pho="b r ' a . u . x @ n" /><w orth="montags" pho="m ' o: n . t a: k s" /><w orth="block" pho="b l ' O k" /><w orth="stehen" pho="S t ' e: . @ n" /><w orth="montag" pho="m ' o: n . t a: k" /><w orth="achtzig" pho="? ' a x . t s I C" /><w orth="nehmen" pho="n ' e: . m @ n" /><w orth="siebenundreißig" pho="z ' i: . b @ n . ? U n . d r aI . s I C" /><w orth="verdient" pho="f E6 . d ' i: n t" /><w orth="ungefäähr" pho="? ' U n . g @ f . ? E: . E r" /><w orth="sechshundert" pho="z ' E k s . h U n . d 6 t" /><w orth="schmalz" pho="S m ' a l ts" /><w orth="puffbesitzer" pho="p ' u: f . b @ . z I t . s 6" /><w orth="verdienen" pho="f E6 . d ' i: . n @ n" /><w orth="möglichkeiten" pho="m ' 2: . k l I C . k aI . t @ n" /><w orth="gelderwerbs" pho="g ' E l . d 6 . v 6 p s" /><w orth="ää" pho="? ' E . ? E" /><w orth="jàaaaaaaa" pho="j ' a . a . ? a . ? a . ? a . ? a . ? a . ? a" /><w orth="ausschank" pho="? ' aU s . S a N k" /><w orth="generell" pho="g e . n @ . r ' E l" /><w orth="verboten" pho="f E6 . b ' o: . t @ n" /><w orth="vertrag" pho="f E6 . t r ' a: k" /><w orth="damals" pho="d ' a: . m a l s" /><w orth="versprochen" pho="f E6 . S p r ' O x . @ n" /><w orth="dassausschank" pho="d ' a s . ? aU s . S a N k" /><w orth="sperrgebiet" pho="S p ' E6 . g @ . b i: t" /><w orth="straßen" pho="S t r ' a: . s @ n" /><w orth="eingestellt" pho="? ' aI n . g @ . S t E l t" /><w orth="dürft" pho="d ' y: r f t" /><w orth="ausschenken" pho="? ' aU s . S E N . k @ n" /><w orth="hätten" pho="h ' E t . @ n" /><w orth="vollgekriegt" pho="f ' O l . g @ . k r i: k t" /><w orth="keiner" pho="k ' aI . n 6" /><w orth="gepachtet" pho="g @ . p ' a x . t @ t" /><w orth="kannst" pho="k ' a n s t" /><w orth="hm̀" pho="h ' a: . ? E m" /><w orth="darin" pho="d a r . ' I n" /><w orth="läge" pho="l ' E: . g @" /><w orth="besitzer" pho="b @ . s ' I t . s 6" /><w orth="sch" pho="? E s . ts e: . h ' a:" /><w orth="reibach" pho="r ' aI . b a x" /><w orth="erlaubt" pho="? E6 . l ' aU p t" /><w orth="mann" pho="m ' a n" /><w orth="auto" pho="? ' aU . t o" /><w orth="kaufen" pho="k ' aU . f @ n" /><w orth="jemandem" pho="j ' e: . m a n . d @ m" /><w orth="verhandeln" pho="f E6 . h ' a n . d @ l n" /><w orth="irgendwo" pho="? ' I6 . g @ n t . v o:" /><w orth="anders" pho="? ' a n . d 6 s" /><w orth="treffen" pho="t r ' E f . @ n" /><w orth="praktisch" pho="p r ' a k . t I S" /><w orth="boss" pho="b ' O s" /><w orth="schmiere" pho="S m ' i: . r @" /><w orth="ein-" pho="? ' aI n" /><w orth="zweimal" pho="ts v ' aI . m a: l" /><w orth="inner" pho="? ' I n . 6" /><w orth="kneißen" pho="k n ' aI . s @ n" /><w orth="irgendwelche" pho="? ' I6 . g @ n t . v E l . C @" /><w orth="se" pho="z ' e" /><w orth="gegriffen" pho="g @ . g r ' I f . @ n" /><w orth="hängen" pho="h ' E N . @ n" /><w orth="rum" pho="r ' U m" /><w orth="luden" pho="l ' u: . d @ n" /><w orth="jungs" pho="j ' U N s" /><w orth="angemacht" pho="? ' a n . g @ . m a x t" /><w orth="irgend" pho="? ' I6 . g @ n t" /><w orth="annern" pho="? ' a n . 6 n" /><w orth="puffs" pho="p ' u: f s" /><w orth="fünfzehn" pho="f ' Y n f . ts e: n" /><w orth="drinne" pho="d r ' I n . @" /><w orth="partie" pho="p a r . t ' i:" /><w orth="anzumachen" pho="? ' a n . ts u . m a . x @ n" /><w orth="schäkern" pho="S ' E: . k 6 n" /><w orth="denen" pho="d ' e: . n @ n" /><w orth="pächters" pho="p ' E C . t 6 s" /><w orth="dürfte" pho="d ' Y6 f . t @" /><w orth="doppelte" pho="d ' O p . @ l . t @" /><w orth="fünfhundert" pho="f ' Y n f . h U n . d 6 t" /><w orth="achttausend" pho="? ' a x t . t aU . z @ n t" /><w orth="musst" pho="m ' U s t" /><w orth="steuer" pho="S t ' OY . 6" /><w orth="rechnen" pho="r ' E C . n @ n" /><w orth="reingesteckt" pho="r ' aI n . g @ . S t E k t" /><w orth="musik-" pho="m u . z ' i: k" /><w orth="-schrank" pho="S r ' a N k" /><w orth="zehnerwechsler" pho="ts ' e: . n 6 . v E k s . l 6" /><w orth="bilder" pho="b ' I l . d 6" /><w orth="uund" pho="? U . ' U n t" /><w orth="tapezieren" pho="t ' a: . p e . ts i: . r @ n" /><w orth="lampen" pho="l ' a m . p @ n" /><w orth="kaputt" pho="k a p . ' U t" /><w orth="einrichtung" pho="? ' aI n . r I C . t U N" /><w orth="möbliert" pho="m 2: . b l ' i:6 t" /><w orth="couch" pho="k ' aU tS" /><w orth="sessel" pho="z ' E s . @ l" /><w orth="woher" pho="v o . h ' e:6" /><w orth="wohnen" pho="v ' o: . n @ n" /><w orth="dings" pho="d ' I N s" /><w orth="darfste" pho="d ' a r f s . t @" /><w orth="ansprechen" pho="? ' a n . S p r E C . @ n" /><w orth="deerne" pho="d ' E6 r . n @" /><w orth="darfst" pho="d ' a r f s t" /><w orth="ääh" pho="? E . ? ' E:" /><w orth="ankobern" pho="? ' a n . k o . b 6 n" /><w orth="arbeitet" pho="? ' a r . b aI . t @ t" /><w orth="haus" pho="h ' aU s" /><w orth="trouble" pho="t r ' a . b @ l" /><w orth="rüber" pho="r ' y: . b 6" /><w orth="ruhig" pho="r ' u: . I C" /><w orth="nette" pho="n ' E t . @" /><w orth="atmosphäre" pho="? a t . m o s . f ' E: . r @" /><w orth="kuppelei" pho="k U p . @ . l ' aI" /><w orth="bringst" pho="b r ' I N s t" /><w orth="witz" pho="v ' I t s" /><w orth="solide" pho="z o . l ' i: . d @" /><w orth="aufm" pho="? ' aU . f m" /><w orth="tanzboden" pho="t ' a n ts . b o: . d @ n" /><w orth="anhauen" pho="? ' a n . h aU . @ n" /><w orth="pass" pho="p ' a s" /><w orth="verdienste" pho="f E6 . d ' i: n s . t @" /><w orth="dreihundert" pho="d r ' aI . h U n . d 6 t" /><w orth="nacht" pho="n ' a x t" /><w orth="beknackt" pho="b @ . k n ' a k t" /><w orth="verkäuferin" pho="f E6 . k ' OY . f @ . r I n" /><w orth="arbeitest" pho="? ' a r . b aI . t @ s t" /><w orth="meinetwegen" pho="m ' aI . n @ t . v e: . g @ n" /><w orth="reinbringen" pho="r ' aI n . b r I N . @ n" /><w orth="erstmalige" pho="? E r s t . m ' a: . l I . g @" /><w orth="straffrei" pho="S t r a f . r ' aI" /><w orth="verwerflich" pho="f 6 . v ' E6 f . f l I C" /><w orth="kannste" pho="k ' a n s . t @" /><w orth="anschafft" pho="? ' a n . S a f t" /><w orth="angekobert" pho="? ' a n . g @ . k o . b 6 t" /><w orth="spricht" pho="S p r ' I C t" /><w orth="bock" pho="b ' O k" /><w orth="behörde" pho="b @ . h ' 2:6 . d @" /><w orth="gearbeitet" pho="g @ . ? ' a r . b aI . t @ t" /><w orth="herbertstraße" pho="h ' E6 . b @ n . r t S t r a: . s @" /><w orth="bekannte" pho="b @ . k ' a n . t @" /><w orth="bessere" pho="b ' E s . @ . r @" /><w orth="freier" pho="f r ' aI . 6" /><w orth="straße" pho="S t r ' a: . s @" /><w orth="kobern" pho="k ' o . b 6 n" /><w orth="zwanzig" pho="ts v ' a n . ts I C" /><w orth="teilweise" pho="t ' aI l . v aI . z @" /><w orth="zeehn" pho="ts ' e: . @ n" /><w orth="sogar" pho="z o . g ' a:6" /><w orth="welche" pho="v ' E l . C @" /><w orth="kriegst" pho="k r ' i: k s t" /><w orth="schnitt" pho="S n ' I t" /><w orth="fünfunddreißig" pho="f ' Y n . f U n t . d r aI . s I C" /><w orth="getränkeausschank-" pho="g @ . t r ' E N . k @ . ? aU s . S a N k" /><w orth="-zwang" pho="ts v ' a N" /><w orth="trinken" pho="t r ' I N . k @ n" /><w orth="durchschnittlich" pho="d ' U6 C . S n I t . l I C" /><w orth="je" pho="j ' e" /><w orth="nachdem" pho="n a: x . d ' e: m" /><w orth="drei-" pho="d r ' aI" /><w orth="vier-" pho="f ' i:6" /><w orth="hand" pho="h ' a n t" /><w orth="mund" pho="m ' U n t" /><w orth="zweihundert" pho="ts v ' aI . h U n . d 6 t" /><w orth="verschickern" pho="f ' E6 . z I C . I k . 6 n" /><w orth="tag" pho="t ' a: k" /><w orth="naht" pho="n ' a: t" /><w orth="denk" pho="d ' E N k" /><w orth="paar" pho="p ' a: r" /><w orth="zurücklegen" pho="ts u . r ' Y k . l e: . g @ n" /><w orth="hegen" pho="h ' e: . g @ n" /><w orth="später" pho="S p ' E: . t 6" /><w orth="grantige" pho="g r ' a n . t I . g @" /><w orth="greifen" pho="g r ' aI . f @ n" /><w orth="ganzen" pho="g ' a n . ts @ n" /><w orth="versaufen" pho="f ' E6 . z o . ? aU . f @ n" /><w orth="bauherren" pho="b ' aU . h E r . @ n" /><w orth="w" pho="v ' e:" /><w orth="gastronomie" pho="g a . S t r o . n o . m ' i:" /><w orth="sankt" pho="z ' a N k t" /><w orth="pauli" pho="p ' aU . l i" /><w orth="bartels" pho="b ' a r . t @ l s" /><w orth="reingegangen" pho="r ' aI n . g @ . g a N . @ n" /><w orth="soliden" pho="z o . l ' i: . d @ n" /><w orth="weise" pho="v ' aI . z @" /><w orth="berufe" pho="b @ . r ' u: . f @" /><w orth="kaufleute" pho="k ' aU . f l OY . t @" /><w orth="bauunternehmer" pho="b ' aU . U n . t 6 . n e: . m 6" /><w orth="rechtsanwälte" pho="r ' E C t s . ? a n . v E l . t @" /><w orth="rechtsanwalt" pho="r ' E C t s . ? a n . v a l t" /><w orth="anfang" pho="? ' a n . f a N" /><w orth="gehabt" pho="g @ . h ' a: p t" /><w orth="lediglich" pho="l ' e: . d I k . l I C" /><w orth="verträge" pho="f E6 . t r ' E: . g @" /><w orth="aufgesetzt" pho="? ' aU f . g @ . z E t s t" /><w orth="ausgestiegen" pho="? ' aU s . g @ s . t i: . g @ n" /><w orth="wohl" pho="v ' o: l" /><w orth="millionenprojekt" pho="m I l . j ' o: . n @ n . p r o . j E k t" /><w orth="konsortium" pho="k O n . z ' O6 . ts j U m" /><w orth="blauen" pho="b l ' aU . @ n" /><w orth="dunst" pho="d ' U n s t" /><w orth="hin" pho="h ' I n" /><w orth="vage" pho="v ' a: . g @" /><w orth="vorstellung" pho="f ' o:6 . S t E l . U N" /><w orth="verbot" pho="f E6 . b ' o: t" /><w orth="straßenstrichs" pho="S t r ' a: . s @ n . S t r I C s" /><w orth="bauen" pho="b ' aU . @ n" /><w orth="zusicherungen" pho="ts ' u: . z I C . @ . r U N . @ n" /><w orth="empfehlungen" pho="? E m . p f ' e: . l U N . @ n" /><w orth="jàaa" pho="j a . a . ? ' a" /><w orth="sitte" pho="z ' I t . @" /><w orth="passt" pho="p ' a s t" /><w orth="sowieso" pho="z o . v i . z ' o:" /><w orth="lieb" pho="l ' i: p" /><w orth="solche" pho="z ' O l . C @" /><w orth="häuser" pho="h ' OY . z 6" /><w orth="unter" pho="? ' U n . t 6" /><w orth="kontrolle" pho="k O n . t r ' O l . @" /><w orth="achten" pho="? ' a x . t @ n" /><w orth="drauf" pho="d r ' aU f" /><w orth="weggeraten" pho="v ' E k . g @ . r a: . t @ n" /><w orth="frauen" pho="f r ' aU . @ n" /><w orth="zahlt" pho="ts ' a: l t" /><w orth="besseres" pho="b ' E s . @ . r @ s" /><w orth="zeughausmarkt" pho="ts ' OY k . h aU s . m a r k t" /><w orth="rumkrebsen" pho="r ' U m . k r e: . p s @ n" /><w orth="eros-center" pho="? ' e: . r O s . s E n . t 6" /><w orth="gesehen" pho="g @ . z ' e: . @ n" /><w orth="lief" pho="l ' i: f" /><w orth="weitaus" pho="v ' aI t . ? aU s" /><w orth="tasche" pho="t ' a S . @" /><w orth="springen" pho="S p r ' I N . @ n" /><w orth="gab" pho="g ' a: p" /><w orth="zweihunderfünfzigtausend" pho="ts v ' aI . h U n . d 6 . f Y n f . ts I C . t aU . z @ n t" /><w orth="hinlegen" pho="h ' I n . l e: . g @ n" /><w orth="jahr" pho="j ' a: r" /><w orth="reinziehen" pho="r ' aI n . ts i: . @ n" /><w orth="option" pho="? O p . ts j ' o: n" /><w orth="weitere" pho="v ' aI . t @ . r @" /><w orth="außerdem" pho="? ' aU . s 6 . d e: m" /><w orth="eros" pho="? ' e: . r O s" /><w orth="zweiundzwanzig" pho="t s v ' aI . U n t . t s v a n . t s I C" /><w orth="fuffzig" pho="f ' u: f . ts I C" /><w orth="zwischenzeit" pho="ts v ' I S . @ n . ts aI t" /><w orth="runtergegangen" pho="r ' U n . t 6 . g @ . g a N . @ n" /><w orth="schwein" pho="S v ' aI n" /><w orth="reinkriechen" pho="r ' aI n . k r i: . C @ n" /><w orth="geschieht" pho="g @ . S ' i: t" /><w orth="rausschaffen" pho="r ' aU s . S a . f @ n" /><w orth="sechzig" pho="z ' E C . ts I C" /><w orth="siebzig" pho="z ' i: p . ts I C" /><w orth="schickern" pho="S ' I k . 6 n" /><w orth="angeknackt" pho="? ' a n . g @ . k n a k t" /><w orth="hunderter" pho="h ' U n . d 6 . t 6" /><w orth="soll" pho="z ' O l" /><w orth="rausgeben" pho="r ' aU s . g e: . b @ n" /><w orth="safe" pho="s ' e: f" /><w orth="jaa" pho="j a . ? ' a" /><w orth="nett" pho="n ' E t" /><w orth="liebe" pho="l ' i: . b @" /><w orth="wiederhaben" pho="v ' i: . d 6 . h a: . b @ n" /><w orth="gib" pho="g ' i: p" /><w orth="hät" pho="h ' E t" /><w orth="stoßen" pho="S t ' o: . s @ n" /><w orth="sa" pho="z ' a" /><w orth="nu" pho="n ' U" /><w orth="maschier" pho="m a S . ' i: . @" /><w orth="logisch" pho="l ' o: . g I S" /><w orth="dadrauf" pho="d a . d r ' aU f" /><w orth="einlässt" pho="? ' aI n . l E s t" /><w orth="wiederum" pho="v ' i: . d @ . r U m" /><w orth="drehen" pho="d r ' e: . @ n" /><w orth="irgendeiner" pho="? ' I6 . g @ n t . ? aI . n 6" /><w orth="hals" pho="h ' a l s" /><w orth="gurgel" pho="g t r g ' @ l" /><w orth="renitent" pho="r ' e: . n i . t @ n t" /><w orth="erlebt" pho="? E6 . l ' e: p t" /><w orth="umgelegt" pho="? ' U m . g @ . l e: k t" /><w orth="lude" pho="l ' u: . d @" /></lexicon>

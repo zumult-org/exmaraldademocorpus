@@ -1,0 +1,1400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basic-transcription>
+<head>
+<meta-information><project-name>EXMARaLDA DemoKorpus</project-name><transcription-name>Hart aber fair</transcription-name><referenced-file url="HartAberFair.wav"/><ud-meta-information><ud-information attribute-name="AutoSave">;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_12_11_38_00.exb at 2025_01_12_11_38_00;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_12_11_43_00.exb at 2025_01_12_11_43_00;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_12_11_48_00.exb at 2025_01_12_11_48_00;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_12_11_53_00.exb at 2025_01_12_11_53_00;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_12_11_58_00.exb at 2025_01_12_11_58_00;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_12_12_03_00.exb at 2025_01_12_12_03_00</ud-information></ud-meta-information><comment></comment><transcription-convention>HIAT (simplified)</transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>FP</abbreviation>
+<sex value="m"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+<ud-information attribute-name="Name">Frank Plaßberg</ud-information></ud-speaker-information>
+<comment></comment>
+</speaker>
+<speaker id="SPK1">
+<abbreviation>RP</abbreviation>
+<sex value="m"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+<ud-information attribute-name="Name">Roland Pofalla</ud-information></ud-speaker-information>
+<comment></comment>
+</speaker>
+<speaker id="SPK2">
+<abbreviation>FK</abbreviation>
+<sex value="m"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+<ud-information attribute-name="Name">Constaze Kastenhuber</ud-information></ud-speaker-information>
+<comment></comment>
+</speaker>
+<speaker id="SPK3">
+<abbreviation>FB</abbreviation>
+<sex value="m"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+<ud-information attribute-name="Name">Sonja Barthel</ud-information></ud-speaker-information>
+<comment></comment>
+</speaker>
+<speaker id="SPK4">
+<abbreviation>EK</abbreviation>
+<sex value="m"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+<ud-information attribute-name="Name">Ursula Engelen-Käfer</ud-information></ud-speaker-information>
+<comment></comment>
+</speaker>
+<speaker id="SPK5">
+<abbreviation>HB</abbreviation>
+<sex value="m"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+<ud-information attribute-name="Name">Daniel Bahr</ud-information></ud-speaker-information>
+<comment></comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0" time="0.995"/>
+<tli id="T1" time="3.4866666666666664"/>
+<tli id="T2" time="3.8066666666666666"/>
+<tli id="T3" time="4.06"/>
+<tli id="T4" time="4.513333333333333"/>
+<tli id="T5" time="4.86"/>
+<tli id="T6" time="5.166666666666667"/>
+<tli id="T7" time="5.446666666666666"/>
+<tli id="T8" time="8.553333333333335"/>
+<tli id="T9" time="9.04"/>
+<tli id="T10" time="10.206666666666665"/>
+<tli id="T11" time="11.346666666666666"/>
+<tli id="T12" time="13.053333333333335"/>
+<tli id="T13" time="13.406666666666666"/>
+<tli id="T14" time="14.546666666666667"/>
+<tli id="T15" time="15.013333333333334"/>
+<tli id="T16" time="15.553333333333333"/>
+<tli id="T17" time="22.08"/>
+<tli id="T18" time="23.33666666666667"/>
+<tli id="T19" time="25.166666666666664"/>
+<tli id="T20" time="26.586666666666666"/>
+<tli id="T21" time="26.853333333333335"/>
+<tli id="T22" time="27.10666666666667"/>
+<tli id="T23" time="27.53333333333333"/>
+<tli id="T24" time="29.69333333333333"/>
+<tli id="T25" time="30.203333333333333"/>
+<tli id="T26" time="34.94"/>
+<tli id="T27" time="35.82"/>
+<tli id="T28" time="36.35333333333333"/>
+<tli id="T29" time="37.446666666666665"/>
+<tli id="T30" time="38.15"/>
+<tli id="T31" time="39.026666666666664"/>
+<tli id="T32" time="39.477333333333334" type="intp"/>
+<tli id="T33" time="41.16666666666667"/>
+<tli id="T34" time="41.38"/>
+<tli id="T35" time="41.626666666666665"/>
+<tli id="T36" time="41.99333333333333"/>
+<tli id="T37" time="43.74"/>
+<tli id="T38" time="44.1525" type="intp"/>
+<tli id="T39" time="45.32"/>
+<tli id="T40" time="46.02"/>
+<tli id="T41" time="46.68"/>
+<tli id="T42" time="46.993333333333325"/>
+<tli id="T43" time="52.43"/>
+<tli id="T44" time="52.74"/>
+<tli id="T45" time="53.0"/>
+<tli id="T46" time="54.15333333333333"/>
+<tli id="T47" time="55.013333333333335"/>
+<tli id="T48" time="56.65"/>
+<tli id="T49" time="57.04666666666667"/>
+<tli id="T50" time="60.875"/>
+<tli id="T51" time="61.28"/>
+<tli id="T52" time="62.36222005208333"/>
+<tli id="T53" time="62.78"/>
+<tli id="T54" time="63.29333333333334"/>
+<tli id="T55" time="63.64"/>
+<tli id="T56" time="67.47477213541667"/>
+<tli id="T57" time="68.48837890625"/>
+<tli id="T58" time="69.72666666666667"/>
+<tli id="T59" time="70.11333333333334"/>
+<tli id="T60" time="71.52"/>
+<tli id="T61" time="72.16666666666667"/>
+<tli id="T62" time="72.5"/>
+<tli id="T63" time="72.85333333333334"/>
+<tli id="T64" time="73.41"/>
+<tli id="T65" time="75.16"/>
+<tli id="T66" time="75.5"/>
+<tli id="T67" time="75.80756510416666"/>
+<tli id="T68" time="76.24"/>
+<tli id="T69" time="79.7375"/>
+<tli id="T70" time="80.53333333333333"/>
+<tli id="T71" time="84.43333333333334"/>
+<tli id="T72" time="85.02"/>
+<tli id="T73" time="87.89333333333333"/>
+<tli id="T74" time="88.57333333333334"/>
+<tli id="T75" time="90.36"/>
+<tli id="T76" time="90.66"/>
+<tli id="T77" time="91.03333333333333"/>
+<tli id="T78" time="91.47333333333333"/>
+<tli id="T79" time="91.74666666666667"/>
+<tli id="T80" time="93.0125"/>
+<tli id="T81" time="93.4"/>
+<tli id="T82" time="94.7125"/>
+<tli id="T83" time="95.02"/>
+<tli id="T84" time="95.875"/>
+<tli id="T85" time="97.66"/>
+<tli id="T86" time="97.81766927083333"/>
+<tli id="T87" time="98.14649739583332"/>
+<tli id="T88" time="98.30416666666667"/>
+<tli id="T89" time="99.96"/>
+<tli id="T90" time="100.475"/>
+<tli id="T91" time="103.875"/>
+<tli id="T92" time="104.36666666666667"/>
+<tli id="T93" time="104.6243359375"/>
+<tli id="T94" time="105.15333333333334"/>
+<tli id="T95" time="105.67333333333333"/>
+<tli id="T96" time="106.59333333333335"/>
+<tli id="T97" time="106.77333333333334" type="intp"/>
+<tli id="T98" time="107.49666666666666"/>
+<tli id="T99" time="108.57333333333334"/>
+<tli id="T100" time="108.91249999999998"/>
+<tli id="T101" time="111.53333333333333"/>
+<tli id="T102" time="111.768" type="intp"/>
+<tli id="T103" time="112.12"/>
+<tli id="T104" time="115.20666666666666"/>
+<tli id="T105" time="115.57333333333332"/>
+<tli id="T106" time="119.53750000000001"/>
+<tli id="T107" time="123.25"/>
+<tli id="T108" time="125.47999999999999"/>
+<tli id="T109" time="125.75766927083335"/>
+<tli id="T110" time="132.0875"/>
+<tli id="T111" time="132.4680424528302" type="intp"/>
+<tli id="T112" time="137.30666666666664"/>
+<tli id="T113" time="138.0066666666667"/>
+<tli id="T114" time="140.9625"/>
+<tli id="T115" time="144.36666666666665"/>
+<tli id="T116" time="144.9625"/>
+<tli id="T117" time="146.7875"/>
+<tli id="T118" time="152.06"/>
+<tli id="T119" time="152.62666666666667"/>
+<tli id="T120" time="156.53631510416665"/>
+<tli id="T121" time="157.325"/>
+<tli id="T122" time="157.76666666666668"/>
+<tli id="T123" time="161.5533333333333"/>
+<tli id="T124" time="162.98"/>
+<tli id="T125" time="163.25333333333333"/>
+<tli id="T126" time="164.13333333333335"/>
+<tli id="T127" time="167.14"/>
+<tli id="T128" time="167.59719806763283" type="intp"/>
+<tli id="T129" time="171.64666666666665"/>
+<tli id="T130" time="171.96666666666667"/>
+<tli id="T131" time="176.32"/>
+<tli id="T132" time="176.53" type="intp"/>
+<tli id="T133" time="178.33"/>
+<tli id="T134" time="178.782734375"/>
+<tli id="T135" time="180.44666666666666"/>
+<tli id="T136" time="180.6649609375"/>
+<tli id="T137" time="181.33333333333331"/>
+<tli id="T138" time="181.62666666666667"/>
+<tli id="T139" time="182.97333333333333"/>
+<tli id="T140" time="183.16"/>
+<tli id="T141" time="185.20666666666668"/>
+<tli id="T142" time="185.66510416666665"/>
+<tli id="T143" time="189.09411764705882"/>
+<tli id="T144" time="194.52666666666667"/>
+<tli id="T145" time="194.9529411764706"/>
+<tli id="T146" time="200.60666666666668"/>
+<tli id="T147" time="200.9764705882353"/>
+<tli id="T148" time="201.64414062499998"/>
+<tli id="T149" time="202.1"/>
+<tli id="T150" time="205.1665625"/>
+<tli id="T151" time="206.14666666666665"/>
+<tli id="T152" time="206.68235294117645"/>
+<tli id="T153" time="213.63333333333335"/>
+<tli id="T154" time="219.1866666666667"/>
+<tli id="T155" time="220.54"/>
+<tli id="T156" time="222.89411764705883"/>
+<tli id="T157" time="223.4"/>
+<tli id="T158" time="229.44705882352943"/>
+<tli id="T159" time="229.81976562500003"/>
+<tli id="T160" time="232.52000000000004"/>
+<tli id="T161" time="232.83999999999997"/>
+<tli id="T162" time="236.88235294117644"/>
+<tli id="T163" time="237.18352941176468" type="intp"/>
+<tli id="T164" time="240.44666666666666"/>
+<tli id="T165" time="240.6682291666667"/>
+<tli id="T166" time="241.07205729166665"/>
+<tli id="T167" time="241.81333333333333"/>
+<tli id="T168" time="243.12510416666666"/>
+<tli id="T169" time="245.00000000000003"/>
+<tli id="T170" time="246.17458333333335"/>
+<tli id="T171" time="246.71764705882353"/>
+<tli id="T172" time="246.9553125"/>
+<tli id="T173" time="252.44"/>
+<tli id="T174" time="252.83333333333334"/>
+<tli id="T175" time="254.42"/>
+<tli id="T176" time="256.29"/>
+<tli id="T177" time="256.94666666666666"/>
+<tli id="T178" time="257.32"/>
+<tli id="T179" time="258.47"/>
+<tli id="T180" time="259.05"/>
+<tli id="T181" time="260.1"/>
+<tli id="T182" time="260.28"/>
+<tli id="T183" time="260.81"/>
+<tli id="T184" time="261.34666666666664"/>
+<tli id="T185" time="262.25333333333333"/>
+<tli id="T186" time="262.765546875"/>
+<tli id="T187" time="262.9133333333333"/>
+<tli id="T188" time="263.7"/>
+<tli id="T189" time="264.68"/>
+<tli id="T190" time="265.4633333333333"/>
+<tli id="T191" time="268.315671641791" type="intp"/>
+<tli id="T192" time="268.65"/>
+<tli id="T193" time="273.9222222222222" type="intp"/>
+<tli id="T194" time="274.32222222222225"/>
+<tli id="T195" time="276.98888888888894"/>
+<tli id="T196" time="277.3133333333334"/>
+<tli id="T197" time="277.7666666666667"/>
+<tli id="T198" time="279.14666666666665"/>
+<tli id="T199" time="281.6222222222222"/>
+<tli id="T200" time="283.65555555555557"/>
+<tli id="T201" time="285.68888888888887"/>
+<tli id="T202" time="285.94878048780487" type="intp"/>
+<tli id="T203" time="287.2111111111111"/>
+<tli id="T204" time="289.3266666666667"/>
+<tli id="T205" time="289.5886197916667"/>
+<tli id="T206" time="291.491640625"/>
+<tli id="T207" time="291.67546875"/>
+<tli id="T208" time="292.5888888888889"/>
+<tli id="T209" time="295.2777777777778"/>
+<tli id="T210" time="295.5316993464053" type="intp"/>
+<tli id="T211" time="298.9777777777778"/>
+<tli id="T212" time="299.3209635416667"/>
+<tli id="T213" time="302.1333333333333"/>
+<tli id="T214" time="304.77777777777777"/>
+<tli id="T215" time="306.04" type="intp"/>
+<tli id="T216" time="306.35555555555555"/>
+<tli id="T217" time="310.8466666666667"/>
+<tli id="T218" time="312.79333333333335"/>
+<tli id="T219" time="313.03111979166664"/>
+<tli id="T220" time="314.993621399177" type="intp"/>
+<tli id="T221" time="315.28888888888895"/>
+<tli id="T222" time="318.6241054613936" type="intp"/>
+<tli id="T223" time="318.9"/>
+<tli id="T224" time="320.7555555555556"/>
+<tli id="T225" time="323.1097222222223" type="intp"/>
+<tli id="T226" time="323.32"/>
+<tli id="T227" time="324.584140625"/>
+<tli id="T228" time="324.81111111111113"/>
+<tli id="T229" time="326.3883333333333"/>
+<tli id="T230" time="328.83333333333337"/>
+<tli id="T231" time="330.9777864583333"/>
+<tli id="T232" time="331.235546875"/>
+<tli id="T233" time="332.71111111111105"/>
+<tli id="T234" time="334.2782222222222" type="intp"/>
+<tli id="T235" time="334.53333333333336"/>
+<tli id="T236" time="334.9555989583333"/>
+<tli id="T237" time="336.9375"/>
+<tli id="T238" time="343.4375"/>
+<tli id="T239" time="345.5576302083333"/>
+<tli id="T240" time="346.3"/>
+<tli id="T241" time="349.6066666666667"/>
+<tli id="T242" time="351.62026808785527" type="intp"/>
+<tli id="T243" time="351.9222222222222"/>
+<tli id="T244" time="352.8185416666667"/>
+<tli id="T245" time="353.1448958333333"/>
+<tli id="T246" time="353.8"/>
+<tli id="T247" time="354.3133333333334"/>
+<tli id="T248" time="356.01111979166666"/>
+<tli id="T249" time="356.446953125"/>
+<tli id="T250" time="360.1666666666667"/>
+<tli id="T251" time="362.165625" type="intp"/>
+<tli id="T252" time="362.444453125"/>
+<tli id="T253" time="365.9133333333333"/>
+<tli id="T254" time="367.5230729166667"/>
+<tli id="T255" time="367.9222916666667"/>
+<tli id="T256" time="368.5111111111111"/>
+<tli id="T257" time="368.7574074074074" type="intp"/>
+<tli id="T258" time="369.7377864583333"/>
+<tli id="T259" time="369.9866666666667"/>
+<tli id="T260" time="370.2559895833333"/>
+<tli id="T261" time="371.3666666666667"/>
+<tli id="T262" time="374.6066666666667"/>
+<tli id="T263" time="375.5111111111111"/>
+<tli id="T264" time="378.32222222222225"/>
+<tli id="T265" time="378.562109375"/>
+<tli id="T266" time="380.36900584795325" type="intp"/>
+<tli id="T267" time="380.68888020833333"/>
+<tli id="T268" time="382.324453125"/>
+<tli id="T269" time="382.5266666666667"/>
+<tli id="T270" time="385.49333333333334"/>
+<tli id="T271" time="386.0666666666666"/>
+<tli id="T272" time="388.53333333333336"/>
+<tli id="T273" time="389.5733333333333"/>
+<tli id="T274" time="392.9387239583333"/>
+<tli id="T275" time="394.23333333333335"/>
+<tli id="T276" time="394.4809523809524" type="intp"/>
+<tli id="T277" time="395.1"/>
+<tli id="T278" time="395.66666666666663"/>
+<tli id="T279" time="396.71666666666664"/>
+<tli id="T280" time="397.26"/>
+<tli id="T281" time="401.34"/>
+<tli id="T282" time="401.6133333333333"/>
+<tli id="T283" time="404.44000000000005"/>
+<tli id="T284" time="406.9333333333334"/>
+<tli id="T285" time="407.4166666666667"/>
+<tli id="T286" time="407.68666666666667"/>
+<tli id="T287" time="407.9266666666666"/>
+<tli id="T288" time="408.62999999999994"/>
+<tli id="T289" time="408.8"/>
+<tli id="T290" time="411.73333333333335"/>
+<tli id="T291" time="412.95"/>
+<tli id="T292" time="413.25333333333333"/>
+<tli id="T293" time="413.5799999999999"/>
+<tli id="T294" time="415.7035220125786" type="intp"/>
+<tli id="T295" time="416.0266666666667"/>
+<tli id="T296" time="417.6"/>
+<tli id="T297" time="417.98"/>
+<tli id="T298" time="418.6119010416666"/>
+<tli id="T299" time="419.52"/>
+<tli id="T300" time="424.28"/>
+<tli id="T301" time="424.82"/>
+<tli id="T302" time="425.05333333333334"/>
+<tli id="T303" time="425.3933333333333"/>
+<tli id="T304" time="425.84"/>
+<tli id="T305" time="425.9914322916667"/>
+<tli id="T306" time="426.32000000000005"/>
+<tli id="T307" time="426.6"/>
+<tli id="T308" time="427.0733333333333"/>
+<tli id="T309" time="427.5333333333333"/>
+<tli id="T310" time="428.49333333333334"/>
+<tli id="T311" time="428.88"/>
+<tli id="T312" time="429.4533333333334"/>
+<tli id="T313" time="429.8933333333333"/>
+<tli id="T314" time="433.53333333333336"/>
+<tli id="T315" time="434.2227864583333"/>
+<tli id="T316" time="436.60388020833335"/>
+<tli id="T317" time="437.0333333333333"/>
+<tli id="T318" time="439.70666666666665"/>
+<tli id="T319" time="440.3866666666667"/>
+<tli id="T320" time="440.6630303030303" type="intp"/>
+<tli id="T321" time="441.34666666666664"/>
+<tli id="T322" time="441.96"/>
+<tli id="T323" time="443.27929824561403" type="intp"/>
+<tli id="T324" time="443.92036458333337"/>
+<tli id="T325" time="444.89538013059706" type="intp"/>
+<tli id="T326" time="447.4733333333333"/>
+<tli id="T327" time="447.8"/>
+<tli id="T328" time="450.8"/>
+<tli id="T329" time="451.21776041666664"/>
+<tli id="T330" time="452.4133333333333"/>
+<tli id="T331" time="452.7333333333333"/>
+<tli id="T332" time="454.4866666666667"/>
+<tli id="T333" time="454.7866666666667"/>
+<tli id="T334" time="456.96302083333336"/>
+<tli id="T335" time="457.4"/>
+<tli id="T336" time="457.66"/>
+<tli id="T337" time="458.64666666666665"/>
+<tli id="T338" time="460.20000000000005"/>
+<tli id="T339" time="461.8391666666667"/>
+<tli id="T340" time="463.84999999999997"/>
+<tli id="T341" time="465.59999999999997"/>
+<tli id="T342" time="466.08"/>
+<tli id="T343" time="466.65697916666664"/>
+<tli id="T344" time="468.02494791666663"/>
+<tli id="T345" time="468.30708333333337"/>
+<tli id="T346" time="468.6375"/>
+<tli id="T347" time="469.15760416666666"/>
+<tli id="T348" time="470.67500000000007"/>
+<tli id="T349" time="471.23999999999995"/>
+<tli id="T350" time="471.9365104166667"/>
+<tli id="T351" time="472.08489583333335"/>
+<tli id="T352" time="473.18666666666667"/>
+<tli id="T353" time="474.0733333333333"/>
+<tli id="T354" time="475.7333333333333"/>
+<tli id="T355" time="476.051875"/>
+<tli id="T356" time="477.4666666666667"/>
+<tli id="T357" time="477.99921875000007"/>
+<tli id="T358" time="480.70000000000005"/>
+<tli id="T359" time="481.80703125"/>
+<tli id="T360" time="484.14"/>
+<tli id="T361" time="485.3500000000001"/>
+<tli id="T362" time="485.6194791666667"/>
+<tli id="T363" time="485.9052083333333"/>
+<tli id="T364" time="486.1268229166667"/>
+<tli id="T365" time="486.99000000000007"/>
+<tli id="T366" time="487.18765625"/>
+<tli id="T367" time="487.85999999999996"/>
+<tli id="T368" time="488.0733333333334"/>
+<tli id="T369" time="490.85"/>
+<tli id="T370" time="491.08145833333333"/>
+<tli id="T371" time="493.36"/>
+<tli id="T372" time="493.7466666666666"/>
+<tli id="T373" time="494.2443229166667"/>
+<tli id="T374" time="497.15"/>
+<tli id="T375" time="497.7733333333333"/>
+<tli id="T376" time="500.35999999999996"/>
+<tli id="T377" time="500.9615104166666"/>
+<tli id="T378" time="502.25"/>
+<tli id="T379" time="505.1066666666666"/>
+<tli id="T380" time="508.66"/>
+<tli id="T381" time="509.3866666666667"/>
+<tli id="T382" time="509.6"/>
+<tli id="T383" time="510.18"/>
+<tli id="T384" time="512.0533333333333"/>
+<tli id="T385" time="512.4333333333333"/>
+<tli id="T386" time="512.83"/>
+<tli id="T387" time="513.0716666666666"/>
+<tli id="T388" time="513.74"/>
+<tli id="T389" time="514.45"/>
+<tli id="T390" time="515.28"/>
+<tli id="T391" time="515.5999999999999"/>
+<tli id="T392" time="515.95"/>
+<tli id="T393" time="517.4000000000001"/>
+<tli id="T394" time="517.73"/>
+<tli id="T395" time="518.41"/>
+<tli id="T396" time="519.41"/>
+<tli id="T397" time="520.63"/>
+<tli id="T398" time="521.0205729166667"/>
+<tli id="T399" time="521.15"/>
+<tli id="T400" time="522.02"/>
+<tli id="T401" time="522.6"/>
+<tli id="T402" time="523.64"/>
+<tli id="T403" time="525.1"/>
+<tli id="T404" time="525.6533333333334"/>
+<tli id="T405" time="525.9"/>
+<tli id="T406" time="526.6111111111111" type="intp"/>
+<tli id="T407" time="527.5"/>
+<tli id="T408" time="531.44"/>
+<tli id="T409" time="532.3066666666666"/>
+<tli id="T410" time="534.09"/>
+<tli id="T411" time="534.4319791666668"/>
+<tli id="T412" time="534.98"/>
+<tli id="T413" time="535.3208854166667"/>
+<tli id="T414" time="535.7933333333334"/>
+<tli id="T415" time="536.5511979166666"/>
+<tli id="T416" time="536.94234375"/>
+<tli id="T417" time="537.31796875"/>
+<tli id="T418" time="537.5403125"/>
+<tli id="T419" time="539.3696153846154" type="intp"/>
+<tli id="T420" time="539.69"/>
+<tli id="T421" time="540.58"/>
+<tli id="T422" time="540.908" type="intp"/>
+<tli id="T423" time="541.72"/>
+<tli id="T424" time="542.2266666666666"/>
+<tli id="T425" time="542.65"/>
+<tli id="T426" time="544.4133333333334"/>
+<tli id="T427" time="544.69"/>
+<tli id="T428" time="547.05"/>
+<tli id="T429" time="550.2933333333333"/>
+<tli id="T430" time="550.5533333333334"/>
+<tli id="T431" time="552.46"/>
+<tli id="T432" time="552.8434782608696" type="intp"/>
+<tli id="T433" time="553.5733333333333"/>
+<tli id="T434" time="556.24"/>
+<tli id="T435" time="556.49078125"/>
+<tli id="T436" time="559.451875"/>
+<tli id="T437" time="560.39"/>
+<tli id="T438" time="560.76"/>
+<tli id="T439" time="563.7333333333333"/>
+<tli id="T440" time="564.1733333333334"/>
+<tli id="T441" time="564.62"/>
+<tli id="T442" time="565.98"/>
+<tli id="T443" time="567.1333333333332"/>
+<tli id="T444" time="567.310406504065" type="intp"/>
+<tli id="T445" time="568.8533333333332"/>
+<tli id="T446" time="569.5666666666667"/>
+<tli id="T447" time="569.8333333333334"/>
+<tli id="T448" time="570.1"/>
+<tli id="T449" time="571.2266666666666"/>
+<tli id="T450" time="571.56"/>
+<tli id="T451" time="572.6533333333334"/>
+<tli id="T452" time="573.2"/>
+<tli id="T453" time="574.7133333333334"/>
+<tli id="T454" time="575.6466666666666"/>
+<tli id="T455" time="575.9333333333334"/>
+<tli id="T456" time="576.3666666666667"/>
+<tli id="T457" time="577.1466666666668"/>
+<tli id="T458" time="577.4133333333334"/>
+<tli id="T459" time="577.6"/>
+<tli id="T460" time="578.5666666666666"/>
+<tli id="T461" time="578.9933333333333" type="intp"/>
+<tli id="T462" time="579.26"/>
+<tli id="T463" time="579.425625"/>
+<tli id="T464" time="580.4066666666666"/>
+<tli id="T465" time="580.6466666666668"/>
+<tli id="T466" time="582.56"/>
+<tli id="T467" time="583.0266666666666"/>
+<tli id="T468" time="583.2466666666668"/>
+<tli id="T469" time="584.3965104166666"/>
+<tli id="T470" time="586.9533333333333"/>
+<tli id="T471" time="587.6133333333333"/>
+<tli id="T472" time="588.3866666666668"/>
+<tli id="T473" time="590.5225520833334"/>
+<tli id="T474" time="590.9178645833334"/>
+<tli id="T475" time="592.8133333333334"/>
+<tli id="T476" time="592.9466666666666"/>
+<tli id="T477" time="593.5725490196079" type="intp"/>
+<tli id="T478" time="594.0666666666667"/>
+<tli id="T479" time="595.7"/>
+<tli id="T480" time="597.2266666666667"/>
+<tli id="T481" time="598.3066666666666"/>
+<tli id="T482" time="598.6333333333333"/>
+<tli id="T483" time="601.16"/>
+<tli id="T484" time="602.72"/>
+<tli id="T485" time="604.0666666666666"/>
+<tli id="T486" time="604.29515625"/>
+<tli id="T487" time="605.38"/>
+<tli id="T488" time="606.0466666666666"/>
+<tli id="T489" time="735.825"/>
+<tli id="T490" time="739.7181818181817"/>
+<tli id="T491" time="742.0666666666666"/>
+<tli id="T492" time="743.0181818181819"/>
+<tli id="T493" time="743.5496875"/>
+<tli id="T494" time="743.9377083333334"/>
+<tli id="T495" time="748.0272727272727"/>
+<tli id="T496" time="748.3707291666666"/>
+<tli id="T497" time="751.08"/>
+<tli id="T498" time="753.409090909091"/>
+<tli id="T499" time="753.7832291666666"/>
+<tli id="T500" time="756.2"/>
+<tli id="T501" time="757.4818181818181"/>
+<tli id="T502" time="758.78"/>
+<tli id="T503" time="759.2134375"/>
+<tli id="T504" time="759.8163020833334"/>
+<tli id="T505" time="761.0090909090908"/>
+<tli id="T506" time="763.3545454545454"/>
+<tli id="T507" time="763.7354166666667"/>
+<tli id="T508" time="767.5266666666666"/>
+<tli id="T509" time="770.2066666666667"/>
+<tli id="T510" time="773.2181818181817"/>
+<tli id="T511" time="775.5272727272727"/>
+<tli id="T512" time="775.8818181818181"/>
+<tli id="T513" time="776.0545454545454"/>
+<tli id="T514" time="776.2818181818183"/>
+<tli id="T515" time="777.2363636363636"/>
+<tli id="T516" time="777.8933333333333"/>
+<tli id="T517" time="781.8933333333333"/>
+<tli id="T518" time="782.2086980920315" type="intp"/>
+<tli id="T519" time="782.4866666666667"/>
+<tli id="T520" time="782.94"/>
+<tli id="T521" time="783.2843229166666"/>
+<tli id="T522" time="783.6066666666667"/>
+<tli id="T523" time="783.98"/>
+<tli id="T524" time="784.2894270833333"/>
+<tli id="T525" time="785.5385036399148" type="intp"/>
+<tli id="T526" time="786.0272727272727"/>
+<tli id="T527" time="786.46"/>
+<tli id="T528" time="800.0"/>
+<tli id="T529" time="800.182"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK0" category="v" type="t" display-name="FP [v]"><event start="T0" end="T1">Herr Pofalla wissen Sie, was im Moment n Liter Diesel kostet? </event>
+<event start="T3" end="T4">• • </event>
+<event start="T4" end="T5">Wieviel? </event>
+<event start="T8" end="T9">• • </event>
+<event start="T9" end="T10">Eins dreiunddreißig sinds. </event>
+<event start="T10" end="T11">So ist der Bundesdurchschnitt </event>
+<event start="T11" end="T12">Sie ham vielleicht ne günstige Tankstelle in Berlin. </event>
+<event start="T12" end="T13">((atmet ein)) </event>
+<event start="T13" end="T14">Was macht das mit Ihrem Budget? </event>
+<event start="T17" end="T18">((1,3s)) </event>
+<event start="T18" end="T19">Wie das frag ich lieber Frau Kastenhuber. </event>
+<event start="T19" end="T20">Wie wirkt sich die Dieselpreiserhöhung auf </event>
+<event start="T20" end="T21">Sie </event>
+<event start="T21" end="T22">aus? </event>
+<event start="T29" end="T30">• • • </event>
+<event start="T30" end="T31">Es ist nicht mehr drin. </event>
+<event start="T33" end="T34">• • </event>
+<event start="T34" end="T35">Ḿhm̀˙ </event>
+<event start="T35" end="T36">• • </event>
+<event start="T36" end="T37">Ich spar mir jetzt das Kompliment, was man auch machen </event>
+<event start="T37" end="T38">könnte. </event>
+<event start="T38" end="T39">Lassen wirs einfach mal. </event>
+<event start="T39" end="T40">((atmet ein)) </event>
+<event start="T40" end="T41">Ähmm˙ </event>
+<event start="T41" end="T42">• • </event>
+<event start="T42" end="T43">Frau Bartel der Dieselpreis für Kastenhubers das sind für Sie die Energiekosten Strom und Heizung. </event>
+<event start="T43" end="T44">((atmet ein)) </event>
+<event start="T44" end="T45">Und </event>
+<event start="T45" end="T46">die sind in den letzten Jahren um </event>
+<event start="T46" end="T47">fünfundsechzig </event>
+<event start="T47" end="T48">Prozent • • gestiegen. </event>
+<event start="T48" end="T49">Wie v</event>
+<event start="T49" end="T50">erändern diese gestiegenen • Heiz- und und Stromkosten Ihr Leben? </event>
+<event start="T61" end="T62">• • </event>
+<event start="T62" end="T63">Wie mach</event>
+<event start="T63" end="T64">en Sie das denn? </event>
+<event start="T75" end="T76">• • </event>
+<event start="T76" end="T77">Ḿhm̀˙ </event>
+<event start="T77" end="T78">• • </event>
+<event start="T78" end="T79">((atmet ein)) </event>
+<event start="T79" end="T80">Das ist keine Marotte, sondern </event>
+<event start="T80" end="T81">äh… </event>
+<event start="T82" end="T83">• • </event>
+<event start="T83" end="T84">Weil Sie sonst nich hinkommen? </event>
+<event start="T85" end="T86">• </event>
+<event start="T86" end="T87">Ḿhm̀˙ </event>
+<event start="T91" end="T92">Euro. </event>
+<event start="T99" end="T100">((atmet ein)) </event>
+<event start="T100" end="T101">Wie das genau bei Ihnen mit den Finanzen aussieht, das gucken wir uns äh </event>
+<event start="T101" end="T102">gleich </event>
+<event start="T102" end="T103">noch mal an. </event>
+<event start="T103" end="T104">Herr Pofalla es berichteten eine ehemalige Buchhändlerin </event>
+<event start="T104" end="T105">((atmet ein)) </event>
+<event start="T105" end="T106">und eine arbeitende Mutter von drei Kindern aus einem Doppelverdienerhaushalt. </event>
+<event start="T106" end="T107">Wie würden Sie jetzt die Frage beantworten "Wie geht es der Mittelschicht in Deutschland"? </event>
+<event start="T107" end="T108">Sie sind da eingerahmt • • von der Mittelschicht. </event>
+<event start="T129" end="T130">Sie sprechen </event>
+<event start="T130" end="T131">jetzt über eine Politik von mehreren Jahrzehnten, aber Sie waren ja nicht im Ausland und sind jetzt gerade zurückgekommen </event>
+<event start="T131" end="T132">und stel</event>
+<event start="T132" end="T133">len das fest, sondern Sie waren dabei auch. </event>
+<event start="T133" end="T134">((unv.)) </event>
+<event start="T135" end="T136">(Ja). </event>
+<event start="T139" end="T140">(Ja). </event>
+<event start="T153" end="T154">F/ Frau Engelen-Käfer äh ich hab eben diese Schlagzeile aus em Kölner Stadtanzeiger zitiert: </event>
+<event start="T154" end="T155">"Der Absturz der Mittelschicht.". </event>
+<event start="T155" end="T156">Is • • das in Ihren Augen so dramatisch wies klingt? </event>
+<event start="T175" end="T176">Da sind Sie ja gerade in der großen Koalition </event>
+<event start="T176" end="T177">ähm Po</event>
+<event start="T177" end="T178">falla </event>
+<event start="T178" end="T179">auch mit diesem Statement. </event>
+<event start="T179" end="T180">Herr Bahr… </event>
+<event start="T182" end="T183">Is klar. </event>
+<event start="T187" end="T188">Geschenkt. </event>
+<event start="T189" end="T190">Herr Bahr haben </event>
+<event start="T190" end="T191">Sie eigentlich eine Erklärung dafür, warum in diesem Land so </event>
+<event start="T191" end="T192">((atmet ein)) </event>
+<event start="T192" end="T193">so erbittert über Hartz Vier diskutiert worden ist, leidenschaftlich sicher auch in Teilen berechtigt, </event>
+<event start="T193" end="T194">((atmet ein)) </event>
+<event start="T194" end="T195">aber dass diese sogenannte Mittelschicht so lange stillgehalten hat? </event>
+<event start="T238" end="T239">Sie haben meine Frage nur in Teilen beantwortet. </event>
+<event start="T239" end="T240">Sie haben gesacht, </event>
+<event start="T240" end="T241">äh auch wir sind Schuld daran von Hart aber fair, dass wir so wenig Sendungen darüber gemacht haben. </event>
+<event start="T241" end="T242">Man kann Sendungen über Themen machen, </event>
+<event start="T242" end="T243">((atmet ein)) </event>
+<event start="T243" end="T244">die auch Menschen </event>
+<event start="T244" end="T245">spüren. </event>
+<event start="T245" end="T246">Deswegen möcht ich Frau </event>
+<event start="T246" end="T247">Kastenhuber </event>
+<event start="T247" end="T248">mal ffragen, ähm </event>
+<event start="T248" end="T249">((atmet ein)) </event>
+<event start="T249" end="T250">warum von den Kastenhubers dieser Welt so lange nichts • • • zu hören war. </event>
+<event start="T250" end="T251">Lags vielleicht daran, dass Sie sich nicht getraut haben </event>
+<event start="T251" end="T252">((atmet ein)) </event>
+<event start="T252" end="T253">zu sagen, dass Sie mit dreitausendfünfhundert euro netto kaum hinkommen, </event>
+<event start="T253" end="T254">dass das ne Zahl is, die Ihnen selbst so hoch </event>
+<event start="T254" end="T255">erscheint, </event>
+<event start="T255" end="T256">dass Sie sagen </event>
+<event start="T256" end="T257">((atmet ein)) </event>
+<event start="T257" end="T258">kann man nicht mit rausgehen. </event>
+<event start="T277" end="T278">Ḿhm̀˙ </event>
+<event start="T285" end="T286">Vielleich</event>
+<event start="T286" end="T287">t ((unv.))… </event>
+<event start="T289" end="T290">Vielleicht äh Politiker sind immer äh dann auch richtig bei der Sache, </event>
+<event start="T290" end="T291">wenn sie n Haushaltsplan sehen. </event>
+<event start="T291" end="T292">Vielleicht </event>
+<event start="T292" end="T293">sollte </event>
+<event start="T293" end="T294">man den Haushaltsplan der Familie Kastenhuber </event>
+<event start="T294" end="T295">((atmet ein)) </event>
+<event start="T295" end="T296">den aktuellen mal offenlegen, </event>
+<event start="T296" end="T297">((atmet ein)) </event>
+<event start="T297" end="T298">um zu be… </event>
+<event start="T298" end="T299">Können Sie das überhaupt glauben, </event>
+<event start="T299" end="T300">dass man von dreitausendfünfhundert euro netto ähm mit ner Familie drei Kinder(n) nicht hinkommt? </event>
+<event start="T300" end="T301">Können sie das glau</event>
+<event start="T301" end="T302">ben? </event>
+<event start="T304" end="T305">(Wo </event>
+<event start="T305" end="T306">macht) ((unv.))… </event>
+<event start="T380" end="T381">• • • </event>
+<event start="T381" end="T382">Und dann </event>
+<event start="T382" end="T383">ham Sie geholfen, </event>
+<event start="T383" end="T384">ham Sie noch geholfen in der Fabrik wahrscheinlich. </event>
+<event start="T384" end="T385">((atmet ein)) </event>
+<event start="T385" end="T386">(Ich woll)… </event>
+<event start="T386" end="T387">Es </event>
+<event start="T387" end="T388">warn aber auch </event>
+<event start="T388" end="T389">andere Zeiten. </event>
+<event start="T389" end="T390">Das muss man ja auch mal… </event>
+<event start="T391" end="T392">Da/ </event>
+<event start="T392" end="T393">dass Sie da viel leisten mussten </event>
+<event start="T393" end="T394">is ja klar, </event>
+<event start="T394" end="T395">aber ich denke, dass Sie sich </event>
+<event start="T395" end="T396">mit den Kastenhubers. </event>
+<event start="T401" end="T402">Ham sie den letzten Satz </event>
+<event start="T402" end="T403">gehört "Da war mehr Menschlichkeit"? </event>
+<event start="T403" end="T404">((unv.))… </event>
+<event start="T452" end="T453">(Und) tun Sie/ tun Sie mir einen Ge</event>
+<event start="T453" end="T454">fallen, wenn Sie alles gut machen </event>
+<event start="T454" end="T455">wollen, </event>
+<event start="T455" end="T456">dann tun Sie es </event>
+<event start="T456" end="T457">unserm Toninge</event>
+<event start="T457" end="T458">nieur </event>
+<event start="T458" end="T459">nicht </event>
+<event start="T459" end="T460">aufs Mikro hauen, sonst </event>
+<event start="T460" end="T462">äh hat der </event>
+<event start="T462" end="T463">Ton</event>
+<event start="T463" end="T464">ingenieur bald nen </event>
+<event start="T464" end="T465">((atmet ein)) </event>
+<event start="T465" end="T466">Hörgerät • ((lacht))˙ </event>
+<event start="T467" end="T468">Is… </event>
+<event start="T475" end="T476">Dann </event>
+<event start="T476" end="T477">schaun‿wer mal an, </event>
+<event start="T477" end="T478">wie sie diesem </event>
+<event start="T478" end="T479">• Druck versuchen standzuhalten </event>
+<event start="T479" end="T480">((1,5s)) </event>
+<event start="T480" end="T481">und schaun wir jetzt mal </event>
+<event start="T481" end="T482">• • </event>
+<event start="T482" end="T483">in Ihren Haushaltsplan, wo bei Ihnen das Geld bleibt, </event>
+<event start="T483" end="T484">die dreitausendfünfhundert euro netto. </event>
+<event start="T484" end="T485">Ich nenn diese Summe nochmal. </event>
+<event start="T485" end="T486">((atmet ein)) </event>
+<event start="T486" end="T487">Gucken‿wer mal, was draus wird. </event>
+<event start="T489" end="T490">Herr Bahr Hartz Vier Haushalten wird auch zugemutet, dass sie ihr Vermögen einbringen. </event>
+<event start="T490" end="T491">Dieses Beispiel jetzt: • Klavier gegen Zahnspange. </event>
+<event start="T491" end="T492">Geht das für Sie in Ordnung? </event>
+<event start="T511" end="T512">Warum ham </event>
+<event start="T512" end="T513">Sie‿s </event>
+<event start="T513" end="T514">nicht ge</event>
+<event start="T514" end="T515">macht Frau Kastenhuber </event>
+</tier><tier id="TIE18" speaker="SPK0" category="en" type="a" display-name="FP [en]"><event start="T0" end="T1">Mr Pofalla, do you know how much a litre of diesel costs at the moment? </event>
+<event start="T3" end="T5">How much ? </event>
+<event start="T8" end="T10">One thirty-three is it . </event>
+<event start="T10" end="T11">That's the national average </event>
+<event start="T11" end="T12">You might have a cheap petrol station in Berlin . </event>
+<event start="T12" end="T14">What does that do to your budget? </event>
+<event start="T17" end="T19">How, I would rather like to ask Mrs Kastenhuber this. </event>
+<event start="T19" end="T22">How does the diesel price increase affect you? </event>
+<event start="T29" end="T31">There is no more in it . </event>
+<event start="T33" end="T38">Ḿhm̀ ˙ I'll save the compliments now, which you could also do. </event>
+<event start="T38" end="T39">Let's just leave it at that . </event>
+<event start="T39" end="T42">Umm </event>
+<event start="T42" end="T43">Mrs Bartel the diesel price for Kastenhubers is the energy costs for electricity and heating for you . </event>
+<event start="T43" end="T48">And these have risen by sixty-five per cent in recent years . </event>
+<event start="T48" end="T50">How have these increased heating and electricity costs changed your life? </event>
+<event start="T61" end="T64">How do you do that? </event>
+<event start="T75" end="T77">Ḿhm̀ </event>
+<event start="T77" end="T81">That's not a quirk, but er ...</event>
+<event start="T82" end="T84">Because you don't get along otherwise? </event>
+<event start="T85" end="T87">Ḿhm̀ ˙</event>
+<event start="T91" end="T92">Euro . </event>
+<event start="T99" end="T103">Let's take another look at exactly what your finances look like . </event>
+<event start="T103" end="T106">Mr Pofalla, a former bookseller and a working mother of three children from a dual-income household reported . </event>
+<event start="T106" end="T107">How would you now answer the question " How is the middle class in Germany " ? </event>
+<event start="T107" end="T108">You are surrounded by the middle class . </event>
+<event start="T129" end="T133">You are now talking about a policy spanning several decades, but you were not abroad and have just come back and realised that, you were there too. </event>
+<event start="T135" end="T136">Yes .</event>
+<event start="T139" end="T140">Yes .</event>
+<event start="T153" end="T155">Q / Mrs Engelen-Käfer er I just quoted this headline from the Kölner Stadtanzeiger : " The crash of the middle class . " . </event>
+<event start="T155" end="T156">Is that as dramatic as it sounds in your eyes ? </event>
+<event start="T175" end="T179">You're in the grand coalition, Mr Pofalla, with this statement. </event>
+<event start="T179" end="T180">Mr Bahr ...</event>
+<event start="T182" end="T183">That's clear . </event>
+<event start="T187" end="T188">Gifted . </event>
+<event start="T189" end="T195">Mr Bahr, do you actually have an explanation for why Hartz Four has been so bitterly debated in this country, passionately and certainly justified in parts, but that this so-called middle class has kept quiet for so long? </event>
+<event start="T238" end="T239">You only answered my question in part . </event>
+<event start="T239" end="T241">You said that we at Hart aber fair are also to blame for the fact that we have made so few programmes about it. </event>
+<event start="T241" end="T245">You can make programmes about topics that people also feel. </event>
+<event start="T245" end="T250">That's why I'd like to ask Mrs Kastenhuber why nothing has been heard from the Kastenhubers of this world for so long. </event>
+<event start="T250" end="T258">Is it perhaps because you haven't dared to say that you can barely get by on three thousand five hundred euros net, that this is a figure that seems so high to you that you say you can't go out with it? </event>
+<event start="T277" end="T278">Ḿhm̀ ˙</event>
+<event start="T285" end="T287">Maybe ...</event>
+<event start="T289" end="T291">Maybe politicians are always right on the ball when they see a budget. </event>
+<event start="T291" end="T298">Perhaps the budget of the Kastenhuber family should be disclosed to the current ones in order to ... </event>
+<event start="T298" end="T300">Can you even believe that a family with three children can't get by on three thousand five hundred euros net ? </event>
+<event start="T300" end="T302">Can you believe that ? </event>
+<event start="T304" end="T306">Where does ...</event>
+<event start="T380" end="T384">And then you helped, you probably still helped in the factory. </event>
+<event start="T384" end="T386">I wanted to ... </event>
+<event start="T386" end="T389">But there were other times too . </event>
+<event start="T389" end="T390">You have to ...</event>
+<event start="T391" end="T396">It's clear that you had to do a lot there, but I think that you are on the same page as the Kastenhubers. </event>
+<event start="T401" end="T404">Did you hear the last sentence "There was more humanity"? ...</event>
+<event start="T452" end="T466">And do / do me a favour, if you want to do everything well, then don't hit our sound engineer on the microphone, otherwise the sound engineer will soon have a hearing aid ˙.</event>
+<event start="T467" end="T468">Is ...</event>
+<event start="T475" end="T484">Then let's take a look at how you try to withstand this pressure and let's take a look at your budget to see where the money remains, the three thousand five hundred euros net. </event>
+<event start="T484" end="T485">I'll mention this sum again. </event>
+<event start="T485" end="T487">Let's see what happens to it. </event>
+<event start="T489" end="T490">Mr Bahr Hartz Vier households are also expected to contribute their assets. </event>
+<event start="T490" end="T491">This example now: piano for braces . </event>
+<event start="T491" end="T492">Is that okay with you ? </event>
+<event start="T511" end="T515">Why didn't you do it, Mrs Kastenhuber?</event>
+</tier><tier id="TIE1" speaker="SPK0" category="akz" type="a" display-name=""><event start="T20" end="T21">—</event>
+<event start="T46" end="T47">—</event>
+<event start="T187" end="T188">—</event>
+<event start="T244" end="T245">—</event>
+</tier><tier id="TIE13" speaker="SPK0" category="k" type="a" display-name="FP [k]"><event start="T34" end="T35">bejahend </event>
+<event start="T76" end="T77">bejahend </event>
+<event start="T86" end="T87">bejahend </event>
+<event start="T277" end="T278">bejahend </event>
+<event start="T393" end="T394">schnell </event>
+</tier><tier id="TIE2" speaker="SPK1" category="v" type="t" display-name="RP [v]"><event start="T1" end="T2">• • </event>
+<event start="T2" end="T3">Ja. </event>
+<event start="T5" end="T6">• • </event>
+<event start="T6" end="T7">((atmet ein)) </event>
+<event start="T7" end="T8">Der Liter Diesel äh kostet derzeit um die eins dreißig. </event>
+<event start="T14" end="T15">• • </event>
+<event start="T15" end="T16">((atmet ein)) </event>
+<event start="T16" end="T17">Ja meine Frau fährt äh äh Diesel und äh insofern hat sich die Dieselpreisentwicklung natürlich auch auf äh uns ausgewirkt. </event>
+<event start="T108" end="T109">• • </event>
+<event start="T109" end="T110">Ja die Mittelschicht äh hat übrigens ja schon äh seit einem längeren Prozess ((atmet ein)) äh in Deutschland eine Entwicklung </event>
+<event start="T110" end="T111">((atmet ein)) </event>
+<event start="T111" end="T112">dass wir, weil wir in Deutschland über viele Jahrzehnte — wir können die Details gerne besprechen — </event>
+<event start="T112" end="T113">((atmet ein)) </event>
+<event start="T113" end="T114">äh über unsere Verhältnisse gelebt haben, </event>
+<event start="T114" end="T115">dass wir diese Mittelschicht nicht so stärken können wie wir sie stärken </event>
+<event start="T115" end="T116">müssten. </event>
+<event start="T117" end="T118">Nein es geht ja nicht um individuell, sondern es geht um den Durchschnitt und es geht um den Staat wie er sich verhalten hat </event>
+<event start="T118" end="T119">((atmet ein)) </event>
+<event start="T119" end="T120">und äh insofern äh haben wir jetzt äh zum ersten Mal </event>
+<event start="T120" end="T121">sichtbar </event>
+<event start="T121" end="T122">• • </event>
+<event start="T122" end="T123">die Folgen äh einer Politik von mehreren äh Jahrzehnten,</event>
+<event start="T123" end="T124">die wir allerdings ja auch versuchen, </event>
+<event start="T124" end="T125">((atmet ein)) </event>
+<event start="T125" end="T126">äh zu verändern. </event>
+<event start="T126" end="T127">Also wir ham versucht, die Mittelschicht zu entlasten, durch die Senkung der </event>
+<event start="T127" end="T128">((atmet ein)) </event>
+<event start="T128" end="T129">äh äh Versicherungsbeiträge in den Sozialversicherungs äh -sys</event>
+<event start="T129" end="T130">temen. </event>
+<event start="T131" end="T132">Ja. </event>
+<event start="T133" end="T134">Ja gut </event>
+<event start="T134" end="T135">aber da hilft doch jetzt nich drumrumzureden, </event>
+<event start="T135" end="T136">dass </event>
+<event start="T136" end="T137">sozusagen </event>
+<event start="T137" end="T138">((atmet ein)) </event>
+<event start="T138" end="T139">äh man nicht aus selbstkritisch </event>
+<event start="T139" end="T140">äh </event>
+<event start="T140" end="T141">der K/ Politik gegenüber sagt </event>
+<event start="T141" end="T142">((atmet ein)) </event>
+<event start="T142" end="T143">äh, dass die Kohlsche Regierung beispielsweise </event>
+<event start="T143" end="T144">nicht erst im Jahre neunzehnhundertachtundneunzig hätte den Demo/ Demographiefaktor in der Rente einführen müssen. </event>
+<event start="T144" end="T145">((atmet ein)) </event>
+<event start="T145" end="T146">Und dann gehört auch dazu zu sagen und Schröder hat den Fehler gemacht den dann auch noch wieder abzuschaffen um ihn dann </event>
+<event start="T146" end="T147">((atmet ein)) </event>
+<event start="T147" end="T148">über die </event>
+<event start="T148" end="T149">Riester-</event>
+<event start="T149" end="T150">Treppe zweitausenddrei wieder härter einzuführen. </event>
+<event start="T150" end="T151">Alle Regierungen </event>
+<event start="T151" end="T152">• • • </event>
+<event start="T152" end="T153">äh der Bundesrepublik Deutschland der vergangenen Jahrzehnte haben • jeweils zu spät auf Entwicklungen • reagiert. </event>
+<event start="T178" end="T179">((unv.)) </event>
+<event start="T179" end="T180">Ich habe gedacht </event>
+<event start="T180" end="T181">mehr an Rot-Grün </event>
+<event start="T181" end="T182">äh </event>
+<event start="T182" end="T183">in dem Zu</event>
+<event start="T183" end="T184">sammenhang. </event>
+<event start="T185" end="T186">(Ja). </event>
+</tier><tier id="TIE19" speaker="SPK1" category="en" type="a" display-name="RP [en]"><event start="T1" end="T3">Yes .</event>
+<event start="T5" end="T8">A litre of diesel currently costs around one thirty. </event>
+<event start="T14" end="T17">Yes, my wife drives uh uh diesel and uh in that respect the diesel price development has of course also affected uh us. </event>
+<event start="T108" end="T116">Yes, by the way, the middle class uh has been developing uh for a long time in Germany, because we in Germany have lived uh beyond our means for many decades - we can discuss the details - uh that we cannot strengthen this middle class as we should. </event>
+<event start="T117" end="T126">No, it's not about individuals, it's about the average and it's about how the state has behaved and, in this respect, we are now, for the first time, seeing the consequences of a policy that has been in place for several decades, which we are also trying to change. </event>
+<event start="T126" end="T130">So we have tried to relieve the middle class by reducing the insurance contributions in the social insurance systems. </event>
+<event start="T131" end="T132">Yes .</event>
+<event start="T133" end="T144">Yes, but it doesn't help to talk about it now, so to speak, that you don't say out of self-criticism towards politics that the Kohl government, for example, should not have introduced the demographic factor in pensions in the year nineteen hundred and ninety-eight. </event>
+<event start="T144" end="T150">And then you also have to say that Schröder made the mistake of abolishing it again and then reintroducing it more harshly via the Riester staircase in two thousand and three. </event>
+<event start="T150" end="T153">All the governments of the Federal Republic of Germany over the past decades have reacted too late to developments. </event>
+<event start="T178" end="T184">I was thinking more of red-green, er, in that context. </event>
+<event start="T185" end="T186">Yes .</event>
+</tier><tier id="TIE3" speaker="SPK1" category="akz" type="a" display-name=""><event start="T115" end="T116">—</event>
+<event start="T120" end="T121">—</event>
+<event start="T148" end="T149">—</event>
+</tier><tier id="TIE14" speaker="SPK1" category="k" type="a" display-name="RP [k]"><event start="T123" end="T124">schneller </event>
+</tier><tier id="TIE4" speaker="SPK2" category="v" type="t" display-name="FK [v]"><event start="T22" end="T23">• • </event>
+<event start="T23" end="T24">Also bei uns in Bayern wars heut früh eins sechsunddreißig </event>
+<event start="T24" end="T25">((atmet ein)) </event>
+<event start="T25" end="T26">äähm und ich werd einfach weiterhin nicht zum Friseur gehen die nächste Zeit, sondern selber schnipseln. </event>
+<event start="T26" end="T27">((lacht))˙ </event>
+<event start="T27" end="T28">• • • </event>
+<event start="T28" end="T29">Ich spars woanders ein. </event>
+<event start="T31" end="T32">((atmet ein)) </event>
+<event start="T32" end="T33">Friseur ist • oft nicht drin. </event>
+<event start="T37" end="T39">((lacht))˙ </event>
+<event start="T258" end="T259">• • </event>
+<event start="T259" end="T260">((atmet ein)) </event>
+<event start="T260" end="T261">Ja mit Sicherheit. </event>
+<event start="T261" end="T262">Also zum einen auch das Verständnis für die Menschen, die mit Hartz Vier leben. </event>
+<event start="T262" end="T263">Auf jeden Fall. </event>
+<event start="T263" end="T264">Also ich denke, das is auch Thema, das darf man nich vergessen, </event>
+<event start="T264" end="T265">((atmet ein)) </event>
+<event start="T265" end="T266">aber das andere is auch, dass man natürlich </event>
+<event start="T266" end="T267">((atmet ein)) </event>
+<event start="T267" end="T268">denkt, das is doch genügend Geld, </event>
+<event start="T268" end="T269">((atmet ein)) </event>
+<event start="T269" end="T270">das muss doch gehn und das ging vor sieben acht Jahren auch noch ganz gut </event>
+<event start="T270" end="T271">((atmet ein)) </event>
+<event start="T271" end="T272">ähmm und das hat sich eingeschlichen so Stück für Stück </event>
+<event start="T272" end="T273">und irgendwann hat man gemerkt, </event>
+<event start="T273" end="T274">warum ist das Konto auf einmal im/ immer leer und immer früher, früher leer. </event>
+<event start="T274" end="T275">Der Monat wird immer kürzer </event>
+<event start="T275" end="T276">• • </event>
+<event start="T276" end="T277">irgendwie </event>
+<event start="T277" end="T278">((atmet ein)) </event>
+<event start="T278" end="T279">und ähm </event>
+<event start="T279" end="T280">((atmet ein)) </event>
+<event start="T280" end="T281">es hat auch ne Weile gedauert, bis das sich gesetzt hat, dass das Geld weniger wird, </event>
+<event start="T281" end="T282">• • </event>
+<event start="T282" end="T283">ja dass man verstanden hat, das is gar nicht, weil wir im Urlaub gefahren sind, </event>
+<event start="T283" end="T284">sondern das is, weil wir s allgemein nich mehr hinkriegen und </event>
+<event start="T284" end="T285">((atmet ein)) </event>
+<event start="T285" end="T286">• • </event>
+<event start="T286" end="T287">rea</event>
+<event start="T287" end="T288">gieren dauert. </event>
+<event start="T288" end="T289">((atmet ein)) </event>
+<event start="T292" end="T293">Ja. </event>
+<event start="T306" end="T307">• • </event>
+<event start="T307" end="T308">((räuspert sich))˙ </event>
+<event start="T332" end="T333">Ḿhm̀˙ </event>
+<event start="T334" end="T335">Ḿhm̀˙ </event>
+<event start="T397" end="T398">Ähm˙ </event>
+<event start="T399" end="T400">Ich würd da ((atmet ein)) </event>
+<event start="T400" end="T401">• • • </event>
+<event start="T401" end="T402">gerne was zu sagen. </event>
+<event start="T403" end="T404">Ja. </event>
+<event start="T404" end="T405">((atmet ein)) </event>
+<event start="T405" end="T406">Ich denke auch… </event>
+<event start="T406" end="T407">Also das Problem is, </event>
+<event start="T407" end="T408">dass wir • ähm mehr mehr spüren, wie der Standard in unserer Gesellschaft gestiegen is. </event>
+<event start="T408" end="T409">Es sind unge… </event>
+<event start="T409" end="T410">Also es sind Erwartungshaltungen da, </event>
+<event start="T410" end="T411">((atmet ein)) </event>
+<event start="T411" end="T412">was wir </event>
+<event start="T412" end="T413">• • </event>
+<event start="T413" end="T414">leisten </event>
+<event start="T414" end="T415">sollen und die sind </event>
+<event start="T415" end="T416">sehr hoch. </event>
+<event start="T416" end="T417">Auch </event>
+<event start="T417" end="T418">wie </event>
+<event start="T418" end="T419">wir zum Beispiel unsere Kinder versorgen, </event>
+<event start="T419" end="T420">((atmet ein)) </event>
+<event start="T420" end="T421">ähmmm˙ </event>
+<event start="T421" end="T422">((atmet ein)) </event>
+<event start="T422" end="T423">wie wir sie </event>
+<event start="T423" end="T424">((atmet ein)) </event>
+<event start="T424" end="T425">• • </event>
+<event start="T425" end="T426">vorwärts bringen, fördern, </event>
+<event start="T426" end="T427">((atmet ein)) </event>
+<event start="T427" end="T428">ähmm wie präsent wir als Eltern sind, </event>
+<event start="T428" end="T429">wie wie gut wir uns um unsere Großeltern kümmern zum Beispiel, </event>
+<event start="T429" end="T430">((atmet ein)) </event>
+<event start="T430" end="T431">wieviele Arzttermine wir wahrnehmen sollen. </event>
+<event start="T431" end="T432">((atmet ein)) </event>
+<event start="T432" end="T433">((stammelt)) </event>
+<event start="T433" end="T434">Früher konnte man ne Woche lang — auch ich noch — in/ </event>
+<event start="T434" end="T435">((atmet ein)) </event>
+<event start="T435" end="T436">mit der gleichen Kleidung in die Schule kommen und hatte nachmittags Spielkleidung an. </event>
+<event start="T436" end="T437">Das war bei mir au noch so. </event>
+<event start="T438" end="T439">Das wär bei meinen Kindern undenkbar, die wärn untendurch, das wär… </event>
+<event start="T439" end="T440">((atmet ein)) </event>
+<event start="T440" end="T441">Äh da… </event>
+<event start="T441" end="T442">Also wir haben einen anderen Standard </event>
+<event start="T442" end="T443">und die Erwartungshaltung </event>
+<event start="T443" end="T444">is </event>
+<event start="T444" end="T445">unglaublich hoch, • was </event>
+<event start="T445" end="T446">man leisten muss </event>
+<event start="T446" end="T447">und das </event>
+<event start="T447" end="T448">tut </event>
+<event start="T448" end="T449">man dann als braver Bürger. </event>
+<event start="T449" end="T450">((atmet ein)) </event>
+<event start="T450" end="T451">Ich will ja alles gut machen. </event>
+<event start="T451" end="T452">((atmet ein)) </event>
+<event start="T452" end="T453">Also und das bringt einen… </event>
+<event start="T454" end="T455">Ja. </event>
+<event start="T456" end="T457">Nicht ans Mikro. </event>
+<event start="T458" end="T459">Ja. </event>
+<event start="T460" end="T461">Jawohl. </event>
+<event start="T461" end="T462">((lac</event>
+<event start="T462" end="T463">ht)) </event>
+<event start="T465" end="T466">OK, ich hau nicht ans Mikro aber auf </event>
+<event start="T466" end="T467">‿en Tisch, </event>
+<event start="T467" end="T468">((atmet ein)) </event>
+<event start="T468" end="T469">weil ich find das sehr schwierig. </event>
+<event start="T469" end="T470">Das kann man nicht vergleichen die Vergangenheit und heute. </event>
+<event start="T470" end="T471">Der Standard </event>
+<event start="T471" end="T472">((atmet ein)) </event>
+<event start="T472" end="T473">ähm und der Druck, der auf die Menschen </event>
+<event start="T473" end="T474">((atmet ein)) </event>
+<event start="T474" end="T475">ähm sich auswirkt, den kann man nicht vergleichen. </event>
+<event start="T513" end="T514">(Ich </event>
+<event start="T514" end="T515">möchte) gleich unterbr</event>
+<event start="T515" end="T516">echen, weil… </event>
+<event start="T516" end="T517">Also bis vor drei oder vier Jahren — ich glaub mein Neffe war noch dabei — da wurden Zahnspangen für </event>
+<event start="T517" end="T518">jedes </event>
+<event start="T518" end="T519">Kind </event>
+<event start="T519" end="T520">bezahlt, </event>
+<event start="T520" end="T521">jedes </event>
+<event start="T521" end="T522">Kind </event>
+<event start="T522" end="T523">((atmet ein)) </event>
+<event start="T523" end="T524">un jetzt </event>
+<event start="T524" end="T525">is‿es so, dass nur bei </event>
+<event start="T525" end="T526">Überbiss </event>
+<event start="T526" end="T527">bei ner best… </event>
+</tier><tier id="TIE20" speaker="SPK2" category="en" type="a" display-name="FK [en]"><event start="T22" end="T27">So here in Bavaria it was one thirty-six this morning and I'm just not going to go to the hairdresser any time soon, I'm going to cut it myself. </event>
+<event start="T27" end="T29">I'll save money somewhere else . </event>
+<event start="T31" end="T33">Hairdresser is often not included . </event>
+<event start="T258" end="T261">Yes for sure . </event>
+<event start="T261" end="T262">So on the one hand also the understanding for the people who live with Hartz Vier . </event>
+<event start="T262" end="T263">In any case . </event>
+<event start="T263" end="T274">So I think that's also an issue, you can't forget that, but the other thing is that of course you think, that's enough money, that must be possible and that was still going quite well seven or eight years ago umm and that crept in bit by bit and at some point you realised, why is the account suddenly empty in / always empty and always empty earlier, earlier. </event>
+<event start="T274" end="T289">The month is getting shorter and shorter somehow and it also took a while for it to sink in that the money was getting less, yes, that you understood that it's not because we went on holiday, but because we generally can't manage it anymore and it takes time to react. </event>
+<event start="T292" end="T293">Yes .</event>
+<event start="T332" end="T333">Ḿhm̀ ˙</event>
+<event start="T334" end="T335">Ḿhm̀ ˙</event>
+<event start="T397" end="T398">Erm ˙</event>
+<event start="T399" end="T402">I would like to say something about that. </event>
+<event start="T403" end="T406">Yes, I think so too ... </event>
+<event start="T406" end="T408">So the problem is that we feel more and more how the standard in our society has risen. </event>
+<event start="T408" end="T409">There are un ... </event>
+<event start="T409" end="T416">So there are expectations of what we should achieve and they are very high . </event>
+<event start="T416" end="T431">For example, how we look after our children, how we bring them forward, how we encourage them, how present we are as parents, how well we look after our grandparents, for example, how many doctor's appointments we should attend. </event>
+<event start="T431" end="T436">In the past, you could come to school for a week - even me - in / with the same clothes and had play clothes on in the afternoon . </event>
+<event start="T436" end="T437">That was still the case with me . </event>
+<event start="T438" end="T440">That would be unthinkable with my children, they'd be down and out, that would be ... </event>
+<event start="T440" end="T441">Uh there ... </event>
+<event start="T441" end="T449">Well, we have a different standard and the expectations are incredibly high, what you have to achieve and then you do it as a good citizen. </event>
+<event start="T449" end="T451">I want to do everything well. </event>
+<event start="T451" end="T453">So and that brings you ...</event>
+<event start="T454" end="T455">Yes .</event>
+<event start="T456" end="T457">Not to the microphone . </event>
+<event start="T458" end="T459">Yes .</event>
+<event start="T460" end="T463">Yes . </event>
+<event start="T465" end="T469">OK, I'm not banging on the microphone but on the table, because I find that very difficult. </event>
+<event start="T469" end="T470">You can't compare the past and today . </event>
+<event start="T470" end="T475">You can't compare the standard um and the pressure that affects people um . </event>
+<event start="T513" end="T516">I want to interrupt right now because ... </event>
+<event start="T516" end="T527">Well, up until three or four years ago - I think my nephew was still there - braces were paid for every child, every child and now it's only in the case of an overbite with the best ...</event>
+</tier><tier id="TIE5" speaker="SPK2" category="akz" type="a" display-name=""><event start="T444" end="T445">—</event>
+<event start="T447" end="T448">—</event>
+<event start="T517" end="T518">—</event>
+</tier><tier id="TIE15" speaker="SPK2" category="k" type="a" display-name="FK [k]"><event start="T332" end="T333">bejahend </event>
+<event start="T334" end="T335">bejahend </event>
+</tier><tier id="TIE6" speaker="SPK3" category="v" type="t" display-name="FB [v]"><event start="T44" end="T45">Ja. </event>
+<event start="T48" end="T49">Ḿhm̀˙ </event>
+<event start="T50" end="T51">• • </event>
+<event start="T51" end="T52">Ja ne ganze Menge </event>
+<event start="T52" end="T53">(dabei). </event>
+<event start="T53" end="T54">((atmet ein)) </event>
+<event start="T54" end="T55">• • </event>
+<event start="T55" end="T56">Ich muss aufpassen, dass ich also wenig Heizung </event>
+<event start="T56" end="T57">((1,1s)) </event>
+<event start="T57" end="T58">nehme von meiner </event>
+<event start="T58" end="T59">((atmet ein)) </event>
+<event start="T59" end="T60">((1,4s)) </event>
+<event start="T60" end="T61">((atmet aus)) </event>
+<event start="T61" end="T63">• • • </event>
+<event start="T63" end="T64">meinen Räumen. </event>
+<event start="T64" end="T65">Nun ich hab also die Räume kalt. </event>
+<event start="T65" end="T66">• • </event>
+<event start="T66" end="T67">Hab nur </event>
+<event start="T67" end="T68">einen </event>
+<event start="T68" end="T69">Raum, den heiz ich im Winter über und jetzt ist ja auch oft noch sehr kalt. </event>
+<event start="T69" end="T70">• • </event>
+<event start="T70" end="T71">Die Küche ist kalt, die Zimmer sind kalt, das Bad ist kalt, ich wasch mich im Kalten </event>
+<event start="T71" end="T72">• • • </event>
+<event start="T72" end="T73">und äh um noch Strom zu sparen, sitz ich bei </event>
+<event start="T73" end="T74">Kerzenlicht </event>
+<event start="T74" end="T75">und es is immer en kleines Weihnachten. </event>
+<event start="T80" end="T81">Das is </event>
+<event start="T81" end="T82">keine, das is Notwendigkeit. </event>
+<event start="T84" end="T85">Sonst kommt überhaupt/ da geht überhaupt nix mehr. </event>
+<event start="T87" end="T88">• </event>
+<event start="T88" end="T89">Muss so wenig wie möglich also… </event>
+<event start="T89" end="T90">((atmet ein)) </event>
+<event start="T90" end="T91">I ich zahl im Monat noch einunddreißig Mark Strom. </event>
+<event start="T92" end="T93">• • </event>
+<event start="T93" end="T94">Äh Euro. </event>
+<event start="T94" end="T95">Entschuldigung. </event>
+<event start="T95" end="T96">• • • </event>
+<event start="T96" end="T97">Und </event>
+<event start="T97" end="T98">das muss, </event>
+<event start="T98" end="T99">• das muss eingespart werden. </event>
+<event start="T101" end="T102">Ja. </event>
+<event start="T116" end="T117">Ich habe nie über meine Verhältnisse gelebt </event>
+<event start="T301" end="T302">Nee. </event>
+<event start="T302" end="T303">((atmet ein)) </event>
+<event start="T303" end="T304">(Da) äh</event>
+<event start="T304" end="T305">m… </event>
+<event start="T308" end="T309">• • </event>
+<event start="T309" end="T310">Ganz kurz nur </event>
+<event start="T310" end="T311">((atmet ein)) </event>
+<event start="T311" end="T312">alss </event>
+<event start="T312" end="T313">• • </event>
+<event start="T313" end="T314">die Zeit war, • wo die Väter im Krieg waren und die Mütter in der </event>
+<event start="T314" end="T315">((atmet ein)) </event>
+<event start="T315" end="T316">äh Kriegswirtschaft arbeiten mussten und </event>
+<event start="T316" end="T317">((atmet ein)) </event>
+<event start="T317" end="T318">wir Mütter/ die Mütter mit Kindern allein zu Hause waren. </event>
+<event start="T318" end="T319">Da ham wir </event>
+<event start="T319" end="T320">((atmet ein)) </event>
+<event start="T320" end="T321">húndért- </event>
+<event start="T321" end="T322">• • • </event>
+<event start="T322" end="T323">-achtundzwanzig Mark </event>
+<event start="T323" end="T324">Familien</event>
+<event start="T324" end="T325">unterhalt bekommen. </event>
+<event start="T325" end="T326">Hundert ((unv.))/ hundertachtundzwanzig Mark. </event>
+<event start="T326" end="T327">((atmet ein)) </event>
+<event start="T327" end="T328">Davon • mussten neununddreißig Mark Miete bezahlt werden, </event>
+<event start="T328" end="T329">((atmet ein)) </event>
+<event start="T329" end="T330">Strom und Gas </event>
+<event start="T330" end="T331">((atmet ein)) </event>
+<event start="T331" end="T332">und vom kleinen Rest durften wir leb</event>
+<event start="T332" end="T333">en. </event>
+<event start="T333" end="T334">Das war ein ewiges Affenthe</event>
+<event start="T334" end="T335">ater. </event>
+<event start="T335" end="T336">• • </event>
+<event start="T336" end="T337">((atmet ein)) </event>
+<event start="T337" end="T338">Das ham wir durchgehalten. </event>
+<event start="T338" end="T339">((1,6s)) </event>
+<event start="T339" end="T340">In uns gegenseitig zu unterstützen. </event>
+<event start="T340" end="T341">Ich hab meiner Mutter geholfen, wo ich konnte. </event>
+<event start="T341" end="T342">Sie war in der </event>
+<event start="T342" end="T343">Rüstung, </event>
+<event start="T343" end="T344">ich hab sie morgens um fünf an die </event>
+<event start="T344" end="T345">Bahn </event>
+<event start="T345" end="T346">gebracht, </event>
+<event start="T346" end="T347">((atmet ein)) </event>
+<event start="T347" end="T348">hab sie abends wieder abgeholt. </event>
+<event start="T348" end="T349">• • • </event>
+<event start="T349" end="T350">Es war ein </event>
+<event start="T350" end="T351">• </event>
+<event start="T351" end="T352">trauriges, </event>
+<event start="T352" end="T353">• • • </event>
+<event start="T353" end="T354">wirklich trauriges Dasein. </event>
+<event start="T354" end="T355">((atmet ein)) </event>
+<event start="T355" end="T356">Ich musste dann in die Schule, </event>
+<event start="T356" end="T357">((atmet ein)) </event>
+<event start="T357" end="T358">bin dann mit meines Vaters Fahrrad, wenn Luftalarm… </event>
+<event start="T358" end="T359">Ich hatte ne rote Karte. </event>
+<event start="T359" end="T360">Da durft ich bei Luftalarm alleine losfahren, </event>
+<event start="T360" end="T361">weil ich da in der Nähe wohnte, </event>
+<event start="T361" end="T362">((atmet ein)) </event>
+<event start="T362" end="T363">bin aber </event>
+<event start="T363" end="T364">nicht </event>
+<event start="T364" end="T365">nach Hause gefahren, </event>
+<event start="T365" end="T366">((atmet ein)) </event>
+<event start="T366" end="T367">sondern bin nach/ </event>
+<event start="T367" end="T368">((atmet ein)) </event>
+<event start="T368" end="T369">zu meiner Mutter in die • Fabrik gefahrn nach Plagwitz. </event>
+<event start="T369" end="T370">((atmet ein)) </event>
+<event start="T370" end="T371">Das war ungefähr ne halbe Stunde mit dem Fahrrad. </event>
+<event start="T371" end="T372">• • </event>
+<event start="T372" end="T373">((atmet ein)) </event>
+<event start="T373" end="T374">Über mir die • Amis und die • Tommies, </event>
+<event start="T374" end="T375">((atmet ein)) </event>
+<event start="T375" end="T376">die schmissen schon ihre Bomben ab und ich war untendurch </event>
+<event start="T376" end="T377">((atmet ein)) </event>
+<event start="T377" end="T378">und guckte immer, wo einer fiel, </event>
+<event start="T378" end="T379">sodass ich noch eben ge/ vorbeikam, kam zu meiner Mutter an die Fabrik, </event>
+<event start="T379" end="T380">da stand die Tür offen ((atmet ein)) "Komm rein Kind!" erst mal die Tür zu und dann krachte es. </event>
+<event start="T382" end="T383">((unv.))˙ </event>
+<event start="T384" end="T385">Nee </event>
+<event start="T385" end="T386">(wir ham)… </event>
+<event start="T387" end="T388">(Es wa) ((unv.))… </event>
+<event start="T389" end="T390">Es warn andere Z</event>
+<event start="T390" end="T391">eiten. </event>
+<event start="T391" end="T392">S war ne. </event>
+<event start="T395" end="T396">Vor allen Dingen war mehr </event>
+<event start="T396" end="T397">Menschlichkeit das war </event>
+<event start="T397" end="T398">vor allen Dingen </event>
+<event start="T398" end="T399">• </event>
+<event start="T399" end="T400">mehr Menschlichkeit. </event>
+<event start="T412" end="T413">Und die sind </event>
+<event start="T413" end="T414">zu hoch. </event>
+<event start="T415" end="T416">((unv.))˙ </event>
+<event start="T417" end="T418">Ja. </event>
+<event start="T437" end="T438">Mhm˙ </event>
+<event start="T442" end="T443">Ja (da) muss man was tun. </event>
+<event start="T476" end="T478">((unv.))˙ </event>
+</tier><tier id="TIE21" speaker="SPK3" category="en" type="a" display-name="FB [en]"><event start="T44" end="T45">Yes .</event>
+<event start="T48" end="T49">Ḿhm̀ ˙</event>
+<event start="T50" end="T53">Yes, quite a lot of them. </event>
+<event start="T53" end="T64">I have to be careful that I don't use too much heating in my rooms. </event>
+<event start="T64" end="T65">So I have the rooms cold. </event>
+<event start="T65" end="T69">I only have one room that I overheat in winter and now it's often still very cold. </event>
+<event start="T69" end="T75">The kitchen is cold, the rooms are cold, the bathroom is cold, I wash myself in the cold and, to save electricity, I sit by candlelight and it's always a little Christmas. </event>
+<event start="T80" end="T82">That's not a necessity. </event>
+<event start="T84" end="T85">Otherwise nothing at all / nothing works at all . </event>
+<event start="T87" end="T89">So I have to pay as little as possible ... </event>
+<event start="T89" end="T91">I still pay thirty-one marks a month for electricity. </event>
+<event start="T92" end="T94">Er Euro . </event>
+<event start="T94" end="T95">Sorry . </event>
+<event start="T95" end="T99">And that has to be saved . </event>
+<event start="T101" end="T102">Yes .</event>
+<event start="T116" end="T117">I have never lived beyond my means</event>
+<event start="T301" end="T305">Nope . There um ...</event>
+<event start="T308" end="T318">Very briefly, it was the time when the fathers were at war and the mothers had to work in the war economy and we mothers / the mothers with children were alone at home. </event>
+<event start="T318" end="T326">We got húndért- -twenty-eight marks to support the family . One hundred / one hundred and twenty-eight marks . </event>
+<event start="T326" end="T333">Thirty-nine marks of that had to be used to pay the rent, electricity and gas and we were allowed to live on the small remainder. </event>
+<event start="T333" end="T336">That was an eternal monkey business . </event>
+<event start="T336" end="T339">We stuck it out . </event>
+<event start="T339" end="T340">In supporting each other . </event>
+<event start="T340" end="T341">I helped my mum wherever I could. </event>
+<event start="T341" end="T348">She was in the armour, I took her to the train at five in the morning and picked her up again in the evening. </event>
+<event start="T348" end="T354">It was a sad, really sad existence. </event>
+<event start="T354" end="T358">Then I had to go to school, then I rode my father's bike when the air raid siren went off ... </event>
+<event start="T358" end="T359">I had a red card. </event>
+<event start="T359" end="T369">I was allowed to ride off on my own when the air alarm sounded because I lived nearby, but I didn't ride home but went to / to my mum's factory in Plagwitz. </event>
+<event start="T369" end="T371">That was about half an hour by bike . </event>
+<event start="T371" end="T380">The Americans and the Tommies were above me , they were already dropping their bombs and I was on the ground and always looked where one fell so that I could just pass by , came to my mum at the factory , the door was open " Come in child ! " first the door closed and then there was a crash . </event>
+<event start="T382" end="T383">˙</event>
+<event start="T384" end="T386">No, we have ...</event>
+<event start="T387" end="T388">It was ...</event>
+<event start="T389" end="T392">Those were different times . It was new .</event>
+<event start="T395" end="T400">Above all, there was more humanity - above all, there was more humanity. </event>
+<event start="T412" end="T414">And they are too high . </event>
+<event start="T415" end="T416">˙</event>
+<event start="T417" end="T418">Yes .</event>
+<event start="T437" end="T438">Mhm ˙</event>
+<event start="T442" end="T443">Yes, you have to do something. </event>
+<event start="T476" end="T478">˙</event>
+</tier><tier id="TIE7" speaker="SPK3" category="akz" type="a" display-name=""><event start="T67" end="T68">—</event>
+<event start="T73" end="T74">—</event>
+<event start="T323" end="T324">—</event>
+<event start="T342" end="T343">—</event>
+<event start="T344" end="T345">— </event>
+<event start="T351" end="T352">—</event>
+<event start="T363" end="T364">—</event>
+</tier><tier id="TIE16" speaker="SPK3" category="k" type="a" display-name="FB [k]"><event start="T52" end="T53">lachend </event>
+<event start="T97" end="T98">ausatmend </event>
+<event start="T116" end="T117">leise </event>
+<event start="T437" end="T438">bejahend </event>
+</tier><tier id="TIE8" speaker="SPK4" category="v" type="t" display-name="EK [v]"><event start="T156" end="T157">• • • </event>
+<event start="T157" end="T158">Es is dramatisch ähm und zwar in den letzten Jahren sehr stark abgestürzt nach äh Untersuchungen </event>
+<event start="T158" end="T159">((atmet ein)) </event>
+<event start="T159" end="T160">äh von ähm äh ungefähr zwei drittel </event>
+<event start="T160" end="T161">((atmet ein)) </event>
+<event start="T161" end="T162">äh vor ähm äh zehn Jahren auf heute knapp über die Hälfte </event>
+<event start="T162" end="T163">((atmet ein)) </event>
+<event start="T163" end="T164">und äh es sind einige nach oben gestiegen </event>
+<event start="T164" end="T165">((atmet ein)) </event>
+<event start="T165" end="T166">aber die </event>
+<event start="T166" end="T167">Mehrzahl </event>
+<event start="T167" end="T168">ist nach unten abgesackt </event>
+<event start="T168" end="T169">äh • und dazu ähm… </event>
+<event start="T169" end="T170">Das ist nicht nur Globali</event>
+<event start="T170" end="T171">sierung. </event>
+<event start="T171" end="T172">((atmet ein)) </event>
+<event start="T172" end="T173">Dazu hat auch ein Teil der Politik und der Gesetzgebung äh in der Bundesrepublik, und zwar von </event>
+<event start="T173" end="T174">wechselnden </event>
+<event start="T174" end="T175">Regierungskoalitionen, beigetragen. </event>
+<event start="T177" end="T178">Ja. </event>
+<event start="T183" end="T184">Ich hab gesacht </event>
+<event start="T184" end="T185">wechselnde wec</event>
+<event start="T185" end="T186">hselnde </event>
+<event start="T186" end="T187">nich </event>
+<event start="T187" end="T188">auch Schwarz-Gelb/ </event>
+<event start="T188" end="T189">auch Schwarz-Gelb war </event>
+<event start="T189" end="T190">nicht ((unv.)). </event>
+<event start="T519" end="T520">Ja. </event>
+</tier><tier id="TIE22" speaker="SPK4" category="en" type="a" display-name="EK [en]"><event start="T156" end="T169">It has plummeted dramatically over the last few years, from about two thirds ten years ago to just over half today, and some have risen, but the majority have plummeted,</event>
+<event start="T169" end="T172">and it's not just globalisation. </event>
+<event start="T172" end="T175">Some of the politics and legislation uh in the Federal Republic of Germany, namely from changing government coalitions, has also contributed to this. </event>
+<event start="T177" end="T178">Yes .</event>
+<event start="T183" end="T190">I have said changing changing changing not also black-yellow / also black-yellow was not . </event>
+<event start="T519" end="T520">Yes .</event>
+</tier><tier id="TIE9" speaker="SPK4" category="akz" type="a" display-name=""><event start="T166" end="T167">—</event>
+<event start="T170" end="T171">—</event>
+<event start="T173" end="T174">—</event>
+</tier><tier id="TIE10" speaker="SPK5" category="v" type="t" display-name="HB [v]"><event start="T195" end="T196">• • </event>
+<event start="T196" end="T197">((atmet ein)) </event>
+<event start="T197" end="T198">Ja Sie müssens mir mal erklären. </event>
+<event start="T198" end="T199">Sie ham ja auch die meisten Sendungen zu Randthemen gemach. </event>
+<event start="T199" end="T200">Sie ham über Managergehälter viele Sendungen gemacht, </event>
+<event start="T200" end="T201">Sie ham unheimlich viel über Hartz Vier Mindestlöhne, </event>
+<event start="T201" end="T202">((atmet ein)) </event>
+<event start="T202" end="T203">aber die Sorgen der Mittelschicht, </event>
+<event start="T203" end="T204">derer, die • • morgens zur Arbeit gehen, </event>
+<event start="T204" end="T205">((atmet ein)) </event>
+<event start="T205" end="T206">die äh das erwirtschaften was nachher </event>
+<event start="T206" end="T207">von </event>
+<event start="T207" end="T208">Staat verteilt wird, </event>
+<event start="T208" end="T209">da sie die Sozialversicherungsbeiträge zahlen, die die Steuern zahlen, </event>
+<event start="T209" end="T210">((atmet ein)) </event>
+<event start="T210" end="T211">die eigentlich den Karren ziehen in Deutschland, über die Sorgen wurde viel zu wenig diskutiert. </event>
+<event start="T211" end="T212">((atmet ein)) </event>
+<event start="T212" end="T213">Und wenn Herr Pofalla gerade sagt, die Mittelschicht wurde ja entlastet </event>
+<event start="T213" end="T214">und nennt als einziges den Arbeitslosenversicherungsbeitrag, </event>
+<event start="T214" end="T215">dann vernachlässigen Sie ja, </event>
+<event start="T215" end="T216">((atmet ein)) </event>
+<event start="T216" end="T217">dass diese schwarz rote Koalition noch mal ganz schön ne Schippe draufgelegt hat mit der größten Steuererhöhung, </event>
+<event start="T217" end="T218">die wir in der Geschichte in der Bundesrepublik hatten </event>
+<event start="T218" end="T219">((atmet ein)) </event>
+<event start="T219" end="T220">mit Mehrwertsteuererhöhung, Versicherungssteuer </event>
+<event start="T220" end="T221">((atmet ein)) </event>
+<event start="T221" end="T222">und vielen anderen • • äh Streichungen, Eigenheimzulage, </event>
+<event start="T222" end="T223">((atmet ein)) </event>
+<event start="T223" end="T224">Pendlerpauschale und vieles andere mehr </event>
+<event start="T224" end="T225">und das hat natürlich besonders die Mittelschicht getroffen. </event>
+<event start="T225" end="T226">((atmet ein)) </event>
+<event start="T226" end="T227">Von dem Aufschwung, der jetzt ist </event>
+<event start="T227" end="T228">((atmet ein)) </event>
+<event start="T228" end="T229">profitiert in erster Linie der Staat. </event>
+<event start="T229" end="T230">Die großen Einnahmen — da können Sie auch lächeln Herr Pofalla — </event>
+<event start="T230" end="T231">die großen Einnahmen sind beim Staat gekommen. </event>
+<event start="T231" end="T232">((atmet ein)) </event>
+<event start="T232" end="T233">Sie ham gesagt "Über die Verhältnisse gelebt". </event>
+<event start="T233" end="T234">Jetzt holen Sie das bei den Bürgern zurück. </event>
+<event start="T234" end="T235">((atmet ein)) </event>
+<event start="T235" end="T236">Netto </event>
+<event start="T236" end="T237">bei den Bürgern • bleibt davon nicht viel über. </event>
+<event start="T492" end="T493">• • • </event>
+<event start="T493" end="T494">((atmet ein)) </event>
+<event start="T494" end="T495">Naja es ist ja ne Investition für die Gesundheit des Kindes/ des Sohnes, insofern </event>
+<event start="T495" end="T496">• • </event>
+<event start="T496" end="T497">äh find ich das erst mal gut dass nicht daran gespart wird, </event>
+<event start="T497" end="T498">denn das wäre ja zu Lasten der Gesundheit des Sohnes. </event>
+<event start="T498" end="T499">((atmet ein)) </event>
+<event start="T499" end="T500">Äh das dafür en hundertdreißig Jahre altes Klavier </event>
+<event start="T500" end="T501">— wenn ich das richtig verstanden hab — </event>
+<event start="T501" end="T502">dafür aufgebracht werden muss, </event>
+<event start="T502" end="T503">((atmet ein)) </event>
+<event start="T503" end="T504">find ich hart. </event>
+<event start="T504" end="T505">Ich ähm bin jetzt… </event>
+<event start="T505" end="T506">Äh weiß jetzt nicht genau, wie teuer die Zahnspange da ist. </event>
+<event start="T506" end="T507">• • </event>
+<event start="T507" end="T508">Man hätte sich überlegen können, ob man frühzeitig mit günstigen • • Beiträgen, </event>
+<event start="T508" end="T509">zum Beispiel ne ((atmet ein)) Zusatzversicherung, hätte abschließen können, </event>
+<event start="T509" end="T510">dass man so was • macht oder nen Sparvertrag oder andere Dinge. </event>
+<event start="T510" end="T511">Ich weiß, das ist schwer, dass man den Spielraum dafür hat </event>
+<event start="T511" end="T512">((atmet ein)) </event>
+<event start="T512" end="T513">n</event>
+<event start="T513" end="T514">ur… </event>
+<event start="T521" end="T522">Jaja, </event>
+<event start="T522" end="T523">das hat sich ge</event>
+<event start="T523" end="T524">ändert. </event>
+<event start="T525" end="T526">((lacht kurz))˙ </event>
+</tier><tier id="TIE23" speaker="SPK5" category="en" type="a" display-name="HB [en]"><event start="T195" end="T198">Yes, you'll have to explain it to me. </event>
+<event start="T198" end="T199">You also made most of the programmes on marginal topics. </event>
+<event start="T199" end="T211">You made a lot of programmes about managers' salaries, you talked a lot about Hartz Four minimum wages, but the concerns of the middle class, of those who go to work in the morning, who earn what is subsequently distributed by the state, because they pay the social security contributions, who pay the taxes, who actually pull the cart in Germany, these concerns were discussed far too little. </event>
+<event start="T211" end="T225">And when Mr Pofalla says that the middle class has been relieved and the only thing he mentions is the unemployment insurance contribution, then you are neglecting the fact that this black-red coalition has gone one better with the biggest tax increase that we have had in the history of the Federal Republic with an increase in VAT, insurance tax and many other cuts, home ownership allowance, commuter allowance and much more, and of course this has particularly affected the middle class. </event>
+<event start="T225" end="T229">The state is the main beneficiary of the current upturn. </event>
+<event start="T229" end="T231">The big revenues - you can smile Mr Pofalla - the big revenues have come from the state. </event>
+<event start="T231" end="T233">You said "lived beyond your means". </event>
+<event start="T233" end="T234">Now you are taking it back from the citizens. </event>
+<event start="T234" end="T237">There is not much left over for the citizens . </event>
+<event start="T492" end="T498">Well, it's an investment for the health of the child / son, so I think it's good that no money is being saved on it, because that would be at the expense of the son's health. </event>
+<event start="T498" end="T504">I find it hard that a hundred and thirty year old piano - if I've understood correctly - has to be used for this. </event>
+<event start="T504" end="T505">I'm now ... </event>
+<event start="T505" end="T506">I don't know exactly how expensive the braces are. </event>
+<event start="T506" end="T510">You could have thought about whether you could have taken out a supplementary insurance policy early on with favourable premiums, for example, or a savings contract or other things. </event>
+<event start="T510" end="T514">I know it's hard to have the leeway to do that but ...</event>
+<event start="T521" end="T524">Yes, that has changed. </event>
+<event start="T525" end="T526">˙</event>
+</tier><tier id="TIE11" speaker="SPK5" category="akz" type="a" display-name=""><event start="T235" end="T236">—</event>
+</tier><tier id="TIE17" speaker="SPK5" category="k" type="a" display-name="HB [k]"><event start="T206" end="T207">für: vom </event>
+</tier><tier id="TIE12" category="nn" type="d" display-name="[nn]"><event start="T237" end="T239">((Publikum applaudiert, 9,4s)) </event>
+<event start="T246" end="T247">((Jemand sagt "Aber die…")) </event>
+<event start="T254" end="T255">((Husten)) </event>
+<event start="T477" end="T483">((Publikum applaudiert, 7,6s)) </event>
+<event start="T487" end="T488">• • • </event>
+<event start="T488" end="T489">((Film wird eingespielt, 2min 9s)) </event>
+<event start="T527" end="T528">((Aufnahme bricht ab)) </event>
+</tier></basic-body>
+<tierformat-table><timeline-item-format show-every-nth-numbering="1" show-every-nth-absolute="10" absolute-time-format="time" miliseconds-digits="2"/><tier-format tierref="TIE9"><property name="row-height-calculation">Fixed</property><property name="font-face">Plain</property><property name="fixed-row-height">1</property><property name="bg-color">#R64G64B64</property><property name="font-color">#R64G64B64</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">1</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE8"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">11</property><property name="chunk-border"></property><property name="font-name">Arial Unicode MS</property></tier-format><tier-format tierref="TIE7"><property name="row-height-calculation">Fixed</property><property name="font-face">Plain</property><property name="fixed-row-height">1</property><property name="bg-color">#R64G64B64</property><property name="font-color">#R64G64B64</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">1</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="COLUMN-LABEL"><property name="row-height-calculation">Generous</property><property name="font-face">Bold</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">#R99G99B99</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R99G99B99</property><property name="font-size">6</property><property name="chunk-border">l</property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE6"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">11</property><property name="chunk-border"></property><property name="font-name">Arial Unicode MS</property></tier-format><tier-format tierref="TIE5"><property name="row-height-calculation">Fixed</property><property name="font-face">Plain</property><property name="fixed-row-height">1</property><property name="bg-color">#R64G64B64</property><property name="font-color">#R64G64B64</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">1</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE4"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">11</property><property name="chunk-border"></property><property name="font-name">Arial Unicode MS</property></tier-format><tier-format tierref="TIE3"><property name="row-height-calculation">Fixed</property><property name="font-face">Plain</property><property name="fixed-row-height">1</property><property name="bg-color">#R64G64B64</property><property name="font-color">#R64G64B64</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">1</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE2"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">11</property><property name="chunk-border"></property><property name="font-name">Arial Unicode MS</property></tier-format><tier-format tierref="TIE19"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">9</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE1"><property name="row-height-calculation">Fixed</property><property name="font-face">Plain</property><property name="fixed-row-height">1</property><property name="bg-color">#R64G64B64</property><property name="font-color">#R64G64B64</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">1</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE18"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">9</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE0"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">11</property><property name="chunk-border"></property><property name="font-name">Arial Unicode MS</property></tier-format><tier-format tierref="TIE17"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">#Rf0Gf0Bf0</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE16"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">#Rf0Gf0Bf0</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE15"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">#Rf0Gf0Bf0</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE14"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">#Rf0Gf0Bf0</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE13"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">#Rf0Gf0Bf0</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE12"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">#R00G00Bff</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">10</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE11"><property name="row-height-calculation">Fixed</property><property name="font-face">Plain</property><property name="fixed-row-height">1</property><property name="bg-color">#R64G64B64</property><property name="font-color">#R64G64B64</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">1</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE10"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">11</property><property name="chunk-border"></property><property name="font-name">Arial Unicode MS</property></tier-format><tier-format tierref="TIE23"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">9</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE22"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">9</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE21"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">9</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="SUB-ROW-LABEL"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Right</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE20"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">9</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="ROW-LABEL"><property name="row-height-calculation">Generous</property><property name="font-face">Bold</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">11</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="EMPTY-EDITOR"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">lightGray</property><property name="font-color">white</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">2</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="EMPTY"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">white</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">2</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format></tierformat-table></basic-transcription>

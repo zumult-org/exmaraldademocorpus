@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basic-transcription>
+<head>
+<meta-information><project-name>EXMARaLDA DemoKorpus</project-name><transcription-name>Gasperini: Calcio</transcription-name><referenced-file url="Gasperini_web.mp4"/><referenced-file url="Gasperini.wav"/><ud-meta-information><ud-information attribute-name="AutoSave">;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_14_07_50_10.exb at 2025_01_14_07_50_10;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_14_07_55_10.exb at 2025_01_14_07_55_10;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_14_08_00_10.exb at 2025_01_14_08_00_10;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_14_08_05_10.exb at 2025_01_14_08_05_10</ud-information></ud-meta-information><comment></comment><transcription-convention>HIAT (simplified)</transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>C</abbreviation>
+<sex value="m"/>
+<languages-used><language lang="ita"/></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment>Conduttore</comment>
+</speaker>
+<speaker id="SPK1">
+<abbreviation>P</abbreviation>
+<sex value="m"/>
+<languages-used><language lang="ita"/></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment>Christian Panucci</comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0" time="0.0"/>
+<tli id="T1" time="0.28666264898786564"/>
+<tli id="T2" time="1.5466449898880192"/>
+<tli id="T3" time="1.6266438686753306"/>
+<tli id="T4" time="2.4666320959420998"/>
+<tli id="T5" time="2.5866304141230665"/>
+<tli id="T6" time="3.213288297957005"/>
+<tli id="T7" time="3.5799498257321827"/>
+<tli id="T8" time="5.119322375228328"/>
+<tli id="T9" time="7.6998920832787165"/>
+<tli id="T10" time="8.099886477215273"/>
+<tli id="T11" time="12.728208653907581"/>
+<tli id="T12" time="14.15313497212183"/>
+<tli id="T13" time="16.017029747412305"/>
+<tli id="T14" time="17.58642018674394"/>
+<tli id="T15" time="18.506407292798023"/>
+<tli id="T16" time="18.866402247340925"/>
+<tli id="T17" time="20.362048770829013"/>
+<tli id="T18" time="21.748497936262563"/>
+<tli id="T19" time="22.859679613474217"/>
+<tli id="T20" time="23.80524044023868"/>
+<tli id="T21" time="24.30412845264727"/>
+<tli id="T22" time="26.039478546978938"/>
+<tli id="T23" time="28.080716464830754"/>
+<tli id="T24" time="29.410607001666364"/>
+<tli id="T25" time="30.48627522319395"/>
+<tli id="T26" time="31.98085946064309"/>
+<tli id="T27" time="34.5328493431894"/>
+<tli id="T28" time="34.639514514905805"/>
+<tli id="T29" time="36.46238193084424"/>
+<tli id="T30" time="36.92614913357646"/>
+<tli id="T31" time="37.866135959327366"/>
+<tli id="T32" time="39.63097536591365"/>
+<tli id="T33" time="39.8794410754747"/>
+<tli id="T34" time="40.51943210577319"/>
+<tli id="T35" time="41.07942425728437"/>
+<tli id="T36" time="41.2927546007172"/>
+<tli id="T37" time="42.96606448201847"/>
+<tli id="T38" time="43.65938809817516"/>
+<tli id="T39" time="45.69269293401933"/>
+<tli id="T40" time="45.88782601067054"/>
+<tli id="T41" time="46.116257447764816"/>
+<tli id="T42" time="47.01087038193219"/>
+<tli id="T66" time="47.417353515625"/>
+<tli id="T43" time="47.91266182036721"/>
+<tli id="T44" time="48.90598123197633"/>
+<tli id="T45" time="50.58853907560412"/>
+<tli id="T46" time="51.44568138457742"/>
+<tli id="T47" time="53.08112118687634"/>
+<tli id="T48" time="53.42640556427036"/>
+<tli id="T49" time="54.583045449562654"/>
+<tli id="T50" time="55.04875385708457"/>
+<tli id="T51" time="56.67099612318087"/>
+<tli id="T52" time="58.90091276404568"/>
+<tli id="T53" time="59.965190445011075"/>
+<tli id="T54" time="62.26773919567276"/>
+<tli id="T55" time="64.52853016053987"/>
+<tli id="T56" time="67.07048724023525"/>
+<tli id="T57" time="67.3581042437951"/>
+<tli id="T58" time="69.50852697567474"/>
+<tli id="T59" time="71.23709729877089"/>
+<tli id="T60" time="72.73423919844427"/>
+<tli id="T61" time="74.94561627724617"/>
+<tli id="T62" time="75.2722783656277"/>
+<tli id="T63" time="76.125599739359"/>
+<tli id="T64" time="356.048"/>
+<tli id="T65" time="356.075"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK1" category="v" type="t" display-name="P [v]"><event start="T2" end="T3">((0.1s)) </event>
+<event start="T3" end="T4">Sì, buona sera a tu</event>
+<event start="T4" end="T5">tti. </event>
+<event start="T9" end="T10">((0.4s)) </event>
+<event start="T10" end="T11">No, ma io innanzitutto sono m/ molto dispiaciuto de/ ((respira)) del fatto </event>
+<event start="T11" end="T12">perché io stavooo </event>
+<event start="T12" end="T13">e/ e ci tengo a precisare che io nella vita </event>
+<event start="T13" end="T14">quando sbaglio ho sempre alzato la mano. </event>
+<event start="T14" end="T15">Ma in questo caso</event>
+<event start="T15" end="T16">((0.4s)) </event>
+<event start="T16" end="T17">Ehh non mi sento per niente </event>
+<event start="T17" end="T18">di aver sbagliato nel senso che </event>
+<event start="T18" end="T19">io ((0.3s)) stavo uscendo, </event>
+<event start="T19" end="T20">l’ho incrociato, </event>
+<event start="T20" end="T21">((respira)) </event>
+<event start="T21" end="T22">ci siamo messi a parlare dell’episodio </event>
+<event start="T22" end="T23">che il Signor Gasperini sa perfettamente, </event>
+<event start="T23" end="T24">((respira)) che è andata come è andata </event>
+<event start="T24" end="T25">perché nella vita ci sta </event>
+<event start="T25" end="T26">che poi le società cambiano, </event>
+<event start="T26" end="T27">((0.4s)) cambiano idea ((0.6s)) e quindi… </event>
+<event start="T27" end="T28">((0.1s)) </event>
+<event start="T28" end="T29">Innanzitutto io so/ sto benissimo a Parma, </event>
+<event start="T29" end="T30">sono felice </event>
+<event start="T30" end="T31">di essere a Parma. </event>
+<event start="T33" end="T34">Ma a me/ m</event>
+<event start="T34" end="T35">a me…</event>
+<event start="T36" end="T37">E io/ e io/ io as</event>
+<event start="T37" end="T38">solutamente </event>
+<event start="T38" end="T39">eero/ ero inn/ in trattati/ </event>
+<event start="T39" end="T41">((0.3s)) </event>
+<event start="T41" end="T42">in trattativa. </event>
+<event start="T43" end="T44">No in tratta</event>
+<event start="T44" end="T45">tive co/ in trattative con loro, </event>
+<event start="T45" end="T46">ne abbiamo parlato, </event>
+<event start="T46" end="T47">sciamo incrociati e ne abbiamo parlato. </event>
+<event start="T47" end="T48">((respira)) </event>
+<event start="T48" end="T49">a un certo momento gli ho detto: </event>
+<event start="T49" end="T50">((respira)) </event>
+<event start="T50" end="T51">"per me, se voi avete deciso </event>
+<event start="T51" end="T52">di non/ di non fare l’operazione o di cambiare, </event>
+<event start="T52" end="T53">o di non parlare più con me, </event>
+<event start="T53" end="T54">credo che nella vita si possa alzare il telefono e dire </event>
+<event start="T54" end="T55">'Guarda Christian, non ci vogliamo più vedere, </event>
+<event start="T55" end="T56">non/ non si fa più niente ((0.3s)) e si va avanti.'"</event>
+<event start="T56" end="T57">((respira)) </event>
+<event start="T57" end="T58">A quel momento lì lui/ ((0.2s)) io gli ho detto, </event>
+<event start="T58" end="T59">perché nella vita bisogna saper campare, </event>
+<event start="T59" end="T60">saper anche telefonare e dire </event>
+<event start="T60" end="T61">"guarda, non vogliamo più fare l’operazione, punto e ba</event>
+<event start="T61" end="T62">sta". </event>
+</tier><tier id="TIE2" speaker="SPK1" category="en" type="a" display-name="P [en]"><event start="T2" end="T5">Yes , good evening everyone .  </event>
+<event start="T9" end="T14">No , but first of all I'm m / very sorry de / of the fact because I wasoo and / and I would like to point out that in life when I make a mistake I always raise my hand .   </event>
+<event start="T14" end="T27">But in this case Ehh I don't feel at all wrong in the sense that I was going out, I met him, we started talking about the episode that Mr Gasperini knows perfectly well, that it went the way it went because in life it's normal that societies change, they change their minds and so ... </event>
+<event start="T27" end="T31">First of all I know / I'm very well in Parma, I'm happy to be in Parma.  </event>
+<event start="T33" end="T35">But to me / but me ...</event>
+<event start="T36" end="T42">And I / and I / I absolutely eero / was inn / in negotiations .  </event>
+<event start="T43" end="T47">No in negotiations co / in negotiations with them , we talked about it , we crossed paths and we talked about it. </event>
+<event start="T47" end="T56">At a certain moment I told him : " for me , if you decided not / not to do the operation or to change , or not to talk to me anymore , I believe that in life you can pick up the phone and say ' Look Christian , we don't want to see each other anymore , we don't / don't do anything anymore and we move on . ' " </event>
+<event start="T56" end="T62">At that moment there he / I told him , because in life you have to know how to live , you also have to know how to phone and say " look , we don't want to do the operation anymore , full stop " .  </event>
+</tier><tier id="TIE1" speaker="SPK0" category="v" type="t" display-name="C [v]"><event start="T0" end="T1">((0.3s)) </event>
+<event start="T1" end="T2">Ehh mi senti, Christian? </event>
+<event start="T4" end="T5">Buo</event>
+<event start="T5" end="T6">na sera a te. </event>
+<event start="T6" end="T7">((0.4s)) </event>
+<event start="T7" end="T8">Ci hai chiesto di intervenire </event>
+<event start="T8" end="T9">per dire cosa, la tua ricostruzione?</event>
+<event start="T30" end="T31">Perché tu dovevi an</event>
+<event start="T31" end="T32">dare al Genova l’estate scorsa,</event>
+<event start="T32" end="T33">((0.1s)) ma </event>
+<event start="T33" end="T34">Gasperini…</event>
+<event start="T35" end="T36">((0.1s)) Va </event>
+<event start="T36" end="T37">bé, comunque, non è questo il punto…</event>
+<event start="T38" end="T39">Che cosa è successo a quel punto?</event>
+<event start="T39" end="T40">((0.2s)) </event>
+<event start="T40" end="T41">Perché s</event>
+<event start="T41" end="T42">i parla di schia</event>
+<event start="T42" end="T66">ffi, eh? </event>
+<event start="T66" end="T43">Si parla di </event>
+<event start="T43" end="T44">schiaffi tra di voi.</event>
+<event start="T61" end="T62">A quel </event>
+<event start="T62" end="T63">punto ch’è successo?</event>
+</tier><tier id="TIE3" speaker="SPK0" category="en" type="a" display-name="C [en]"><event start="T0" end="T2">Do you hear me, Christian?  </event>
+<event start="T4" end="T6">Good evening to you .     </event>
+<event start="T6" end="T9">You asked us to speak to say what , your reconstruction </event>
+<event start="T30" end="T34">Because you were supposed to go to Genoa last summer, but Gasperini ...</event>
+<event start="T35" end="T37">Whatever, however, that is not the point ...</event>
+<event start="T38" end="T39">What happened then?   </event>
+<event start="T39" end="T66">Why are we talking about slaps, eh?   </event>
+<event start="T66" end="T44">We're talking about slapping each other.</event>
+<event start="T61" end="T63">What happened then?</event>
+</tier></basic-body>
+<tierformat-table><timeline-item-format show-every-nth-numbering="1" show-every-nth-absolute="10" absolute-time-format="time" miliseconds-digits="2"/><tier-format tierref="EMPTY"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">white</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">2</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="COLUMN-LABEL"><property name="row-height-calculation">Generous</property><property name="font-face">Bold</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">#R99G99B99</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R99G99B99</property><property name="font-size">6</property><property name="chunk-border">l</property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="ROW-LABEL"><property name="row-height-calculation">Generous</property><property name="font-face">Bold</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">11</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE3"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">9</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE2"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">9</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE1"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">11</property><property name="chunk-border"></property><property name="font-name">Arial Unicode MS</property></tier-format><tier-format tierref="TIE0"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">11</property><property name="chunk-border"></property><property name="font-name">Arial Unicode MS</property></tier-format><tier-format tierref="EMPTY-EDITOR"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">lightGray</property><property name="font-color">white</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">2</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="SUB-ROW-LABEL"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Right</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format></tierformat-table></basic-transcription>

@@ -1,0 +1,1540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basic-transcription>
+<head>
+<meta-information><project-name>EXMARaLDA DemoKorpus</project-name><transcription-name>Hubert Fichte: Interview</transcription-name><referenced-file url="HubertFichteInterview.wav"/><ud-meta-information><ud-information attribute-name="AutoSave">;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_13_01_49_54.exb at 2025_01_13_01_49_54;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_13_01_54_54.exb at 2025_01_13_01_54_54;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_13_01_59_54.exb at 2025_01_13_01_59_54;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_13_02_04_54.exb at 2025_01_13_02_04_54;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_13_02_09_54.exb at 2025_01_13_02_09_54;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_13_02_14_54.exb at 2025_01_13_02_14_54;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_13_02_19_54.exb at 2025_01_13_02_19_55;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_13_02_24_55.exb at 2025_01_13_02_24_55;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_13_02_29_55.exb at 2025_01_13_02_29_55;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_13_02_34_55.exb at 2025_01_13_02_34_55;C:\Users\bernd\EXMARaLDA_AutoBackup_2025_01_13_02_39_55.exb at 2025_01_13_02_39_55</ud-information></ud-meta-information><comment></comment><transcription-convention>HIAT (simplified)</transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>Fichte</abbreviation>
+<sex value="m"/>
+<languages-used><language lang="GER"/></languages-used>
+<l1><language lang="DEU"/></l1>
+<l2><language lang="FRA"/></l2>
+<ud-speaker-information>
+<ud-information attribute-name="COMA-Speaker-ID">ID4FC564F0-0A59-3194-7937-DF7B00E0AA18</ud-information><ud-information attribute-name="Pseudo">HF</ud-information><ud-information attribute-name="s:Name">Fichte</ud-information><ud-information attribute-name="s:Vorname">Hubert Johannes</ud-information><ud-information attribute-name="s:Beruf">Schriftsteller</ud-information><ud-information attribute-name="s:Beruf der Mutter">Stenotypistin, nach dem Krieg Schauspielerin und Souffleuse</ud-information><ud-information attribute-name="s:Beruf des Vaters">Kaufmann</ud-information><ud-information attribute-name="s:Familie">Sein jüdischer Vater ist nach Schweden emigriert, die Großmutter hat Fichte mit erzogen, hat seit 1961eine Lebenspartnerin/Mitkünstlerin.</ud-information><ud-information attribute-name="s:Ausbildung: schulisch">Bricht 1950 das Gymnasium in der 10. Klasse ab.</ud-information><ud-information attribute-name="s:Ausbildung: beruflich">Fällt 1951 durch die staatliche Schauspielprüfung. 1955-1957 Ausbildung zum Landwirt.</ud-information><ud-information attribute-name="s:Ausgeübte Berufe">Als Kind (ca. 1945-1951) Schauspieler, Ende der 50er Jahren Landwirt</ud-information><ud-information attribute-name="s:Beruf der Lebensgefährtin">Fotografin</ud-information></ud-speaker-information>
+<comment>Fichte spricht mit leichtem Hamburger Akzent (z. B. - stark vereinfacht beschrieben - o statt a, d statt t, b statt p, e statt ä, dehnt Vokale usw.).Charakteristisch ist ferner der ungewöhnliche Tonfall, in dem er seine Fragen stellt. Seine Stimme geht am Ende einer Frage in der Regel gerade nicht nach oben, sondern nach unten. Der ungewöhnliche Tonfall bzw. die ungewöhnliche Satzmelodie verleiht dem Gespräch insgesamt eine eher "unnatürliche" Note. </comment>
+</speaker>
+<speaker id="SPK1">
+<abbreviation>Ulli</abbreviation>
+<sex value="m"/>
+<languages-used><language lang="GER"/></languages-used>
+<l1></l1>
+<l2><language lang="ENG"/></l2>
+<ud-speaker-information>
+<ud-information attribute-name="COMA-Speaker-ID">ID65698F88-05EF-B186-90AC-C31516B80FC9</ud-information><ud-information attribute-name="Pseudo">U</ud-information><ud-information attribute-name="s:Name">unbekannt</ud-information><ud-information attribute-name="s:First Name">Ulli</ud-information><ud-information attribute-name="s:Beruf">"Wirtschafter in Deernwohnheim", Verdienst 1000-1500 Mark / Woche, er arbeitet jede zweite.</ud-information><ud-information attribute-name="s:Konsum">Raucht seit 8 Monaten 30-40 Zigaretten / Tag, in der Aufnahme zu hören, 2-3 Mal / Woche Hasch. Trinkt "jedenfalls mehr als der Durchschnittsbürger". War schon mal über eine Woche betrunken.</ud-information><ud-information attribute-name="s:Lesgewohnheiten">Hat sehr viel gelesen im Gefägnis, Liest regelmäßig Zeitung (Sport und Politik)</ud-information><ud-information attribute-name="s:Hobbies">Sport (hat 9 Jahre geboxt) und "die Fickerei, wenn das ein Hobby ist".</ud-information><ud-information attribute-name="s:Beruf des Vaters">Emallierer, Portier auf St. Pauli</ud-information><ud-information attribute-name="s:Familie">1 Bruder, 1 halbbruder, 1 Halbschwester. Mutter stirbt 1942, seitdem trinkt der Vater, der im Zusammenhang mit dem Krieg in Gefangenschaft kommt, und 1946 zurückkehrt um 1954 durch Alkoholismus zu sterben.</ud-information><ud-information attribute-name="s:Beruf der Lebensgefährtin">Arbeitet im Palais d'Amour.</ud-information><ud-information attribute-name="s:Religion">nicht gläubig, dafür sehr abergläubisch</ud-information><ud-information attribute-name="s:Ausbildung: schulisch">Oberschule, abgebrochen</ud-information><ud-information attribute-name="s:Ausbildung: beruflich">Speditionskaufmann und Zolldeklarant 2,5 jahren gelernt, ohne Abschluss</ud-information><ud-information attribute-name="s:Ausgeübte Berufe">Mit 16 Jahren zum ersten Mal tätig als Zuhälter. Mit 17 Jahren Portier auf St. Pauli, zuvor kurz bei den Kohlen und als Steinträger gearbeitet. Später als Kellner auf der Reeperbahn. Im Gefängnis als Schlachter und als Holzfäller gearbeitet.</ud-information><ud-information attribute-name="s:Kriminelle Laufbahn">Insgesamt 7,5 Jahre Gefägnis wegen u.a. Körperverletzung (auch als Gewohnheitsverbrecher), Widerstand gegen die Staatsgewalt, volltrunkenheit, Sachbeschädigung. Inhaftiert u.a. in Oslip, Glaasmoor und Alterfarde. Als gewalttätig eingestuft, über vier Jahre in Einzelzelle verbracht, meistens auf eigenen Wunsch.</ud-information></ud-speaker-information>
+<comment>Sprachliche Charakterisitka:1) Uli spricht mit starkem Hamburger Akzent (z. B. - stark vereinfacht beschrieben - o statt a, d statt t, b statt p, am Wortende ch statt g bzw. cht statt gt, e statt ä, dehnt Vokale sehr in die Länge, "stolpert über'n spitzen Stein", usw.), bisweilen sogar dialektal (z. T. Missingsch = eine Art "Hamburger Halbmundart" und verwendet gelegentlich "Kiez-Vokabular").2) Er spricht relativ langsam, vielfach mit leicht "gepresster" Stimme. 3) Seine Stimme geht des Öfteren am Ende eines Satzes nicht nach unten. Einige der Ausführungen klingen daher beinahe wie "gesungen". 4) Markant ist ferner das sehr häufig deutlich hörbare Ein- und Ausatmen beim Sprechen ("schwerer Atem"). Hinzu kommt, dass er während des Gesprächs offenbar raucht, sodass einige der hörbaren Atemzüge tatsächlich Züge an seiner Zigarette sind. 5) Bei der Wiedergabe direkte Rede Dritter  innerhalb seiner Schilderungen verstellt Uli geringfügig seine Stimme bzw. spricht in leicht verändertem Tonfall (so als wolle er die zitierte Person imitieren). </comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0" time="0.0" type="intp"/>
+<tli id="T1" time="1.9000017524407922"/>
+<tli id="T2" time="2.9996364663076243"/>
+<tli id="T3" time="5.299821738035396"/>
+<tli id="T4" time="6.109922764684401"/>
+<tli id="T5" time="7.310018678299164"/>
+<tli id="T6" time="8.059898115115594"/>
+<tli id="T7" time="8.499892553161606"/>
+<tli id="T8" time="9.089885095086942"/>
+<tli id="T9" time="10.80986335290317"/>
+<tli id="T10" time="11.479854883564148"/>
+<tli id="T11" time="11.929849195202113"/>
+<tli id="T12" time="12.219845529368802"/>
+<tli id="T13" time="13.800241666194268"/>
+<tli id="T14" time="14.200425185481249"/>
+<tli id="T15" time="14.599738740595864"/>
+<tli id="T16" time="15.900335178278553"/>
+<tli id="T17" time="16.399694613214912"/>
+<tli id="T18" time="17.20006165178887"/>
+<tli id="T19" time="17.90038281054109"/>
+<tli id="T20" time="19.80038456298188"/>
+<tli id="T21" time="20.199698118096496"/>
+<tli id="T22" time="22.399837510002524"/>
+<tli id="T23" time="24.693933032523756"/>
+<tli id="T24" time="25.00016042119553"/>
+<tli id="T25" time="25.20025218083902"/>
+<tli id="T26" time="26.900162173636325"/>
+<tli id="T27" time="30.199936279409183"/>
+<tli id="T28" time="30.70016567851791"/>
+<tli id="T29" time="30.900257438161397"/>
+<tli id="T30" time="31.89984627220648"/>
+<tli id="T31" time="32.40007567131521"/>
+<tli id="T32" time="32.6001674309587"/>
+<tli id="T33" time="33.19957274571681"/>
+<tli id="T34" time="33.99993978429077"/>
+<tli id="T35" time="34.500169183399485"/>
+<tli id="T36" time="37.8999891689941"/>
+<tli id="T37" time="40.000082681078375"/>
+<tli id="T38" time="41.557184638049705"/>
+<tli id="T39" time="43.59999442631647"/>
+<tli id="T40" time="44.30031558506869"/>
+<tli id="T41" time="44.79967502000505"/>
+<tli id="T42" time="45.78942117756117"/>
+<tli id="T43" time="51.30004731590138"/>
+<tli id="T44" time="51.570139119336986"/>
+<tli id="T45" time="52.7998655490552"/>
+<tli id="T46" time="53.200049068342175"/>
+<tli id="T47" time="54.199637902387266"/>
+<tli id="T48" time="54.799913181317734"/>
+<tli id="T49" time="58.09968728709059"/>
+<tli id="T50" time="59.99968903953138"/>
+<tli id="T51" time="60.80005607810535"/>
+<tli id="T52" time="61.20023959739232"/>
+<tli id="T53" time="61.969287925761215" type="intp"/>
+<tli id="T54" time="63.69964666459122"/>
+<tli id="T55" time="64.2999219435217"/>
+<tli id="T56" time="64.50001370316518"/>
+<tli id="T57" time="64.90019722245216"/>
+<tli id="T58" time="69.29960604209185"/>
+<tli id="T59" time="69.79983544120057"/>
+<tli id="T60" time="71.19960779453264"/>
+<tli id="T61" time="72.70029599185882"/>
+<tli id="T62" time="72.99191523213634" type="intp"/>
+<tli id="T63" time="74.00007042712588"/>
+<tli id="T64" time="74.51029835235288"/>
+<tli id="T65" time="74.70905560549453"/>
+<tli id="T66" time="75.19970305905773"/>
+<tli id="T67" time="77.19975069132026"/>
+<tli id="T68" time="78.2002094895377"/>
+<tli id="T69" time="79.49993596304803"/>
+<tli id="T70" time="81.29989183566707"/>
+<tli id="T71" time="82.40039651370627"/>
+<tli id="T72" time="82.92980129671666"/>
+<tli id="T73" time="83.20984658479918"/>
+<tli id="T74" time="85.51891895839772"/>
+<tli id="T75" time="85.90891402848393"/>
+<tli id="T76" time="87.05694639124782"/>
+<tli id="T77" time="88.10040177102864"/>
+<tli id="T78" time="91.600267636445"/>
+<tli id="T79" time="92.19967295120311"/>
+<tli id="T80" time="92.89999410995532"/>
+<tli id="T81" time="93.99962882382215"/>
+<tli id="T82" time="94.29976646328738"/>
+<tli id="T83" time="95.60036290097007"/>
+<tli id="T84" time="95.89963057626294"/>
+<tli id="T85" time="96.39985997537167"/>
+<tli id="T86" time="96.55990243659464"/>
+<tli id="T87" time="96.80004349465865"/>
+<tli id="T88" time="97.10018113412389"/>
+<tli id="T89" time="98.80009112692119"/>
+<tli id="T90" time="99.20027464620817"/>
+<tli id="T91" time="99.99977172060976"/>
+<tli id="T92" time="102.70014051162451"/>
+<tli id="T93" time="108.46014263108306"/>
+<tli id="T94" time="108.61862695581338"/>
+<tli id="T95" time="108.80032928823387"/>
+<tli id="T96" time="109.89996400210069"/>
+<tli id="T97" time="110.24014942695568"/>
+<tli id="T98" time="113.49987574733879"/>
+<tli id="T99" time="114.99969398049261"/>
+<tli id="T100" time="115.39987749977958"/>
+<tli id="T101" time="116.10024136536765"/>
+<tli id="T102" time="120.30038568270035"/>
+<tli id="T103" time="120.59965335799323"/>
+<tli id="T104" time="120.79974511763673"/>
+<tli id="T105" time="121.1999286369237"/>
+<tli id="T106" time="121.4000203965672"/>
+<tli id="T107" time="122.99988450954277"/>
+<tli id="T108" time="127.99956860811292"/>
+<tli id="T109" time="128.78837199078626"/>
+<tli id="T110" time="129.20011916597386"/>
+<tli id="T111" time="129.80039444490433"/>
+<tli id="T112" time="130.49984563948416"/>
+<tli id="T113" time="136.18767139839346"/>
+<tli id="T114" time="138.7001279281778"/>
+<tli id="T115" time="139.39957912275764"/>
+<tli id="T116" time="140.90026732008383"/>
+<tli id="T117" time="141.49967263484194"/>
+<tli id="T118" time="142.7002231927029"/>
+<tli id="T119" time="143.00036083216813"/>
+<tli id="T120" time="144.2000414258567"/>
+<tli id="T121" time="144.94036507964313"/>
+<tli id="T122" time="145.19962938041732"/>
+<tli id="T123" time="157.09986957490577"/>
+<tli id="T124" time="157.50005369294226"/>
+<tli id="T125" time="160.39964427942814"/>
+<tli id="T126" time="161.50014895746733"/>
+<tli id="T127" time="163.8003342291951"/>
+<tli id="T128" time="166.59987893585924"/>
+<tli id="T129" time="166.79997069550274"/>
+<tli id="T130" time="168.1997430488348"/>
+<tli id="T131" time="172.3398331770698"/>
+<tli id="T132" time="172.70006771246858"/>
+<tli id="T133" time="173.2002971115773"/>
+<tli id="T134" time="174.71751462817838"/>
+<tli id="T135" time="176.09988769806318"/>
+<tli id="T136" time="176.29997945770668"/>
+<tli id="T137" time="177.20039237610237"/>
+<tli id="T138" time="177.69975181103874"/>
+<tli id="T139" time="177.89984357068224"/>
+<tli id="T140" time="178.13993563943154"/>
+<tli id="T141" time="178.5001188496127"/>
+<tli id="T142" time="181.00039588098394"/>
+<tli id="T143" time="181.79989295538556"/>
+<tli id="T144" time="183.5998488280046"/>
+<tli id="T145" time="184.5002617464003"/>
+<tli id="T146" time="186.70040113830632"/>
+<tli id="T147" time="186.99966881359921"/>
+<tli id="T148" time="190.69962643865907"/>
+<tli id="T149" time="190.89971819830254"/>
+<tli id="T150" time="191.19985583776779"/>
+<tli id="T151" time="191.60003935705475"/>
+<tli id="T152" time="191.80013111669825"/>
+<tli id="T153" time="192.00022287634175"/>
+<tli id="T154" time="196.0403148301271"/>
+<tli id="T155" time="196.69976933544666"/>
+<tli id="T156" time="197.09995285473366"/>
+<tli id="T157" time="198.69981696770918"/>
+<tli id="T158" time="201.7003233981892"/>
+<tli id="T159" time="202.0996327657554"/>
+<tli id="T160" time="205.11740711817748"/>
+<tli id="T161" time="205.59740105059132"/>
+<tli id="T162" time="207.21738057248797"/>
+<tli id="T163" time="209.52041786612577"/>
+<tli id="T164" time="209.89973572271046"/>
+<tli id="T165" time="210.139882691743"/>
+<tli id="T166" time="213.30042567247745"/>
+<tli id="T167" time="213.59969334777028"/>
+<tli id="T168" time="216.50015389842855"/>
+<tli id="T169" time="216.8002915378938"/>
+<tli id="T170" time="217.29965097283014"/>
+<tli id="T171" time="217.69983449211713"/>
+<tli id="T172" time="218.34273801549338"/>
+<tli id="T173" time="220.3001574033101"/>
+<tli id="T174" time="220.71039360154185"/>
+<tli id="T175" time="220.91707067644433"/>
+<tli id="T176" time="221.2997462373552"/>
+<tli id="T177" time="224.5246813227669"/>
+<tli id="T178" time="226.10020854045425"/>
+<tli id="T179" time="226.79965973503408"/>
+<tli id="T180" time="227.60002677360808"/>
+<tli id="T181" time="228.00021029289502"/>
+<tli id="T182" time="228.69966148747488"/>
+<tli id="T183" time="229.90021204533582"/>
+<tli id="T184" time="236.33068442725306"/>
+<tli id="T185" time="237.5869966712548"/>
+<tli id="T186" time="238.2997161295006"/>
+<tli id="T187" time="239.50026668736155"/>
+<tli id="T188" time="240.59990140122838"/>
+<tli id="T189" time="242.67389598814177"/>
+<tli id="T190" time="245.00018018504042"/>
+<tli id="T191" time="245.40036370432742"/>
+<tli id="T192" time="249.69972664414533"/>
+<tli id="T193" time="250.09991016343233"/>
+<tli id="T194" time="250.40004780289755"/>
+<tli id="T195" time="252.50014131498185"/>
+<tli id="T196" time="252.80027895444707"/>
+<tli id="T197" time="253.99995954813565"/>
+<tli id="T198" time="254.20005130777915"/>
+<tli id="T199" time="254.70028070688787"/>
+<tli id="T200" time="255.40035411574257"/>
+<tli id="T201" time="259.1997354063493"/>
+<tli id="T202" time="259.59991892563625"/>
+<tli id="T203" time="259.80001068527974"/>
+<tli id="T204" time="260.40028596421024"/>
+<tli id="T205" time="260.70042360367546"/>
+<tli id="T206" time="261.80005831754227"/>
+<tli id="T207" time="262.6996012717657"/>
+<tli id="T208" time="262.9997389112309"/>
+<tli id="T209" time="263.80010594980484"/>
+<tli id="T210" time="264.92665107165936"/>
+<tli id="T211" time="265.1899289935725"/>
+<tli id="T212" time="266.83973235721703"/>
+<tli id="T213" time="269.5001112071272"/>
+<tli id="T214" time="270.8998835604593"/>
+<tli id="T215" time="271.30006707974627"/>
+<tli id="T216" time="271.6002047192115"/>
+<tli id="T217" time="272.1004341183202"/>
+<tli id="T218" time="273.30011471200885"/>
+<tli id="T219" time="273.80034411111757"/>
+<tli id="T220" time="276.1997052984947"/>
+<tli id="T221" time="276.4365055759993"/>
+<tli id="T222" time="276.6999346976034"/>
+<tli id="T223" time="283.00021523385624"/>
+<tli id="T224" time="283.3004031847147"/>
+<tli id="T225" time="283.55641557347116"/>
+<tli id="T226" time="284.2864063456839"/>
+<tli id="T227" time="285.10030874594054"/>
+<tli id="T228" time="287.6997616929612"/>
+<tli id="T229" time="289.39967168575845"/>
+<tli id="T230" time="289.99994696468895"/>
+<tli id="T231" time="292.20008635659497"/>
+<tli id="T232" time="294.00004222921405"/>
+<tli id="T233" time="294.20013398885754"/>
+<tli id="T234" time="294.40022574850104"/>
+<tli id="T235" time="296.40027338076357"/>
+<tli id="T236" time="296.79958693587815"/>
+<tli id="T237" time="297.0997245753434"/>
+<tli id="T238" time="298.10018337356087"/>
+<tli id="T239" time="298.5299456747082"/>
+<tli id="T240" time="299.7000474865364"/>
+<tli id="T241" time="300.3003227654669"/>
+<tli id="T242" time="300.59959044075975"/>
+<tli id="T243" time="301.1998657196902"/>
+<tli id="T244" time="301.5000033591554"/>
+<tli id="T245" time="302.89977571248755"/>
+<tli id="T246" time="304.8998233447501"/>
+<tli id="T247" time="305.276141015197"/>
+<tli id="T248" time="306.100373902611"/>
+<tli id="T249" time="306.2995956980821"/>
+<tli id="T250" time="311.30014976082464"/>
+<tli id="T251" time="311.9004250397551"/>
+<tli id="T252" time="312.3096849169196"/>
+<tli id="T253" time="314.1997403473105"/>
+<tli id="T254" time="318.09978973201385"/>
+<tli id="T255" time="319.99979148445465"/>
+<tli id="T256" time="320.70011264320686"/>
+<tli id="T257" time="322.50006851582594"/>
+<tli id="T258" time="323.00029791493466"/>
+<tli id="T259" time="326.3023205365122"/>
+<tli id="T260" time="327.3997067345743"/>
+<tli id="T261" time="328.5002114126135"/>
+<tli id="T262" time="328.9003949319005"/>
+<tli id="T263" time="330.50025904487603"/>
+<tli id="T264" time="332.20016903767333"/>
+<tli id="T265" time="332.33021308813755"/>
+<tli id="T266" time="332.7995743524315"/>
+<tli id="T267" time="336.6996237371348"/>
+<tli id="T268" time="337.29989901606524"/>
+<tli id="T269" time="340.10031368690176"/>
+<tli id="T270" time="342.5997207541007"/>
+<tli id="T271" time="343.0999501532094"/>
+<tli id="T272" time="345.20004366529366"/>
+<tli id="T273" time="348.7499664641212"/>
+<tli id="T274" time="349.3001848096405"/>
+<tli id="T275" time="349.6055806483328"/>
+<tli id="T276" time="351.2955592853732"/>
+<tli id="T277" time="351.68555435545943"/>
+<tli id="T278" time="352.39986715576987"/>
+<tli id="T279" time="353.99973126874545"/>
+<tli id="T280" time="354.4982207395094"/>
+<tli id="T281" time="354.8000983073194"/>
+<tli id="T282" time="361.10037884357223"/>
+<tli id="T283" time="361.7998300381521"/>
+<tli id="T284" time="363.3996941511276"/>
+<tli id="T285" time="367.09965177618744"/>
+<tli id="T286" time="367.79997293493966"/>
+<tli id="T287" time="368.10011057440494"/>
+<tli id="T288" time="369.09969940844996"/>
+<tli id="T289" time="372.598695309694"/>
+<tli id="T290" time="373.29988643261856"/>
+<tli id="T291" time="375.80016346398986"/>
+<tli id="T292" time="376.69970641821317"/>
+<tli id="T293" time="377.5270423461304"/>
+<tli id="T294" time="377.9002569760741"/>
+<tli id="T295" time="378.4996622908322"/>
+<tli id="T296" time="380.399664043273"/>
+<tli id="T297" time="380.8951851175595"/>
+<tli id="T298" time="381.7851738672435"/>
+<tli id="T299" time="382.6498504368978"/>
+<tli id="T300" time="384.0996216683329"/>
+<tli id="T301" time="384.75994095081893"/>
+<tli id="T302" time="388.4999004521449"/>
+<tli id="T303" time="391.11762264678515"/>
+<tli id="T304" time="391.40036100280315"/>
+<tli id="T305" time="392.90017923595695"/>
+<tli id="T306" time="393.10027099560045"/>
+<tli id="T307" time="393.89976807000204"/>
+<tli id="T308" time="395.20036450768475"/>
+<tli id="T309" time="396.9603336010909"/>
+<tli id="T310" time="397.240408185678"/>
+<tli id="T311" time="397.5004048990689"/>
+<tli id="T312" time="398.3000468538141"/>
+<tli id="T313" time="399.1049549285092"/>
+<tli id="T314" time="404.0000521111365"/>
+<tli id="T315" time="404.10009799095826"/>
+<tli id="T316" time="404.4002356304235"/>
+<tli id="T317" time="404.5002815102452"/>
+<tli id="T318" time="406.6003750223295"/>
+<tli id="T319" time="407.2998262169093"/>
+<tli id="T320" time="408.50037677477025"/>
+<tli id="T321" time="410.1002408877458"/>
+<tli id="T322" time="410.2602826644095"/>
+<tli id="T323" time="411.1998756016127"/>
+<tli id="T324" time="411.6500307216538"/>
+<tli id="T325" time="412.30038027965185"/>
+<tli id="T326" time="413.6001067531622"/>
+<tli id="T327" time="417.50015613786553"/>
+<tli id="T328" time="420.79993024363836"/>
+<tli id="T329" time="421.7003431620341"/>
+<tli id="T330" time="422.3131472867434" type="intp"/>
+<tli id="T331" time="422.52465888086743"/>
+<tli id="T332" time="423.799566709946"/>
+<tli id="T333" time="424.5846328408101"/>
+<tli id="T334" time="425.4003007870939"/>
+<tli id="T335" time="426.49993550096076"/>
+<tli id="T336" time="426.6946061687126"/>
+<tli id="T337" time="427.6996160946493"/>
+<tli id="T338" time="428.9145781061265"/>
+<tli id="T339" time="431.6997113591744"/>
+<tli id="T340" time="432.6001242775701"/>
+<tli id="T341" time="435.69980662369943"/>
+<tli id="T342" time="436.0999901429864"/>
+<tli id="T343" time="440.20013128733325"/>
+<tli id="T344" time="440.700360686442"/>
+<tli id="T345" time="440.99962836173484"/>
+<tli id="T346" time="447.0489191830683"/>
+<tli id="T347" time="447.39995477780946"/>
+<tli id="T348" time="447.9001841769182"/>
+<tli id="T349" time="448.20032181638345"/>
+<tli id="T350" time="448.4004135760269"/>
+<tli id="T351" time="452.37428155285266"/>
+<tli id="T352" time="452.7998223956666"/>
+<tli id="T353" time="453.3000517947753"/>
+<tli id="T354" time="456.00042058579004"/>
+<tli id="T355" time="456.6998717803699"/>
+<tli id="T356" time="456.7999176601916"/>
+<tli id="T357" time="457.0000094198352"/>
+<tli id="T358" time="462.09973939822703"/>
+<tli id="T359" time="462.4399355632795"/>
+<tli id="T360" time="463.9997411506679"/>
+<tli id="T361" time="464.6000164295983"/>
+<tli id="T362" time="465.89974290310863"/>
+<tli id="T363" time="466.39997230221735"/>
+<tli id="T364" time="469.2003869730538"/>
+<tli id="T365" time="469.89983816763373"/>
+<tli id="T366" time="471.59974816043103"/>
+<tli id="T367" time="473.1996122734066"/>
+<tli id="T368" time="474.2440050984579"/>
+<tli id="T369" time="481.3998945621002"/>
+<tli id="T370" time="482.44508555563874"/>
+<tli id="T371" time="483.0531564794825"/>
+<tli id="T372" time="483.4599259797154"/>
+<tli id="T373" time="490.99839085733555"/>
+<tli id="T374" time="492.1996297978145"/>
+<tli id="T375" time="492.6998591969232"/>
+<tli id="T376" time="492.9650510786921"/>
+<tli id="T377" time="493.60027211531894"/>
+<tli id="T378" time="493.91286047244864"/>
+<tli id="T379" time="496.19972506233955"/>
+<tli id="T380" time="497.3002297403787"/>
+<tli id="T381" time="498.9000938533543"/>
+<tli id="T382" time="499.69959092775593"/>
+<tli id="T383" time="501.5995926801967"/>
+<tli id="T384" time="503.04704928709003"/>
+<tli id="T385" time="504.55339851701785"/>
+<tli id="T386" time="505.59968794472184"/>
+<tli id="T387" time="507.299597937519"/>
+<tli id="T388" time="507.605003099367"/>
+<tli id="T389" time="508.60019437520174"/>
+<tli id="T390" time="509.4997373294251"/>
+<tli id="T391" time="510.6002420074643"/>
+<tli id="T392" time="511.0996014424007"/>
+<tli id="T393" time="511.55165683171657"/>
+<tli id="T394" time="511.8783224278063"/>
+<tli id="T395" time="512.5783201337129"/>
+<tli id="T396" time="513.9516489662534"/>
+<tli id="T397" time="514.4316473931608"/>
+<tli id="T398" time="516.6003849042519"/>
+<tli id="T399" time="516.8996525795447"/>
+<tli id="T400" time="517.5573454938511"/>
+<tli id="T401" time="517.8267404331331"/>
+<tli id="T402" time="522.5996578368671"/>
+<tli id="T403" time="524.499659589308"/>
+<tli id="T404" time="525.0449459436684"/>
+<tli id="T405" time="528.0995713345461"/>
+<tli id="T406" time="535.8996701039528"/>
+<tli id="T407" time="536.4451376400243"/>
+<tli id="T408" time="540.1131778107473"/>
+<tli id="T409" time="545.2996329863349"/>
+<tli id="T410" time="545.8248778418669"/>
+<tli id="T411" time="546.6002294240177"/>
+<tli id="T412" time="550.3001870490774"/>
+<tli id="T413" time="551.713008864995"/>
+<tli id="T414" time="552.30023468134"/>
+<tli id="T415" time="554.0001446741373"/>
+<tli id="T416" time="554.5848491329264"/>
+<tli id="T417" time="555.6000087871129"/>
+<tli id="T418" time="557.1998729000884"/>
+<tli id="T419" time="557.5648393666429"/>
+<tli id="T420" time="559.7018898598044"/>
+<tli id="T421" time="561.1999681646134"/>
+<tli id="T422" time="561.400059924257"/>
+<tli id="T423" time="561.8002434435439"/>
+<tli id="T424" time="561.9714915914453"/>
+<tli id="T425" time="562.1781575808083"/>
+<tli id="T426" time="562.3448237012623"/>
+<tli id="T427" time="563.7002451959847"/>
+<tli id="T428" time="564.6998340300298"/>
+<tli id="T429" time="567.0000193017576"/>
+<tli id="T430" time="569.3002045734853"/>
+<tli id="T431" time="571.1467740214111"/>
+<tli id="T432" time="578.0998921769371"/>
+<tli id="T433" time="579.8998480495562"/>
+<tli id="T434" time="581.1995745230665"/>
+<tli id="T435" time="581.5997580423535"/>
+<tli id="T436" time="581.799849801997"/>
+<tli id="T437" time="582.5001709607492"/>
+<tli id="T438" time="584.9004021122987"/>
+<tli id="T439" time="587.3998091794977"/>
+<tli id="T440" time="587.6598969865005"/>
+<tli id="T441" time="587.9647397374433"/>
+<tli id="T442" time="588.8996274126514"/>
+<tli id="T443" time="589.4407451278612"/>
+<tli id="T444" time="592.2002714825967"/>
+<tli id="T445" time="592.699630917533"/>
+<tli id="T446" time="596.2003667471217"/>
+<tli id="T447" time="596.699726182058"/>
+<tli id="T448" time="597.4000473408104"/>
+<tli id="T449" time="598.2004143793843"/>
+<tli id="T450" time="598.4996820546771"/>
+<tli id="T451" time="599.7002326125381"/>
+<tli id="T452" time="601.9003720044441"/>
+<tli id="T453" time="602.2996855595587"/>
+<tli id="T454" time="602.6998690788457"/>
+<tli id="T455" time="603.9004196367066"/>
+<tli id="T456" time="604.0996414321778"/>
+<tli id="T457" time="604.5998708312865"/>
+<tli id="T458" time="605.4767947170284"/>
+<tli id="T459" time="609.9997384491436"/>
+<tli id="T460" time="612.6000613603366"/>
+<tli id="T461" time="619.1996095718823"/>
+<tli id="T462" time="621.3997489637883"/>
+<tli id="T463" time="622.0000242427188"/>
+<tli id="T464" time="622.8003912812927"/>
+<tli id="T465" time="623.1997048364074"/>
+<tli id="T466" time="623.5197794633723"/>
+<tli id="T467" time="626.3002571467091"/>
+<tli id="T468" time="626.7996165816455"/>
+<tli id="T469" time="628.0001671395064"/>
+<tli id="T470" time="629.3999394928385"/>
+<tli id="T471" time="629.9001688919471"/>
+<tli id="T472" time="630.3003524112341"/>
+<tli id="T473" time="633.6334442346565"/>
+<tli id="T474" time="635.0999447501608"/>
+<tli id="T475" time="635.5645837390913"/>
+<tli id="T476" time="639.9995829689093"/>
+<tli id="T477" time="641.9330003679621"/>
+<tli id="T478" time="642.5999058801023"/>
+<tli id="T479" time="647.5995899786725"/>
+<tli id="T480" time="648.5748198158914"/>
+<tli id="T481" time="649.0002322961769"/>
+<tli id="T482" time="649.4556319641389"/>
+<tli id="T483" time="650.2999587696872"/>
+<tli id="T484" time="651.1003258082612"/>
+<tli id="T485" time="651.8998228826628"/>
+<tli id="T486" time="654.800283433321"/>
+<tli id="T487" time="655.1004210727863"/>
+<tli id="T488" time="655.4997346279009"/>
+<tli id="T489" time="656.7002851857618"/>
+<tli id="T490" time="657.0995987408764"/>
+<tli id="T491" time="657.2996905005199"/>
+<tli id="T492" time="657.8645106558298"/>
+<tli id="T493" time="659.0509283794867"/>
+<tli id="T494" time="659.4798207164616"/>
+<tli id="T495" time="659.900013411713"/>
+<tli id="T496" time="663.5086247986746"/>
+<tli id="T497" time="666.4003857076093"/>
+<tli id="T498" time="666.699653382902"/>
+<tli id="T499" time="667.3999745416544"/>
+<tli id="T500" time="669.0998845344517"/>
+<tli id="T501" time="669.8002056932038"/>
+<tli id="T502" time="670.0002974528473"/>
+<tli id="T503" time="670.2995651281402"/>
+<tli id="T504" time="671.73352770308"/>
+<tli id="T505" time="673.2000256787984"/>
+<tli id="T506" time="677.8003962222541"/>
+<tli id="T507" time="679.3002144554079"/>
+<tli id="T508" time="679.6203768556113"/>
+<tli id="T509" time="680.5999409289182"/>
+<tli id="T510" time="681.1001703280268"/>
+<tli id="T511" time="683.5995773952258"/>
+<tli id="T512" time="683.8997150346911"/>
+<tli id="T513" time="684.1998526741562"/>
+<tli id="T514" time="687.5462883801242"/>
+<tli id="T515" time="688.2444110921757"/>
+<tli id="T516" time="688.6510764260834"/>
+<tli id="T517" time="696.1575101586786"/>
+<tli id="T518" time="697.5999108210635"/>
+<tli id="T519" time="697.800002580707"/>
+<tli id="T520" time="698.200186099994"/>
+<tli id="T521" time="698.4002778596374"/>
+<tli id="T522" time="698.9996831743956"/>
+<tli id="T523" time="699.4999125735043"/>
+<tli id="T524" time="699.9000960927913"/>
+<tli id="T525" time="700.3002796120783"/>
+<tli id="T526" time="700.7910366399491"/>
+<tli id="T527" time="701.084369011948"/>
+<tli id="T528" time="701.2998684461234"/>
+<tli id="T529" time="701.7000519654104"/>
+<tli id="T530" time="702.5995949196337"/>
+<tli id="T531" time="704.2003289967816"/>
+<tli id="T532" time="704.4004207564251"/>
+<tli id="T533" time="704.5996425518963"/>
+<tli id="T534" time="705.500055470292"/>
+<tli id="T535" time="706.3004225088658"/>
+<tli id="T536" time="707.1999654630893"/>
+<tli id="T537" time="709.3000589751734"/>
+<tli id="T538" time="709.6001966146388"/>
+<tli id="T539" time="710.1004260137474"/>
+<tli id="T540" time="712.019"/>
+</common-timeline>
+<tier id="TIE1" speaker="SPK0" category="sup" type="a" display-name="Fichte [sup]"><event start="T10" end="T11">schnell</event>
+<event start="T75" end="T76">leiser, schneller </event>
+<event start="T77" end="T78">langsamer </event>
+<event start="T96" end="T97">leise</event>
+<event start="T146" end="T147">gedehnt</event>
+<event start="T201" end="T202">betont</event>
+<event start="T204" end="T205">betont</event>
+<event start="T212" end="T213">langsamer </event>
+<event start="T406" end="T407">betont</event>
+</tier><tier id="TIE2" speaker="SPK0" category="v" type="t" display-name="Fichte [v]"><event start="T0" end="T1">Uli, wie alt bist du? </event>
+<event start="T2" end="T3">((holt Luft)) Womit verdienst du dein Geld? </event>
+<event start="T5" end="T6">• • • </event>
+<event start="T6" end="T7">Wo? </event>
+<event start="T9" end="T10">• • </event>
+<event start="T10" end="T11">Im Puff </event>
+<event start="T11" end="T12">((holt Luft))… </event>
+<event start="T20" end="T21">Hm̌˙ </event>
+<event start="T33" end="T34">Hm̀hḿ hm̀hḿ˙ </event>
+<event start="T35" end="T36">((schluckt hörbar, 0,3s)) Und wie is dieses Wohnheim überhaupt gebaut worden? </event>
+<event start="T39" end="T40">• • Hm̌˙</event>
+<event start="T45" end="T46">Hm̌˙ </event>
+<event start="T50" end="T51">• Hm̌˙ </event>
+<event start="T58" end="T59">Hm̌˙ </event>
+<event start="T59" end="T60">((1,4s)) </event>
+<event start="T60" end="T61">Also wenn einer s</event>
+<event start="T61" end="T62">ech… </event>
+<event start="T65" end="T66">Zahlen. </event>
+<event start="T66" end="T67">Und was musste er bezahlen, um reinzukommen? </event>
+<event start="T71" end="T72">Hm̌. </event>
+<event start="T74" end="T75">• • </event>
+<event start="T75" end="T76">Fünfundzwanzig Mill Kaution. </event>
+<event start="T76" end="T77">Und bei sechzehn Zimmern </event>
+<event start="T77" end="T78">bezaahlt ihr also im Moonat etwaa ((atmet hörbar ein, 0,6)) </event>
+<event start="T78" end="T79">äh… </event>
+<event start="T83" end="T84">Den müsst </event>
+<event start="T84" end="T85">ihr mitbezahl</event>
+<event start="T85" end="T86">en. </event>
+<event start="T87" end="T88">Hm. </event>
+<event start="T88" end="T89">Auf jeder Etage is also ein Salon? </event>
+<event start="T90" end="T91">• • Hm̌˙ </event>
+<event start="T91" end="T92">((schluckt hörbar, 1,2s)) Und was bezahlen die Mädchen Miete? </event>
+<event start="T93" end="T94">H</event>
+<event start="T94" end="T95">m̌˙ </event>
+<event start="T96" end="T97">Hm̌˙ </event>
+<event start="T99" end="T100">Hm̌˙ </event>
+<event start="T103" end="T104">• </event>
+<event start="T104" end="T105">Hm̌˙ </event>
+<event start="T107" end="T108">• Also man verdient an einem Zimmer ungefäähr sechshundert Mark im Monat? </event>
+<event start="T111" end="T112">Nun is das ja </event>
+<event start="T112" end="T113">an und für sich nicht der Schmalz, den ein Puffbesitzer, den ein Puffbesitzer • • in einem Puff verdienen will. </event>
+<event start="T113" end="T114">Sind da noch andere Möglichkeiten des Gelderwerbs? </event>
+<event start="T114" end="T115">• • • </event>
+<event start="T115" end="T116">Für den • ää dem </event>
+<event start="T116" end="T117">der Puff gehö</event>
+<event start="T117" end="T118">rt? </event>
+<event start="T120" end="T121">Offiziell nich. </event>
+<event start="T132" end="T133">Hm̌. </event>
+<event start="T137" end="T138">• Hm̀˙ </event>
+<event start="T139" end="T140">Jà. </event>
+<event start="T144" end="T145">• Jà. </event>
+<event start="T145" end="T146">• Und darin läge an und für sich für den </event>
+<event start="T146" end="T147">Be</event>
+<event start="T147" end="T148">sitzer einer Etage oder für den Pächter einer Etage das Schmalz? </event>
+<event start="T149" end="T150">Im </event>
+<event start="T150" end="T151">Ausscha</event>
+<event start="T151" end="T152">nk.</event>
+<event start="T155" end="T156">Hm̌˙ </event>
+<event start="T158" end="T159">Jà˙ </event>
+<event start="T160" end="T161">Hm̌˙ </event>
+<event start="T163" end="T164">• • </event>
+<event start="T164" end="T165">Hm̌˙ </event>
+<event start="T166" end="T167">Jà˙ </event>
+<event start="T169" end="T170">Hm̌˙ </event>
+<event start="T185" end="T186">Hm̌˙ </event>
+<event start="T197" end="T198">• </event>
+<event start="T198" end="T199">Hm̀˙ </event>
+<event start="T199" end="T200">• • • </event>
+<event start="T200" end="T201">Und wie hoch wäre der Verdienst des Pächters, wenn er ausschenken </event>
+<event start="T201" end="T202">dürf</event>
+<event start="T202" end="T203">te? </event>
+<event start="T203" end="T204">• • </event>
+<event start="T204" end="T205">Un</event>
+<event start="T205" end="T206">gefähr im Monat. </event>
+<event start="T208" end="T209">Das Doppelte. </event>
+<event start="T209" end="T210">((1s)) </event>
+<event start="T211" end="T212">Also so verdient er ungefähr… </event>
+<event start="T212" end="T213">Fünfhundert Mark mal sechzehn, </event>
+<event start="T213" end="T214">das sind achttausend Mark. </event>
+<event start="T214" end="T215">Also er würde </event>
+<event start="T215" end="T216">unge</event>
+<event start="T216" end="T217">fähr sech… </event>
+<event start="T218" end="T219">Hm̌˙ </event>
+<event start="T220" end="T221">H</event>
+<event start="T221" end="T222">m̌˙ </event>
+<event start="T223" end="T224">Jà˙ </event>
+<event start="T232" end="T233">H</event>
+<event start="T233" end="T234">m̌˙ </event>
+<event start="T235" end="T236">Hm̌ </event>
+<event start="T236" end="T237">hm̌˙ </event>
+<event start="T245" end="T246">((2s)) </event>
+<event start="T246" end="T247">((holt Luft)) </event>
+<event start="T247" end="T248">Woher kommen </event>
+<event start="T248" end="T249">nu</event>
+<event start="T249" end="T250">n äh • die Mädchen, die • in diesen • • Wohnheim wohnen? </event>
+<event start="T257" end="T258">Hm̌˙ </event>
+<event start="T265" end="T266">Hm̌˙ </event>
+<event start="T267" end="T268">Hm̌˙ </event>
+<event start="T285" end="T286">Hm̌˙ </event>
+<event start="T294" end="T295">Wie werden nun </event>
+<event start="T295" end="T296">praktisch die Mädchen angekobert? </event>
+<event start="T310" end="T311">Hm̀˙</event>
+<event start="T315" end="T316">Hm̌˙ </event>
+<event start="T322" end="T323">Hm̌ • hm̀ • </event>
+<event start="T323" end="T324">hm̀˙ </event>
+<event start="T329" end="T330">Hm̌˙ </event>
+<event start="T336" end="T337">Hm̌˙ </event>
+<event start="T337" end="T338">((1,2s)) </event>
+<event start="T338" end="T339">Und was verdienen die Mädchen so in der Nacht bei euch durchschnittlich? </event>
+<event start="T343" end="T344">Hm̌˙ </event>
+<event start="T358" end="T359">Hm̌˙ </event>
+<event start="T366" end="T367">((holt Luft)) Wer sind nun die Bauherren? </event>
+<event start="T375" end="T376">Hm̌, </event>
+<event start="T376" end="T377">hm̌˙ </event>
+<event start="T377" end="T378">((holt Luft)) </event>
+<event start="T378" end="T379">Und diese Soliden, in welcher Weise sind die solide? </event>
+<event start="T379" end="T380">Was ham die für Berufe?</event>
+<event start="T387" end="T388">• • • </event>
+<event start="T388" end="T389">Rechtsanwälte nicht? </event>
+<event start="T403" end="T404">• ((holt Luft)) </event>
+<event start="T404" end="T405">Nun ist das ganze Wohnheim ja doch wohl n Millionenprojekt. </event>
+<event start="T405" end="T406">Und äh wie konnte sich dieses Konsortium leisten, das einfach auf n blauen Dunst hin, auf diese vage Vorstellung, dass </event>
+<event start="T406" end="T407">mal </event>
+<event start="T407" end="T408">das Verbot des Straßenstrichs kommen würde, das zu bauen? </event>
+<event start="T408" end="T409">Hatten die irgendwelche Zusicherungen oder • • Empfehlungen bekommen? </event>
+<event start="T424" end="T425">Hm̌˙ </event>
+<event start="T434" end="T435">Hm̌˙ </event>
+<event start="T440" end="T441">Hm̌˙ </event>
+<event start="T456" end="T457">Hm̌˙ </event>
+<event start="T462" end="T463">Hm̌˙ </event>
+<event start="T468" end="T469">Hm̀ hm̀ hm̀˙ </event>
+<event start="T469" end="T470">((1,4s)) </event>
+<event start="T470" end="T471">((schluckt)) </event>
+<event start="T471" end="T472">((holt Luft)) </event>
+<event start="T472" end="T473">Musst du nun als Wirtschafter auch aufpassen, dass den Mädchen nichts geschieht?</event>
+<event start="T473" end="T474">‿Musst Du Freier rausschaffen? </event>
+<event start="T489" end="T490">Hm̌˙ </event>
+<event start="T500" end="T502">Hm̀ hm̀ hm̀˙ </event>
+<event start="T514" end="T515">Hm̀ hm̀˙ </event>
+<event start="T518" end="T519">H</event>
+<event start="T519" end="T520">m̀ h</event>
+<event start="T520" end="T521">m̀˙ </event>
+<event start="T523" end="T524">• • </event>
+<event start="T524" end="T525">Aber das </event>
+<event start="T525" end="T526">hast du noch nicht </event>
+<event start="T526" end="T527">erle</event>
+<event start="T527" end="T528">bt? </event>
+<event start="T537" end="T538">• </event>
+<event start="T538" end="T539">Hm̀˙ </event>
+</tier><tier id="TIE7" speaker="SPK0" category="en" type="a" display-name="Fichte [en]"><event start="T0" end="T1">Uli, how old are you? </event>
+<event start="T2" end="T3">What do you do for a living? </event>
+<event start="T5" end="T7">Where ? </event>
+<event start="T9" end="T12">In the brothel ...</event>
+<event start="T20" end="T21">Hm̌ ˙</event>
+<event start="T33" end="T34">Hm̀hḿ hm̀hḿ ˙</event>
+<event start="T35" end="T36">And how was this hall of residence built in the first place? </event>
+<event start="T39" end="T40">Hm̌ ˙</event>
+<event start="T45" end="T46">Hm̌ ˙</event>
+<event start="T50" end="T51">Hm̌ ˙</event>
+<event start="T58" end="T59">Hm̌ ˙ </event>
+<event start="T59" end="T62">So if one six ...</event>
+<event start="T65" end="T66">Pay . </event>
+<event start="T66" end="T67">And what did he have to pay to get in ? </event>
+<event start="T71" end="T72">Hm̌ . </event>
+<event start="T74" end="T76">Twenty-five mill deposit . </event>
+<event start="T76" end="T79">And with sixteen rooms, you'll pay abouta uh a month ...</event>
+<event start="T83" end="T86">You have to pay for it too. </event>
+<event start="T87" end="T88">Hm. </event>
+<event start="T88" end="T89">So there's a lounge on each floor? </event>
+<event start="T90" end="T91">Hm̌ ˙ </event>
+<event start="T91" end="T92">And what do the girls pay in rent? </event>
+<event start="T93" end="T95">Hm̌ ˙</event>
+<event start="T96" end="T97">Hm̌ ˙</event>
+<event start="T99" end="T100">Hm̌ ˙</event>
+<event start="T103" end="T105">Hm̌ ˙</event>
+<event start="T107" end="T108">So you earn about six hundred marks a month for a room? </event>
+<event start="T111" end="T113">Now this is not the kind of money that a brothel owner wants to earn in a brothel. </event>
+<event start="T113" end="T114">Are there other ways of earning money ? </event>
+<event start="T114" end="T118">For the ää who owns the brothel ? </event>
+<event start="T120" end="T121">Officially not . </event>
+<event start="T132" end="T133">Hm̌ . </event>
+<event start="T137" end="T138">Hm̀ ˙</event>
+<event start="T139" end="T140">Jà . </event>
+<event start="T144" end="T145">Yes . </event>
+<event start="T145" end="T148">And that in and of itself would be the lard for the owner of a floor or for the tenant of a floor ? </event>
+<event start="T149" end="T152">In the bar .</event>
+<event start="T155" end="T156">Hm̌ ˙</event>
+<event start="T158" end="T159">Jà ˙</event>
+<event start="T160" end="T161">Hm̌ ˙</event>
+<event start="T163" end="T165">Hm̌ ˙</event>
+<event start="T166" end="T167">Jà ˙</event>
+<event start="T169" end="T170">Hm̌ ˙</event>
+<event start="T185" end="T186">Hm̌ ˙</event>
+<event start="T197" end="T199">Hm̀ ˙ </event>
+<event start="T199" end="T203">And how much would the tenant earn if he was allowed to serve? </event>
+<event start="T203" end="T206">Approximately per month . </event>
+<event start="T208" end="T209">The double . </event>
+<event start="T211" end="T212">So he earns about ... </event>
+<event start="T212" end="T214">Five hundred marks times sixteen, that's eight thousand marks. </event>
+<event start="T214" end="T217">So he would earn about six ...</event>
+<event start="T218" end="T219">Hm̌ ˙</event>
+<event start="T220" end="T222">Hm̌ ˙</event>
+<event start="T223" end="T224">Jà ˙</event>
+<event start="T232" end="T234">Hm̌ ˙</event>
+<event start="T235" end="T237">Hm̌ hm̌ ˙</event>
+<event start="T245" end="T250">Where do the girls who live in this dormitory come from? </event>
+<event start="T257" end="T258">Hm̌ ˙</event>
+<event start="T265" end="T266">Hm̌ ˙</event>
+<event start="T267" end="T268">Hm̌ ˙</event>
+<event start="T285" end="T286">Hm̌ ˙</event>
+<event start="T294" end="T296">How are the girls practically recruited? </event>
+<event start="T310" end="T311">Hm̀ ˙</event>
+<event start="T315" end="T316">Hm̌ ˙</event>
+<event start="T322" end="T324">Hm̌ hm̀ hm̀ ˙</event>
+<event start="T329" end="T330">Hm̌ ˙</event>
+<event start="T336" end="T337">Hm̌ ˙ </event>
+<event start="T337" end="T339">And what do the girls earn on average at night? </event>
+<event start="T343" end="T344">Hm̌ ˙</event>
+<event start="T358" end="T359">Hm̌ ˙</event>
+<event start="T366" end="T367">Who are the builders? </event>
+<event start="T375" end="T377">Hm̌ , hm̌ ˙ </event>
+<event start="T377" end="T379">And these solids, in what way are they solid? </event>
+<event start="T379" end="T380">What professions do they have?</event>
+<event start="T387" end="T389">Not lawyers ? </event>
+<event start="T403" end="T405">Now the whole dormitory is a project worth millions . </event>
+<event start="T405" end="T408">And how could this consortium afford to build this simply on a blue haze, on this vague idea that the ban on street prostitution would come? </event>
+<event start="T408" end="T409">Did they get any assurances or recommendations ? </event>
+<event start="T424" end="T425">Hm̌ ˙</event>
+<event start="T434" end="T435">Hm̌ ˙</event>
+<event start="T440" end="T441">Hm̌ ˙</event>
+<event start="T456" end="T457">Hm̌ ˙</event>
+<event start="T462" end="T463">Hm̌ ˙</event>
+<event start="T468" end="T469">Hm̀ hm̀ hm̀ ˙ </event>
+<event start="T469" end="T473">As a housekeeper, do you also have to make sure that nothing happens to the girls? </event>
+<event start="T473" end="T474">Do you have to get punters out ? </event>
+<event start="T489" end="T490">Hm̌ ˙</event>
+<event start="T500" end="T502">Hm̀ hm̀ hm̀ ˙</event>
+<event start="T514" end="T515">Hm̀ hm̀ ˙</event>
+<event start="T518" end="T521">Hm̀ hm̀ ˙</event>
+<event start="T523" end="T528">But you haven't experienced that yet? </event>
+<event start="T537" end="T539">Hm̀ ˙</event>
+</tier><tier id="TIE3" speaker="SPK1" category="sup" type="a" display-name="Ulli [sup]"><event start="T4" end="T5">leise</event>
+<event start="T8" end="T9">leise</event>
+<event start="T14" end="T15">betont</event>
+<event start="T18" end="T19">abfällig</event>
+<event start="T22" end="T26">schnell</event>
+<event start="T28" end="T29">betont</event>
+<event start="T31" end="T32">betont</event>
+<event start="T43" end="T44">sehr leise</event>
+<event start="T44" end="T45">schnell</event>
+<event start="T47" end="T48">sehr leise</event>
+<event start="T54" end="T55">betont</event>
+<event start="T56" end="T57">betont</event>
+<event start="T72" end="T73">leise</event>
+<event start="T80" end="T81">schnell</event>
+<event start="T81" end="T82">betont</event>
+<event start="T102" end="T103">betont</event>
+<event start="T105" end="T107">leise</event>
+<event start="T109" end="T110">mit gepresster Stimme</event>
+<event start="T116" end="T118">leise, mit gepresster Stimme</event>
+<event start="T123" end="T124">betont</event>
+<event start="T128" end="T129">sehr leise</event>
+<event start="T134" end="T135">schneller</event>
+<event start="T135" end="T136">betont</event>
+<event start="T140" end="T141">sehr leise</event>
+<event start="T143" end="T144">leise</event>
+<event start="T148" end="T150">mit gepresster Stimme</event>
+<event start="T156" end="T158">schnell</event>
+<event start="T170" end="T171">schnell</event>
+<event start="T177" end="T179">schneller</event>
+<event start="T188" end="T189">leiser</event>
+<event start="T196" end="T197">leiser</event>
+<event start="T210" end="T211">leise</event>
+<event start="T225" end="T226">betont</event>
+<event start="T227" end="T228">leise</event>
+<event start="T229" end="T230">leise und schnell </event>
+<event start="T238" end="T239">schnell</event>
+<event start="T241" end="T242">leise</event>
+<event start="T243" end="T244">leise</event>
+<event start="T251" end="T252">lauter</event>
+<event start="T276" end="T277">betont</event>
+<event start="T279" end="T280">betont</event>
+<event start="T282" end="T283">betont</event>
+<event start="T298" end="T299">laut</event>
+<event start="T303" end="T304">betont</event>
+<event start="T305" end="T306">betont</event>
+<event start="T318" end="T319">betont</event>
+<event start="T323" end="T324">leise</event>
+<event start="T328" end="T329">lauter</event>
+<event start="T340" end="T341">leise</event>
+<event start="T341" end="T342">schnell</event>
+<event start="T347" end="T348">schnell</event>
+<event start="T349" end="T350">leise</event>
+<event start="T354" end="T355">leise</event>
+<event start="T356" end="T357">betont</event>
+<event start="T365" end="T366">leise</event>
+<event start="T368" end="T371">langsam</event>
+<event start="T373" end="T374">schneller</event>
+<event start="T381" end="T386">leise</event>
+<event start="T398" end="T399">schnell</event>
+<event start="T400" end="T401">betont</event>
+<event start="T402" end="T403">leiser</event>
+<event start="T416" end="T417">schneller, lauter </event>
+<event start="T437" end="T439">lauter</event>
+<event start="T442" end="T443">betont</event>
+<event start="T446" end="T447">schneller</event>
+<event start="T452" end="T453">betont</event>
+<event start="T461" end="T462">schneller</event>
+<event start="T467" end="T468">betont</event>
+<event start="T493" end="T494">betont</event>
+<event start="T497" end="T498">leise</event>
+<event start="T498" end="T500">klagend</event>
+<event start="T503" end="T504">klagend</event>
+<event start="T509" end="T510">undeutlich</event>
+<event start="T511" end="T514">leise</event>
+<event start="T519" end="T520">betont</event>
+<event start="T522" end="T523">zögerlich</event>
+<event start="T525" end="T526">leise</event>
+<event start="T527" end="T529">laut</event>
+<event start="T539" end="T540">lauter</event>
+</tier><tier id="TIE4" speaker="SPK1" category="v" type="t" display-name="Ulli [v]"><event start="T1" end="T2">Einunddreißig. </event>
+<event start="T3" end="T4">• • • </event>
+<event start="T4" end="T5">Na, als Wirtschafter. </event>
+<event start="T7" end="T8">• • </event>
+<event start="T8" end="T9">Ähm hier im Puff. </event>
+<event start="T11" end="T12">Das </event>
+<event start="T12" end="T13">is n so genanntes Wohnheim.</event>
+<event start="T13" end="T14">‿Deern-</event>
+<event start="T14" end="T15">Woohn</event>
+<event start="T15" end="T16">heim wird das ja genannt, né? </event>
+<event start="T16" end="T17">Weil wir ja… </event>
+<event start="T17" end="T18">((holt Luft,0,9s)) </event>
+<event start="T18" end="T19">Puff. </event>
+<event start="T19" end="T20">• • Offiziell gibt s ja keinen. </event>
+<event start="T21" end="T22">Obwohl das jeder/ • • äh vom </event>
+<event start="T22" end="T23">Hafenarbeiter bis zum Bürgermeister weiß jeder, dass das n </event>
+<event start="T23" end="T24">Puff </event>
+<event start="T24" end="T25">is. </event>
+<event start="T25" end="T26">Bloß n Staatsanwalt hat mir mal gesagt: </event>
+<event start="T26" end="T27">• • "Das is n ((1,2s)) Wohnheim. </event>
+<event start="T27" end="T28">Ich weiß </event>
+<event start="T28" end="T29">nich,</event>
+<event start="T29" end="T30">dass das n Puff is. </event>
+<event start="T30" end="T31">Das darf ich </event>
+<event start="T31" end="T32">über</event>
+<event start="T32" end="T33">haupt nich wissen.". </event>
+<event start="T33" end="T34">• • • </event>
+<event start="T34" end="T35">Né?</event>
+<event start="T36" end="T37">((2s)) </event>
+<event start="T37" end="T38">((holt tief Luft, 1,5s)) </event>
+<event start="T38" end="T39">Ja, das is so n/ n Kontakthof. </event>
+<event start="T39" end="T40">((0,7s)) </event>
+<event start="T40" end="T41">Unten. </event>
+<event start="T41" end="T42">((1s)) </event>
+<event start="T42" end="T43">Und die einzelnen • • • Etagen ((1s)) sind vermietet worden. </event>
+<event start="T43" end="T44">(Also) </event>
+<event start="T44" end="T45">oder vielmehr verpachtet, </event>
+<event start="T45" end="T46">•</event>
+<event start="T46" end="T47">• • an Pächter. </event>
+<event start="T47" end="T48">(Sind glaub ich mit) </event>
+<event start="T48" end="T49">sieben oder acht Pächter sind • • insgesamt da. </event>
+<event start="T49" end="T50">So hundertvierzig Zimmer. </event>
+<event start="T51" end="T52">• • </event>
+<event start="T52" end="T53">Und </event>
+<event start="T53" end="T54">((1,8s)) </event>
+<event start="T54" end="T55">Pacht </event>
+<event start="T55" end="T56">is </event>
+<event start="T56" end="T57">un</event>
+<event start="T57" end="T58">gefähr pro Zimmer • jetzt vierhundertfünfundsiebzig Mark im Monat. </event>
+<event start="T61" end="T62">Muss </event>
+<event start="T62" end="T63">denn der Pächter </event>
+<event start="T63" end="T64">• • </event>
+<event start="T64" end="T65">za</event>
+<event start="T65" end="T66">hlen. </event>
+<event start="T67" end="T68">• • • Äh, </event>
+<event start="T68" end="T69">ja das ist auch verschieden. </event>
+<event start="T69" end="T70">Äh wir bei uns ham </event>
+<event start="T70" end="T71">sechzehn Zimmer • </event>
+<event start="T71" end="T72">• •</event>
+<event start="T72" end="T73">und </event>
+<event start="T73" end="T74">fünfundzwanzig Mill • Kaution. </event>
+<event start="T78" end="T79">Achttausend</event>
+<event start="T79" end="T80">vierhundert Mark </event>
+<event start="T80" end="T81">zahlen wir, weil wir den Salon </event>
+<event start="T81" end="T82">mit- </event>
+<event start="T82" end="T83">((1s)) -bezahlen </event>
+<event start="T83" end="T84">müssen. </event>
+<event start="T85" end="T86">J</event>
+<event start="T86" end="T87">à. </event>
+<event start="T89" end="T90">Ja'à. </event>
+<event start="T92" end="T93">• • Vierzig Mark am Tach • • • und der Sonntag ist frei, ob sie arbeiten oder nich, né? </event>
+<event start="T94" end="T95">Da </event>
+<event start="T95" end="T96">brauchen sie nichts bezahlen. </event>
+<event start="T96" end="T97">((holt Luft)) </event>
+<event start="T97" end="T98">Wenn sie montags kommen, dann ham sie sonst noch vierzig Mark auf m Block stehen.</event>
+<event start="T98" end="T99">‿Die vierzig von Montag, dann (noch mit </event>
+<event start="T99" end="T100">dem) sind das sch</event>
+<event start="T100" end="T101">on achtzig, né? </event>
+<event start="T101" end="T102">Und ((holt Luft)) einige nehmen nur äh äh siebenundreißig, aber dafür Sonntag </event>
+<event start="T102" end="T103">mit. </event>
+<event start="T105" end="T106">Né? </event>
+<event start="T106" end="T107">Und • das machen wir nich. </event>
+<event start="T108" end="T109">• • • </event>
+<event start="T109" end="T110">Jà. </event>
+<event start="T110" end="T112">((atmet hörbar aus, 0,8)) </event>
+<event start="T116" end="T118">Jàaaaaaaa. </event>
+<event start="T118" end="T119">• </event>
+<event start="T119" end="T120">Offiziell nich. </event>
+<event start="T121" end="T122">• </event>
+<event start="T122" end="T123">Ausschank is generell verboten, obwohl das, • • als der Vertrag ((1s)) gemacht worden is • • • mit der Gesellschaft, da ist das damals äh äh zwar versprochen worden, </event>
+<event start="T123" end="T124">dass</event>
+<event start="T124" end="T125">Ausschank sein wird • • • und… </event>
+<event start="T125" end="T126">((1s)) </event>
+<event start="T126" end="T127">"Das ist aber alles auch Sperrgebiet", ham sie gesagt. </event>
+<event start="T127" end="T128">Woanders auf den Straßen, das würde alles eingestellt. </event>
+<event start="T128" end="T129">"Und </event>
+<event start="T129" end="T130">ihr dürft ausschenken." </event>
+<event start="T130" end="T131">Und ((1s)) na ja, sonst hätten die den Puff nich vollgekriegt, né? </event>
+<event start="T131" end="T132">Also die </event>
+<event start="T132" end="T133">• hät</event>
+<event start="T133" end="T134">te keiner gepachtet dann. </event>
+<event start="T134" end="T135">Da kannst du ja an und für sich so gut wie </event>
+<event start="T135" end="T136">gar </event>
+<event start="T136" end="T137">nich von leben, </event>
+<event start="T137" end="T138">• •</event>
+<event start="T138" end="T140">• </event>
+<event start="T140" end="T141">né? </event>
+<event start="T141" end="T142">((2,6s)) </event>
+<event start="T142" end="T143">((schmatzt, atmet hörbar ein,0,8s)) </event>
+<event start="T143" end="T144">Musste ab und zu mal was ausschenken. </event>
+<event start="T148" end="T149">Jà, </event>
+<event start="T149" end="T150">jà. </event>
+<event start="T151" end="T152">((atmet</event>
+<event start="T152" end="T153">ein)) </event>
+<event start="T153" end="T154">Jà, sch/ n Reibach wäre, wenn • äh, äh offiziell der Ausschank erlaubt wäre. </event>
+<event start="T154" end="T155">Auch im Salon.</event>
+<event start="T156" end="T157">Da muss bei uns/ da darf kein Mann sitzen.</event>
+<event start="T157" end="T158">‿Selbst wenn ich n Auto kaufen muss auch/ von jemandem kaufen will, • </event>
+<event start="T158" end="T159">• </event>
+<event start="T159" end="T160">• den darf ich nich äh, äh bei mir oben sitzen haben </event>
+<event start="T160" end="T161">• • </event>
+<event start="T161" end="T162">und mit dem verhandeln jetzt, </event>
+<event start="T162" end="T163">sondern mit dem muss ich mich irgendwo anders treffen. </event>
+<event start="T165" end="T166">Da darf praktisch gar keiner, nur der Wirtschafter oder der Boss selber, </event>
+<event start="T166" end="T167">• • </event>
+<event start="T167" end="T168">sonst darf überhaupt kein Mann oben • im Salon sein. </event>
+<event start="T168" end="T169">• </event>
+<event start="T169" end="T170">((holt Luft)) </event>
+<event start="T170" end="T171">Kommt auch oft </event>
+<event start="T171" end="T172">die Schmiere, </event>
+<event start="T172" end="T173">so • • ein-, zweimal inner Woche. </event>
+<event start="T173" end="T174">((holt Luft)) </event>
+<event start="T174" end="T175">Dann </event>
+<event start="T175" end="T176">kneißen </event>
+<event start="T176" end="T177">sie rein, ob ((1,7s)) irgendwelche da sind. </event>
+<event start="T177" end="T178">Aber uns ham se bis jetzt noch nicht gegriffen. </event>
+<event start="T178" end="T179">(Aber) bei uns hängen ja auch </event>
+<event start="T179" end="T180">keine rum, né? </event>
+<event start="T180" end="T181">So </event>
+<event start="T181" end="T182">Luden. </event>
+<event start="T182" end="T183">• ((holt Luft)) </event>
+<event start="T183" end="T184">Denn äh, • mir bringen • • • so Jungs • ihre Frau • • und wissen deswegen schon: </event>
+<event start="T184" end="T185">da wird keine angemacht </event>
+<event start="T185" end="T186">• • v</event>
+<event start="T186" end="T187">on irgend n annern. </event>
+<event start="T187" end="T188">((1,2s)) </event>
+<event start="T188" end="T189">S • • gibt andere Puffs, da s/ </event>
+<event start="T189" end="T190">hängen dann zehn, fünfzehn • • so </event>
+<event start="T190" end="T191">Luden </event>
+<event start="T191" end="T192">drinne, aber auch einige, die haben dann keine Partie und versuchen, die dann anzumachen und </event>
+<event start="T192" end="T193">schäkern </event>
+<event start="T193" end="T194">mit denen.</event>
+<event start="T194" end="T195">‿Geben der was aus und der was aus, né? </event>
+<event start="T195" end="T196">• • </event>
+<event start="T196" end="T197">(So können se) nich arbeiten. </event>
+<event start="T206" end="T207">Das Doppelte. </event>
+<event start="T207" end="T208">((pust</event>
+<event start="T208" end="T209">et, 0,7s))˙ </event>
+<event start="T210" end="T211">Jà˙ </event>
+<event start="T215" end="T216">((holt Luft)) </event>
+<event start="T216" end="T217">Dann musst </event>
+<event start="T217" end="T218">du Steuer rechnen </event>
+<event start="T218" end="T219">und </event>
+<event start="T219" end="T220">((schnieft)) was wir da alles reingesteckt haben.</event>
+<event start="T221" end="T222">((holt Luft)) </event>
+<event start="T222" end="T223">In jeden Zimmer: ((1,3s)) äh Musik- • -schrank • mit • • Zehnerwechsler, • •</event>
+<event start="T223" end="T224">und </event>
+<event start="T224" end="T225">die </event>
+<event start="T225" end="T226">Bilder. </event>
+<event start="T226" end="T227">• • • </event>
+<event start="T227" end="T228">Uund/ • na ja, musste tapezieren. </event>
+<event start="T228" end="T229">Dann gehen die Lampen kaputt </event>
+<event start="T229" end="T230">und und.</event>
+<event start="T230" end="T231">((holt Luft)) Der ganze Salon zum Beispiel, den muss… </event>
+<event start="T231" end="T232">Die Einrichtung, die war nich drinne. </event>
+<event start="T233" end="T234">Son</event>
+<event start="T234" end="T235">st die anderen Zimmer waren/ die sind ja alle möbliert g</event>
+<event start="T235" end="T236">ewesen. </event>
+<event start="T236" end="T237">Ne C</event>
+<event start="T237" end="T238">ouch, zwei • </event>
+<event start="T238" end="T239">äh, äh </event>
+<event start="T239" end="T240">Sessel und n Tisch. </event>
+<event start="T240" end="T241">• • </event>
+<event start="T241" end="T242">Jà. </event>
+<event start="T242" end="T243">• • </event>
+<event start="T243" end="T244">(Sonst </event>
+<event start="T244" end="T245">is da weiter) nichts da drinne, né? </event>
+<event start="T250" end="T251">((Hustet))˙ </event>
+<event start="T251" end="T252">Ja, </event>
+<event start="T252" end="T253">((holt Luft)) das ist auch n Dings. </event>
+<event start="T253" end="T254">• • Die darfste ja gar nich ansprechen, wenn sie schon Deerne is. </event>
+<event start="T254" end="T255">• Du darfst gar keine ääh </event>
+<event start="T255" end="T256">ankobern.</event>
+<event start="T256" end="T257">‿Wollen mal sagen, die arbeitet im annern Haus </event>
+<event start="T257" end="T258">• • </event>
+<event start="T258" end="T259">und hat da Trouble, • • dann darfst Du nich zu ihr sagen äh: </event>
+<event start="T259" end="T260">"Komm doch zu uns rüber. </event>
+<event start="T260" end="T261">Bei uns is s ruhig.", </event>
+<event start="T261" end="T262">oder so was, </event>
+<event start="T262" end="T263">"Das is ne nette Atmosphäre.".</event>
+<event start="T263" end="T264">• • Dann wäre das schon Kuppelei. </event>
+<event start="T264" end="T265">Wenn d</event>
+<event start="T265" end="T266">u eine </event>
+<event start="T266" end="T267">Deerne vom einem Wohnheim ins andere bringst, is es ne Kuppelei. </event>
+<event start="T268" end="T269">Was du/ was der Witz dabei is, • dass du äh… </event>
+<event start="T269" end="T270">Ne Solide aufm Tanzboden, die kannst du ruhig anhauen. </event>
+<event start="T270" end="T271">Kannst ihr sagen: </event>
+<event start="T271" end="T272">"Pass auf, bei uns verdienste dreihundert in ner Nacht. </event>
+<event start="T272" end="T273">• Du bist doch beknackt, dass du als als Verkäuferin arbeitest", </event>
+<event start="T273" end="T274">meinetwegen. </event>
+<event start="T274" end="T275">((schnieft)) </event>
+<event start="T275" end="T276">"Das was du da im Monat hast, kannst du da in ner </event>
+<event start="T276" end="T277">Nacht </event>
+<event start="T277" end="T278">haben.". </event>
+<event start="T278" end="T279">Und die darf ich dann in Wohnheim </event>
+<event start="T279" end="T280">rein</event>
+<event start="T280" end="T281">bringen. </event>
+<event start="T281" end="T282">Also das erstmalige f/ äh, äh ((1,1s)) Reinbringen ins Wohnheim, wenn sie noch keine Deerne </event>
+<event start="T282" end="T283">ist, </event>
+<event start="T283" end="T284">• • das ist straffrei. </event>
+<event start="T284" end="T285">Das ist zwar verwerflich, • • aber straffrei. </event>
+<event start="T286" end="T287">Né? </event>
+<event start="T287" end="T288">Das is der Witz dabei. </event>
+<event start="T288" end="T289">Du darfst/ eine, die schon Deerne is, die kannste • • nich </event>
+<event start="T289" end="T290">ankobern, </event>
+<event start="T290" end="T291">aber eine, die noch nicht anschafft, die darfste anhauen. </event>
+<event start="T291" end="T292">Kannst sagen: </event>
+<event start="T292" end="T293">"Komm ma rein.". </event>
+<event start="T293" end="T295">((unv.,1s))˙ </event>
+<event start="T296" end="T297">• • </event>
+<event start="T297" end="T298">((holt Luft)) </event>
+<event start="T298" end="T299">Na ja meistens </event>
+<event start="T299" end="T300">äh, äh spricht sich das rum, wenn sie </event>
+<event start="T300" end="T301">auf m Bock sind. </event>
+<event start="T301" end="T302">Und zur Behörde • • müssen sie zweimal in der Woche, oder einige einmal. </event>
+<event start="T302" end="T303">• • • Und die da, die kann/ oder die hat mal </event>
+<event start="T303" end="T304">da </event>
+<event start="T304" end="T305">gearbeitet, in ner Herbertstraße, hat </event>
+<event start="T305" end="T306">da </event>
+<event start="T306" end="T307">ne Bekannte. </event>
+<event start="T307" end="T308">Und die • sagt denn: </event>
+<event start="T308" end="T309">"Pass mal auf, kannste auch zu uns ziehen. </event>
+<event start="T309" end="T310">Bei uns </event>
+<event start="T310" end="T311">verdie</event>
+<event start="T311" end="T312">nt ihr mehr.". </event>
+<event start="T312" end="T313">• • • </event>
+<event start="T313" end="T314">Nun sind bei uns auch bessere Freier als in der Herbertstraße oder • überhaupt auf der Straße, né? </event>
+<event start="T314" end="T315">Da </event>
+<event start="T315" end="T316">kob</event>
+<event start="T316" end="T317">ern </event>
+<event start="T317" end="T318">sie auch mit zwanzig, • teilweise mit </event>
+<event start="T318" end="T319">zeehn </event>
+<event start="T319" end="T320">Mark in ner Herbertstraße. </event>
+<event start="T320" end="T321">Oder fünf sind sogar welche da. </event>
+<event start="T321" end="T322">Die </event>
+<event start="T322" end="T323">kobern für fünf </event>
+<event start="T323" end="T324">Mark. </event>
+<event start="T324" end="T325">• • </event>
+<event start="T325" end="T326">Und • wenn Du viel… </event>
+<event start="T326" end="T327">Kriegst n Schnitt vielleicht von dreißig, fünfunddreißig beim Freier. </event>
+<event start="T327" end="T328">((holt Luft)) Da ham sie auch Getränkeausschank- ((1,5s)) </event>
+<event start="T328" end="T329">-zwang. </event>
+<event start="T329" end="T330">• ((ho</event>
+<event start="T330" end="T331">lt Luft)) </event>
+<event start="T331" end="T332">In ner Herbertstraße. </event>
+<event start="T332" end="T333">• • • </event>
+<event start="T333" end="T334">Das is bei uns ja nich. </event>
+<event start="T334" end="T335">Die brauchen ja nich trinken </event>
+<event start="T335" end="T336">((un</event>
+<event start="T336" end="T337">v.,1,2s)). </event>
+<event start="T339" end="T340">• • • </event>
+<event start="T340" end="T341">Das ist je nachdem wie die Zeit is, wie lange sie </event>
+<event start="T341" end="T342">arbeitet. </event>
+<event start="T342" end="T343">Wir ham welche, die • • haben n Schnitt von drei-, vier- fünfhundert. </event>
+<event start="T343" end="T344">• • </event>
+<event start="T344" end="T345">((holt Luft)) </event>
+<event start="T345" end="T346">Aber andere/ • • ((holt Luft)) na ja, eben, dass sie ((1,7s)) leben von ner Hand zum Mund. </event>
+<event start="T346" end="T347">Wenn sie/ </event>
+<event start="T347" end="T348">wenn sie </event>
+<event start="T348" end="T349">• </event>
+<event start="T349" end="T350">denn </event>
+<event start="T350" end="T351">((holt Luft)) zweihundert verdient haben, dann hören sie auf • und dann </event>
+<event start="T351" end="T352">verschickern </event>
+<event start="T352" end="T353">sie das. </event>
+<event start="T353" end="T354">• • • Und am nächsten Tag haben sie keine Mark mehr auf der Naht, </event>
+<event start="T354" end="T355">die sparen nich. </event>
+<event start="T355" end="T356">Ich </event>
+<event start="T356" end="T357">denk </event>
+<event start="T357" end="T358">nich mal, dass sie sich n paar Mark zurücklegen, n bisschen hegen und dann/ • dass sie später mal irgend was machen, né? </event>
+<event start="T358" end="T359">(Es gibt) </event>
+<event start="T359" end="T360">andere wieder, die haben dann so grantige </event>
+<event start="T360" end="T361">Luden. </event>
+<event start="T361" end="T362">• • Die greifen den ganzen </event>
+<event start="T362" end="T363">Strom </event>
+<event start="T363" end="T364">• • • und • die versaufen das dann, né? </event>
+<event start="T364" end="T365">• • • </event>
+<event start="T365" end="T366">Das is ganz verschieden, né? </event>
+<event start="T368" end="T369">Äh das ist eine Gesellschaft von • • • sieben ((1,3s)) Leuten gewesen. </event>
+<event start="T369" end="T370">((1s)) </event>
+<event start="T370" end="T371">Und zwar </event>
+<event start="T371" end="T372">ganz w… </event>
+<event start="T372" end="T373">Also keine aus der Gastronomie oder von Sankt Pauli, • sondern ganz Solide, • • • die • das gebaut haben. </event>
+<event start="T373" end="T374">Und nach dem ist der Bartels mit </event>
+<event start="T374" end="T375">• </event>
+<event start="T375" end="T376">• </event>
+<event start="T376" end="T377">reingegang</event>
+<event start="T377" end="T378">en (auch).</event>
+<event start="T380" end="T381">((1,6s)) </event>
+<event start="T381" end="T382">Kaufleute. </event>
+<event start="T382" end="T383">((1,9s)) </event>
+<event start="T383" end="T384">Und Bauunternehmer. </event>
+<event start="T384" end="T385">((1,5s)) </event>
+<event start="T385" end="T386">Ich weiß gar nich/ was die </event>
+<event start="T386" end="T387">im Einzelnen machen, weiß ich gar nich. </event>
+<event start="T389" end="T390">• • • </event>
+<event start="T390" end="T391">((holt tief Luft,1,1s)) </event>
+<event start="T391" end="T392">Nein. </event>
+<event start="T392" end="T393">• • • </event>
+<event start="T393" end="T394">Nee. </event>
+<event start="T394" end="T395">((0,7s)) </event>
+<event start="T395" end="T396">Da is kein Rechtsanwalt bei. </event>
+<event start="T396" end="T397">• • • </event>
+<event start="T397" end="T398">Wir hatten mal zu Anfang da einen gehabt dabei, </event>
+<event start="T398" end="T399">aber, aber </event>
+<event start="T399" end="T400">der hatte nichts </event>
+<event start="T400" end="T401">da</event>
+<event start="T401" end="T402">mit zu tun, sondern lediglich äh • • Verträge hat der aufgesetzt, so. </event>
+<event start="T402" end="T403">Der ist aber auch schon ausgestiegen, né? </event>
+<event start="T409" end="T410">• • • </event>
+<event start="T410" end="T411">Jàaa, </event>
+<event start="T411" end="T412">das ist denen auch mal von ner Behörde denn • gesagt worden. </event>
+<event start="T412" end="T413">Und von ner Sitte: ((holt Luft)) </event>
+<event start="T413" end="T414">"Ja, passt auf. </event>
+<event start="T414" end="T415">Es kommt sowieso Sperrgebiet.". </event>
+<event start="T415" end="T416">• • ((holt Luft)) </event>
+<event start="T416" end="T417">Denen is es ja ganz lieb, </event>
+<event start="T417" end="T418">dass es solche Häuser gibt. </event>
+<event start="T418" end="T419">((holt Luft)) </event>
+<event start="T419" end="T420">Da ist das ja doch alles so n bisschen mehr unter Kontrolle. </event>
+<event start="T420" end="T421">‿Wir achten selbst auch drauf, dass sie zum </event>
+<event start="T421" end="T422">Bock </event>
+<event start="T422" end="T423">gehen. </event>
+<event start="T423" end="T425">((holt Luft)) </event>
+<event start="T425" end="T426">Né? </event>
+<event start="T426" end="T427">Sonst werden sie weggeraten. </event>
+<event start="T427" end="T428">((schluckt,1s)) </event>
+<event start="T428" end="T429">Oder • ((holt Luft)) äh äh˙ </event>
+<event start="T429" end="T430">((2,3s)) </event>
+<event start="T430" end="T431">na ja, überhaupt die Frauen, die bei uns sind… </event>
+<event start="T431" end="T432">Ne Frau, die in ner Nacht vierzig Mark Miete zahlt, die is ja doch • n bisschen was Besseres als welche, die da unten an Zeughausmarkt rumkrebsen. </event>
+<event start="T432" end="T433">((1,8s)) </event>
+<event start="T433" end="T434">((schmatzt)) Sind bessere Frauen </event>
+<event start="T434" end="T435">bei un</event>
+<event start="T435" end="T436">s. </event>
+<event start="T436" end="T437">((holt Luft)) </event>
+<event start="T437" end="T438">Ja, nun ham sie vor allen Dingen das Eros-Center. </event>
+<event start="T438" end="T439">• • Ham se gesehen, • das lief. </event>
+<event start="T439" end="T441">((holt Luft)) </event>
+<event start="T441" end="T442">Da ham die natürlich </event>
+<event start="T442" end="T443">weit</event>
+<event start="T443" end="T444">aus • • tiefer in die Tasche springen müssen. </event>
+<event start="T444" end="T445">((holt Luft)) </event>
+<event start="T445" end="T446">Zum Beispiel da • • • ein/ • • • eine/ </event>
+<event start="T446" end="T447">äh äh </event>
+<event start="T447" end="T448">ein Haus… </event>
+<event start="T448" end="T449">• • • </event>
+<event start="T449" end="T450">((holt Luft)) </event>
+<event start="T450" end="T451">Gab sechzehn Zimmer. </event>
+<event start="T451" end="T452">Da mussten sie Zweihunderfünfzigtausend </event>
+<event start="T452" end="T453">hin</event>
+<event start="T453" end="T454">legen. </event>
+<event start="T454" end="T455">Erstmal für fünf Jahr. </event>
+<event start="T455" end="T457">((holt Luft)) </event>
+<event start="T457" end="T458">Dass sie (reinziehen). </event>
+<event start="T458" end="T459">Ham sie für fünf Jahr dann den ((1s)) äh • • • Vertrag gehabt. </event>
+<event start="T459" end="T460">Und ham sie ne Option auf weitere fünf Jahre, né? </event>
+<event start="T460" end="T461">Und ((1,1s)) außerdem war damals die Miete gewesen im Eros zweiundzwanzig Mark fuffzig. </event>
+<event start="T461" end="T462">Die sind aber jetzt auch in der Zwischenzeit runtergegangen. </event>
+<event start="T463" end="T464">(Da unten, ne)? </event>
+<event start="T464" end="T465">• • • </event>
+<event start="T465" end="T466">((holt Luft)) </event>
+<event start="T466" end="T467">Heute würd da kein Schwein mehr reinkriechen hier für/ für so ein </event>
+<event start="T467" end="T468">Strom.</event>
+<event start="T474" end="T475">• • • </event>
+<event start="T475" end="T476">Jà, äh, man kann sagen, • • wenn Trouble is/ man kann sagen so zu </event>
+<event start="T476" end="T477">((1,8s)) </event>
+<event start="T477" end="T478">((atmet aus)) </event>
+<event start="T478" end="T479">sechzig Prozent haben/ ((atmet aus)) sechzig, siebzig Prozent ham die Frauen • Schuld. </event>
+<event start="T479" end="T480">((holt Luft)) Dann </event>
+<event start="T480" end="T481">schickern </event>
+<event start="T481" end="T482">sie was, sind </event>
+<event start="T482" end="T483">angeknackt </event>
+<event start="T483" end="T484">((holt tief Luft)) </event>
+<event start="T484" end="T485">((hustet)) </event>
+<event start="T485" end="T486">uund ((1,1s)) ((schluckt)) machen dann mit dem Freier </event>
+<event start="T486" end="T487">((unv.)).</event>
+<event start="T487" end="T488">‿Wolln ma sagen: </event>
+<event start="T488" end="T489">Da gibt der n Hunderter, </event>
+<event start="T489" end="T490">• • n</event>
+<event start="T490" end="T491">é? </event>
+<event start="T491" end="T492">• • • </event>
+<event start="T492" end="T493">Und sie soll jetzt Siebzig </event>
+<event start="T493" end="T494">raus</event>
+<event start="T494" end="T495">geben. </event>
+<event start="T495" end="T496">Denn • steckt sie das in Safe rein und • • • sagt denn: </event>
+<event start="T496" end="T497">"Jaa, äh pass auf, wir machen uns das auch nett da und Liebe </event>
+<event start="T497" end="T498">und so.". </event>
+<event start="T498" end="T499">"Nein, nein. </event>
+<event start="T499" end="T500">Ich will mein Geld wiederhaben.". </event>
+<event start="T500" end="T501">Und, und : </event>
+<event start="T501" end="T502">((holt </event>
+<event start="T502" end="T503">Luft)) </event>
+<event start="T503" end="T504">"Nein, gib mir doch mehr!". </event>
+<event start="T504" end="T505">Na ja, nun gibt s mehr Trouble. </event>
+<event start="T505" end="T506">((holt Luft)) Und dann hät er überhaupt kein Bock mehr auf Stoßen, sa/ sagt er: • • äh ((schluckt)) </event>
+<event start="T506" end="T507">"Nu gib mir auch alles wieder. </event>
+<event start="T507" end="T508">((holt Luft)) </event>
+<event start="T508" end="T509">Jetzt maschier ich ab.". </event>
+<event start="T509" end="T510">"Ja, nee, äh </event>
+<event start="T510" end="T511">die Dreißig, die sind auf jeden Fall meine Zeit.". </event>
+<event start="T511" end="T512">Und… </event>
+<event start="T512" end="T513">((holt Luft)) </event>
+<event start="T513" end="T514">Logisch, dass er/ • dass er dann Trouble macht und sich dadrauf nicht einlässt. </event>
+<event start="T515" end="T516">((holt Luft)) </event>
+<event start="T516" end="T517">Aber man hat aber auch andere wiederum so, die ((1s)) drehen da irgendeiner ((1,6s)) den Hals um. </event>
+<event start="T517" end="T518">Also gehen ihr an die Gurgel oder wer</event>
+<event start="T518" end="T519">den </event>
+<event start="T519" end="T520">so </event>
+<event start="T520" end="T521">ren</event>
+<event start="T521" end="T522">itent </event>
+<event start="T522" end="T523">auch. </event>
+<event start="T525" end="T526">((unv.)). </event>
+<event start="T527" end="T528">Jà</event>
+<event start="T528" end="T529">aa, </event>
+<event start="T529" end="T530">jà, jà, jà. </event>
+<event start="T530" end="T531">Ich hab einmal ja das Dings gehabt. </event>
+<event start="T531" end="T532">• </event>
+<event start="T532" end="T533">• </event>
+<event start="T533" end="T534">Da hab ich noch im Ero</event>
+<event start="T534" end="T535">s gearbeitet. </event>
+<event start="T535" end="T536">• • • </event>
+<event start="T536" end="T537">Da is ja eine mal umgelegt worden. </event>
+<event start="T539" end="T540">Von/ aber das war ihr Lude gewesen. </event>
+</tier><tier id="TIE8" speaker="SPK1" category="en" type="a" display-name="Ulli [en]"><event start="T1" end="T2">Thirty-one . </event>
+<event start="T3" end="T5">Well, as a housekeeper. </event>
+<event start="T7" end="T9">Erm here in the brothel . </event>
+<event start="T11" end="T13">It's a so-called dormitory. </event>
+<event start="T13" end="T16">Hall of residence for girls is what they call it, right? </event>
+<event start="T16" end="T18">Because we are ... </event>
+<event start="T18" end="T19">Puff . </event>
+<event start="T19" end="T20">Officially there is none . </event>
+<event start="T21" end="T25">Although everyone from the harbour worker to the mayor knows that it's a brothel. </event>
+<event start="T25" end="T27">Only a public prosecutor once told me : " This is a dormitory . </event>
+<event start="T27" end="T31">I don't know that it's a brothel . </event>
+<event start="T31" end="T33">I'm not allowed to know that at all . " . </event>
+<event start="T33" end="T35">Right? </event>
+<event start="T36" end="T39">Yes , this is such a contact yard . </event>
+<event start="T39" end="T42">Downstairs . </event>
+<event start="T42" end="T43">And the individual floors have been rented out . </event>
+<event start="T43" end="T47">So or rather leased to tenants . </event>
+<event start="T47" end="T49">I think there are seven or eight tenants in total. </event>
+<event start="T49" end="T50">About one hundred and forty rooms . </event>
+<event start="T51" end="T58">And the rent is now about four hundred and seventy-five marks a month per room. </event>
+<event start="T61" end="T66">Does the tenant have to pay . </event>
+<event start="T67" end="T69">Er, yes, that's different too. </event>
+<event start="T69" end="T74">We have sixteen rooms and a deposit of twenty-five million. </event>
+<event start="T78" end="T84">We pay eight thousand four hundred marks because we have to help pay for the salon. </event>
+<event start="T85" end="T87">Jà . </event>
+<event start="T89" end="T90">Ja'à . </event>
+<event start="T92" end="T93">Forty marks a day and Sunday is free, whether they work or not, right ? </event>
+<event start="T94" end="T96">They don't have to pay anything. </event>
+<event start="T96" end="T98">If they come on Monday, they'll still have forty marks on the block. </event>
+<event start="T98" end="T101">‿ The forty from Monday , then with that that's already eighty , no ? </event>
+<event start="T101" end="T103">And some only take uh uh thirty-seven , but Sunday . </event>
+<event start="T105" end="T106">Né ? </event>
+<event start="T106" end="T107">And we don't do that . </event>
+<event start="T108" end="T110">Jà . </event>
+<event start="T116" end="T118">Yaaaaaaaaa . </event>
+<event start="T118" end="T120">officially not . </event>
+<event start="T121" end="T126">Barging is generally forbidden, although when the contract was made with the company, it was promised at the time that barging would be allowed and ... </event>
+<event start="T126" end="T127">"But it's all a restricted area", they said. </event>
+<event start="T127" end="T128">Elsewhere on the streets, everything would be shut down. </event>
+<event start="T128" end="T130">" And you're allowed to serve . " </event>
+<event start="T130" end="T131">And well , otherwise they wouldn't have been able to fill the pub , né ? </event>
+<event start="T131" end="T134">So nobody would have leased it then . </event>
+<event start="T134" end="T142">You couldn't make a living from that, could you ? </event>
+<event start="T142" end="T144">Had to serve something from time to time. </event>
+<event start="T148" end="T150">Jà , jà . </event>
+<event start="T151" end="T154">Jà , sch / n Reibach would be , if uh , uh officially the bar would be allowed . </event>
+<event start="T154" end="T155">Also in the parlour .</event>
+<event start="T156" end="T157">No man is allowed to sit there with us . </event>
+<event start="T157" end="T163">Even if I have to buy a car from someone, I'm not allowed to have him sitting upstairs with me and negotiate with him now, but I have to meet him somewhere else. </event>
+<event start="T165" end="T168">Practically no one is allowed there, only the manager or the boss himself, otherwise no man is allowed to be upstairs in the parlour. </event>
+<event start="T168" end="T173">The greasers often come in once or twice a week. </event>
+<event start="T173" end="T177">Then they pinch them to see if there are any. </event>
+<event start="T177" end="T178">But they haven't grabbed us yet. </event>
+<event start="T178" end="T180">But we don't have any hanging around either, no? </event>
+<event start="T180" end="T182">Such lads . </event>
+<event start="T182" end="T187">Because, uh, guys like that bring me their wives and that's why they already know that no one else will hit on them. </event>
+<event start="T187" end="T194">There are other brothels where there are ten or fifteen chaps hanging around, but there are also some who don't have a party and try to chat them up and flirt with them. </event>
+<event start="T194" end="T195">Does he spend and does he spend, no? </event>
+<event start="T195" end="T197">They can't work like that. </event>
+<event start="T206" end="T207">The double . </event>
+<event start="T210" end="T211">Jà ˙</event>
+<event start="T215" end="T220">Then you have to calculate the tax and what we have put into it.</event>
+<event start="T221" end="T226">In each room : uh music- -cabinet with tens changer , and the pictures . </event>
+<event start="T226" end="T228">And / well , had to wallpaper . </event>
+<event start="T228" end="T230">Then the lamps break and and . </event>
+<event start="T230" end="T231">The whole lounge, for example, has to be ... </event>
+<event start="T231" end="T232">The furniture, that wasn't in there . </event>
+<event start="T233" end="T236">Otherwise the other rooms were / they were all furnished . </event>
+<event start="T236" end="T240">A couch , two uh , uh armchairs and a table . </event>
+<event start="T240" end="T242">Yes . </event>
+<event start="T242" end="T245">Otherwise there's nothing else in there, no? </event>
+<event start="T250" end="T253">˙ Yes, that's also a thing. </event>
+<event start="T253" end="T254">You're not allowed to talk to her if she's already a prostitute. </event>
+<event start="T254" end="T256">You're not allowed to talk to her . </event>
+<event start="T256" end="T263">Let's say she works in the other house and has trouble there, then you're not allowed to say to her: "Come over to our place . It's quiet here . " or something like that , " It's a nice atmosphere ." </event>
+<event start="T263" end="T264">Then that would be matchmaking. </event>
+<event start="T264" end="T267">If you take a student from one dormitory to another, it's pimping. </event>
+<event start="T268" end="T269">What you / what the joke is that you uh ... </event>
+<event start="T269" end="T270">A solid on the dance floor , you can hit her . </event>
+<event start="T270" end="T272">You can tell her: "Watch out, you earn three hundred a night with us. </event>
+<event start="T272" end="T274">You're daft to be working as a shop assistant," for all I care. </event>
+<event start="T274" end="T278">" What you have there in a month , you can have there in a night . " . </event>
+<event start="T278" end="T281">And then I can bring it into the dormitory . </event>
+<event start="T281" end="T284">So the first f / uh , uh bringing her into the dormitory when she is not yet a Deerne, that is unpunishable . </event>
+<event start="T284" end="T285">That is reprehensible, but unpunishable . </event>
+<event start="T286" end="T287">Né ? </event>
+<event start="T287" end="T288">That's the joke. </event>
+<event start="T288" end="T291">You may / one who is already Deerne , you can not ankobern , but one who has not yet purchased , you may hit . </event>
+<event start="T291" end="T293">You can say: "Come on in. " . ˙</event>
+<event start="T296" end="T301">Well, most of the time, uh, uh, word gets around when they're on the goat. </event>
+<event start="T301" end="T302">And they have to go to the authorities twice a week, or some once. </event>
+<event start="T302" end="T307">And this one, she can / or she used to work there, in Herbertstrasse, has a friend there. </event>
+<event start="T307" end="T309">And she says: "Watch out, you can also move in with us. </event>
+<event start="T309" end="T312">You'll earn more with us . " . </event>
+<event start="T312" end="T314">Now there are better punters here than in Herbertstrasse or on the street at all , né ? </event>
+<event start="T314" end="T320">There they are also cobbling with twenty, sometimes with ten marks in ner Herbertstraße . </event>
+<event start="T320" end="T321">Or there are even five . </event>
+<event start="T321" end="T324">They're kobern for five marks . </event>
+<event start="T324" end="T326">And if you get a lot ... </event>
+<event start="T326" end="T327">you might get an average of thirty or thirty-five from the punter. </event>
+<event start="T327" end="T331">They also have compulsory drinks. </event>
+<event start="T331" end="T332">In a Herbertstraße . </event>
+<event start="T332" end="T334">That's not the case here . </event>
+<event start="T334" end="T337">They don't have to drink . </event>
+<event start="T339" end="T342">That depends on how long she works. </event>
+<event start="T342" end="T343">We have some who have an average of three, four or five hundred. </event>
+<event start="T343" end="T346">But others / well, just that they live from hand to mouth. </event>
+<event start="T346" end="T353">When they / if they have earned two hundred, then they stop and then they send it off. </event>
+<event start="T353" end="T355">And the next day they have no more marks on the seam, they don't save. </event>
+<event start="T355" end="T358">I don't even think that they put a few marks aside, save a bit and then / that they do something later, no? </event>
+<event start="T358" end="T361">There are others who have such grumpy lads. </event>
+<event start="T361" end="T364">They grab all the money and then drink it up, no? </event>
+<event start="T364" end="T366">That's very different, no? </event>
+<event start="T368" end="T369">It was a company of seven people . </event>
+<event start="T369" end="T372">And they were all from ... </event>
+<event start="T372" end="T373">So not from the catering trade or from Sankt Pauli, but very solid people who built it. </event>
+<event start="T373" end="T378">And after that, Bartels went in too.</event>
+<event start="T380" end="T382">Merchants . </event>
+<event start="T382" end="T385">And building contractors . </event>
+<event start="T385" end="T387">I don't even know / what they do in detail, I don't even know . </event>
+<event start="T389" end="T392">No . </event>
+<event start="T392" end="T394">Nope . </event>
+<event start="T394" end="T396">There is no lawyer involved . </event>
+<event start="T396" end="T402">We had one there at the beginning, but he had nothing to do with it, he just drew up contracts, that's all. </event>
+<event start="T402" end="T403">But he has already left, no? </event>
+<event start="T409" end="T412">Yes, they were once told that by an authority . </event>
+<event start="T412" end="T415">And from the morality police : " Yes , watch out . It comes anyway restricted area . " . </event>
+<event start="T415" end="T418">They like it very much that there are such houses . </event>
+<event start="T418" end="T420">Everything is a bit more under control . </event>
+<event start="T420" end="T423">We also make sure that they go to the buck. </event>
+<event start="T423" end="T426">Né ? </event>
+<event start="T426" end="T427">Otherwise they'll get away . </event>
+<event start="T427" end="T431">Or uh uh ˙ well, the women who are with us ... </event>
+<event start="T431" end="T432">A woman who pays forty marks a night in rent is a bit better than those who crawl around down there at the armoury market . </event>
+<event start="T432" end="T436">They're better women here . </event>
+<event start="T436" end="T438">Yes, now they have the Eros Centre in particular. </event>
+<event start="T438" end="T439">They saw that it was running . </event>
+<event start="T439" end="T444">Of course they had to dig deeper into their pockets . </event>
+<event start="T444" end="T448">For example, there was a / a / uh uh a house ... </event>
+<event start="T448" end="T451">There were sixteen rooms . </event>
+<event start="T451" end="T454">They had to put down two hundred and fifty thousand. </event>
+<event start="T454" end="T457">First of all for five years . </event>
+<event start="T457" end="T458">That they move in . </event>
+<event start="T458" end="T459">Then they had the contract for five years. </event>
+<event start="T459" end="T460">And did they have an option for another five years, né ? </event>
+<event start="T460" end="T461">And besides, the rent at Eros was twenty-two marks fifty at the time. </event>
+<event start="T461" end="T462">But they've gone down in the meantime . </event>
+<event start="T463" end="T464">Down there, right ? </event>
+<event start="T464" end="T468">Today no pig would crawl in here for / for such a current .</event>
+<event start="T474" end="T479">Jà, uh, you can say that when there's trouble / you can say that sixty per cent / sixty, seventy per cent are the women's fault. </event>
+<event start="T479" end="T487">Then they send something, are cracked and then do it with the suitor . </event>
+<event start="T487" end="T491">Do we want to say: He gives a hundred, no? </event>
+<event start="T491" end="T495">And she should now give out seventy. </event>
+<event start="T495" end="T498">Then she puts it in the safe and says: "Yeah, uh, watch out, we'll make it nice there and love and stuff. " . </event>
+<event start="T498" end="T500">" No , no . I want my money back . " . </event>
+<event start="T500" end="T504">And , and : " No , give me more ! " . </event>
+<event start="T504" end="T505">Well , now there's more trouble . </event>
+<event start="T505" end="T509">And then he wouldn't be in the mood to push anymore , he says : " Now give me everything back . Now I'm leaving . " </event>
+<event start="T509" end="T511">" Yes , no , uh the thirty , that's definitely my time . " . </event>
+<event start="T511" end="T512">And ... </event>
+<event start="T512" end="T514">Logically , that he / that he then makes trouble and does not get involved . </event>
+<event start="T515" end="T517">But there are also others who turn their necks around. </event>
+<event start="T517" end="T523">So they go for her throat or become so unruly too. </event>
+<event start="T527" end="T530">Jàaa , jà , jà , jà . </event>
+<event start="T530" end="T531">I once had the thing . </event>
+<event start="T531" end="T535">I was still working at Eros then . </event>
+<event start="T535" end="T537">One of them was killed . </event>
+<event start="T539" end="T540">From / but that had been her lude . </event>
+</tier><tier id="TIE5" speaker="SPK1" category="hd" type="a" display-name="Ulli [hd]"><event start="T171" end="T172">die Polizei</event>
+<event start="T175" end="T176">schauen </event>
+<event start="T181" end="T182">Zuhälter </event>
+<event start="T190" end="T191">Zuhälter </event>
+<event start="T192" end="T193">scherzen, flirten </event>
+<event start="T255" end="T256">anwerben </event>
+<event start="T289" end="T290">anwerben </event>
+<event start="T300" end="T301">beim Amtsarzt?</event>
+<event start="T315" end="T317">anwerben </event>
+<event start="T351" end="T352">vertrinken </event>
+<event start="T360" end="T361">Zuhälter </event>
+<event start="T362" end="T363">Geld </event>
+<event start="T421" end="T422">Amtsarzt ?</event>
+<event start="T467" end="T468">Geld </event>
+<event start="T480" end="T481">trinken </event>
+<event start="T482" end="T483">angetrunken </event>
+</tier><tier id="TIE6" speaker="SPK1" category="k" type="a" display-name="Ulli [k]"><event start="T4" end="T5">zögerlich</event>
+<event start="T8" end="T9">zögerlich</event>
+<event start="T141" end="T143">zieht vermutlich an einer Zigarette </event>
+<event start="T207" end="T209">raucht vermutlich </event>
+<event start="T410" end="T411">zögerlich </event>
+<event start="T476" end="T477">raucht vermutlich </event>
+</tier><tier id="TIE0" category="nn" type="d" display-name="[nn]"><ud-tier-information><ud-information attribute-name="Hintergrundgeräusche"></ud-information></ud-tier-information><event start="T68" end="T70">((Klingelton)) </event>
+<event start="T117" end="T118">((Signal im Hintergrund, 1s)) </event>
+<event start="T243" end="T244">((gedämpfter Knall)) </event>
+<event start="T248" end="T249">((Glasklirren)) </event>
+<event start="T367" end="T368">((Rascheln, Knistern, 1s)) </event>
+<event start="T374" end="T376">((Glockenspiel im Hintergrund)) </event>
+<event start="T477" end="T478">Klicken/Zuschnappen eines Metallfeuerzeugs </event>
+<event start="T532" end="T534">((Knistern, Rascheln)) </event>
+</tier></basic-body>
+</basic-transcription>

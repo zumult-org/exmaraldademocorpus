@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basic-transcription>
+<head>
+<meta-information><project-name>EXMARaLDA DemoKorpus</project-name><transcription-name>Fernando Savater: Hermandad</transcription-name><referenced-file url="Savater.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention>HIAT (simplified)</transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>FS</abbreviation>
+<sex value="m"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+<ud-information attribute-name="Name">Fernando Savater</ud-information></ud-speaker-information>
+<comment></comment>
+</speaker>
+<speaker id="SPK1">
+<abbreviation>LR</abbreviation>
+<sex value="m"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+<ud-information attribute-name="Name"></ud-information></ud-speaker-information>
+<comment></comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0" time="0.0"/>
+<tli id="T1" time="2.495176746816526"/>
+<tli id="T2" time="3.838000873920075"/>
+<tli id="T3" time="4.097154309643028"/>
+<tli id="T4" time="4.4379861222003845"/>
+<tli id="T5" time="5.037971370480695"/>
+<tli id="T6" time="5.31488763891776" type="intp"/>
+<tli id="T7" time="5.837951701521107"/>
+<tli id="T8" time="7.933138282817426"/>
+<tli id="T9" time="8.219797901440241"/>
+<tli id="T10" time="11.028300277914262"/>
+<tli id="T11" time="13.190151886797281"/>
+<tli id="T12" time="13.612998633204356"/>
+<tli id="T13" time="16.83768125332678"/>
+<tli id="T14" time="19.332858000143307"/>
+<tli id="T15" time="21.44653152186283"/>
+<tli id="T16" time="22.942293065194693"/>
+<tli id="T17" time="23.237523901650086"/>
+<tli id="T18" time="23.647037642539818"/>
+<tli id="T19" time="25.761271374575195"/>
+<tli id="T20" time="28.389778176565123"/>
+<tli id="T21" time="29.542130796278094"/>
+<tli id="T22" time="29.799267331255376"/>
+<tli id="T23" time="30.951619950968347"/>
+<tli id="T24" time="31.913501063290752"/>
+<tli id="T25" time="32.151590447528974"/>
+<tli id="T26" time="33.265848765763835"/>
+<tli id="T27" time="34.61819507318192"/>
+<tli id="T28" time="36.33244003475208"/>
+<tli id="T29" time="38.09430147811489"/>
+<tli id="T30" time="39.54188493428326"/>
+<tli id="T31" time="40.13234660719404"/>
+<tli id="T32" time="42.656094080119146"/>
+<tli id="T33" time="43.29893541756234"/>
+<tli id="T34" time="43.84558864377328"/>
+<tli id="T35" time="44.04558372653339"/>
+<tli id="T36" time="44.247891677597515" type="intp"/>
+<tli id="T37" time="44.88461071658887"/>
+<tli id="T38" time="46.1893405422143"/>
+<tli id="T39" time="46.44634080981746" type="intp"/>
+<tli id="T40" time="46.792182863105474"/>
+<tli id="T41" time="47.24589719791614"/>
+<tli id="T42" time="48.00834343779429"/>
+<tli id="T43" time="48.76546767967183"/>
+<tli id="T44" time="50.69399169200139"/>
+<tli id="T45" time="53.046314808274985"/>
+<tli id="T46" time="56.20814183095852"/>
+<tli id="T47" time="58.769983605361745"/>
+<tli id="T48" time="60.78898158370184"/>
+<tli id="T49" time="61.26516035217828"/>
+<tli id="T50" time="63.625102328747495"/>
+<tli id="T51" time="65.37839255427772"/>
+<tli id="T52" time="65.57495272951691" type="intp"/>
+<tli id="T53" time="68.92211494927936"/>
+<tli id="T54" time="69.28584227012328" type="intp"/>
+<tli id="T55" time="70.53868081969681"/>
+<tli id="T56" time="72.07441839659337"/>
+<tli id="T57" time="72.37155394812267"/>
+<tli id="T58" time="74.2362700054764"/>
+<tli id="T59" time="74.75816193572658"/>
+<tli id="T60" time="76.23622083307743"/>
+<tli id="T61" time="77.65523356313722"/>
+<tli id="T62" time="77.89522673241267"/>
+<tli id="T63" time="79.65518439073824"/>
+<tli id="T64" time="81.95036605479467"/>
+<tli id="T65" time="82.29131005302379"/>
+<tli id="T66" time="83.00748292081234"/>
+<tli id="T67" time="83.28461896406563"/>
+<tli id="T68" time="83.93126973165663"/>
+<tli id="T69" time="84.78839151491421"/>
+<tli id="T70" time="85.54075396910699"/>
+<tli id="T71" time="85.85122252615362"/>
+<tli id="T72" time="86.47434446047873"/>
+<tli id="T73" time="87.15023820655735"/>
+<tli id="T74" time="87.38642287572166" type="intp"/>
+<tli id="T75" time="88.9216232252897"/>
+<tli id="T76" time="89.4930377474614"/>
+<tli id="T77" time="90.18825874943701"/>
+<tli id="T78" time="91.33775429653913"/>
+<tli id="T79" time="92.99771348344798"/>
+<tli id="T80" time="93.21208729764835" type="intp"/>
+<tli id="T81" time="93.48005456539882"/>
+<tli id="T82" time="93.69510063197822" type="intp"/>
+<tli id="T83" time="95.0929000647443"/>
+<tli id="T84" time="95.36162671654336"/>
+<tli id="T85" time="97.59760038693035"/>
+<tli id="T86" time="100.15658694879603"/>
+<tli id="T87" time="102.0546336598698"/>
+<tli id="T88" time="102.43748138972484"/>
+<tli id="T89" time="105.29264928550955"/>
+<tli id="T90" time="105.5707376862998"/>
+<tli id="T91" time="105.96406134906134"/>
+<tli id="T92" time="106.15738992906276"/>
+<tli id="T93" time="107.97829753971666"/>
+<tli id="T94" time="108.18623327545578"/>
+<tli id="T95" time="110.578233615598"/>
+<tli id="T96" time="111.41059410289482"/>
+<tli id="T97" time="112.30141855453532"/>
+<tli id="T98" time="112.901986005763"/>
+<tli id="T99" time="113.23839230043372"/>
+<tli id="T100" time="113.5105424718759"/>
+<tli id="T101" time="115.8828650964255"/>
+<tli id="T102" time="117.19711849742045"/>
+<tli id="T103" time="119.27325792797771"/>
+<tli id="T104" time="120.49227557527739"/>
+<tli id="T105" time="120.79702998710232"/>
+<tli id="T106" time="122.65412718416043"/>
+<tli id="T107" time="125.27311041078082"/>
+<tli id="T108" time="127.11687460232157"/>
+<tli id="T109" time="128.06351799405272"/>
+<tli id="T110" time="131.10153853693237"/>
+<tli id="T111" time="134.6824028758752"/>
+<tli id="T112" time="135.17000993479505"/>
+<tli id="T113" time="136.88234878623635"/>
+<tli id="T114" time="138.2537436394485"/>
+<tli id="T115" time="139.71085067098636"/>
+<tli id="T116" time="140.55844887887443"/>
+<tli id="T117" time="142.68220618627933"/>
+<tli id="T118" time="145.09167075477012"/>
+<tli id="T119" time="147.58684750158662"/>
+<tli id="T120" time="149.45346827401428"/>
+<tli id="T121" time="151.68198491048398"/>
+<tli id="T122" time="151.9962628976784"/>
+<tli id="T123" time="153.9105015469537"/>
+<tli id="T124" time="156.21520678637967"/>
+<tli id="T125" time="158.17706331250255"/>
+<tli id="T126" time="158.4894365846231"/>
+<tli id="T127" time="160.54843357951523"/>
+<tli id="T128" time="162.58647870859437"/>
+<tli id="T129" time="164.79594819432504"/>
+<tli id="T130" time="165.19593835984523"/>
+<tli id="T131" time="166.52923891157926"/>
+<tli id="T132" time="169.20536359041682"/>
+<tli id="T133" time="170.8910364308234"/>
+<tli id="T134" time="173.70049116483435"/>
+<tli id="T135" time="174.0357210178418"/>
+<tli id="T136" time="176.67565611027516"/>
+<tli id="T137" time="177.4662249080092"/>
+<tli id="T138" time="178.9194104673361"/>
+<tli id="T139" time="179.30892469994987"/>
+<tli id="T140" time="181.84314810578144"/>
+<tli id="T141" time="183.5573916722966"/>
+<tli id="T142" time="185.6287693151691"/>
+<tli id="T143" time="186.83350159941452"/>
+<tli id="T144" time="187.25053395243808" type="intp"/>
+<tli id="T145" time="188.05251924671418"/>
+<tli id="T146" time="190.52864884279165"/>
+<tli id="T147" time="193.6047636871494"/>
+<tli id="T148" time="194.12856033247348"/>
+<tli id="T149" time="194.55521650902836"/>
+<tli id="T150" time="197.2808637797875"/>
+<tli id="T151" time="197.41514619249784"/>
+<tli id="T152" time="200.11888923990705"/>
+<tli id="T153" time="200.55506899183146"/>
+<tli id="T154" time="202.23312297194244"/>
+<tli id="T155" time="205.03305413058385"/>
+<tli id="T156" time="206.59492049118657"/>
+<tli id="T157" time="208.6786843622594"/>
+<tli id="T158" time="209.74722393850058"/>
+<tli id="T159" time="210.1540387130112"/>
+<tli id="T160" time="210.75672292767064"/>
+<tli id="T161" time="212.9661924134013"/>
+<tli id="T162" time="215.01376111784995"/>
+<tli id="T163" time="216.45182099864883"/>
+<tli id="T164" time="218.41367752477174"/>
+<tli id="T165" time="218.70795600369016"/>
+<tli id="T166" time="220.91837784695775"/>
+<tli id="T167" time="221.45429472999825"/>
+<tli id="T168" time="223.43260174451336"/>
+<tli id="T169" time="223.79449760855547"/>
+<tli id="T170" time="223.93449416648753"/>
+<tli id="T171" time="224.147822254765"/>
+<tli id="T172" time="224.43257715831388"/>
+<tli id="T173" time="224.65161939181306"/>
+<tli id="T174" time="226.36586295832822"/>
+<tli id="T175" time="226.9297146412359"/>
+<tli id="T176" time="227.2163145186805"/>
+<tli id="T177" time="227.79630025868482"/>
+<tli id="T178" time="227.96582362040903"/>
+<tli id="T179" time="228.35629021055973"/>
+<tli id="T180" time="228.68261271954503"/>
+<tli id="T181" time="228.81342182829712"/>
+<tli id="T182" time="229.47054852879458"/>
+<tli id="T183" time="232.594284057"/>
+<tli id="T184" time="232.646"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK0" category="v" type="t" display-name="FS [v]"><event start="T2" end="T3">¡Hola! </event>
+<event start="T3" end="T4">¡Buenos días! </event>
+<event start="T5" end="T6">• • </event>
+<event start="T6" end="T7">¡Muchas gracias! </event>
+<event start="T8" end="T9">• • </event>
+<event start="T9" end="T10">((ríe)) La curva del Pardo es una curva de la/ </event>
+<event start="T10" end="T11">del hipódromo de la Zarzuela en/ en Madrid. </event>
+<event start="T11" end="T12">((inspira)) </event>
+<event start="T12" end="T13">Yyy, en fin, eh para los hípicos tiene mucho significado lo </event>
+<event start="T13" end="T14">que supongo (que) para los demás no les suena nada especial. </event>
+<event start="T16" end="T17">• • </event>
+<event start="T17" end="T18">Sí sí! </event>
+<event start="T21" end="T22">No </event>
+<event start="T22" end="T23">tiene/ no tiene templarios, </event>
+<event start="T23" end="T24">no tiene sectas. </event>
+<event start="T24" end="T25">((rí</event>
+<event start="T25" end="T26">e, 1,3s)) </event>
+<event start="T26" end="T27">Pues sí, es un poco atípica. </event>
+<event start="T27" end="T28">Pero a lo mejor la gente ya está un poco cansada </event>
+<event start="T28" end="T29">de todas esas cosas, y y quiere cambiar, </event>
+<event start="T29" end="T30">yo tengo la esperenza que quiera cambiar. </event>
+<event start="T30" end="T31">((inspira)) </event>
+<event start="T38" end="T39">• • </event>
+<event start="T39" end="T40">((inspira)) </event>
+<event start="T40" end="T41">Bueno hom… </event>
+<event start="T41" end="T42">mmm, de todo… </event>
+<event start="T42" end="T43">((ríe)) </event>
+<event start="T43" end="T44">(E gira) • el/ e la/ </event>
+<event start="T44" end="T45">todo gira en torno a una gran carrera de caballos </event>
+<event start="T45" end="T46">donde dos magnates que se odian cordialmente pues </event>
+<event start="T46" end="T47">((inspira)) e quieren dividir sus/ em sus odios/ </event>
+<event start="T47" end="T48">e m cada uno con sus caballos. </event>
+<event start="T48" end="T49">((inspira)) </event>
+<event start="T49" end="T50">Y el caballo más importante </event>
+<event start="T50" end="T51">— el mejor de todos — pues ee </event>
+<event start="T51" end="T52">• </event>
+<event start="T52" end="T53">necesita un jinete determinado que lo monte porque es el único que lo entiende bien. </event>
+<event start="T53" end="T54">((inspira)) </event>
+<event start="T54" end="T55">Y este jinete ha desaparecido. </event>
+<event start="T55" end="T56">Entonces hay que buscar a ese jinete. </event>
+<event start="T56" end="T57">((inspira)) </event>
+<event start="T57" end="T58">Y un poco en eso trata la novela. </event>
+<event start="T64" end="T65">((inspira)) </event>
+<event start="T65" end="T66">¡Sí, eso es! </event>
+<event start="T66" end="T67">((inspira)) </event>
+<event start="T67" end="T68">Bueno el/ </event>
+<event start="T68" end="T69">es una novela… </event>
+<event start="T70" end="T71">• • </event>
+<event start="T71" end="T72">Bueno, e… </event>
+<event start="T72" end="T73">Hombre e e… </event>
+<event start="T73" end="T74">• • </event>
+<event start="T74" end="T75">Nooo/ no hay que asustarse. </event>
+<event start="T75" end="T76">No es/ no </event>
+<event start="T76" end="T77">es una novela de </event>
+<event start="T77" end="T78">filosofía, ni bien… </event>
+<event start="T78" end="T79">Pero bueno yo creo que cada uno </event>
+<event start="T79" end="T80">• • </event>
+<event start="T80" end="T81">ya … </event>
+<event start="T81" end="T82">• • </event>
+<event start="T82" end="T83">en fin el lector lo verá… </event>
+<event start="T83" end="T84">((inspira)) </event>
+<event start="T84" end="T85">Como la novela está narrada a varias voces, </event>
+<event start="T85" end="T86">o sea hay varios personajes que cuentan cada uno </event>
+<event start="T86" end="T87">su perspectiva sobre lo que está ocurriendo, </event>
+<event start="T87" end="T88">((inspira)) </event>
+<event start="T88" end="T89">cada uno de los personajes está por un lao contando lo que pasa </event>
+<event start="T89" end="T90">((inspira)) </event>
+<event start="T90" end="T91">y por otro </event>
+<event start="T91" end="T92">lao </event>
+<event start="T92" end="T93">contando lo que le pasa a él: </event>
+<event start="T93" end="T94">• • </event>
+<event start="T94" end="T95">sus sueños, sus miedos, sus frustraciones, </event>
+<event start="T95" end="T96">sus/ ((inspira)) sus </event>
+<event start="T96" end="T97">nostalgias </event>
+<event start="T97" end="T98">etcétera ¿no? </event>
+<event start="T98" end="T99">Entonces… </event>
+<event start="T99" end="T100">((inspira)) </event>
+<event start="T100" end="T101">E a la vez • están interviniendo en la acción </event>
+<event start="T101" end="T102">como protagonistas, </event>
+<event start="T102" end="T103">y también rememorando y recordando </event>
+<event start="T103" end="T104">pues lo que es su vida ¿no? </event>
+<event start="T104" end="T105">((inspira)) </event>
+<event start="T105" end="T106">Entonces eso/ eso/ esa rememoración </event>
+<event start="T106" end="T107">pues tiene eso, pues un poquito de aliño metafísico. </event>
+<event start="T114" end="T115">No no sí, no/ yo vi/ </event>
+<event start="T115" end="T116">mi/ mi campo </event>
+<event start="T116" end="T117">es el ensayo, es el artículo, no sé. </event>
+<event start="T117" end="T118">Yo esto me ha venido/ • • me ha venido muy bien </event>
+<event start="T118" end="T119">porque durante un año muy complicado como ha sido este </event>
+<event start="T119" end="T120">que en fin si se recuerda </event>
+<event start="T120" end="T121">pues hemos lanzao un partido político nuevo. </event>
+<event start="T121" end="T122">((inspira)) </event>
+<event start="T122" end="T123">Hemos afrontao unas elecciones </event>
+<event start="T123" end="T124">sin poca o/ o ninguna ayuda </event>
+<event start="T124" end="T125">de medios y de bancos y de tal. </event>
+<event start="T125" end="T126">((inspira)) </event>
+<event start="T126" end="T127">Hemos lograo tener una parlamentaria. </event>
+<event start="T127" end="T128">Yo he dao mi último curso en la facultad </event>
+<event start="T128" end="T129">porque este año ha sido el de mi jubilación. </event>
+<event start="T129" end="T130">((inspira)) </event>
+<event start="T130" end="T131">Eeh mmm eh mmm </event>
+<event start="T131" end="T132">nos hemos lanzado el manifiesto de la lengua común </event>
+<event start="T132" end="T133">que termina teniendo bastante polémica. </event>
+<event start="T133" end="T134">Y es decir yo (creo que ha sido) un año bastante cargado de acontecimientos. </event>
+<event start="T134" end="T135">((inspira)) </event>
+<event start="T135" end="T136">Entonces eh la novela me servía para refugiarme, </event>
+<event start="T136" end="T137">para escaparme ¿no? </event>
+<event start="T137" end="T138">Eran mis vacaciones diarias. </event>
+<event start="T138" end="T139">((inspira)) </event>
+<event start="T139" end="T140">Me iba una hora o dos horas a mi mundo especial </event>
+<event start="T140" end="T141">privado de/ ((inspira)) de esa novela. </event>
+<event start="T141" end="T142">Y ahí me refugiaba y se me olvidaba durante un rato </event>
+<event start="T142" end="T143">todo lo que estaba pasando y/ </event>
+<event start="T143" end="T144">((inspira)) </event>
+<event start="T144" end="T145">y me ha venido muy bien. </event>
+<event start="T145" end="T146">Y ojalá que a algún lector le sirva para lo mismo ¿no? </event>
+<event start="T147" end="T148">((inspira)) </event>
+<event start="T148" end="T149">• • </event>
+<event start="T149" end="T150">Bueno yo creo que la ética es una reflexión sobre nuestra libertad </event>
+<event start="T150" end="T151">• </event>
+<event start="T151" end="T152">y la filosofía pues de alguna manera es una reflexión sobre nuestra vida. </event>
+<event start="T152" end="T153">((inspira)) </event>
+<event start="T153" end="T154">Yyy hombre me parece que </event>
+<event start="T154" end="T155">siempre — sobre todo cuando estamos mmm eh comoo </event>
+<event start="T155" end="T156">dicen tiempos turbulentos — </event>
+<event start="T156" end="T157">es bueno reflexionar sobre lo que nos pasa, </event>
+<event start="T157" end="T158">sobre lo que queremos hacer. </event>
+<event start="T158" end="T159">((inspira)) </event>
+<event start="T159" end="T160">(Es decir) </event>
+<event start="T160" end="T161">en vez de dejarnos siempre arrastrar por los acontecimientos </event>
+<event start="T161" end="T162">y seguir el el el/ la corriente pues, </event>
+<event start="T162" end="T163">mmm mmm también decidir </event>
+<event start="T163" end="T164">qué es lo que vamos a hacer y qué preferimos nosotros. </event>
+<event start="T164" end="T165">((inspira)) </event>
+<event start="T165" end="T166">Y qué/ como ser protagonista de nuestra vida ¿no? </event>
+<event start="T168" end="T169">((inc.))˙ </event>
+<event start="T170" end="T171">Eh˙ </event>
+<event start="T172" end="T173">Eh˙ </event>
+<event start="T174" end="T175">¡Muy bien! </event>
+<event start="T175" end="T176">¡Gracias </event>
+<event start="T176" end="T177">a vosotros! </event>
+<event start="T177" end="T178">¿E? </event>
+<event start="T178" end="T179">¡Adiós! </event>
+<event start="T179" end="T180">¡Buenos días! </event>
+<event start="T180" end="T181">¡Buen</event>
+<event start="T181" end="T182">os días! </event>
+</tier><tier id="TIE1" speaker="SPK0" category="akz" type="a" display-name=""><event start="T96" end="T97">—</event>
+</tier><tier id="TIE2" speaker="SPK0" category="en" type="a" display-name="FS [en]"><event start="T2" end="T3">Hello! </event>
+<event start="T3" end="T4">Good day! </event>
+<event start="T5" end="T6">• • </event>
+<event start="T6" end="T7">Thank you very much! </event>
+<event start="T8" end="T9">• • </event>
+<event start="T9" end="T11">((laughs)) The Pardo's Curve is a curve of the/ of the race-course of the Zarzuela in/ in Madrid. </event>
+<event start="T11" end="T12">((breathes)) </event>
+<event start="T12" end="T14">Aaand, finally, for horse enthusiasts this place is very significant, which I assume for other people doesn't mean anything special. </event>
+<event start="T16" end="T17">• • </event>
+<event start="T17" end="T18">Yes, yes! </event>
+<event start="T21" end="T23">It doens't have / it doesn't have Templars, </event>
+<event start="T23" end="T24">it doesn't have sects. </event>
+<event start="T24" end="T25">((laugh</event>
+<event start="T25" end="T26">s, 1,3s)) </event>
+<event start="T26" end="T27">Yes indeed, it's somewhat atypical. </event>
+<event start="T27" end="T29">But perhaps people are already a bit tired of all those things, and and they want to change, </event>
+<event start="T29" end="T30">I hope to change them. </event>
+<event start="T30" end="T31">((breathes)) </event>
+<event start="T38" end="T39">• • </event>
+<event start="T39" end="T40">((breathes)) </event>
+<event start="T40" end="T41">Well, Sir... </event>
+<event start="T41" end="T42"> ehm, anyway... </event>
+<event start="T42" end="T43">((laughs)) </event>
+<event start="T43" end="T44">(Eh it centers) • / it/ eh it/ </event>
+<event start="T44" end="T46">anyway, it centers on a big horse-race where two moguls who hate each other with all their hearts </event>
+<event start="T46" end="T48">((breathes)) eh want to share their/ em their hatreds/ each one with their horses. </event>
+<event start="T48" end="T49">((breathes)) </event>
+<event start="T49" end="T50">And the most important horse </event>
+<event start="T50" end="T51">— the best one of all — well eeh </event>
+<event start="T51" end="T52">• </event>
+<event start="T52" end="T53">needs a determined jockey who mounts it, because he is the only one who understands it. </event>
+<event start="T53" end="T54">((breathes)) </event>
+<event start="T54" end="T55">And this jockey has disappeared. </event>
+<event start="T55" end="T56">That's why this jockey has to be found. </event>
+<event start="T56" end="T57">((breathes)) </event>
+<event start="T57" end="T58">And that is sort of how this novel goes. </event>
+<event start="T64" end="T65">((breathes)) </event>
+<event start="T65" end="T66">Yes, that' it! </event>
+<event start="T66" end="T67">((breathes)) </event>
+<event start="T67" end="T68">Well the/ </event>
+<event start="T68" end="T69">it's a novel... </event>
+<event start="T70" end="T71">• • </event>
+<event start="T71" end="T72">Well eh... </event>
+<event start="T72" end="T73">Sir eh eh... </event>
+<event start="T73" end="T74">• • </event>
+<event start="T74" end="T75">You don't/ don't have to get frightened.</event>
+<event start="T75" end="T78">It isn't/ isn't a philosophical novel nor well... </event>
+<event start="T78" end="T79">But, well, I think that every one </event>
+<event start="T79" end="T80">• • </event>
+<event start="T80" end="T81">well... </event>
+<event start="T81" end="T82">• • </event>
+<event start="T82" end="T83">finally the reader will see it... </event>
+<event start="T83" end="T84">((breathes)) </event>
+<event start="T84" end="T85">Since the novel is narrated by various voices, </event>
+<event start="T85" end="T86">this means different characters tell one by one </event>
+<event start="T86" end="T87">their perpective about what is happening </event>
+<event start="T87" end="T88">((breathes)) </event>
+<event start="T88" end="T89">each one of the characters is telling on one side what happens </event>
+<event start="T89" end="T90">((breathes)) </event>
+<event start="T90" end="T93">and on the other side is telling what happens to him: </event>
+<event start="T93" end="T94">• • </event>
+<event start="T94" end="T95">his dreams, his fears, his frustrations, </event>
+<event start="T95" end="T98">his/ ((breathes)) his aspirations and so on, right? </event>
+<event start="T98" end="T99">That's why... </event>
+<event start="T99" end="T100">((breathes)) </event>
+<event start="T100" end="T102">And at the same time • they are intervening in the action as main characters, </event>
+<event start="T102" end="T104">and also remembering and recalling well what is his life, right? </event>
+<event start="T104" end="T105">((breathes)) </event>
+<event start="T105" end="T106">That's why this/ this/ this rememberance </event>
+<event start="T106" end="T107">well, has this, well, a bit of metaphysical flavour. </event>
+<event start="T114" end="T115">No no yes, no/ I saw/ </event>
+<event start="T115" end="T116">my/ my field </event>
+<event start="T116" end="T117">is the essay, is the article, I don't know.</event>
+<event start="T117" end="T118">I, this did/ • • did me lots of good </event>
+<event start="T118" end="T119">because during a very complicated year as this one has been </event>
+<event start="T119" end="T120">which, well, if you remember </event>
+<event start="T120" end="T121">well we placed on the market a new political party. </event>
+<event start="T121" end="T122">((breathes)) </event>
+<event start="T122" end="T123">We had to affront some elections </event>
+<event start="T123" end="T124">with few or/ or no help </event>
+<event start="T124" end="T125">from media and from banks and from such things. </event>
+<event start="T125" end="T126">((breathes)) </event>
+<event start="T126" end="T127">We achieved to have a parlamentarian. </event>
+<event start="T127" end="T129">And I gave my last course in the faculty because this year has been the one of my retirement. </event>
+<event start="T129" end="T130">((breathes)) </event>
+<event start="T130" end="T131">Ehm mmm eh ehm </event>
+<event start="T131" end="T133">we haved placed on the market the manifest of the common language which finally got much polemics. </event>
+<event start="T133" end="T134">And which means I (think it has been) a year quite charged with events. </event>
+<event start="T134" end="T135">((breathes)) </event>
+<event start="T135" end="T136">That's why ehm the novel served me to flee, </event>
+<event start="T136" end="T137">to escape, right? </event>
+<event start="T137" end="T138">These were my daily holidays. </event>
+<event start="T138" end="T139">((breathes)) </event>
+<event start="T139" end="T141">I went to my special private world of/ ((breathes)) of that novel for one hour or two hours. </event>
+<event start="T141" end="T142">And there I escaped and I forgot for a while </event>
+<event start="T142" end="T143">everything that had happened and/ </event>
+<event start="T143" end="T144">((breathes)) </event>
+<event start="T144" end="T145">and it did me lots of good. </event>
+<event start="T145" end="T146">And hopefully it will do the same thing to some reader, won't it? </event>
+<event start="T147" end="T148">((breathes)) </event>
+<event start="T148" end="T149">• • </event>
+<event start="T149" end="T150">Well, I think ethics is a reflection about our freedom </event>
+<event start="T150" end="T151">• </event>
+<event start="T151" end="T152">and philosophy is somehow a reflection about our life.</event>
+<event start="T152" end="T153">((breathes)) </event>
+<event start="T153" end="T154">Aaand, Sir, it appears to me that </event>
+<event start="T154" end="T156">always — especially when we are like they say in turbulent times — </event>
+<event start="T156" end="T157">it is good to think about what happens to us, </event>
+<event start="T157" end="T158">about what we want to do. </event>
+<event start="T158" end="T159">((breathes)) </event>
+<event start="T159" end="T160">(Which means) </event>
+<event start="T160" end="T162">instead of being always dragged by the events and following the the the/ the current, </event>
+<event start="T162" end="T163">ehmehm also decide </event>
+<event start="T163" end="T164">what is the thing we want to do and prefer. </event>
+<event start="T164" end="T165">((breathes)) </event>
+<event start="T165" end="T166">And what/ like beeing the main character of our life, isn't it? </event>
+<event start="T168" end="T169">((inc.))˙ </event>
+<event start="T170" end="T171">Eh˙ </event>
+<event start="T172" end="T173">Eh˙ </event>
+<event start="T174" end="T175">Very good!</event>
+<event start="T175" end="T177">Thanks to you!</event>
+<event start="T177" end="T178">OK? </event>
+<event start="T178" end="T179">Goodbye!</event>
+<event start="T179" end="T180">Good day!</event>
+<event start="T180" end="T182">Good day!</event>
+</tier><tier id="TIE3" speaker="SPK1" category="v" type="t" display-name="LR [v]"><event start="T1" end="T2">¡Fernando Savater, buenos días! </event>
+<event start="T4" end="T5">¡Enhorabuena! </event>
+<event start="T7" end="T8">¿La curva del Pardo es esa dónde se ve a la señora? </event>
+<event start="T14" end="T15">Bueno, estaba pensando en esa leyenda urbana. </event>
+<event start="T15" end="T16">¿Pero la cosa va de hípica? </event>
+<event start="T17" end="T18">En/ • </event>
+<event start="T18" end="T19">en esta novela que mmm </event>
+<event start="T19" end="T20">((inspira)) no tiene • • catedrales, no tiene guerras. </event>
+<event start="T20" end="T21">No sé si va a ser un éxito </event>
+<event start="T21" end="T22">¿eh? </event>
+<event start="T24" end="T25">((ríe))˙ </event>
+<event start="T31" end="T32">La Hermandad de la Buena Suerte… </event>
+<event start="T32" end="T33">mmm </event>
+<event start="T33" end="T34">((inspira)) </event>
+<event start="T34" end="T35">• • </event>
+<event start="T35" end="T36">mmm˙ </event>
+<event start="T36" end="T37">• • • </event>
+<event start="T37" end="T38">¿Qué hacen los caballos en esta obra? </event>
+<event start="T58" end="T59">• • • </event>
+<event start="T59" end="T60">Es una novela — Usted mismo lo ha dicho —</event>
+<event start="T60" end="T61">y además me parece la definición — </event>
+<event start="T61" end="T62">((inspira)) </event>
+<event start="T62" end="T63">eh si me permite — muy inteligente, </event>
+<event start="T63" end="T64">una obra de aventuras con un poquito de aliño metafísico. </event>
+<event start="T68" end="T69">¡Dígame Usted lo que es el </event>
+<event start="T69" end="T70">aliño metafísico! </event>
+<event start="T76" end="T77">((rié))˙ </event>
+<event start="T107" end="T108">Ha escrito más de cuarenta y cinco </event>
+<event start="T108" end="T109">• libros </event>
+<event start="T109" end="T110">entre ellos desde luego esa ((inspira)) eh imprescindible </event>
+<event start="T110" end="T111">y que es libro de cabecera para muchos padres que quieren ser educadores es "Ética para Amador". </event>
+<event start="T111" end="T112">((inspira)) </event>
+<event start="T112" end="T113">Eh mmm ¿va a darle más a la novela </event>
+<event start="T113" end="T114">o va seguir centrado en la </event>
+<event start="T114" end="T115">ética (en las relaciones)? </event>
+<event start="T146" end="T147">¿La ética y la filosofía pueden ser un buen punto de apoyo en estos tiempos tur</event>
+<event start="T147" end="T148">bulentos? </event>
+<event start="T166" end="T167">((inspira)) </event>
+<event start="T167" end="T168">¡Fernando Savater, muchisimas gracias al </event>
+<event start="T168" end="T169">Premio </event>
+<event start="T169" end="T170">Plan</event>
+<event start="T170" end="T171">eta </event>
+<event start="T171" end="T172">por com</event>
+<event start="T172" end="T173">partir </event>
+<event start="T173" end="T174">este tiempo con los oyentes de Radio Nacional! </event>
+<event start="T176" end="T177">¡Buenos días! </event>
+<event start="T178" end="T179">((inc.))˙ </event>
+<event start="T179" end="T181">((inc.))˙ </event>
+</tier><tier id="TIE4" speaker="SPK1" category="en" type="a" display-name="LR [en]"><event start="T1" end="T2">Fernando Savater, good day! </event>
+<event start="T4" end="T5">Congratulation! </event>
+<event start="T7" end="T8">The Pardo's Curve, is this the place where the woman is seen? </event>
+<event start="T14" end="T15">Well, I was thinking of that urban legend. </event>
+<event start="T15" end="T16">But the thing is about equitation? </event>
+<event start="T17" end="T18">In/ • </event>
+<event start="T18" end="T19">in this novel, which ehm </event>
+<event start="T19" end="T20">((breathes)) doesn't have • • cathedrals, doesn't have wars. </event>
+<event start="T20" end="T21">I don't know if it will be a success, </event>
+<event start="T21" end="T22">you know? </event>
+<event start="T24" end="T25">((laughs))˙ </event>
+<event start="T31" end="T32">The Brotherhood of the Good Luck... </event>
+<event start="T32" end="T33">ehm </event>
+<event start="T33" end="T34">((breathes)) </event>
+<event start="T34" end="T35">• • </event>
+<event start="T35" end="T36">ehm˙ </event>
+<event start="T36" end="T37">• • • </event>
+<event start="T37" end="T38">What do the horses do in this work? </event>
+<event start="T58" end="T59">• • • </event>
+<event start="T59" end="T60">It is a novel — you said it yourself — </event>
+<event start="T60" end="T61">and additionally I think the definition — </event>
+<event start="T61" end="T62">((breathes)) </event>
+<event start="T62" end="T63">eh if you allow me — very intelligent, </event>
+<event start="T63" end="T64">a work of adventures with a little metaphysical flavor. </event>
+<event start="T68" end="T70">Tell me what is the metaphysical flavor! </event>
+<event start="T76" end="T77">((laughs))˙ </event>
+<event start="T107" end="T108">You have written more than fourty-five </event>
+<event start="T108" end="T109">• books </event>
+<event start="T109" end="T110">among them of course, this ((breathes)) eh indispensable one </event>
+<event start="T110" end="T111">and which is a bedside book for many parents who want to be educators is "Esthics for Amador". </event>
+<event start="T111" end="T112">((breathes)) </event>
+<event start="T112" end="T115">Em, em are you going to add something more to this novel or are you going to continue centered on the ethics (in the relations)? </event>
+<event start="T146" end="T148">Can ethics and philosophy be a good point of support in these turbulent times? </event>
+<event start="T166" end="T167">((breathes)) </event>
+<event start="T167" end="T174">Fernando Savater, thank you very much to the winner of the Planeta Price for spending this time with the audience of Radio Nacional! </event>
+<event start="T176" end="T177">Good day! </event>
+<event start="T178" end="T179">((inc.))˙ </event>
+<event start="T179" end="T181">((inc.))˙ </event>
+</tier></basic-body>
+<tierformat-table><timeline-item-format show-every-nth-numbering="1" show-every-nth-absolute="10" absolute-time-format="time" miliseconds-digits="2"/><tier-format tierref="EMPTY"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">white</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">2</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="COLUMN-LABEL"><property name="row-height-calculation">Generous</property><property name="font-face">Bold</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">#R99G99B99</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R99G99B99</property><property name="font-size">6</property><property name="chunk-border">l</property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="ROW-LABEL"><property name="row-height-calculation">Generous</property><property name="font-face">Bold</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">11</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE4"><property name="row-height-calculation">Generous</property><property name="font-face">Italic</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">#R64G64B64</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE3"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">11</property><property name="chunk-border"></property><property name="font-name">Arial Unicode MS</property></tier-format><tier-format tierref="TIE2"><property name="row-height-calculation">Generous</property><property name="font-face">Italic</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">#R64G64B64</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE1"><property name="row-height-calculation">Fixed</property><property name="font-face">Plain</property><property name="fixed-row-height">1</property><property name="bg-color">#R64G64B64</property><property name="font-color">#R64G64B64</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">1</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE0"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">11</property><property name="chunk-border"></property><property name="font-name">Arial Unicode MS</property></tier-format><tier-format tierref="EMPTY-EDITOR"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">lightGray</property><property name="font-color">white</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">2</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="SUB-ROW-LABEL"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Right</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format></tierformat-table></basic-transcription>

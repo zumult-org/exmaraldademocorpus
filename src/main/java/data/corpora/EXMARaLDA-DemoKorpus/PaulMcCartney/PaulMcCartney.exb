@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription Id="CIDID4CBF6666-3220-5936-E526-678206788AEB">
+  <head>
+    <meta-information>
+      <project-name>EXMARaLDA DemoKorpus</project-name>
+      <transcription-name>Paul McCartney: Interview</transcription-name>
+      <referenced-file url="PaulMcCartney.wav" />
+      <referenced-file url="PaulMcCartney.mp3" />
+      <transcription-convention>HIAT (simplified)</transcription-convention>
+      <ud-meta-information>
+        <ud-information attribute-name="" />
+      </ud-meta-information>
+      <comment />
+    </meta-information>
+    <speakertable>
+      <speaker id="SPK0">
+        <abbreviation>PMC</abbreviation>
+        <sex value="m" />
+        <languages-used />
+        <l1 />
+        <l2 />
+        <ud-speaker-information>
+          <ud-information attribute-name="Full name">Paul McCartney</ud-information>
+          <ud-information attribute-name="Role">Interviewee</ud-information>
+          <ud-information attribute-name="Nationality">English</ud-information>
+          <ud-information attribute-name="Region">Liverpool</ud-information>
+        </ud-speaker-information>
+        <comment />
+      </speaker>
+      <speaker id="SPK1">
+        <abbreviation>INT</abbreviation>
+        <sex value="m" />
+        <languages-used />
+        <l1 />
+        <l2 />
+        <ud-speaker-information>
+          <ud-information attribute-name="Full name">Andrew Johnson</ud-information>
+          <ud-information attribute-name="Role">Interviewer</ud-information>
+          <ud-information attribute-name="Nationality">US-American?</ud-information>
+          <ud-information attribute-name="Region">---unknown---</ud-information>
+        </ud-speaker-information>
+        <comment />
+      </speaker>
+    </speakertable>
+  </head>
+  <basic-body>
+    <common-timeline>
+      <tli id="T0" time="0.0" type="intp" />
+      <tli id="T1" time="0.906636353362215" />
+      <tli id="T2" time="2.6012168690059636" />
+      <tli id="T3" time="5.455860419276435" />
+      <tli id="T4" time="6.426451798832172" />
+      <tli id="T5" time="9.5142693220706" />
+      <tli id="T6" time="9.9530005556602" />
+      <tli id="T7" time="11.715440252399638" />
+      <tli id="T8" time="12.312921651911848" />
+      <tli id="T9" time="13.813431295369503" />
+      <tli id="T10" time="14.859503173855718" />
+      <tli id="T11" time="15.466149557355434" />
+      <tli id="T12" time="16.019464390657376" />
+      <tli id="T13" time="16.466116123563758" />
+      <tli id="T14" time="18.18137986024119" />
+      <tli id="T15" time="19.086028527029576" />
+      <tli id="T16" time="22.51493512932648" />
+      <tli id="T17" time="23.165892117159544" />
+      <tli id="T18" time="24.312520446411753" />
+      <tli id="T19" time="25.065828592955356" />
+      <tli id="T20" time="25.601475645130908" type="intp" />
+      <tli id="T21" time="26.385784460350347" />
+      <tli id="T22" time="27.86573497833867" />
+      <tli id="T23" time="28.245722273497837" />
+      <tli id="T24" time="28.830614827043224" />
+      <tli id="T25" time="30.34565206253532" />
+      <tli id="T26" time="30.765638020342816" />
+      <tli id="T27" time="31.11895954040309" />
+      <tli id="T28" time="33.12398225104486" />
+      <tli id="T29" time="34.7468249006971" />
+      <tli id="T30" time="35.891620878358765" type="intp" />
+      <tli id="T31" time="37.61207577698248" />
+      <tli id="T32" time="38.165390610284426" />
+      <tli id="T33" time="41.5" />
+      <tli id="T34" time="42.1852562064419" />
+      <tli id="T35" time="46.8184346298738" />
+      <tli id="T36" time="47.65174010171407" />
+      <tli id="T37" time="48.33838381051046" />
+      <tli id="T38" time="49.15835639480128" />
+      <tli id="T39" time="51.13073970868625" />
+      <tli id="T40" time="52.4115809568657" />
+      <tli id="T41" time="53.49821129214542" />
+      <tli id="T42" time="56.02479348276512" />
+      <tli id="T43" time="56.56477542851761" />
+      <tli id="T44" time="58.544709229610106" />
+      <tli id="T45" time="58.878031418346204" />
+      <tli id="T46" time="63.0" />
+      <tli id="T47" time="63.671204492371444" />
+      <tli id="T48" time="64.87621628624447" />
+      <tli id="T49" time="66.72210508995265" />
+      <tli id="T50" time="68.0" />
+      <tli id="T51" time="68.43104534752308" />
+      <tli id="T52" time="69.12435550009418" />
+      <tli id="T53" time="69.55100790167639" />
+      <tli id="T54" time="73.14050903546986" />
+      <tli id="T55" time="73.79753258617443" />
+      <tli id="T56" time="75.0" />
+      <tli id="T57" time="75.91079526276135" />
+      <tli id="T58" time="77.54021577452707" />
+      <tli id="T59" time="79.72400110190245" />
+      <tli id="T60" time="82.53724037483519" />
+      <tli id="T61" time="82.81723101337352" />
+      <tli id="T62" time="83.03722365793935" />
+      <tli id="T63" time="84.06423198695049" />
+      <tli id="T64" time="85.67713539272934" />
+      <tli id="T65" time="86.29711466377849" />
+      <tli id="T66" time="88.73703308532681" />
+      <tli id="T67" time="89.40367746279901" />
+      <tli id="T68" time="91.21028372574874" />
+      <tli id="T69" time="91.683601233754" />
+      <tli id="T70" time="92.15691874175927" />
+      <tli id="T71" time="93.07845937087964" type="intp" />
+      <tli id="T72" time="93.71020014126955" />
+      <tli id="T73" time="94.95015868336786" />
+      <tli id="T74" time="96.00345679977397" />
+      <tli id="T75" time="96.75676494631757" />
+      <tli id="T76" time="97.33891996118399" />
+      <tli id="T77" time="97.66485090399019" type="intp" />
+      <tli id="T78" time="98.31671278960256" />
+      <tli id="T79" time="99.35501606367387" />
+      <tli id="T80" time="101.84326154643058" />
+      <tli id="T81" time="102.12991862874365" />
+      <tli id="T82" time="102.91655899416087" />
+      <tli id="T83" time="104.32984507440194" />
+      <tli id="T84" time="106.58310307025806" />
+      <tli id="T85" time="107.24974744773027" />
+      <tli id="T86" time="110.20964848370691" />
+      <tli id="T87" time="110.70963176681107" />
+      <tli id="T88" time="111.58604850680294" />
+      <tli id="T89" time="114.15890836364449" />
+      <tli id="T90" time="114.64950003767188" />
+      <tli id="T91" time="118.00281239914312" />
+      <tli id="T92" time="118.54270320210962" />
+      <tli id="T93" time="119.02935359766435" />
+      <tli id="T94" time="120.0" />
+      <tli id="T95" time="120.68929809757016" />
+      <tli id="T96" time="122.46923858542098" />
+      <tli id="T97" time="122.92255676210209" />
+      <tli id="T98" time="126.34699955783368" />
+      <tli id="T99" time="128.60564799846074" />
+      <tli id="T100" time="133.3929749137851" />
+      <tli id="T101" time="135.59166697055176" />
+      <tli id="T102" time="136.19544631757392" />
+      <tli id="T103" time="136.59022914269278" type="intp" />
+      <tli id="T104" time="141.722405869238" />
+      <tli id="T105" time="144.80849167451498" />
+      <tli id="T106" time="145.3284742889433" />
+      <tli id="T107" time="145.76845957807495" />
+      <tli id="T108" time="146.24177708608025" />
+      <tli id="T109" time="148.0" />
+      <tli id="T110" time="148.5683659634583" />
+      <tli id="T111" time="150.92828705970993" />
+      <tli id="T112" time="151.38827168016576" />
+      <tli id="T113" time="154.0681820776041" />
+      <tli id="T114" time="154.40817071011492" />
+      <tli id="T115" time="155.11481375023544" />
+      <tli id="T116" time="156.8227253963641" />
+      <tli id="T117" time="158.9583228137589" />
+      <tli id="T118" time="161.74755784818518" />
+      <tli id="T119" time="163.2878738180448" />
+      <tli id="T120" time="163.53453223770956" />
+      <tli id="T121" time="165.13749581898392" />
+      <tli id="T122" time="166.11444597852704" />
+      <tli id="T123" time="167.93162480465068" />
+      <tli id="T124" time="169.20475932084668" />
+      <tli id="T125" time="170.25846594508414" />
+      <tli id="T126" time="170.7703449964646" />
+      <tli id="T127" time="171.08094659069508" />
+      <tli id="T128" time="173.2342079299303" />
+      <tli id="T129" time="173.7141918817103" />
+      <tli id="T130" time="174.4075020342814" />
+      <tli id="T131" time="174.9741497551328" />
+      <tli id="T132" time="175.64746057637973" />
+      <tli id="T133" time="176.9781231565038" type="intp" />
+      <tli id="T134" time="177.005" />
+    </common-timeline>
+    <tier id="TIE0" speaker="SPK1" category="v" type="t" display-name="INT [v]">
+      <event start="T1" end="T2">With me now I have Paul McCartney. </event>
+      <event start="T2" end="T3">Paul, there's one question I wanted to ask you in this entire tour. </event>
+      <event start="T3" end="T4">• • ((breathes in)) </event>
+      <event start="T4" end="T5">Before the word "Beatles" ever came into your life, </event>
+      <event start="T5" end="T6">• • </event>
+      <event start="T6" end="T7">and before the group ever got together,</event>
+      <event start="T7" end="T8">• • • </event>
+      <event start="T8" end="T9">what was your personal ambition? </event>
+      <event start="T9" end="T10">What did you wanna be? </event>
+      <event start="T37" end="T38">• • • </event>
+      <event start="T38" end="T39">Do you wanna continue this for the rest of your life, </event>
+      <event start="T39" end="T40">let's say: a musical career? </event>
+      <event start="T56" end="T57">• • • </event>
+      <event start="T57" end="T58">There's another question I wanted to ask you. </event>
+      <event start="T58" end="T59">Of all the groups now in England and eh, </event>
+      <event start="T59" end="T60">• ever since, eh, let's say, the advent of the Beatles, </event>
+      <event start="T60" end="T61">since </event>
+      <event start="T61" end="T62">we </event>
+      <event start="T62" end="T63">came to know the Beatles </event>
+      <event start="T63" end="T64">here in A/ here in Aamerica, </event>
+      <event start="T64" end="T65">((breathes in)) </event>
+      <event start="T65" end="T66">of all the groups that have formed thereafter, </event>
+      <event start="T66" end="T67">• • • </event>
+      <event start="T67" end="T68">what would be your favourite group </event>
+      <event start="T68" end="T69">• • </event>
+      <event start="T69" end="T70">eh˙ </event>
+      <event start="T70" end="T71">• • • </event>
+      <event start="T71" end="T72">group? </event>
+      <event start="T76" end="T77">((i</event>
+      <event start="T77" end="T78">nc.)) </event>
+      <event start="T78" end="T79">for Cilla Black there? </event>
+      <event start="T94" end="T95">• • • </event>
+      <event start="T95" end="T96">Now here's another question that a listener wrote in. </event>
+      <event start="T96" end="T97">((breathes in)) </event>
+      <event start="T97" end="T98">When you see these eh fantastic acts of admiration for you, </event>
+      <event start="T98" end="T99">such as, I don't know if you're aware of this, but, </event>
+      <event start="T99" end="T100">in Milwaukee, a youngster eh threw a rope • with a hook on it • up to a ledge </event>
+      <event start="T100" end="T101">and tried to climb up to your floor. </event>
+      <event start="T101" end="T102">Does this… </event>
+      <event start="T102" end="T103">Ehm… </event>
+      <event start="T103" end="T104">• I know you enjoy eh the/ your fans' admiration • of/ of your work. </event>
+      <event start="T104" end="T105">But does this ever bother you that they maybe hurt or eh </event>
+      <event start="T105" end="T106">((breathes in)) </event>
+      <event start="T106" end="T107">eh˙ </event>
+      <event start="T107" end="T108">• • </event>
+      <event start="T108" end="T109">that they're going a little bit too far maybe? </event>
+    </tier>
+    <tier id="TIE1" speaker="SPK1" category="akz" type="a" display-name="">
+      <event start="T61" end="T62">— </event>
+    </tier>
+    <tier id="TIE2" speaker="SPK1" category="de" type="a" display-name="INT [de]">
+      <event start="T1" end="T2">Bei mir ist jetzt Paul McCartney. </event>
+      <event start="T2" end="T3">Paul, es gibt eine Frage, die ich dir schon während der gesamten Tour stellen wollte. </event>
+      <event start="T3" end="T4">• • ((atmet ein)) </event>
+      <event start="T4" end="T5">Bevor das Wort "Beatles" in dein Leben trat, </event>
+      <event start="T5" end="T6">• • </event>
+      <event start="T6" end="T7">und bevor die Gruppe sich zusammenfand, </event>
+      <event start="T7" end="T8">• • • </event>
+      <event start="T8" end="T9">was war deine persönliche Ambition? </event>
+      <event start="T9" end="T10">Was wolltest du werden? </event>
+      <event start="T37" end="T38">• • • </event>
+      <event start="T38" end="T39">Willst du für den Rest deines Lebens so weitermachen, </event>
+      <event start="T39" end="T40">mit dieser musikalischen Karriere? </event>
+      <event start="T56" end="T57">• • • </event>
+      <event start="T57" end="T58">Es gibt noch eine Frage, die ich dir stellen wollte. </event>
+      <event start="T58" end="T59">Von all den Gruppen in England zur Zeit und äh, </event>
+      <event start="T59" end="T60">• seit äh sagen wir es die Beatles gibt, </event>
+      <event start="T60" end="T64">seit wir hier in Amerika die Beatles kennen, </event>
+      <event start="T64" end="T65">((atmet ein)) </event>
+      <event start="T65" end="T66">von allen Gruppen, die sich danach gegründet haben, </event>
+      <event start="T66" end="T67">• • • </event>
+      <event start="T67" end="T68">welche ist deine Lieblingsgruppe </event>
+      <event start="T68" end="T69">• • </event>
+      <event start="T69" end="T70">äh˙ </event>
+      <event start="T70" end="T71">• • • </event>
+      <event start="T71" end="T72">Gruppe? </event>
+      <event start="T76" end="T77">((u</event>
+      <event start="T77" end="T79">nv.)) für Cilla Black? </event>
+      <event start="T94" end="T95">• • • </event>
+      <event start="T95" end="T96">Hier ist noch eine Frage, die uns ein Hörer geschickt hat. </event>
+      <event start="T96" end="T97">((atmet ein)) </event>
+      <event start="T97" end="T98">Wenn du diese fantastischen Akte der Bewunderung für Euch siehst, </event>
+      <event start="T98" end="T99">wie etwa, ich weiß nicht, ob du dir dessen bewusst bist, aber </event>
+      <event start="T99" end="T100">in Milwaukee hat ein Jugendlicher äh ein Seil • mit einem Haken • an einen Fenstersims geworfen </event>
+      <event start="T100" end="T101">und versucht zu Eurem Stockwerk hochzuklettern. </event>
+      <event start="T101" end="T102">Macht Dir das… </event>
+      <event start="T102" end="T103">Ähm… </event>
+      <event start="T103" end="T104">• Ich weiß, dass dir die Bewunderung deiner Fans für Eure Arbeit Freude macht. </event>
+      <event start="T104" end="T105">Aber macht dir das manchmal Sorgen, dass sie sich weh tun könnten oder äh </event>
+      <event start="T105" end="T106">((atmet ein)) </event>
+      <event start="T106" end="T107">äh˙ </event>
+      <event start="T107" end="T108">• • </event>
+      <event start="T108" end="T109">dass sie vielleicht ein bisschen zu weit gehen? </event>
+    </tier>
+    <tier id="TIE3" speaker="SPK0" category="v" type="t" display-name="PMC [v]">
+      <event start="T10" end="T11">• • • </event>
+      <event start="T11" end="T12">Ehm˙ </event>
+      <event start="T12" end="T13">• • </event>
+      <event start="T13" end="T14">I didn't/ didn't have any ambitions. </event>
+      <event start="T14" end="T15">((breathes in)) </event>
+      <event start="T15" end="T16">Eh, the/ there was nothing I particularly wanted to be really. </event>
+      <event start="T16" end="T17">((breathes in)) </event>
+      <event start="T17" end="T18">Cause I was at school. </event>
+      <event start="T18" end="T19">• • • </event>
+      <event start="T19" end="T20">For a bit. </event>
+      <event start="T20" end="T21">((breathes in)) </event>
+      <event start="T21" end="T22">(Until)/ til I was eighteen. </event>
+      <event start="T22" end="T23">• • </event>
+      <event start="T23" end="T24">And, eh </event>
+      <event start="T24" end="T25">((1,5s)) </event>
+      <event start="T25" end="T26">then I just </event>
+      <event start="T26" end="T27">left </event>
+      <event start="T27" end="T28">school and I still didn't have any ambition, </event>
+      <event start="T28" end="T29">or any idea what I was gonna be. </event>
+      <event start="T29" end="T30">((breathes in)) </event>
+      <event start="T30" end="T31">Eh, we went into the group. </event>
+      <event start="T31" end="T32">((breathes in)) </event>
+      <event start="T32" end="T33">Eh, you know, I went into the group and ehm we played around for a bit. </event>
+      <event start="T33" end="T34">((breathes in)) </event>
+      <event start="T34" end="T35">And, only after a bit • eh must 've realised that this was the only ambition I'd really ever had. </event>
+      <event start="T35" end="T36">• • • </event>
+      <event start="T36" end="T37">Nothing else. </event>
+      <event start="T40" end="T41">((1s)) </event>
+      <event start="T41" end="T42">(Me) I don't know really ((laughs)) ehm˙ </event>
+      <event start="T42" end="T43">• • • </event>
+      <event start="T43" end="T44">I just wanna be able to do what I want to do. </event>
+      <event start="T44" end="T45">• • </event>
+      <event start="T45" end="T46">And so, you know, at/ • • at this moment this is what I want to do. </event>
+      <event start="T46" end="T47">• • • </event>
+      <event start="T47" end="T48">I may/ I may change later. </event>
+      <event start="T48" end="T49">I may just get fed up and not wanna do that, </event>
+      <event start="T49" end="T50">maybe wanna do something else. </event>
+      <event start="T50" end="T51">((breathes in)) </event>
+      <event start="T51" end="T52">Completely. </event>
+      <event start="T52" end="T53">• • </event>
+      <event start="T53" end="T54">But, ehm • • you know I should be able to do whatever I want to do. </event>
+      <event start="T54" end="T55">• • • </event>
+      <event start="T55" end="T56">Later on, ye know. </event>
+      <event start="T72" end="T73">((1,2s)) </event>
+      <event start="T73" end="T74">Eeh group. </event>
+      <event start="T74" end="T75">((laughs)) </event>
+      <event start="T75" end="T76">Well, I think </event>
+      <event start="T76" end="T77">eh… </event>
+      <event start="T79" end="T80">• No, I can't/ I can't get one in there. </event>
+      <event start="T80" end="T81">((breathes in)) </event>
+      <event start="T81" end="T82">I think ehm </event>
+      <event start="T82" end="T83">((1,4s)) </event>
+      <event start="T83" end="T84">the Animals • favourite group really. </event>
+      <event start="T84" end="T85">((breathes in)) </event>
+      <event start="T85" end="T86">(Only they)/ they're quite recent compared to a lot of the groups. </event>
+      <event start="T86" end="T87">((breathes in)) </event>
+      <event start="T87" end="T88">I mean they've been going long, </event>
+      <event start="T88" end="T89">but they've only • come to the forefront recently. </event>
+      <event start="T89" end="T90">((breathes in)) </event>
+      <event start="T90" end="T91">Animals, the Searchers, the Rolling Stones. </event>
+      <event start="T91" end="T92">• • • </event>
+      <event start="T92" end="T93">Ehm˙ </event>
+      <event start="T93" end="T94">• a lot, you know. </event>
+      <event start="T109" end="T110">• • • </event>
+      <event start="T110" end="T111">Well it bothers us if they're gonna get hurt, you know. </event>
+      <event start="T111" end="T112">((breathes in)) </event>
+      <event start="T112" end="T113">Cause actually some of them do ridiculous things, (ye know). </event>
+      <event start="T113" end="T114">((breathes in)) </event>
+      <event start="T114" end="T115">There was a fellow, </event>
+      <event start="T115" end="T116">he wa/ he wasn't so much a fan, </event>
+      <event start="T116" end="T117">he was a/ a fellow from Liverpool. </event>
+      <event start="T117" end="T118">This was whi/ (whilst) we were in Australia. </event>
+      <event start="T118" end="T119">We were in Sydney and we were on about </event>
+      <event start="T119" end="T120">thee </event>
+      <event start="T120" end="T121">eh • twelfth floor. </event>
+      <event start="T121" end="T122">• ((breathes in)) </event>
+      <event start="T122" end="T123">And he climbed right up the side of the building, </event>
+      <event start="T123" end="T124">from balcony to balcony. </event>
+      <event start="T124" end="T125">Twelve floors. </event>
+      <event start="T125" end="T126">God! </event>
+      <event start="T126" end="T127">((breathes in)) </event>
+      <event start="T127" end="T128">You know, I mean, he could have just fallen off any second. </event>
+      <event start="T128" end="T129">((breathes in)) </event>
+      <event start="T129" end="T130">It was ridiculous. </event>
+      <event start="T130" end="T131">and eh </event>
+      <event start="T131" end="T132">• • • </event>
+      <event start="T132" end="T133">You know (when) ((inc.)) </event>
+    </tier>
+    <tier id="TIE4" speaker="SPK0" category="akz" type="a" display-name="">
+      <event start="T26" end="T27">—</event>
+    </tier>
+    <tier id="TIE5" speaker="SPK0" category="de" type="a" display-name="PMC [de]">
+      <event start="T10" end="T11">• • • </event>
+      <event start="T11" end="T12">Ähm˙ </event>
+      <event start="T12" end="T13">• • </event>
+      <event start="T13" end="T14">Ich hatte nicht/ hatte nicht viele Ambitionen. </event>
+      <event start="T14" end="T15">((atmet ein)) </event>
+      <event start="T15" end="T16">Ich wollte eigentlich nichts Spezielles wirklich werden. </event>
+      <event start="T16" end="T17">((atmet ein)) </event>
+      <event start="T17" end="T18">Weil ich in der Schule war. </event>
+      <event start="T18" end="T19">• • • </event>
+      <event start="T19" end="T20">Eine Zeit lang. </event>
+      <event start="T20" end="T21">((atmet ein)) </event>
+      <event start="T21" end="T22">Bis ich achtzehn war. </event>
+      <event start="T22" end="T23">• • </event>
+      <event start="T23" end="T24">Und äh </event>
+      <event start="T24" end="T25">((1,5s)) </event>
+      <event start="T25" end="T28">dann bin ich einfach von der Schule gegangen und ich hatte immer noch keine Ambition </event>
+      <event start="T28" end="T29">oder irgendeine Ahnung, was ich werden wollte. </event>
+      <event start="T29" end="T30">((atmet ein )) </event>
+      <event start="T30" end="T31">Wir gründeten die Gruppe. </event>
+      <event start="T31" end="T32">((atmet ein)) </event>
+      <event start="T32" end="T33">Äh, du weißt, ich fing also bei der Gruppe an und wir spielten ein bisschen herum. </event>
+      <event start="T33" end="T34">((atmet ein)) </event>
+      <event start="T34" end="T35">Und nach einer Weile • ist mir wohl aufgefallen, dass das die einzige Ambition war, die ich je wirklich hatte. </event>
+      <event start="T35" end="T36">• • • </event>
+      <event start="T36" end="T37">Sonst nichts. </event>
+      <event start="T40" end="T41">((1s)) </event>
+      <event start="T41" end="T42">Ich weiß es nicht so genau ((lacht)) ähm˙ </event>
+      <event start="T42" end="T43">• • • </event>
+      <event start="T43" end="T44">Ich möchte einfach das machen können, wozu ich Lust habe. </event>
+      <event start="T44" end="T45">• • </event>
+      <event start="T45" end="T46">Also weißt du in/ in diesem Moment, ist es das, was ich machen möchte. </event>
+      <event start="T46" end="T47">• • • </event>
+      <event start="T47" end="T48">Es könnte/ könnte sich später ändern. </event>
+      <event start="T48" end="T49">Ich könnte irgendwann davon genug haben und das nicht mehr machen wollen, </event>
+      <event start="T49" end="T50">will vielleicht was anderes machen. </event>
+      <event start="T50" end="T51">((atmet ein)) </event>
+      <event start="T51" end="T52">Total. </event>
+      <event start="T52" end="T53">• • </event>
+      <event start="T53" end="T54">Aber ähm • • ich sollte immer in der Lage sein, das zu tun, worauf ich Lust habe. </event>
+      <event start="T54" end="T55">• • • </event>
+      <event start="T55" end="T56">Später, weißt du. </event>
+      <event start="T72" end="T73">((1,2s)) </event>
+      <event start="T73" end="T74">Ääh Gruppe. </event>
+      <event start="T74" end="T75">((lacht)) </event>
+      <event start="T75" end="T76">Also ich glaube </event>
+      <event start="T76" end="T77">äh… </event>
+      <event start="T79" end="T80">• Nein, da hab ich/ hab ich keine Chance. </event>
+      <event start="T80" end="T81">((atmet ein)) </event>
+      <event start="T81" end="T82">Ich glaube ähm </event>
+      <event start="T82" end="T83">((1,4s)) </event>
+      <event start="T83" end="T84">die Animals • Lieblingsgruppe wirklich. </event>
+      <event start="T84" end="T85">((atmet ein)) </event>
+      <event start="T85" end="T86">(Bloß sind sie)/ sind sie relativ neu im Vergleich zu vielen anderen Gruppen. </event>
+      <event start="T86" end="T87">((atmet ein)) </event>
+      <event start="T87" end="T88">Ich meine es gibt sie schon lange, </event>
+      <event start="T88" end="T89">aber sie sind erst kürzlich groß rausgekommen. </event>
+      <event start="T89" end="T90">((atmet ein)) </event>
+      <event start="T90" end="T91">Animals, die Searchers, die Rolling Stones. </event>
+      <event start="T91" end="T92">• • • </event>
+      <event start="T92" end="T93">Ähm˙ </event>
+      <event start="T93" end="T94">• eine Menge, du weißt schon. </event>
+      <event start="T109" end="T110">• • • </event>
+      <event start="T110" end="T111">Also wir machen uns Sorgen, wenn sie sich weh tun, weißt du. </event>
+      <event start="T111" end="T112">((atmet ein)) </event>
+      <event start="T112" end="T113">Denn manche machen wirklich bekloppte Sachen, (weißt du). </event>
+      <event start="T113" end="T114">((atmet ein)) </event>
+      <event start="T114" end="T115">Einmal gab es einen Typen, </event>
+      <event start="T115" end="T116">er wa/ war nicht so sehr ein Fan, </event>
+      <event start="T116" end="T117">er war ein Typ aus Liverpool. </event>
+      <event start="T117" end="T118">Das war währ/ (während) wir in Australien waren. </event>
+      <event start="T118" end="T121">Wir waren in Sydney und wir waren ungefähr im äh zwölften Stock. </event>
+      <event start="T121" end="T122">• ((atmet ein)) </event>
+      <event start="T122" end="T123">Und er kletterte einfach an der Seite des Gebäudes hoch, </event>
+      <event start="T123" end="T124">von Balkon zu Balkon. </event>
+      <event start="T124" end="T125">Zwölf Stockwerke. </event>
+      <event start="T125" end="T126">Gott! </event>
+      <event start="T126" end="T127">((atmet ein)) </event>
+      <event start="T127" end="T128">Ich meine, er hätte jede Sekunde herunterfallen können. </event>
+      <event start="T128" end="T129">((atmet ein)) </event>
+      <event start="T129" end="T130">Es war bekloppt. </event>
+      <event start="T130" end="T131">und äh </event>
+      <event start="T131" end="T132">• • • </event>
+      <event start="T132" end="T133">Weißt du (als) ((unv.)) </event>
+    </tier>
+    <tier id="TIE6" speaker="SPK0" category="k" type="a" display-name="PMC [k]">
+      <event start="T119" end="T120">[ði:]</event>
+    </tier>
+    <tier category="nn" display-name="[nn]" id="TIE7" type="d">
+      <event start="T0" end="T1">((Transkriptionsbeginn nach 0,9s)) </event>
+    </tier>
+  </basic-body>
+  <tierformat-table>
+    <timeline-item-format absolute-time-format="time" miliseconds-digits="2" show-every-nth-absolute="10" show-every-nth-numbering="1" />
+    <tier-format tierref="EMPTY">
+      <property name="row-height-calculation">Generous</property>
+      <property name="fixed-row-height">10</property>
+      <property name="font-face">Plain</property>
+      <property name="font-color">white</property>
+      <property name="chunk-border-style">solid</property>
+      <property name="bg-color">white</property>
+      <property name="text-alignment">Left</property>
+      <property name="chunk-border-color">#R00G00B00</property>
+      <property name="chunk-border" />
+      <property name="font-size">2</property>
+      <property name="font-name">Times New Roman</property>
+    </tier-format>
+    <tier-format tierref="COLUMN-LABEL">
+      <property name="row-height-calculation">Generous</property>
+      <property name="fixed-row-height">10</property>
+      <property name="font-face">Bold</property>
+      <property name="font-color">#R99G99B99</property>
+      <property name="chunk-border-style">solid</property>
+      <property name="bg-color">white</property>
+      <property name="text-alignment">Left</property>
+      <property name="chunk-border-color">#R99G99B99</property>
+      <property name="chunk-border">l</property>
+      <property name="font-size">6</property>
+      <property name="font-name">Times New Roman</property>
+    </tier-format>
+    <tier-format tierref="TIE7">
+      <property name="row-height-calculation">Generous</property>
+      <property name="fixed-row-height">10</property>
+      <property name="font-face">Plain</property>
+      <property name="font-color">#R00G00Bff</property>
+      <property name="chunk-border-style">solid</property>
+      <property name="bg-color">white</property>
+      <property name="text-alignment">Left</property>
+      <property name="chunk-border-color">#R00G00B00</property>
+      <property name="chunk-border" />
+      <property name="font-size">10</property>
+      <property name="font-name">Times New Roman</property>
+    </tier-format>
+    <tier-format tierref="TIE6">
+      <property name="row-height-calculation">Generous</property>
+      <property name="fixed-row-height">10</property>
+      <property name="font-face">Plain</property>
+      <property name="font-color">black</property>
+      <property name="chunk-border-style">solid</property>
+      <property name="bg-color">#Rf0Gf0Bf0</property>
+      <property name="text-alignment">Left</property>
+      <property name="chunk-border-color">#R00G00B00</property>
+      <property name="chunk-border" />
+      <property name="font-size">8</property>
+      <property name="font-name">Times New Roman</property>
+    </tier-format>
+    <tier-format tierref="ROW-LABEL">
+      <property name="row-height-calculation">Generous</property>
+      <property name="fixed-row-height">10</property>
+      <property name="font-face">Bold</property>
+      <property name="font-color">black</property>
+      <property name="chunk-border-style">solid</property>
+      <property name="bg-color">white</property>
+      <property name="text-alignment">Left</property>
+      <property name="chunk-border-color">#R00G00B00</property>
+      <property name="chunk-border" />
+      <property name="font-size">11</property>
+      <property name="font-name">Times New Roman</property>
+    </tier-format>
+    <tier-format tierref="TIE5">
+      <property name="row-height-calculation">Generous</property>
+      <property name="fixed-row-height">10</property>
+      <property name="font-face">Italic</property>
+      <property name="font-color">#R64G64B64</property>
+      <property name="chunk-border-style">solid</property>
+      <property name="bg-color">white</property>
+      <property name="text-alignment">Left</property>
+      <property name="chunk-border-color">#R00G00B00</property>
+      <property name="chunk-border" />
+      <property name="font-size">8</property>
+      <property name="font-name">Times New Roman</property>
+    </tier-format>
+    <tier-format tierref="TIE4">
+      <property name="row-height-calculation">Fixed</property>
+      <property name="fixed-row-height">1</property>
+      <property name="font-face">Plain</property>
+      <property name="font-color">#R64G64B64</property>
+      <property name="chunk-border-style">solid</property>
+      <property name="bg-color">#R64G64B64</property>
+      <property name="text-alignment">Left</property>
+      <property name="chunk-border-color">#R00G00B00</property>
+      <property name="chunk-border" />
+      <property name="font-size">1</property>
+      <property name="font-name">Times New Roman</property>
+    </tier-format>
+    <tier-format tierref="TIE3">
+      <property name="row-height-calculation">Generous</property>
+      <property name="fixed-row-height">10</property>
+      <property name="font-face">Plain</property>
+      <property name="font-color">black</property>
+      <property name="chunk-border-style">solid</property>
+      <property name="bg-color">white</property>
+      <property name="text-alignment">Left</property>
+      <property name="chunk-border-color">#R00G00B00</property>
+      <property name="chunk-border" />
+      <property name="font-size">11</property>
+      <property name="font-name">Arial Unicode MS</property>
+    </tier-format>
+    <tier-format tierref="TIE2">
+      <property name="row-height-calculation">Generous</property>
+      <property name="fixed-row-height">10</property>
+      <property name="font-face">Italic</property>
+      <property name="font-color">#R64G64B64</property>
+      <property name="chunk-border-style">solid</property>
+      <property name="bg-color">white</property>
+      <property name="text-alignment">Left</property>
+      <property name="chunk-border-color">#R00G00B00</property>
+      <property name="chunk-border" />
+      <property name="font-size">8</property>
+      <property name="font-name">Times New Roman</property>
+    </tier-format>
+    <tier-format tierref="TIE1">
+      <property name="row-height-calculation">Fixed</property>
+      <property name="fixed-row-height">1</property>
+      <property name="font-face">Plain</property>
+      <property name="font-color">#R64G64B64</property>
+      <property name="chunk-border-style">solid</property>
+      <property name="bg-color">#R64G64B64</property>
+      <property name="text-alignment">Left</property>
+      <property name="chunk-border-color">#R00G00B00</property>
+      <property name="chunk-border" />
+      <property name="font-size">1</property>
+      <property name="font-name">Times New Roman</property>
+    </tier-format>
+    <tier-format tierref="TIE0">
+      <property name="row-height-calculation">Generous</property>
+      <property name="fixed-row-height">10</property>
+      <property name="font-face">Plain</property>
+      <property name="font-color">black</property>
+      <property name="chunk-border-style">solid</property>
+      <property name="bg-color">white</property>
+      <property name="text-alignment">Left</property>
+      <property name="chunk-border-color">#R00G00B00</property>
+      <property name="chunk-border" />
+      <property name="font-size">11</property>
+      <property name="font-name">Arial Unicode MS</property>
+    </tier-format>
+    <tier-format tierref="EMPTY-EDITOR">
+      <property name="row-height-calculation">Generous</property>
+      <property name="fixed-row-height">10</property>
+      <property name="font-face">Plain</property>
+      <property name="font-color">white</property>
+      <property name="chunk-border-style">solid</property>
+      <property name="bg-color">lightGray</property>
+      <property name="text-alignment">Left</property>
+      <property name="chunk-border-color">#R00G00B00</property>
+      <property name="chunk-border" />
+      <property name="font-size">2</property>
+      <property name="font-name">Times New Roman</property>
+    </tier-format>
+    <tier-format tierref="SUB-ROW-LABEL">
+      <property name="row-height-calculation">Generous</property>
+      <property name="fixed-row-height">10</property>
+      <property name="font-face">Plain</property>
+      <property name="font-color">black</property>
+      <property name="chunk-border-style">solid</property>
+      <property name="bg-color">white</property>
+      <property name="text-alignment">Right</property>
+      <property name="chunk-border-color">#R00G00B00</property>
+      <property name="chunk-border" />
+      <property name="font-size">8</property>
+      <property name="font-name">Times New Roman</property>
+    </tier-format>
+  </tierformat-table>
+</basic-transcription>
+
