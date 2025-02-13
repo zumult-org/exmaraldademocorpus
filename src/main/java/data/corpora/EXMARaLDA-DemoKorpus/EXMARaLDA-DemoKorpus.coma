@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="IDA6876531-A9D8-3C38-9BAA-BB30AFE13DB4" Name="EXMARaLDA-DemoKorpus" uniqueSpeakerDistinction="//speaker/abbreviation" xsi:noNamespaceSchemaLocation="http://www.exmaralda.org/xml/CoMaCorpus.xsd">
-  <DBNode />
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  Id="IDA6876531-A9D8-3C38-9BAA-BB30AFE13DB4" Name="EXMARaLDA-DemoKorpus"
+  uniqueSpeakerDistinction="//speaker/abbreviation"
+  xsi:noNamespaceSchemaLocation="http://www.exmaralda.org/xml/CoMaCorpus.xsd">
+  <DBNode/>
   <CorpusData>
     <!-- ******************************** -->
     <!-- ******************************** -->
@@ -11,17 +14,18 @@
         <Person>IDD343F401-AE6B-AD89-8E1F-732663CD180F</Person>
         <Person>ID7EC0DB17-D051-EA6C-978C-F5158F9B9655</Person>
         <Person>ID204CF668-935B-D9AD-AE5C-170DA03D8E5E</Person>
-        <Description />
+        <Description/>
       </Setting>
       <Description>
-        <Key Name="Background information">Politische Diskussionsrunde zum Thema „Hungern muss hier keiner – Ein Land redet sich arm“</Key>
+        <Key Name="Background information">Politische Diskussionsrunde zum Thema „Hungern muss hier
+          keiner – Ein Land redet sich arm“</Key>
         <Key Name="Communication type">television debate</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
         <Key Name="Source">Auszug aus der wöchentlichen Polit-Talkshow "Anne Will" auf ARD</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <!-- ////////////////// -->
       <Transcription Id="EXB_Anne_Will">
@@ -65,7 +69,7 @@
           <Key Name="segmented">true</Key>
         </Description>
       </Transcription>
-      
+
       <Recording Id="RID7D37BDAC-9DDB-B6CD-34D3-A50A67CBA980">
         <Name>AnneWill</Name>
         <RecordingDuration>360003</RecordingDuration>
@@ -81,7 +85,7 @@
           </Description>
           <NSLink>AnneWill/AnneWill_web.mp4</NSLink>
         </Media>
-        <Description />
+        <Description/>
       </Recording>
       <Location Type="Communication">
         <Period>
@@ -91,7 +95,7 @@
         </Period>
         <Country>Germany</Country>
         <City>Berlin</City>
-        <Description />
+        <Description/>
       </Location>
     </Communication>
     <!-- ******************************** -->
@@ -102,17 +106,18 @@
         <Person>ID86B2E7B5-41FA-B027-37C1-1FD84D1A75A2</Person>
         <Person>ID978CA883-97DC-5021-672F-DBF532495C93</Person>
         <Person>ID7E72EB8F-A9BB-EA48-FB05-F127D5ED9001</Person>
-        <Description />
+        <Description/>
       </Setting>
       <Description>
-        <Key Name="Background information">Victoria und David Beckham sind zu Gast bei Parkinson</Key>
+        <Key Name="Background information">Victoria und David Beckham sind zu Gast bei
+          Parkinson</Key>
         <Key Name="Communication type">television interview</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
         <Key Name="Source">Parkinson Talkshow auf BBC</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <City>London</City>
@@ -122,7 +127,7 @@
           <PeriodExact>false</PeriodExact>
           <PeriodDuration>0</PeriodDuration>
         </Period>
-        <Description />
+        <Description/>
       </Location>
       <!-- ////////////////// -->
       <Transcription Id="EXB_Beckhams">
@@ -142,7 +147,7 @@
         <Description>
           <Key Name="Recording ID">MID8FED5BE3-D35F-691E-37CC-F420DA31913D</Key>
         </Description>
-      </Transcription>      
+      </Transcription>
       <!-- ////////////////// -->
       <Transcription Id="EXS_Beckhams">
         <Name>Beckhams</Name>
@@ -166,7 +171,7 @@
           <Key Name="segmented">true</Key>
         </Description>
       </Transcription>
-      
+
       <Recording Id="RIDEB95C961-B6F6-D14D-4265-23D80BAE2228">
         <Name>Beckhams</Name>
         <RecordingDuration>265043</RecordingDuration>
@@ -182,7 +187,7 @@
           </Description>
           <NSLink>Beckhams/Beckhams_web.mp4</NSLink>
         </Media>
-        <Description />
+        <Description/>
       </Recording>
     </Communication>
     <!-- ******************************** -->
@@ -194,17 +199,18 @@
         <Person>IDC9129917-9D0A-5BEA-ED97-5E50AD64A38F</Person>
         <Person>IDC8FE7935-0C4F-FAFD-6E0A-1A05D0166222</Person>
         <Person>IDB73E66DA-968B-DF58-A601-4AF00EF4BC3E</Person>
-        <Description />
+        <Description/>
       </Setting>
       <Description>
-        <Key Name="Background information">TV-Duell zwischen der Sozialistin Royal und dem Konservativen Sarkozy vor den Präsidentschaftswahlen 2007</Key>
+        <Key Name="Background information">TV-Duell zwischen der Sozialistin Royal und dem
+          Konservativen Sarkozy vor den Präsidentschaftswahlen 2007</Key>
         <Key Name="Communication type">television debate</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
         <Key Name="Source">Französisches Fernsehen (versch. Kanäle)</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>fra</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <Period>
@@ -214,7 +220,7 @@
         </Period>
         <City>Paris</City>
         <Country>France</Country>
-        <Description />
+        <Description/>
       </Location>
       <!-- ////////////////// -->
       <Transcription Id="EXB_Royal">
@@ -236,7 +242,7 @@
           <Key Name="Recording ID">MID5501F873-8D95-3B4D-77F0-DAFFDA1CDE81</Key>
         </Description>
       </Transcription>
-      <!-- ////////////////// --> 
+      <!-- ////////////////// -->
       <Transcription Id="EXS_Royal">
         <Name>Royal</Name>
         <Filename>Royal_s.exs</Filename>
@@ -260,7 +266,7 @@
           <Key Name="segmented">true</Key>
         </Description>
       </Transcription>
-      
+
       <Recording Id="RID1DB60C4E-E4F3-3431-638D-CDE28E352D25">
         <Name>Royal</Name>
         <RecordingDuration>147123</RecordingDuration>
@@ -276,7 +282,7 @@
           </Description>
           <NSLink>Royal/Royal_web.mp4</NSLink>
         </Media>
-        <Description />
+        <Description/>
       </Recording>
     </Communication>
     <!-- ******************************** -->
@@ -286,16 +292,17 @@
       <Setting>
         <Person>IDAB833FE1-8CE4-FCF8-13B9-DF59B9C34D33</Person>
         <Person>ID4C02D839-56F5-A8E5-D1C3-E7809A5D5CB3</Person>
-        <Description />
+        <Description/>
       </Setting>
       <Description>
-        <Key Name="Background information">Interview mit Fußballspieler Christian Panucci über Telefonverbindung</Key>
+        <Key Name="Background information">Interview mit Fußballspieler Christian Panucci über
+          Telefonverbindung</Key>
         <Key Name="Communication type">telephone interview in television</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>ita</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <Period>
@@ -304,8 +311,8 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>Italy</Country>
-        <Description />
-      </Location>      
+        <Description/>
+      </Location>
       <!-- ////////////////// -->
       <Transcription Id="EXB_Gasperini">
         <Name>Gasperini</Name>
@@ -313,7 +320,7 @@
         <NSLink>Gasperini/Gasperini.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID03E10411-C607-EBBB-CE4A-ECEDE7FBF5EB</Key>          
+          <Key Name="Recording ID">MID03E10411-C607-EBBB-CE4A-ECEDE7FBF5EB</Key>
         </Description>
       </Transcription>
       <!-- ////////////////// -->
@@ -323,7 +330,7 @@
         <NSLink>Gasperini/Gasperini.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID03E10411-C607-EBBB-CE4A-ECEDE7FBF5EB</Key>          
+          <Key Name="Recording ID">MID03E10411-C607-EBBB-CE4A-ECEDE7FBF5EB</Key>
         </Description>
       </Transcription>
       <!-- ////////////////// -->
@@ -349,7 +356,7 @@
           <Key Name="segmented">true</Key>
         </Description>
       </Transcription>
-      
+
       <Recording Id="RID2A467D5D-20E6-38CA-E3AD-9C38D4897BB6">
         <Name>Gasperini</Name>
         <RecordingDuration>355523</RecordingDuration>
@@ -367,27 +374,27 @@
         </Media>
       </Recording>
     </Communication>
-    
-    
+
+
     <!-- ******************************** -->
     <!-- ******************************** -->
     <!-- ******************************** -->
-   
-    <Communication Id="C_Savater"
-      Name="Fernando Savater: Hermandad">
+
+    <Communication Id="C_Savater" Name="Fernando Savater: Hermandad">
       <Setting>
         <Person>IDFD681AF7-B313-99F7-6507-A24339E9D9FB</Person>
         <Person>ID26EB95F6-C949-874B-4F7B-E439795FD38C</Person>
-        <Description />
+        <Description/>
       </Setting>
       <Description>
-        <Key Name="Background information">Interview zum Roman „La Hermandad de la Buena Suerte“ (Die Bruderschaft des Glücks) von Fernando Savater</Key>
+        <Key Name="Background information">Interview zum Roman „La Hermandad de la Buena Suerte“
+          (Die Bruderschaft des Glücks) von Fernando Savater</Key>
         <Key Name="Communication type">telephone interview</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>spa</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <Period>
@@ -396,7 +403,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>Spain</Country>
-        <Description />
+        <Description/>
       </Location>
       <Transcription Id="EXB_Savater">
         <Name>Savater</Name>
@@ -404,7 +411,7 @@
         <NSLink>Savater/Savater.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">RID77A52F7B-83AA-A416-9E04-B300DFBD19AD</Key>                    
+          <Key Name="Recording ID">RID77A52F7B-83AA-A416-9E04-B300DFBD19AD</Key>
         </Description>
       </Transcription>
       <Transcription Id="Savater">
@@ -413,7 +420,7 @@
         <NSLink>Savater/Savater.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">RID77A52F7B-83AA-A416-9E04-B300DFBD19AD</Key>                    
+          <Key Name="Recording ID">RID77A52F7B-83AA-A416-9E04-B300DFBD19AD</Key>
         </Description>
       </Transcription>
       <Transcription Id="EXS_Savater">
@@ -441,7 +448,7 @@
         </Description>
         <Availability>
           <Available>false</Available>
-          <ObtainingInformation />
+          <ObtainingInformation/>
         </Availability>
       </Transcription>
       <Recording Id="RID77A52F7B-83AA-A416-9E04-B300DFBD19AD">
@@ -455,25 +462,26 @@
         </Media>
       </Recording>
     </Communication>
-    
+
     <!-- ******************************** -->
     <!-- ******************************** -->
     <!-- ******************************** -->
 
     <Communication Id="C_BatatasFritas" Name="Batatas Fritas">
       <Setting>
-        <Description />
+        <Description/>
         <Person>IDA829D815-46DA-564E-5495-5A46ECBFCC37</Person>
       </Setting>
       <Description>
-        <Key Name="Background information">Ricardo Araújo Pereira speaks of his dislike for flavored food. </Key>
+        <Key Name="Background information">Ricardo Araújo Pereira speaks of his dislike for flavored
+          food. </Key>
         <Key Name="Communication type">television sketch</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
         <Key Name="Source">sketch by Ricardo Araújo Pereira</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>por</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <Period>
@@ -483,7 +491,7 @@
         </Period>
         <City>Lisbon</City>
         <Country>Portugal</Country>
-        <Description />
+        <Description/>
       </Location>
       <Transcription Id="EXB_BatatasFritas">
         <Name>BatatasFritas</Name>
@@ -491,7 +499,7 @@
         <NSLink>BatatasFritas/BatatasFritas.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID2EC84370-71CF-29B3-0B90-2EFF7991DBA5</Key>                              
+          <Key Name="Recording ID">MID2EC84370-71CF-29B3-0B90-2EFF7991DBA5</Key>
         </Description>
       </Transcription>
       <Transcription Id="BatatasFritas">
@@ -500,7 +508,7 @@
         <NSLink>BatatasFritas/BatatasFritas.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID2EC84370-71CF-29B3-0B90-2EFF7991DBA5</Key>                              
+          <Key Name="Recording ID">MID2EC84370-71CF-29B3-0B90-2EFF7991DBA5</Key>
         </Description>
       </Transcription>
       <Transcription Id="EXS_BatatasFritas">
@@ -542,19 +550,19 @@
           </Description>
           <NSLink>BatatasFritas/BatatasFritas_web.mp4</NSLink>
         </Media>
-        <Description />
+        <Description/>
       </Recording>
     </Communication>
-    
+
     <!-- ******************************** -->
     <!-- ******************************** -->
-    <!-- ******************************** --> 
-    
-    
-    
+    <!-- ******************************** -->
+
+
+
     <Communication Id="C_NTVshniki" Name="NTVshniki">
       <Setting>
-        <Description />
+        <Description/>
         <Person>IDEA81F4BB-CE1C-8B19-ECE0-B2C874ED57DB</Person>
         <Person>IDE95555A4-4721-1788-498D-CA41F409E55D</Person>
         <Person>ID096EB725-D934-3CF5-996E-06012A797572</Person>
@@ -562,14 +570,17 @@
         <Person>ID4BC8898C-D414-338E-49C7-4BEAB4E6D880</Person>
       </Setting>
       <Description>
-        <Key Name="Background information">Eigentlich sollten die beiden Unternehmer über die Finanzkrise diskutieren - aber während der Sendung im russischen Fernsehen wurde der Milliardär Alexander Lebedew plötzlich handgreiflich und prügelte seinen Nachbarn vom Sitz.(www.Spiegel.de)</Key>
+        <Key Name="Background information">Eigentlich sollten die beiden Unternehmer über die
+          Finanzkrise diskutieren - aber während der Sendung im russischen Fernsehen wurde der
+          Milliardär Alexander Lebedew plötzlich handgreiflich und prügelte seinen Nachbarn vom
+          Sitz.(www.Spiegel.de)</Key>
         <Key Name="Communication type">Interview</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
         <Key Name="Source">Auszug aus dem Programm NTVshniki vom 16.09.2011</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>rus</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <City>Moscow</City>
@@ -579,7 +590,7 @@
           <PeriodExact>false</PeriodExact>
           <PeriodDuration>0</PeriodDuration>
         </Period>
-        <Description />
+        <Description/>
       </Location>
       <Transcription Id="EXB_NTVshniki">
         <Name>NTVshniki</Name>
@@ -587,7 +598,7 @@
         <NSLink>NTVshniki/NTVshniki.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID0F82B57D-831C-F438-B71E-00287E1FE25E</Key>                                        
+          <Key Name="Recording ID">MID0F82B57D-831C-F438-B71E-00287E1FE25E</Key>
         </Description>
       </Transcription>
       <Transcription Id="NTVshniki">
@@ -596,7 +607,7 @@
         <NSLink>NTVshniki/NTVshniki.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID0F82B57D-831C-F438-B71E-00287E1FE25E</Key>                                        
+          <Key Name="Recording ID">MID0F82B57D-831C-F438-B71E-00287E1FE25E</Key>
         </Description>
       </Transcription>
       <Transcription Id="EXS_NTVshniki">
@@ -639,31 +650,34 @@
         </Media>
       </Recording>
     </Communication>
-    
-    
-    
-    
+
+
+
+
     <!-- ******************************** -->
     <!-- ******************************** -->
-    <!-- ******************************** --> 
-    
-    
-    <Communication Id="C_RudioVoellerWutausbruch"
-      Name="Rudi Völler: Wutausbruch">
+    <!-- ******************************** -->
+
+
+    <Communication Id="C_RudioVoellerWutausbruch" Name="Rudi Völler: Wutausbruch">
       <Setting>
         <Person>IDF262DC9E-2227-CE09-F7EC-1FD417FF5B23</Person>
         <Person>ID7A53EAFD-8F23-75D9-2FF0-6BCAC44E6A5C</Person>
-        <Description />
+        <Description/>
       </Setting>
       <Description>
-        <Key Name="Background information" xml:lang="deu">Das Fußball-EM-Qualifikationsspiels gegen Island endete 0:0. Vor der Live-Schaltung nach Reykjavik haben die Moderatoren der Sportsendung, Gerhard Delling und Günter Netzer, die noch auf einem Monitor im Studio zu sehen sind, das Spiel bzw. die Leistung der deutschen Nationalmannschaft bewertet. </Key>
+        <Key Name="Background information" xml:lang="deu">Das Fußball-EM-Qualifikationsspiels gegen
+          Island endete 0:0. Vor der Live-Schaltung nach Reykjavik haben die Moderatoren der
+          Sportsendung, Gerhard Delling und Günter Netzer, die noch auf einem Monitor im Studio zu
+          sehen sind, das Spiel bzw. die Leistung der deutschen Nationalmannschaft bewertet. </Key>
         <Key Name="Communication type">television interview</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
-        <Key Name="Source">Sportschau (ARD); Aufgenommen und bereitgestellt von Dr. Wilfried Schütte (Institut für Deutsche Sprache, Mannheim).</Key>
+        <Key Name="Source">Sportschau (ARD); Aufgenommen und bereitgestellt von Dr. Wilfried Schütte
+          (Institut für Deutsche Sprache, Mannheim).</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <Period>
@@ -673,7 +687,7 @@
         </Period>
         <City>Reykjavik</City>
         <Country>Iceland</Country>
-        <Description />
+        <Description/>
       </Location>
       <Transcription Id="EXB_RudiVoellerWutausbruch">
         <Name>RudiVoellerWutausbruch</Name>
@@ -681,7 +695,7 @@
         <NSLink>RudiVoellerWutausbruch/RudiVoellerWutausbruch.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MIDAFECF98F-D7AA-B20A-C2C5-77E5E3477563</Key>                                                  
+          <Key Name="Recording ID">MIDAFECF98F-D7AA-B20A-C2C5-77E5E3477563</Key>
         </Description>
       </Transcription>
       <Transcription Id="RudiVoellerWutausbruch">
@@ -690,7 +704,7 @@
         <NSLink>RudiVoellerWutausbruch/RudiVoellerWutausbruch.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MIDAFECF98F-D7AA-B20A-C2C5-77E5E3477563</Key>                                                  
+          <Key Name="Recording ID">MIDAFECF98F-D7AA-B20A-C2C5-77E5E3477563</Key>
         </Description>
       </Transcription>
       <Transcription Id="EXS_RudiVoellerWutausbruch">
@@ -714,7 +728,9 @@
           <Key Name="Segmentation algorithm">HIAT</Key>
           <Key Name="Transcriber">Annette Schnieder</Key>
           <Key Name="Transcription convention">HIAT (simplified)</Key>
-          <Key Name="Transcription convention non-verbal">Mimik und Gestik der Sprecher werden nur ansatzweise angedeutet. Abkürzungen: LA= linker Arm, RA= rechter Arm, LH= linke Hand, RH= rechte Hand, KO= Kopf, OK= Oberkörper.</Key>
+          <Key Name="Transcription convention non-verbal">Mimik und Gestik der Sprecher werden nur
+            ansatzweise angedeutet. Abkürzungen: LA= linker Arm, RA= rechter Arm, LH= linke Hand,
+            RH= rechte Hand, KO= Kopf, OK= Oberkörper.</Key>
           <Key Name="Transcription date">2004-01</Key>
           <Key Name="Transcription name">Rudi Völler Wutausbruch</Key>
           <Key Name="Transcription status">fully transcribed</Key>
@@ -738,12 +754,12 @@
         </Media>
       </Recording>
     </Communication>
-    
+
     <!-- ******************************** -->
     <!-- ******************************** -->
-    <!-- ******************************** --> 
-    
-    
+    <!-- ******************************** -->
+
+
     <Communication Id="C_SzymonMajewski" Name="Szymon Majewski">
       <Setting>
         <Person>IDC7E004A9-B753-EBC4-7605-DEA3EF093D07</Person>
@@ -751,17 +767,18 @@
         <Person>ID6293106B-90E3-5507-1E91-93A1ACA6A290</Person>
         <Person>IDB184F268-9670-DB65-1C08-E1208579BB13</Person>
         <Person>IDD58406FA-44AC-9099-1067-B123FDCEFB2A</Person>
-        <Description />
+        <Description/>
       </Setting>
       <Description>
-        <Key Name="Background information">Four Polish actors from the TV programme "Usta usta" are guests in a TV talkshow</Key>
+        <Key Name="Background information">Four Polish actors from the TV programme "Usta usta" are
+          guests in a TV talkshow</Key>
         <Key Name="Communication type">television conversation</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
         <Key Name="Source">Polnische Fernsehsendung "Szymon Majewski Show"</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>pol</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <Period>
@@ -770,7 +787,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>Poland</Country>
-        <Description />
+        <Description/>
       </Location>
       <Transcription Id="EXB_SzymonMajewski">
         <Name>SzymonMajewski</Name>
@@ -778,7 +795,7 @@
         <NSLink>SzymonMajewski/SzymonMajewski.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID6C6BF9E0-1E24-E421-D97E-E252B03094FA</Key>                                                            
+          <Key Name="Recording ID">MID6C6BF9E0-1E24-E421-D97E-E252B03094FA</Key>
         </Description>
       </Transcription>
       <Transcription Id="SzymonMajewski">
@@ -787,7 +804,7 @@
         <NSLink>SzymonMajewski/SzymonMajewski.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID6C6BF9E0-1E24-E421-D97E-E252B03094FA</Key>                                                            
+          <Key Name="Recording ID">MID6C6BF9E0-1E24-E421-D97E-E252B03094FA</Key>
         </Description>
       </Transcription>
       <Transcription Id="EXS_SzymonMajewski">
@@ -831,26 +848,26 @@
         </Media>
       </Recording>
     </Communication>
-    
+
     <!-- ******************************** -->
     <!-- ******************************** -->
-    <!-- ******************************** --> 
-    
-    <Communication Id="C_PaulMcCartney"
-      Name="Paul McCartney: Interview">
+    <!-- ******************************** -->
+
+    <Communication Id="C_PaulMcCartney" Name="Paul McCartney: Interview">
       <Setting>
         <Person>ID7C708EE9-7E59-A5B6-5A00-669B47AD88D7</Person>
         <Person>ID0771831B-F094-CBC8-35B0-5D7FF8C619E8</Person>
-        <Description />
+        <Description/>
       </Setting>
       <Description>
-        <Key Name="Background information">Interview mit Paul McCartney auf einem US-amerikanischen Radiosender</Key>
+        <Key Name="Background information">Interview mit Paul McCartney auf einem US-amerikanischen
+          Radiosender</Key>
         <Key Name="Communication type">radio interview</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <Period>
@@ -859,7 +876,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>United States</Country>
-        <Description />
+        <Description/>
       </Location>
       <Transcription Id="EXB_PaulMcCartney">
         <Name>PaulMcCartney</Name>
@@ -867,7 +884,7 @@
         <NSLink>PaulMcCartney/PaulMcCartney.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID2AAF4191-B841-929F-C393-FB57480182DD</Key>                                                                      
+          <Key Name="Recording ID">MID2AAF4191-B841-929F-C393-FB57480182DD</Key>
         </Description>
       </Transcription>
       <Transcription Id="PaulMcCartney">
@@ -876,7 +893,7 @@
         <NSLink>PaulMcCartney/PaulMcCartney.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID2AAF4191-B841-929F-C393-FB57480182DD</Key>                                                                      
+          <Key Name="Recording ID">MID2AAF4191-B841-929F-C393-FB57480182DD</Key>
         </Description>
       </Transcription>
       <Transcription Id="EXS_PaulMcCartney">
@@ -915,15 +932,15 @@
         </Media>
       </Recording>
     </Communication>
-    
-    
+
+
     <!-- ******************************** -->
     <!-- ******************************** -->
-    <!-- ******************************** --> 
+    <!-- ******************************** -->
 
     <Communication Id="C_HartAberFair" Name="Hart aber fair">
       <Setting>
-        <Description />
+        <Description/>
         <Person>ID5CBE5C33-DA5E-2B33-C86C-1A4D2B31E32E</Person>
         <Person>IDE097E962-F0FB-62E0-990F-35571D507D54</Person>
         <Person>IDC9DE4FBA-6AE0-D5F8-54CC-B88FB21FBDE2</Person>
@@ -932,14 +949,16 @@
         <Person>ID25B795DF-0D10-4890-33F3-4C4AFA616D37</Person>
       </Setting>
       <Description>
-        <Key Name="Background information">Politische Diskussionsrunde zum Thema "Arm durch Arbeit"</Key>
+        <Key Name="Background information">Politische Diskussionsrunde zum Thema "Arm durch
+          Arbeit"</Key>
         <Key Name="Communication type">television debate</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
-        <Key Name="Source">Auszug aus der wöchentlich ausgestrahlten Polit-Talkshow "Hart aber fair" auf ARD DasErste</Key>
+        <Key Name="Source">Auszug aus der wöchentlich ausgestrahlten Polit-Talkshow "Hart aber fair"
+          auf ARD DasErste</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <Period>
@@ -948,7 +967,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Transcription Id="EXB_HartAberFair">
         <Name>HartAberFair</Name>
@@ -956,7 +975,7 @@
         <NSLink>HartAberFair/HartAberFair.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MIDFAB6B68E-E844-549B-428C-A7476915B691</Key>                                                                                
+          <Key Name="Recording ID">MIDFAB6B68E-E844-549B-428C-A7476915B691</Key>
         </Description>
       </Transcription>
       <Transcription Id="HartAberFair">
@@ -965,7 +984,7 @@
         <NSLink>HartAberFair/HartAberFair.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MIDFAB6B68E-E844-549B-428C-A7476915B691</Key>                                                                                
+          <Key Name="Recording ID">MIDFAB6B68E-E844-549B-428C-A7476915B691</Key>
         </Description>
       </Transcription>
       <Transcription Id="EXS_HartAberFair">
@@ -1003,28 +1022,32 @@
         </Media>
       </Recording>
     </Communication>
-    
+
     <!-- ******************************** -->
     <!-- ******************************** -->
-    <!-- ******************************** --> 
-    
-    <Communication Id="C_HubertFichteInterview"
-      Name="Hubert Fichte: Interview">
+    <!-- ******************************** -->
+
+    <Communication Id="C_HubertFichteInterview" Name="Hubert Fichte: Interview">
       <Setting>
         <Person>ID4FC564F0-0A59-3194-7937-DF7B00E0AA18</Person>
         <Person>ID65698F88-05EF-B186-90AC-C31516B80FC9</Person>
-        <Description />
+        <Description/>
       </Setting>
       <Description>
-        <Key Name="Background information">Ulli wurde zusammen mit anderen Personen im Umfeld von Wolli, einem "Hanseatischen Kaufmann" bzw. "Puff-Boss", von Fichte 1969 interviewt. </Key>
-        <Key Name="Comment">Das Gespräch wurde 1969 von Fichte auf Tonband aufgezeichnet und neben weiteren Interviews 1972 im Rowohlt-Verlag unter dem Titel "Interviews aus dem Palais d’Amour" veröffentlicht (erweiterte Neuausgabe 1978 im Fischer-Verlag unter dem Titel "Wolli Indienfahrer").</Key>
+        <Key Name="Background information">Ulli wurde zusammen mit anderen Personen im Umfeld von
+          Wolli, einem "Hanseatischen Kaufmann" bzw. "Puff-Boss", von Fichte 1969 interviewt. </Key>
+        <Key Name="Comment">Das Gespräch wurde 1969 von Fichte auf Tonband aufgezeichnet und neben
+          weiteren Interviews 1972 im Rowohlt-Verlag unter dem Titel "Interviews aus dem Palais
+          d’Amour" veröffentlicht (erweiterte Neuausgabe 1978 im Fischer-Verlag unter dem Titel
+          "Wolli Indienfahrer").</Key>
         <Key Name="Communication type">interview</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
-        <Key Name="Source">Hubert Fichte: St. Pauli Interviews. Oktober 2000 supposé (Hrsg. Nils Röller und Klaus Sander) erschienen.</Key>
+        <Key Name="Source">Hubert Fichte: St. Pauli Interviews. Oktober 2000 supposé (Hrsg. Nils
+          Röller und Klaus Sander) erschienen.</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <Street>Reeperbahn</Street>
@@ -1046,9 +1069,9 @@
         <NSLink>HubertFichteInterview/HubertFichteInterview.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID2A02DA0B-C5B9-D96F-16ED-5BDFB7C17044</Key>                                                                                          
+          <Key Name="Recording ID">MID2A02DA0B-C5B9-D96F-16ED-5BDFB7C17044</Key>
         </Description>
-        <Key Name="Transcriber" />
+        <Key Name="Transcriber"/>
       </Transcription>
       <Transcription Id="HubertFichteInterview">
         <Name>HubertFichteInterview</Name>
@@ -1056,9 +1079,9 @@
         <NSLink>HubertFichteInterview/HubertFichteInterview.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID2A02DA0B-C5B9-D96F-16ED-5BDFB7C17044</Key>                                                                                          
+          <Key Name="Recording ID">MID2A02DA0B-C5B9-D96F-16ED-5BDFB7C17044</Key>
         </Description>
-        <Key Name="Transcriber" />
+        <Key Name="Transcriber"/>
       </Transcription>
       <Transcription Id="EXS_HubertFichteInterview">
         <Name>HubertFichteInterview</Name>
@@ -1096,11 +1119,101 @@
         </Media>
       </Recording>
     </Communication>
-    
+
     <!-- ******************************** -->
     <!-- ******************************** -->
-    <!-- ******************************** --> 
-    
+    <!-- ******************************** -->
+
+    <Communication Id="C_SerifIssi"
+      Name="Serif Issi: Expertenauskunft">
+      <Setting>
+        <Description />
+        <Person>ID0DE8541B-40AA-7B81-6EF4-C5C41F364006</Person>
+        <Person>ID1EF8C226-FAC3-2A03-A750-2B19C864D01D</Person>
+      </Setting>
+      <Description>
+        <Key Name="Background information">Türkische Anruferin aus Deutschland ruft bei einer TV-Livesendung an, um sich von einem Experten über ihre zukünftige Rentensituation beraten zu lassen. Sie spricht sehr schnell und durcheinander, sodass der Experte große Mühe hat, sie zu verstehen und ihr entsprechend Auskunft zu geben.</Key>
+        <Key Name="Communication type">advice by phone in television</Key>
+        <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
+        <Key Name="Source">Programm "Danisma Saati" mit Serif Issi auf deutsch-türkischem Sender "Turkshow"</Key>
+      </Description>
+      <Language Type="Communication">
+        <LanguageCode>tur</LanguageCode>
+        <Description />
+      </Language>
+      <Location Type="Communication">
+        <Period>
+          <PeriodStart>2007-03-12T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <Country>Germany</Country>
+        <Description />
+      </Location>
+
+      <Transcription Id="EXB_SerifIssi">
+        <Name>SerifIssi</Name>
+        <Filename>SerifIssi.exb</Filename>
+        <NSLink>SerifIssi/SerifIssi.exb</NSLink>
+        <Description>
+          <Key Name="segmented">false</Key>          
+          <Key Name="Recording ID">MID3047CE08-2737-315F-F3F8-BC0A3D1963E5</Key>          
+        </Description>
+      </Transcription>
+
+      <Transcription Id="SerifIssi">
+        <Name>SerifIssi</Name>
+        <Filename>SerifIssi.xml</Filename>
+        <NSLink>SerifIssi/SerifIssi.xml</NSLink>
+        <Description>
+          <Key Name="segmented">false</Key>
+          <Key Name="Recording ID">MID3047CE08-2737-315F-F3F8-BC0A3D1963E5</Key>                    
+        </Description>
+      </Transcription>      
+
+      <Transcription Id="EXS_SerifIssi">
+        <Name>SerifIssi</Name>
+        <Filename>SerifIssi_s.exs</Filename>
+        <NSLink>SerifIssi/SerifIssi_s.exs</NSLink>
+        <Description>
+          <Key Name="# EXB-SOURCE">Expertenauskunft/Expertenauskunft.exb</Key>
+          <Key Name="# HIAT:ip">1068</Key>
+          <Key Name="# HIAT:non-pho">120</Key>
+          <Key Name="# HIAT:u">151</Key>
+          <Key Name="# HIAT:w">596</Key>
+          <Key Name="# e">309</Key>
+          <Key Name="# sc">144</Key>
+          <Key Name="Alignment status">fully aligned</Key>
+          <Key Name="Annotation type: akz">accentuation/stress</Key>
+          <Key Name="Annotation type: de">German translation</Key>
+          <Key Name="Annotation type: en">English translation</Key>
+          <Key Name="Annotation type: k">free comment</Key>
+          <Key Name="Segmentation algorithm">HIAT</Key>
+          <Key Name="Transcriber">Secil Yusun</Key>
+          <Key Name="Transcription convention">HIAT</Key>
+          <Key Name="Transcription date">2008-11</Key>
+          <Key Name="Transcription name">Serif Issi: Expertenauskunft</Key>
+          <Key Name="Transcription status">fully transcribed</Key>
+          <Key Name="segmented">true</Key>
+        </Description>
+      </Transcription>
+
+      <!-- ******************************** -->
+      <!-- ******************************** -->
+      <!-- ******************************** -->
+      
+
+      <Recording Id="RID24ADED32-B782-E9B8-E9EB-EAA8AAA44D7A">
+        <Name>Expertenauskunft</Name>
+        <RecordingDuration>210266</RecordingDuration>
+        <Media Id="MID3047CE08-2737-315F-F3F8-BC0A3D1963E5">
+          <Description>
+            <Key Name="Type">digital</Key>
+          </Description>
+          <NSLink>SerifIssi/SerifIssi.wav</NSLink>
+        </Media>
+      </Recording>
+    </Communication>
     
     <Speaker Id="IDC8FE7935-0C4F-FAFD-6E0A-1A05D0166222">
       <Sigle>AC</Sigle>
@@ -1109,7 +1222,7 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>fra</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -1119,7 +1232,7 @@
         </Period>
         <City>Chatres</City>
         <Country>France</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Country>France</Country>
@@ -1143,11 +1256,11 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Language Type="L2">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -1157,7 +1270,7 @@
         </Period>
         <City>Köln</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -1196,12 +1309,14 @@
         </Period>
         <Country>Germany</Country>
         <Description>
-          <Key Name="Name">Moderation und Leitung der politischen Talkshow "Anne Will" des NDR in der ARD</Key>
+          <Key Name="Name">Moderation und Leitung der politischen Talkshow "Anne Will" des NDR in
+            der ARD</Key>
         </Description>
       </Location>
       <Description>
         <Key Name="Function">subject</Key>
-        <Key Name="Family:Marital status">Liiert mit Kommunikationswissenschaftlerin Miriam Meckel</Key>
+        <Key Name="Family:Marital status">Liiert mit Kommunikationswissenschaftlerin Miriam
+          Meckel</Key>
         <Key Name="Family:Profession father">Architekt</Key>
         <Key Name="Family:Profession mother">Postangestellte</Key>
         <Key Name="Family:Siblings">1 Bruder</Key>
@@ -1216,7 +1331,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -1226,7 +1341,7 @@
         </Period>
         <City>London</City>
         <Country>England</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <City>Manchester</City>
@@ -1282,7 +1397,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -1292,7 +1407,7 @@
         </Period>
         <City>Bonn</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -1315,7 +1430,8 @@
         </Period>
         <Country>Germany</Country>
         <Description>
-          <Key Name="Name">Bundesvorsitzender des Ring Christlich Demokratischer Studenten (RCDS)</Key>
+          <Key Name="Name">Bundesvorsitzender des Ring Christlich Demokratischer Studenten
+            (RCDS)</Key>
         </Description>
       </Location>
       <Location Type="Occupation">
@@ -1349,7 +1465,8 @@
         <City>Berlin</City>
         <Country>Germany</Country>
         <Description>
-          <Key Name="Name">Mitglied des Bundesfachausschusses für Wirtschafts-, Haushalts- und Finanzpolitik der CDU Deutschlands</Key>
+          <Key Name="Name">Mitglied des Bundesfachausschusses für Wirtschafts-, Haushalts- und
+            Finanzpolitik der CDU Deutschlands</Key>
         </Description>
       </Location>
       <Description>
@@ -1368,7 +1485,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -1378,7 +1495,7 @@
         </Period>
         <City>Bad Honnef</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -1444,7 +1561,8 @@
         </Period>
         <Country>Germany</Country>
         <Description>
-          <Key Name="Name">Vorsitzender der FDP-Bundestagsfraktion und Oppositionsführer im Deutschen Bundestag</Key>
+          <Key Name="Name">Vorsitzender der FDP-Bundestagsfraktion und Oppositionsführer im
+            Deutschen Bundestag</Key>
         </Description>
       </Location>
       <Location Type="Occupation">
@@ -1455,7 +1573,8 @@
         </Period>
         <Country>Germany</Country>
         <Description>
-          <Key Name="Comment">Zudem war er seither bis Mai 2011 Stellvertreter der Bundeskanzlerin (Vizekanzler)</Key>
+          <Key Name="Comment">Zudem war er seither bis Mai 2011 Stellvertreter der Bundeskanzlerin
+            (Vizekanzler)</Key>
           <Key Name="Name">Bundesminister des Auswärtigen im Kabinett Merkel II</Key>
         </Description>
       </Location>
@@ -1476,7 +1595,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -1486,7 +1605,7 @@
         </Period>
         <City>Oberndorf am Neckar</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <City>München</City>
@@ -1556,7 +1675,8 @@
         </Period>
         <Country>Germany</Country>
         <Description>
-          <Key Name="Name">Als Regierungsrat Leiter des Ministerbüros des Arbeits- und Sozialministers des Landes Baden-Württemberg</Key>
+          <Key Name="Name">Als Regierungsrat Leiter des Ministerbüros des Arbeits- und
+            Sozialministers des Landes Baden-Württemberg</Key>
         </Description>
       </Location>
       <Location Type="Occupation">
@@ -1579,13 +1699,14 @@
         </Period>
         <City>Gleisweiler</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Description>
         <Key Name="Function">subject</Key>
         <Key Name="Family:Children">3</Key>
         <Key Name="Family:Marital status">Verheiratet</Key>
-        <Key Name="Family:Profession father">Oberregierungsrat, Leiter des Katasteramts in Rottweil</Key>
+        <Key Name="Family:Profession father">Oberregierungsrat, Leiter des Katasteramts in
+          Rottweil</Key>
         <Key Name="Family:Siblings">4</Key>
         <Key Name="Name">Heiner Geißler</Key>
         <Key Name="Role">Guest</Key>
@@ -1598,7 +1719,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>fra</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -1608,7 +1729,7 @@
         </Period>
         <City>Paris</City>
         <Country>France</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <City>Paris</City>
@@ -1626,7 +1747,8 @@
         </Period>
         <Country>France</Country>
         <Description>
-          <Key Name="Name">Abgeordneter im Regionalrat der Île-de-France, zugleich Vizepräsident des Generalrats von Hauts-de-Seine</Key>
+          <Key Name="Name">Abgeordneter im Regionalrat der Île-de-France, zugleich Vizepräsident des
+            Generalrats von Hauts-de-Seine</Key>
         </Description>
       </Location>
       <Location Type="Occupation">
@@ -1746,7 +1868,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -1756,7 +1878,7 @@
         </Period>
         <City>Cudworth</City>
         <Country>England</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Country>England</Country>
@@ -1807,7 +1929,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>fra</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -1817,7 +1939,7 @@
         </Period>
         <City>Reims</City>
         <Country>France</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <City>Paris</City>
@@ -1871,7 +1993,7 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>fra</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -1977,7 +2099,8 @@
           <PeriodDuration>94608000000</PeriodDuration>
         </Period>
         <Description>
-          <Key Name="Name">Delegierte Ministerin für Schulunterricht im von Claude Allègre geführten Bildungsministerium unter der Regierung von Lionel Jospin</Key>
+          <Key Name="Name">Delegierte Ministerin für Schulunterricht im von Claude Allègre geführten
+            Bildungsministerium unter der Regierung von Lionel Jospin</Key>
         </Description>
       </Location>
       <Location Type="Occupation">
@@ -1987,7 +2110,8 @@
           <PeriodDuration>31536000000</PeriodDuration>
         </Period>
         <Description>
-          <Key Name="Name">Delegierte Ministerin für Familie und Kindheit im von Martine Aubry geführten „Ministerium für Arbeit und Solidarität“ der Regierung von Lionel Jospin</Key>
+          <Key Name="Name">Delegierte Ministerin für Familie und Kindheit im von Martine Aubry
+            geführten „Ministerium für Arbeit und Solidarität“ der Regierung von Lionel Jospin</Key>
         </Description>
       </Location>
       <Location Type="Occupation">
@@ -1997,7 +2121,9 @@
           <PeriodDuration>31536000000</PeriodDuration>
         </Period>
         <Description>
-          <Key Name="Name">Delegierte Ministerin für Familie, Kindheit und Personen mit Behinderungen im von Élisabeth Guigou geführten „Ministerium für Arbeit und Solidarität“ der Regierung von Lionel Jospin</Key>
+          <Key Name="Name">Delegierte Ministerin für Familie, Kindheit und Personen mit
+            Behinderungen im von Élisabeth Guigou geführten „Ministerium für Arbeit und Solidarität“
+            der Regierung von Lionel Jospin</Key>
         </Description>
       </Location>
       <Description>
@@ -2017,7 +2143,7 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -2027,7 +2153,7 @@
         </Period>
         <City>Hertfordshire</City>
         <Country>England</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Period>
@@ -2067,11 +2193,11 @@
         <Key Name="Role">Guest</Key>
       </Description>
     </Speaker>
-    
+
     <!-- **************************************** -->
     <!-- ******* GASPERINI              ********* -->
     <!-- **************************************** -->
-    
+
     <Speaker Id="IDAB833FE1-8CE4-FCF8-13B9-DF59B9C34D33">
       <Sigle>C</Sigle>
       <Pseudo>C</Pseudo>
@@ -2079,7 +2205,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>ita</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -2089,7 +2215,7 @@
         </Period>
         <City>Rom</City>
         <Country>Italy</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Country>Italy</Country>
@@ -2110,7 +2236,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>ita</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -2120,7 +2246,7 @@
         </Period>
         <City>Savona</City>
         <Country>Italy</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <City>London (Fulham)</City>
@@ -2226,11 +2352,11 @@
         <Key Name="Name">Christian Panucci</Key>
       </Description>
     </Speaker>
-    
+
     <!-- **************************************** -->
     <!-- ******* SAVATER                ********* -->
     <!-- **************************************** -->
-    
+
     <Speaker Id="IDFD681AF7-B313-99F7-6507-A24339E9D9FB">
       <Sigle>LR</Sigle>
       <Pseudo>LR</Pseudo>
@@ -2238,7 +2364,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>spa</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -2266,7 +2392,7 @@
         <Key Name="Name">Juán Ramón Lucas</Key>
       </Description>
     </Speaker>
-    
+
     <Speaker Id="ID26EB95F6-C949-874B-4F7B-E439795FD38C">
       <Sigle>FS</Sigle>
       <Pseudo>FS</Pseudo>
@@ -2274,7 +2400,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>spa</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -2284,7 +2410,7 @@
         </Period>
         <City>San Sebastián</City>
         <Country>Spain</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <City>Madrid</City>
@@ -2298,7 +2424,8 @@
         <City>Madrid</City>
         <Country>Spain</Country>
         <Description>
-          <Key Name="Name">Wissenschaftlicher Mitarbeiter an der Fakultät für Politikwissenschaft und an der Fakultät für Philosophie der Autonomen Universität Madrid</Key>
+          <Key Name="Name">Wissenschaftlicher Mitarbeiter an der Fakultät für Politikwissenschaft
+            und an der Fakultät für Philosophie der Autonomen Universität Madrid</Key>
         </Description>
       </Location>
       <Location Type="Occupation">
@@ -2328,7 +2455,10 @@
       <Location Type="Occupation">
         <Country>Spain</Country>
         <Description>
-          <Key Name="Comment">Schreibt für die Tageszeitung El País und leitet gemeinsam mit Javier Pradera die Zeitschrift Claves para la Razón Práctica; er veröffentlichte mehr als dreißig eigene Bücher, unter anderem über Nietzsche, den Anarchismus, die Malerei und die Kindheit</Key>
+          <Key Name="Comment">Schreibt für die Tageszeitung El País und leitet gemeinsam mit Javier
+            Pradera die Zeitschrift Claves para la Razón Práctica; er veröffentlichte mehr als
+            dreißig eigene Bücher, unter anderem über Nietzsche, den Anarchismus, die Malerei und
+            die Kindheit</Key>
           <Key Name="Name">Schriftsteller; Philosoph</Key>
         </Description>
       </Location>
@@ -2347,12 +2477,12 @@
         <Key Name="Name">Fernando Savater</Key>
       </Description>
     </Speaker>
-    
+
     <!-- **************************************** -->
     <!-- ******* BATATAS FRITAS         ********* -->
     <!-- **************************************** -->
-    
-    
+
+
     <Speaker Id="IDA829D815-46DA-564E-5495-5A46ECBFCC37">
       <Sigle>RAP</Sigle>
       <Pseudo>RAP</Pseudo>
@@ -2360,7 +2490,7 @@
       <Sex>male</Sex>
       <Language>
         <LanguageCode>por</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -2370,7 +2500,7 @@
         </Period>
         <City>Lisbon</City>
         <Country>Portugal</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Description>
@@ -2382,11 +2512,11 @@
         <Key Name="Name">Ricardo Araújo Pererira</Key>
       </Description>
     </Speaker>
-    
+
     <!-- **************************************** -->
     <!-- ******* NTV SHNIKI             ********* -->
     <!-- **************************************** -->
-    
+
     <Speaker Id="IDEA81F4BB-CE1C-8B19-ECE0-B2C874ED57DB">
       <Sigle>SL</Sigle>
       <Pseudo>SL</Pseudo>
@@ -2394,16 +2524,16 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>rus</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Language Type="L2">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <City>Moskau</City>
         <Country>Russia</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -2463,7 +2593,7 @@
         <Key Name="Name">Sergey Lisovskij</Key>
       </Description>
     </Speaker>
-    
+
     <Speaker Id="IDE95555A4-4721-1788-498D-CA41F409E55D">
       <Sigle>KG</Sigle>
       <Pseudo>KG</Pseudo>
@@ -2471,15 +2601,15 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>rus</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Language Type="L2">
         <LanguageCode>ita</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Language Type="L2">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <City>Rastov-Na-Donu</City>
@@ -2489,7 +2619,7 @@
           <PeriodExact>true</PeriodExact>
           <PeriodDuration>0</PeriodDuration>
         </Period>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -2535,7 +2665,7 @@
         <Key Name="Name">Katerina Gordeeva</Key>
       </Description>
     </Speaker>
-    
+
     <Speaker Id="ID096EB725-D934-3CF5-996E-06012A797572">
       <Sigle>SP</Sigle>
       <Pseudo>SP</Pseudo>
@@ -2543,11 +2673,11 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>rus</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Language Type="L2">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -2557,7 +2687,7 @@
         </Period>
         <City>St. Petersburg</City>
         <Country>Russia</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -2616,7 +2746,7 @@
         <Key Name="Name">Sergey Polonskij</Key>
       </Description>
     </Speaker>
-    
+
     <Speaker Id="IDF532EC96-6C97-2C27-AB4C-CCD6CE765967">
       <Sigle>AK</Sigle>
       <Pseudo>AK</Pseudo>
@@ -2624,11 +2754,11 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>rus</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Language Type="L2">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -2638,7 +2768,7 @@
         </Period>
         <City>Podolsk</City>
         <Country>Russia</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -2675,7 +2805,8 @@
         <City>Moskau</City>
         <Country>Russland</Country>
         <Description>
-          <Key Name="Name">Pressesprecher von Mixail Prochopov (Präsidentschaftskandidatur 2012)</Key>
+          <Key Name="Name">Pressesprecher von Mixail Prochopov (Präsidentschaftskandidatur
+            2012)</Key>
         </Description>
       </Location>
       <Description>
@@ -2683,7 +2814,7 @@
         <Key Name="Name">Anton Krasovskij</Key>
       </Description>
     </Speaker>
-    
+
     <Speaker Id="ID4BC8898C-D414-338E-49C7-4BEAB4E6D880">
       <Sigle>AL</Sigle>
       <Pseudo>AL</Pseudo>
@@ -2691,24 +2822,24 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>rus</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Language Type="L2">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Language Type="L2">
         <LanguageCode>spa</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location>
-        <Description />
+        <Description/>
       </Location>
       <Location>
-        <Description />
+        <Description/>
       </Location>
       <Location>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Birth">
         <Period>
@@ -2717,7 +2848,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>Russia</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -2823,7 +2954,7 @@
         <Key Name="Name">Alexander Lebedev</Key>
       </Description>
     </Speaker>
-    
+
     <!-- **************************************** -->
     <!-- ******* RUDI VOELLER           ********* -->
     <!-- **************************************** -->
@@ -2836,7 +2967,9 @@
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
         <Description>
-          <Key Name="Variety">Deutliche bayrische Aussprache (sehr scharf gesprochenes s, rollendes r, o statt a, usw.), teilweise Dialekt (z. B. "ich war gestanden", "Da müssen ma Tore schießen ...", "Ja ich bin nit, du ich bin ja nit beleidigt, Rudi ...").</Key>
+          <Key Name="Variety">Deutliche bayrische Aussprache (sehr scharf gesprochenes s, rollendes
+            r, o statt a, usw.), teilweise Dialekt (z. B. "ich war gestanden", "Da müssen ma Tore
+            schießen ...", "Ja ich bin nit, du ich bin ja nit beleidigt, Rudi ...").</Key>
         </Description>
       </Language>
       <Location Type="Birth">
@@ -2847,7 +2980,7 @@
         </Period>
         <City>Nürnberg</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -2901,7 +3034,7 @@
         </Period>
         <City>München</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Description>
         <Key Name="Function">subject</Key>
@@ -2912,7 +3045,7 @@
         <Key Name="Name">Waldemar Hartmann</Key>
       </Description>
     </Speaker>
-    
+
     <Speaker Id="ID7A53EAFD-8F23-75D9-2FF0-6BCAC44E6A5C">
       <Sigle>RV</Sigle>
       <Pseudo>RV</Pseudo>
@@ -2921,7 +3054,8 @@
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
         <Description>
-          <Key Name="Variety">Leichte hessische Aussprache (insbesondere hörbar bei den s-, ch- und sch-Lauten). Bsp.: "Die sisch wirklisch" statt "Die sich wirklich".</Key>
+          <Key Name="Variety">Leichte hessische Aussprache (insbesondere hörbar bei den s-, ch- und
+            sch-Lauten). Bsp.: "Die sisch wirklisch" statt "Die sich wirklich".</Key>
         </Description>
       </Language>
       <Location Type="Birth">
@@ -2932,7 +3066,7 @@
         </Period>
         <City>Hanau</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Description>
@@ -3047,19 +3181,20 @@
         <Key Name="Function">subject</Key>
         <Key Name="Family:Children">3 Söhne, 2 Töchter</Key>
         <Key Name="Family:Marital status">Seit 1995 in zweiter Ehe mit einer Italienerin</Key>
-        <Key Name="Family:Profession father">Gelernter Dreher, Lagermeister, Jugendbetreuer beim TSV Hanau 1860 (Fußballverein).</Key>
+        <Key Name="Family:Profession father">Gelernter Dreher, Lagermeister, Jugendbetreuer beim TSV
+          Hanau 1860 (Fußballverein).</Key>
         <Key Name="Family:Profession mother">Näherin und Putzfrau</Key>
         <Key Name="Family:Siblings">3 Brüder</Key>
         <Key Name="Role">Gast bei Waldemar Hartmann (WH) im ARD-Studio nach 0:0 gegen Island.</Key>
         <Key Name="Name">Rudolf Völler</Key>
       </Description>
     </Speaker>
-    
+
     <!-- **************************************** -->
     <!-- ******* SZYMON MAJEWSKI        ********* -->
     <!-- **************************************** -->
-    
-    
+
+
     <Speaker Id="IDC7E004A9-B753-EBC4-7605-DEA3EF093D07">
       <Sigle>SzyM</Sigle>
       <Pseudo>SzyM</Pseudo>
@@ -3067,7 +3202,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>pol</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -3077,7 +3212,7 @@
         </Period>
         <City>Warschau</City>
         <Country>Poland</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Country>Polen</Country>
@@ -3093,7 +3228,7 @@
         <Key Name="Name">Szymon Majewski</Key>
       </Description>
     </Speaker>
-    
+
     <Speaker Id="IDA21971DF-9021-3D75-1B60-A988BF7B4C86">
       <Sigle>WojM</Sigle>
       <Pseudo>WojM</Pseudo>
@@ -3101,7 +3236,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>pol</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -3111,7 +3246,7 @@
         </Period>
         <Country>Poland</Country>
         <City>Dusznikach</City>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Country>Polen</Country>
@@ -3135,7 +3270,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>pol</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -3145,7 +3280,7 @@
         </Period>
         <City>Wronkach</City>
         <Country>Poland</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Country>Polen</Country>
@@ -3161,7 +3296,7 @@
         <Key Name="Name">Pawel Wilczak</Key>
       </Description>
     </Speaker>
-    
+
     <Speaker Id="IDB184F268-9670-DB65-1C08-E1208579BB13">
       <Sigle>MagR</Sigle>
       <Pseudo>MagR</Pseudo>
@@ -3169,7 +3304,7 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>pol</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -3179,7 +3314,7 @@
         </Period>
         <City>Nowa Sól</City>
         <Country>Poland</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Country>Polen</Country>
@@ -3195,7 +3330,7 @@
         <Key Name="Name">Magdalena Różczka</Key>
       </Description>
     </Speaker>
-    
+
     <Speaker Id="IDD58406FA-44AC-9099-1067-B123FDCEFB2A">
       <Sigle>SonB</Sigle>
       <Pseudo>SonB</Pseudo>
@@ -3203,7 +3338,7 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>pol</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -3213,7 +3348,7 @@
         </Period>
         <City>Cieszynie</City>
         <Country>Poland</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Country>Polen</Country>
@@ -3229,7 +3364,7 @@
         <Key Name="Name">Sonia Bohosiewicz</Key>
       </Description>
     </Speaker>
-    
+
     <!-- **************************************** -->
     <!-- ******* PAUL MCCARTNEY         ********* -->
     <!-- **************************************** -->
@@ -3241,7 +3376,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -3251,7 +3386,7 @@
         </Period>
         <City>Liverpool</City>
         <Country>England</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <City>Liverpool</City>
@@ -3280,7 +3415,7 @@
         <Key Name="Name">Paul McCartney</Key>
       </Description>
     </Speaker>
-    
+
     <Speaker Id="ID0771831B-F094-CBC8-35B0-5D7FF8C619E8">
       <Sigle>INT</Sigle>
       <Pseudo>INT</Pseudo>
@@ -3288,7 +3423,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -3297,7 +3432,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>United States</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Description>
@@ -3312,12 +3447,12 @@
         <Key Name="Name">Andrew Johnson</Key>
       </Description>
     </Speaker>
-    
+
     <!-- **************************************** -->
     <!-- ******* HART ABER FAIR         ********* -->
     <!-- **************************************** -->
-    
-    
+
+
     <Speaker Id="ID5CBE5C33-DA5E-2B33-C86C-1A4D2B31E32E">
       <Sigle>RP</Sigle>
       <Pseudo>RP</Pseudo>
@@ -3325,7 +3460,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -3335,7 +3470,7 @@
         </Period>
         <City>Weeze</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -3408,7 +3543,8 @@
         </Period>
         <Country>Germany</Country>
         <Description>
-          <Key Name="Name">Stellvertretender Vorsitzender der CDU/CSU-Bundestagsfraktion für die Bereiche Wirtschaft und Arbeit sowie Mittelstand</Key>
+          <Key Name="Name">Stellvertretender Vorsitzender der CDU/CSU-Bundestagsfraktion für die
+            Bereiche Wirtschaft und Arbeit sowie Mittelstand</Key>
         </Description>
       </Location>
       <Location Type="Occupation">
@@ -3426,7 +3562,8 @@
         </Period>
         <Country>Germany</Country>
         <Description>
-          <Key Name="Name">Chef des Bundeskanzleramts, Bundesminister für besondere Aufgaben im Kabinett Merkel II</Key>
+          <Key Name="Name">Chef des Bundeskanzleramts, Bundesminister für besondere Aufgaben im
+            Kabinett Merkel II</Key>
         </Description>
       </Location>
       <Description>
@@ -3438,7 +3575,7 @@
         <Key Name="Name">Ronald Pofalla</Key>
       </Description>
     </Speaker>
-    
+
     <Speaker Id="IDE097E962-F0FB-62E0-990F-35571D507D54">
       <Sigle>FB</Sigle>
       <Pseudo>FB</Pseudo>
@@ -3446,7 +3583,7 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -3455,7 +3592,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Description>
@@ -3470,7 +3607,7 @@
         <Key Name="Name">Sonja Barthel</Key>
       </Description>
     </Speaker>
-    
+
     <Speaker Id="IDC9DE4FBA-6AE0-D5F8-54CC-B88FB21FBDE2">
       <Sigle>FP</Sigle>
       <Pseudo>FP</Pseudo>
@@ -3478,7 +3615,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -3488,7 +3625,7 @@
         </Period>
         <City>Remscheid</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -3538,7 +3675,7 @@
         <Key Name="Name">Frank Plasberg</Key>
       </Description>
     </Speaker>
-    
+
     <Speaker Id="IDCDAEA80D-2FD0-6E89-928C-E22E497C2CB6">
       <Sigle>FK</Sigle>
       <Pseudo>FK</Pseudo>
@@ -3546,7 +3683,7 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -3555,7 +3692,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Description>
@@ -3571,7 +3708,7 @@
         <Key Name="Name">Constanze Kastenhuber</Key>
       </Description>
     </Speaker>
-    
+
     <Speaker Id="ID608F0AC0-9444-73FC-11E4-C8E13D6ADE9F">
       <Sigle>EK</Sigle>
       <Pseudo>EK</Pseudo>
@@ -3579,7 +3716,7 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -3588,7 +3725,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Description>
@@ -3603,7 +3740,7 @@
         <Key Name="Name">Ursula Engelen-Käfer</Key>
       </Description>
     </Speaker>
-    
+
     <Speaker Id="ID25B795DF-0D10-4890-33F3-4C4AFA616D37">
       <Sigle>HB</Sigle>
       <Pseudo>HB</Pseudo>
@@ -3611,7 +3748,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -3621,7 +3758,7 @@
         </Period>
         <City>Lahnstein</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Country>Germany</Country>
@@ -3667,328 +3804,326 @@
         <Key Name="Name">Daniel Bahr</Key>
       </Description>
     </Speaker>
-    
-    
-    
-    
+
     <!-- **************************************** -->
     <!-- ******* HUBERT FICHTE          ********* -->
     <!-- **************************************** -->
-    
 
-    
-    
-      <Speaker Id="ID4FC564F0-0A59-3194-7937-DF7B00E0AA18">
-         <Sigle>Fichte</Sigle>
-         <Pseudo>Fichte</Pseudo>
-         <KnownHuman>true</KnownHuman>
-         <Sex>male</Sex>
-         <Language Type="L1">
-            <LanguageCode>deu</LanguageCode>
-            <Description />
-         </Language>
-         <Language Type="L2">
-            <LanguageCode>fra</LanguageCode>
-            <Description />
-         </Language>
-         <Location Type="Birth">
-            <Period>
-               <PeriodStart>1935-03-21T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>0</PeriodDuration>
-            </Period>
-            <City>Perleberg</City>
-            <Country>Germany</Country>
-            <Description>
-               <Key Name="Region">Brandenburg</Key>
-            </Description>
-         </Location>
-         <Location Type="Education">
-            <Description>
-               <Key Name="Comment">Bricht 1950 das Gymnasium in der 10. Klasse ab.</Key>
-               <Key Name="Name">Gymnasium</Key>
-            </Description>
-         </Location>
-         <Location Type="Education">
-            <Description>
-               <Key Name="Comment">Fällt 1951 durch die staatliche Schauspielprüfung</Key>
-               <Key Name="Name">Staatliche Schauspielschule</Key>
-            </Description>
-         </Location>
-         <Location Type="Education">
-            <Period>
-               <PeriodStart>1952-07-10T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>5270400000</PeriodDuration>
-            </Period>
-            <City>Tours</City>
-            <Country>France</Country>
-            <Description>
-               <Key Name="Name">Reisestipendium (Französisch an der Universität)</Key>
-            </Description>
-         </Location>
-         <Location Type="Education">
-            <Period>
-               <PeriodStart>1955-05-02T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>63072000000</PeriodDuration>
-            </Period>
-            <City>Süderholm bei Heide</City>
-            <Country>Germany</Country>
-            <Description>
-               <Key Name="Name">Vocational training: Landwirtschaftslehre</Key>
-               <Key Name="Region">Holstein</Key>
-            </Description>
-         </Location>
-         <Location Type="Evacuation">
-            <Period>
-               <PeriodStart>1943-08-04T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>0</PeriodDuration>
-            </Period>
-            <City>Liegnitz</City>
-            <Country>Germany</Country>
-            <Description>
-               <Key Name="Region">Schlesien</Key>
-            </Description>
-         </Location>
-         <Location Type="Occupation">
-            <Description>
-               <Key Name="Name">Schriftsteller</Key>
-            </Description>
-         </Location>
-         <Location Type="Occupation">
-            <Period>
-               <PeriodStart>1945-08-13T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>189216000000</PeriodDuration>
-            </Period>
-            <Description>
-               <Key Name="Name">Schauspieler (als Kind)</Key>
-            </Description>
-         </Location>
-         <Location Type="Occupation">
-            <Period>
-               <PeriodStart>1954-06-05T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>0</PeriodDuration>
-            </Period>
-            <City>Paris</City>
-            <Country>France</Country>
-            <Description>
-               <Key Name="Name">Lagerleiter im Auffanglager für Obdachlosen (La Pomponnette)</Key>
-            </Description>
-         </Location>
-         <Location Type="Occupation">
-            <Period>
-               <PeriodStart>1957-11-21T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>0</PeriodDuration>
-            </Period>
-            <City>Järna</City>
-            <Country>Sweden</Country>
-            <Description>
-               <Key Name="Comment">Anthroposofischer Bauernhof - Erziehung, Ausbildung schwererziehbarer Kinder</Key>
-            </Description>
-         </Location>
-         <Location Type="Occupation">
-            <Period>
-               <PeriodStart>1953-02-02T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>0</PeriodDuration>
-            </Period>
-            <Country>France</Country>
-            <Description>
-               <Key Name="Name">Schafshirte</Key>
-            </Description>
-         </Location>
-         <Location Type="Occupation">
-            <Period>
-               <PeriodStart>1957-05-12T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>63072000000</PeriodDuration>
-            </Period>
-            <City>Langenhagen bei Hannover</City>
-            <Country>Germany</Country>
-            <Description>
-               <Key Name="Name">Landwirt bei einem Gestüt</Key>
-            </Description>
-         </Location>
-         <Location Type="Residence">
-            <Period>
-               <PeriodStart>1935-04-15T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>0</PeriodDuration>
-            </Period>
-            <City>Hamburg</City>
-            <Country>Germany</Country>
-            <Description>
-               <Key Name="Comment">Elternhaus der Mutter</Key>
-               <Key Name="Region">Lokstedt</Key>
-            </Description>
-         </Location>
-         <Location Type="Residence">
-            <Period>
-               <PeriodStart>1945-05-15T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>0</PeriodDuration>
-            </Period>
-            <City>Hamburg</City>
-            <Country>Germany</Country>
-            <Description>
-               <Key Name="Region">Lokstedt</Key>
-            </Description>
-         </Location>
-         <Location Type="Residence">
-            <Period>
-               <PeriodStart>1943-07-04T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>0</PeriodDuration>
-            </Period>
-            <City>Hamburg</City>
-            <Country>Germany</Country>
-            <Description>
-               <Key Name="Region">Lokstedt</Key>
-            </Description>
-         </Location>
-         <Location Type="Residence">
-            <Period>
-               <PeriodStart>1942-06-04T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>34128000000</PeriodDuration>
-            </Period>
-            <City>Schrobenhausen</City>
-            <Country>Germany</Country>
-            <Description>
-               <Key Name="Comment">Waisenhaus</Key>
-               <Key Name="Region">Oberbayern</Key>
-            </Description>
-         </Location>
-         <Location Type="Residence">
-            <Period>
-               <PeriodStart>1953-11-06T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>0</PeriodDuration>
-            </Period>
-            <City>Hamburg</City>
-            <Country>Germany</Country>
-            <Description>
-               <Key Name="Region">Lokstedt</Key>
-            </Description>
-         </Location>
-         <Location Type="Residence">
-            <Period>
-               <PeriodStart>1954-11-12T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>0</PeriodDuration>
-            </Period>
-            <City>Hamburg</City>
-            <Country>Germany</Country>
-            <Description />
-         </Location>
-         <Location Type="Residence">
-            <Period>
-               <PeriodStart>1961-09-19T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>0</PeriodDuration>
-            </Period>
-            <Country>Germany</Country>
-            <Description />
-         </Location>
-         <Location Type="Residence">
-            <Period>
-               <PeriodStart>1962-03-03T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>0</PeriodDuration>
-            </Period>
-            <City>Hamburg</City>
-            <Country>Germany</Country>
-            <Description />
-         </Location>
-         <Location Type="Residence">
-            <Period>
-               <PeriodStart>1952-10-15T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>0</PeriodDuration>
-            </Period>
-            <City>Hamburg</City>
-            <Description>
-               <Key Name="Region">Lokstedt</Key>
-            </Description>
-         </Location>
-         <Location Type="Stay">
-            <Period>
-               <PeriodStart>1954-01-07T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>0</PeriodDuration>
-            </Period>
-            <City>Paris</City>
-            <Country>France</Country>
-            <Description>
-               <Key Name="Comment">Hausboot</Key>
-               <Key Name="Region">Seine</Key>
-            </Description>
-         </Location>
-         <Location Type="Stay">
-            <Period>
-               <PeriodStart>1952-09-15T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>2592000000</PeriodDuration>
-            </Period>
-            <Country>France</Country>
-            <Description>
-               <Key Name="Name">Reise von Tours über Limoges nach La Rochelle, Toulouse, Coliure bis nach Nizza</Key>
-            </Description>
-         </Location>
-         <Location Type="Stay">
-            <Period>
-               <PeriodStart>1953-09-13T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>0</PeriodDuration>
-            </Period>
-            <Country>Italy</Country>
-            <Description />
-         </Location>
-         <Location Type="Stay">
-            <Period>
-               <PeriodStart>1959-11-16T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>0</PeriodDuration>
-            </Period>
-            <City>Provence</City>
-            <Country>France</Country>
-            <Description />
-         </Location>
-         <Location Type="Stay">
-            <Period>
-               <PeriodStart>1941-04-04T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>0</PeriodDuration>
-            </Period>
-            <Country>Germany</Country>
-            <Description>
-               <Key Name="Comment">Kinderlandverschickung</Key>
-            </Description>
-         </Location>
-         <Location Type="Stay">
-            <Period>
-               <PeriodStart>1959-10-12T00:00:00</PeriodStart>
-               <PeriodExact>false</PeriodExact>
-               <PeriodDuration>0</PeriodDuration>
-            </Period>
-            <Country>Finland</Country>
-            <Description />
-         </Location>
-         <Description>
-            <Key Name="Function">subject</Key>
-            <Key Name="Family:Background information">Sein jüdischer Vater ist nach Schweden emigriert, die Großmutter hat Fichte mit erzogen</Key>
-            <Key Name="Family:Marital status">Hat seit 1961eine Lebenspartnerin/ Mitkünstlerin</Key>
-            <Key Name="Family:Profession father">Kaufmann</Key>
-            <Key Name="Family:Profession mother">Stenotypistin, nach dem Krieg Schauspielerin und Souffleuse</Key>
-            <Key Name="Family:Profession partner in life">Fotografin</Key>
-            <Key Name="Name">Hubert Johannes Fichte</Key>
-         </Description>
-      </Speaker>
+    <Speaker Id="ID4FC564F0-0A59-3194-7937-DF7B00E0AA18">
+      <Sigle>Fichte</Sigle>
+      <Pseudo>Fichte</Pseudo>
+      <KnownHuman>true</KnownHuman>
+      <Sex>male</Sex>
+      <Language Type="L1">
+        <LanguageCode>deu</LanguageCode>
+        <Description/>
+      </Language>
+      <Language Type="L2">
+        <LanguageCode>fra</LanguageCode>
+        <Description/>
+      </Language>
+      <Location Type="Birth">
+        <Period>
+          <PeriodStart>1935-03-21T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <City>Perleberg</City>
+        <Country>Germany</Country>
+        <Description>
+          <Key Name="Region">Brandenburg</Key>
+        </Description>
+      </Location>
+      <Location Type="Education">
+        <Description>
+          <Key Name="Comment">Bricht 1950 das Gymnasium in der 10. Klasse ab.</Key>
+          <Key Name="Name">Gymnasium</Key>
+        </Description>
+      </Location>
+      <Location Type="Education">
+        <Description>
+          <Key Name="Comment">Fällt 1951 durch die staatliche Schauspielprüfung</Key>
+          <Key Name="Name">Staatliche Schauspielschule</Key>
+        </Description>
+      </Location>
+      <Location Type="Education">
+        <Period>
+          <PeriodStart>1952-07-10T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>5270400000</PeriodDuration>
+        </Period>
+        <City>Tours</City>
+        <Country>France</Country>
+        <Description>
+          <Key Name="Name">Reisestipendium (Französisch an der Universität)</Key>
+        </Description>
+      </Location>
+      <Location Type="Education">
+        <Period>
+          <PeriodStart>1955-05-02T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>63072000000</PeriodDuration>
+        </Period>
+        <City>Süderholm bei Heide</City>
+        <Country>Germany</Country>
+        <Description>
+          <Key Name="Name">Vocational training: Landwirtschaftslehre</Key>
+          <Key Name="Region">Holstein</Key>
+        </Description>
+      </Location>
+      <Location Type="Evacuation">
+        <Period>
+          <PeriodStart>1943-08-04T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <City>Liegnitz</City>
+        <Country>Germany</Country>
+        <Description>
+          <Key Name="Region">Schlesien</Key>
+        </Description>
+      </Location>
+      <Location Type="Occupation">
+        <Description>
+          <Key Name="Name">Schriftsteller</Key>
+        </Description>
+      </Location>
+      <Location Type="Occupation">
+        <Period>
+          <PeriodStart>1945-08-13T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>189216000000</PeriodDuration>
+        </Period>
+        <Description>
+          <Key Name="Name">Schauspieler (als Kind)</Key>
+        </Description>
+      </Location>
+      <Location Type="Occupation">
+        <Period>
+          <PeriodStart>1954-06-05T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <City>Paris</City>
+        <Country>France</Country>
+        <Description>
+          <Key Name="Name">Lagerleiter im Auffanglager für Obdachlosen (La Pomponnette)</Key>
+        </Description>
+      </Location>
+      <Location Type="Occupation">
+        <Period>
+          <PeriodStart>1957-11-21T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <City>Järna</City>
+        <Country>Sweden</Country>
+        <Description>
+          <Key Name="Comment">Anthroposofischer Bauernhof - Erziehung, Ausbildung schwererziehbarer
+            Kinder</Key>
+        </Description>
+      </Location>
+      <Location Type="Occupation">
+        <Period>
+          <PeriodStart>1953-02-02T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <Country>France</Country>
+        <Description>
+          <Key Name="Name">Schafshirte</Key>
+        </Description>
+      </Location>
+      <Location Type="Occupation">
+        <Period>
+          <PeriodStart>1957-05-12T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>63072000000</PeriodDuration>
+        </Period>
+        <City>Langenhagen bei Hannover</City>
+        <Country>Germany</Country>
+        <Description>
+          <Key Name="Name">Landwirt bei einem Gestüt</Key>
+        </Description>
+      </Location>
+      <Location Type="Residence">
+        <Period>
+          <PeriodStart>1935-04-15T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <City>Hamburg</City>
+        <Country>Germany</Country>
+        <Description>
+          <Key Name="Comment">Elternhaus der Mutter</Key>
+          <Key Name="Region">Lokstedt</Key>
+        </Description>
+      </Location>
+      <Location Type="Residence">
+        <Period>
+          <PeriodStart>1945-05-15T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <City>Hamburg</City>
+        <Country>Germany</Country>
+        <Description>
+          <Key Name="Region">Lokstedt</Key>
+        </Description>
+      </Location>
+      <Location Type="Residence">
+        <Period>
+          <PeriodStart>1943-07-04T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <City>Hamburg</City>
+        <Country>Germany</Country>
+        <Description>
+          <Key Name="Region">Lokstedt</Key>
+        </Description>
+      </Location>
+      <Location Type="Residence">
+        <Period>
+          <PeriodStart>1942-06-04T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>34128000000</PeriodDuration>
+        </Period>
+        <City>Schrobenhausen</City>
+        <Country>Germany</Country>
+        <Description>
+          <Key Name="Comment">Waisenhaus</Key>
+          <Key Name="Region">Oberbayern</Key>
+        </Description>
+      </Location>
+      <Location Type="Residence">
+        <Period>
+          <PeriodStart>1953-11-06T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <City>Hamburg</City>
+        <Country>Germany</Country>
+        <Description>
+          <Key Name="Region">Lokstedt</Key>
+        </Description>
+      </Location>
+      <Location Type="Residence">
+        <Period>
+          <PeriodStart>1954-11-12T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <City>Hamburg</City>
+        <Country>Germany</Country>
+        <Description/>
+      </Location>
+      <Location Type="Residence">
+        <Period>
+          <PeriodStart>1961-09-19T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <Country>Germany</Country>
+        <Description/>
+      </Location>
+      <Location Type="Residence">
+        <Period>
+          <PeriodStart>1962-03-03T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <City>Hamburg</City>
+        <Country>Germany</Country>
+        <Description/>
+      </Location>
+      <Location Type="Residence">
+        <Period>
+          <PeriodStart>1952-10-15T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <City>Hamburg</City>
+        <Description>
+          <Key Name="Region">Lokstedt</Key>
+        </Description>
+      </Location>
+      <Location Type="Stay">
+        <Period>
+          <PeriodStart>1954-01-07T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <City>Paris</City>
+        <Country>France</Country>
+        <Description>
+          <Key Name="Comment">Hausboot</Key>
+          <Key Name="Region">Seine</Key>
+        </Description>
+      </Location>
+      <Location Type="Stay">
+        <Period>
+          <PeriodStart>1952-09-15T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>2592000000</PeriodDuration>
+        </Period>
+        <Country>France</Country>
+        <Description>
+          <Key Name="Name">Reise von Tours über Limoges nach La Rochelle, Toulouse, Coliure bis nach
+            Nizza</Key>
+        </Description>
+      </Location>
+      <Location Type="Stay">
+        <Period>
+          <PeriodStart>1953-09-13T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <Country>Italy</Country>
+        <Description/>
+      </Location>
+      <Location Type="Stay">
+        <Period>
+          <PeriodStart>1959-11-16T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <City>Provence</City>
+        <Country>France</Country>
+        <Description/>
+      </Location>
+      <Location Type="Stay">
+        <Period>
+          <PeriodStart>1941-04-04T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <Country>Germany</Country>
+        <Description>
+          <Key Name="Comment">Kinderlandverschickung</Key>
+        </Description>
+      </Location>
+      <Location Type="Stay">
+        <Period>
+          <PeriodStart>1959-10-12T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <Country>Finland</Country>
+        <Description/>
+      </Location>
+      <Description>
+        <Key Name="Function">subject</Key>
+        <Key Name="Family:Background information">Sein jüdischer Vater ist nach Schweden emigriert,
+          die Großmutter hat Fichte mit erzogen</Key>
+        <Key Name="Family:Marital status">Hat seit 1961eine Lebenspartnerin/ Mitkünstlerin</Key>
+        <Key Name="Family:Profession father">Kaufmann</Key>
+        <Key Name="Family:Profession mother">Stenotypistin, nach dem Krieg Schauspielerin und
+          Souffleuse</Key>
+        <Key Name="Family:Profession partner in life">Fotografin</Key>
+        <Key Name="Name">Hubert Johannes Fichte</Key>
+      </Description>
+    </Speaker>
 
     <Speaker Id="ID65698F88-05EF-B186-90AC-C31516B80FC9">
       <Sigle>Ulli</Sigle>
@@ -3997,12 +4132,16 @@
       <Sex>male</Sex>
       <Language>
         <LanguageCode>NDS</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Language>
         <LanguageCode>XXX</LanguageCode>
         <Description>
-          <Key Name="Comment">Die Kedelkloppersprook basiert auf dem Plattdeutschen. Bei jedem Wort werden eventuelle Konsonanten am Anfang am Ende des Wortes hinzugefügt, dazu kommt auch ein i. Beispiel: Mors - Orsmi, Spinner - Innerspi. Die Sprache ist Mitte des 19. Jhd. in den Hamburger Hafen unter den "Kettelkloppern" entstanden. Sie haben aus den Kesseln der Dampfschiffe den Kesselstein entfernt. </Key>
+          <Key Name="Comment">Die Kedelkloppersprook basiert auf dem Plattdeutschen. Bei jedem Wort
+            werden eventuelle Konsonanten am Anfang am Ende des Wortes hinzugefügt, dazu kommt auch
+            ein i. Beispiel: Mors - Orsmi, Spinner - Innerspi. Die Sprache ist Mitte des 19. Jhd. in
+            den Hamburger Hafen unter den "Kettelkloppern" entstanden. Sie haben aus den Kesseln der
+            Dampfschiffe den Kesselstein entfernt. </Key>
           <Key Name="Person(s)">Der Vater</Key>
           <Key Name="Special language">Kedelkloppersprook</Key>
         </Description>
@@ -4012,13 +4151,17 @@
         <Description>
           <Key Name="Characteristics of articulation">Viel Laryngalisierung</Key>
           <Key Name="Register">Fachvokabular Zuhälter</Key>
-          <Key Name="Variety">starker Hamburger Dialekt: u.a. Veränderungen der Vokalqualität und -quantität, Abschwächungen von Konsonsanten, [s] bei s vor Konsonant im Anlaut. Teilweise Richtung Missingsch (Mischsprache/Halbmundart).</Key>
+          <Key Name="Variety">starker Hamburger Dialekt: u.a. Veränderungen der Vokalqualität und
+            -quantität, Abschwächungen von Konsonsanten, [s] bei s vor Konsonant im Anlaut.
+            Teilweise Richtung Missingsch (Mischsprache/Halbmundart).</Key>
         </Description>
       </Language>
       <Language Type="L2">
         <LanguageCode>eng</LanguageCode>
         <Description>
-          <Key Name="Self-assessment regarding language skills">"was man so braucht", "ich kann mich jederzeit mit einem Engländer unterhalten oder Zeitung lesen meinetwegen, aber nicht perfekt"</Key>
+          <Key Name="Self-assessment regarding language skills">"was man so braucht", "ich kann mich
+            jederzeit mit einem Engländer unterhalten oder Zeitung lesen meinetwegen, aber nicht
+            perfekt"</Key>
         </Description>
       </Language>
       <Location Type="Birth">
@@ -4045,7 +4188,8 @@
           <PeriodDuration>78796800000</PeriodDuration>
         </Period>
         <Description>
-          <Key Name="Name">Vocational training: Speditionskaufmann und Zolldeklarant, ohne Abschluss</Key>
+          <Key Name="Name">Vocational training: Speditionskaufmann und Zolldeklarant, ohne
+            Abschluss</Key>
         </Description>
       </Location>
       <Location Type="Occupation">
@@ -4108,7 +4252,7 @@
         </Period>
         <City>Lübeck</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Residence">
         <Period>
@@ -4118,7 +4262,7 @@
         </Period>
         <City>Hamburg</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Residence">
         <Period>
@@ -4139,7 +4283,7 @@
         </Period>
         <City>Hamburg</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Residence">
         <Period>
@@ -4160,7 +4304,8 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Description>
-          <Key Name="Comment">Er sollte nicht auf St. Pauli arbeiten, bekommt einen Amtsvormund</Key>
+          <Key Name="Comment">Er sollte nicht auf St. Pauli arbeiten, bekommt einen
+            Amtsvormund</Key>
           <Key Name="Name">Geschlossenes Heim</Key>
         </Description>
       </Location>
@@ -4171,7 +4316,9 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Description>
-          <Key Name="Comment">Alkoholabhängiger Vater, gewalttätiger Halbbruder, prosituierte Halbschwester. Er schwänzt die Schule, schlägt einmal die Lehrerin, müsste sitzen bleiben. </Key>
+          <Key Name="Comment">Alkoholabhängiger Vater, gewalttätiger Halbbruder, prosituierte
+            Halbschwester. Er schwänzt die Schule, schlägt einmal die Lehrerin, müsste sitzen
+            bleiben. </Key>
           <Key Name="Name">Erziehungsheim</Key>
         </Description>
       </Location>
@@ -4228,7 +4375,8 @@
           <PeriodDuration>112320000000</PeriodDuration>
         </Period>
         <Description>
-          <Key Name="Comment">Saß doch lieber auch die letzten 14 Monate im Gefängnis, als wie geplant auf Bewährung mit St. Pauli-Verbot zu sein.</Key>
+          <Key Name="Comment">Saß doch lieber auch die letzten 14 Monate im Gefängnis, als wie
+            geplant auf Bewährung mit St. Pauli-Verbot zu sein.</Key>
           <Key Name="Name">Gefängnis</Key>
         </Description>
       </Location>
@@ -4277,41 +4425,138 @@
       </Location>
       <Description>
         <Key Name="Function">subject</Key>
-        <Key Name="Background information">Raucht seit 8 Monaten (30-40 Zigaretten/ Tag) in der Aufnahme zu hören, 2-3 mal/ Woche Hasch. Trinkt "jedenfalls mehr als der Durchschnittsbürger". War schon mal über eine Woche betrunken. Insgesamt 7,5 Jahre Gefägnis wegen u.a. Körperverletzung (auch als Gewohnheitsverbrecher), Widerstand gegen die Staatsgewalt, Volltrunkenheit, Sachbeschädigung. Inhaftiert u.a. in Oslip, Glaasmoor und Alterfarde. Als gewalttätig eingestuft, über vier Jahre in Einzelzelle verbracht, meistens auf eigenen Wunsch.</Key>
-        <Key Name="Family:Background information">Mutter stirbt 1942, seitdem trinkt der Vater, der im Zusammenhang mit dem Krieg in Gefangenschaft kommt und 1946 zurückkehrt, um 1954 durch Alkoholismus zu sterben</Key>
+        <Key Name="Background information">Raucht seit 8 Monaten (30-40 Zigaretten/ Tag) in der
+          Aufnahme zu hören, 2-3 mal/ Woche Hasch. Trinkt "jedenfalls mehr als der
+          Durchschnittsbürger". War schon mal über eine Woche betrunken. Insgesamt 7,5 Jahre
+          Gefägnis wegen u.a. Körperverletzung (auch als Gewohnheitsverbrecher), Widerstand gegen
+          die Staatsgewalt, Volltrunkenheit, Sachbeschädigung. Inhaftiert u.a. in Oslip, Glaasmoor
+          und Alterfarde. Als gewalttätig eingestuft, über vier Jahre in Einzelzelle verbracht,
+          meistens auf eigenen Wunsch.</Key>
+        <Key Name="Family:Background information">Mutter stirbt 1942, seitdem trinkt der Vater, der
+          im Zusammenhang mit dem Krieg in Gefangenschaft kommt und 1946 zurückkehrt, um 1954 durch
+          Alkoholismus zu sterben</Key>
         <Key Name="Family:Profession father">Emallierer, Portier auf St. Pauli</Key>
         <Key Name="Family:Profession partner in life">Arbeitet im Palais d'Amour.</Key>
         <Key Name="Family:Siblings">1 Bruder, 1 Halbbruder, 1 Halbschwester</Key>
-        <Key Name="Hobbies">Sport (hat 9 Jahre geboxt) und "die Fickerei, wenn das ein Hobby ist"; hat sehr viel gelesen im Gefägnis, liest regelmäßig Zeitung (Sport und Politik)</Key>
+        <Key Name="Hobbies">Sport (hat 9 Jahre geboxt) und "die Fickerei, wenn das ein Hobby ist";
+          hat sehr viel gelesen im Gefägnis, liest regelmäßig Zeitung (Sport und Politik)</Key>
         <Key Name="Name">Ulli</Key>
         <Key Name="Religion">nicht gläubig, dafür sehr abergläubisch</Key>
       </Description>
     </Speaker>
     
+    <!-- **************************************** -->
+    <!-- ******* SERIF ISSI             ********* -->
+    <!-- **************************************** -->
+
+    <Speaker Id="ID0DE8541B-40AA-7B81-6EF4-C5C41F364006">
+      <Sigle>ANR</Sigle>
+      <Pseudo>ANR</Pseudo>
+      <KnownHuman>true</KnownHuman>
+      <Sex>female</Sex>
+      <Language Type="L1">
+        <LanguageCode>tur</LanguageCode>
+        <Description />
+      </Language>
+      <Location Type="Birth">
+        <Period>
+          <PeriodStart>1950-12-25T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <Country>Turkey</Country>
+        <Description />
+      </Location>
+      <Location Type="Occupation">
+        <Description>
+          <Key Name="Name">Rentnerin</Key>
+        </Description>
+      </Location>
+      <Description>
+        <Key Name="Function">subject</Key>
+        <Key Name="Family:Marital status">Verheiratet</Key>
+        <Key Name="Family:Profession father">Landwirt</Key>
+        <Key Name="Family:Profession mother">Hausfrau</Key>
+        <Key Name="Name">Hatice Büyükbas</Key>
+      </Description>
+    </Speaker>
     
+    <Speaker Id="ID1EF8C226-FAC3-2A03-A750-2B19C864D01D">
+      <Sigle>MOD</Sigle>
+      <Pseudo>MOD</Pseudo>
+      <KnownHuman>true</KnownHuman>
+      <Sex>female</Sex>
+      <Language Type="L1">
+        <LanguageCode>tur</LanguageCode>
+        <Description />
+      </Language>
+      <Language Type="L2">
+        <LanguageCode>deu</LanguageCode>
+        <Description />
+      </Language>
+      <Location Type="Birth">
+        <Period>
+          <PeriodStart>1968-06-02T00:00:00</PeriodStart>
+          <PeriodExact>false</PeriodExact>
+          <PeriodDuration>0</PeriodDuration>
+        </Period>
+        <Country>Turkey</Country>
+        <Description />
+      </Location>
+      <Location Type="Occupation">
+        <Description>
+          <Key Name="Name">Sozialarbeiter</Key>
+        </Description>
+      </Location>
+      <Description>
+        <Key Name="Function">subject</Key>
+        <Key Name="Family:Marital status">Geschieden</Key>
+        <Key Name="Family:Profession father">Buchhalter</Key>
+        <Key Name="Family:Profession mother">Lehrerin</Key>
+        <Key Name="Name">Serif Issi</Key>
+      </Description>
+    </Speaker>
+    
+    
+
+
   </CorpusData>
   <Description>
-    <Key Name="DC:contributor">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de; Wilfried Schütte, schuette@ids-mannheim.de; Dan Loehr, loehrd@georgetown.edu</Key>
-    <Key Name="DC:coverage">Covers mainly television and radio broadcasted speech recorded as audio and video from adult native speakers of English,Turkish, German, Polish, Swedish, Italian, Vietnamese, Norwegian, Spanish and German from 1970 to 2013.</Key>
+    <Key Name="DC:contributor">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765
+      Hamburg, corpora@uni-hamburg.de; Wilfried Schütte, schuette@ids-mannheim.de; Dan Loehr,
+      loehrd@georgetown.edu</Key>
+    <Key Name="DC:coverage">Covers mainly television and radio broadcasted speech recorded as audio
+      and video from adult native speakers of English,Turkish, German, Polish, Swedish, Italian,
+      Vietnamese, Norwegian, Spanish and German from 1970 to 2013.</Key>
     <Key Name="DC:created">2007-11-08</Key>
-    <Key Name="DC:creator">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de</Key>
-    <Key Name="DC:description">A linguistic corpus of spoken language (various languages, approx. 20.000 transcribed words) created to demonstrate the EXMARaLDA system.</Key>
+    <Key Name="DC:creator">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765
+      Hamburg, corpora@uni-hamburg.de</Key>
+    <Key Name="DC:description">A linguistic corpus of spoken language (various languages, approx.
+      20.000 transcribed words) created to demonstrate the EXMARaLDA system.</Key>
     <Key Name="DC:format">XML</Key>
     <Key Name="DC:identifier">http://www.exmaralda.org/en/korpora/demonstration/</Key>
     <Key Name="DC:language">DEU; ENG; FRA; SPA; TUR; POL; VIE; SWE; NOR; ITA; RUS; AFR; POR;</Key>
-    <Key Name="DC:publisher">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de</Key>
+    <Key Name="DC:publisher">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765
+      Hamburg, corpora@uni-hamburg.de</Key>
     <Key Name="DC:rights">Free to use for research and teaching purposes.</Key>
-    <Key Name="DC:rightsHolder">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de</Key>
+    <Key Name="DC:rightsHolder">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765
+      Hamburg, corpora@uni-hamburg.de</Key>
     <Key Name="DC:subject">Linguistic corpus of spoken language</Key>
     <Key Name="DC:title">EXMARaLDA Demo corpus</Key>
     <Key Name="DC:type">Collection</Key>
     <Key Name="hzsk:corpusPrefix">EXMARaLDA-DemoKorpus</Key>
     <Key Name="hzsk:corpusVersion">1.1</Key>
     <Key Name="hzsk:keywords">L1 data</Key>
-    <Key Name="hzsk:shortDescription">A selection of short audio and video recordings in various languages to be used for instruction or demonstration of the EXMARaLDA system.</Key>
-    <Key Name="olac:compiler">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de</Key>
-    <Key Name="olac:data-inputter">Secil Yusun; Annette Schnieder; Andrea Rolle; Silke Merkel; Thomas Schmidt; Martina Schwalm; Peter M. Fischer; Kim-Chi Hamze; Franziska Watzke; Roman Stachowicz; Karolina Kaminska; Nicole Stäwen; Maria Görlich; Tara Al-Jaraf; Florian Fuchs; Heidemarie Sambale</Key>
-    <Key Name="olac:developer">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de</Key>
+    <Key Name="hzsk:shortDescription">A selection of short audio and video recordings in various
+      languages to be used for instruction or demonstration of the EXMARaLDA system.</Key>
+    <Key Name="olac:compiler">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765
+      Hamburg, corpora@uni-hamburg.de</Key>
+    <Key Name="olac:data-inputter">Secil Yusun; Annette Schnieder; Andrea Rolle; Silke Merkel;
+      Thomas Schmidt; Martina Schwalm; Peter M. Fischer; Kim-Chi Hamze; Franziska Watzke; Roman
+      Stachowicz; Karolina Kaminska; Nicole Stäwen; Maria Görlich; Tara Al-Jaraf; Florian Fuchs;
+      Heidemarie Sambale</Key>
+    <Key Name="olac:developer">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765
+      Hamburg, corpora@uni-hamburg.de</Key>
     <Key Name="olac:researcher">Thomas Schmidt; Kai Wörner; Hanna Hedeland</Key>
     <Key Name="olac:sponsor">Deutsche Forschungsgemeinschaft (DFG)</Key>
   </Description>
@@ -4325,8 +4570,7 @@
       <filename>Metadata.pdf</filename>
       <mimetype>application/pdf</mimetype>
       <relPath>corpus-materials/Metadata.pdf</relPath>
-      <Description />
+      <Description/>
     </File>
   </AsocFile>
 </Corpus>
-

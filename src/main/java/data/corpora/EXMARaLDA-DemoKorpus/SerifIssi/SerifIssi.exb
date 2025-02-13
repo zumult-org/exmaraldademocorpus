@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basic-transcription>
+<head>
+<meta-information><project-name>EXMARaLDA Demokorpus</project-name><transcription-name>Serif Issi: Expertenauskunft</transcription-name><referenced-file url="SerifIssi.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention>HIAT (simplified)</transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>MOD</abbreviation>
+<sex value="m"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+<ud-information attribute-name="Name"> Serif Issi</ud-information></ud-speaker-information>
+<comment></comment>
+</speaker>
+<speaker id="SPK1">
+<abbreviation>ANR</abbreviation>
+<sex value="f"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+<ud-information attribute-name="Name"> Hatice Büyükbas</ud-information></ud-speaker-information>
+<comment></comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0" time="0.0" type="intp"/>
+<tli id="T1" time="0.5599865309923906"/>
+<tli id="T2" time="0.8866453407379519"/>
+<tli id="T3" time="1.3932998211596384"/>
+<tli id="T4" time="1.899923925471768"/>
+<tli id="T5" time="2.433274807288364"/>
+<tli id="T6" time="2.773266629676601"/>
+<tli id="T7" time="3.5808734493076484"/>
+<tli id="T8" time="7.573151181039949"/>
+<tli id="T9" time="7.999807585605581"/>
+<tli id="T10" time="9.599914416253267"/>
+<tli id="T11" time="10.576839169714258"/>
+<tli id="T12" time="11.435108259237152"/>
+<tli id="T13" time="11.659719556020132"/>
+<tli id="T14" time="12.000050716525536"/>
+<tli id="T15" time="13.619995486149943"/>
+<tli id="T16" time="14.923806518919953"/>
+<tli id="T17" time="18.759548788245084"/>
+<tli id="T18" time="19.57286255944832"/>
+<tli id="T19" time="20.03951800194198"/>
+<tli id="T20" time="20.29991758616615" type="intp"/>
+<tli id="T21" time="20.79991969935471" type="intp"/>
+<tli id="T22" time="21.299921812543275"/>
+<tli id="T23" time="22.49523356585126"/>
+<tli id="T24" time="23.742852362263843"/>
+<tli id="T25" time="24.51774191788707"/>
+<tli id="T26" time="25.40886490685378"/>
+<tli id="T27" time="26.253321995701548"/>
+<tli id="T28" time="26.58602720949588"/>
+<tli id="T29" time="27.2190421385279"/>
+<tli id="T30" time="27.762886924054737"/>
+<tli id="T31" time="28.200064946215292"/>
+<tli id="T32" time="29.299955623560297"/>
+<tli id="T33" time="29.590470232472423"/>
+<tli id="T34" time="32.38570776489298"/>
+<tli id="T35" time="32.84761243379381"/>
+<tli id="T36" time="33.799974642257375"/>
+<tli id="T37" time="36.52578813461081"/>
+<tli id="T38" time="37.09244117192454"/>
+<tli id="T39" time="38.792400283865724"/>
+<tli id="T40" time="39.112392587289946"/>
+<tli id="T41" time="39.479991167545016"/>
+<tli id="T42" time="41.25237264626788"/>
+<tli id="T43" time="41.56566691354233"/>
+<tli id="T44" time="43.6600273464856"/>
+<tli id="T45" time="43.98430627247129"/>
+<tli id="T46" time="44.352266555861604"/>
+<tli id="T47" time="44.6704783031541"/>
+<tli id="T48" time="44.98558465638871"/>
+<tli id="T49" time="46.26189544713061"/>
+<tli id="T50" time="46.67887726200856"/>
+<tli id="T51" time="47.09996036315859" type="intp"/>
+<tli id="T52" time="47.399891141157134"/>
+<tli id="T53" time="47.50656894259723"/>
+<tli id="T54" time="47.60661536436788"/>
+<tli id="T55" time="47.93332300106404"/>
+<tli id="T56" time="47.966701104491285"/>
+<tli id="T57" time="48.47141881176968"/>
+<tli id="T58" time="48.71426441578658" type="intp"/>
+<tli id="T59" time="48.81215928483672"/>
+<tli id="T60" time="49.058820018726216"/>
+<tli id="T61" time="49.24548219572369"/>
+<tli id="T62" time="50.318791864551315"/>
+<tli id="T63" time="50.49324840793767"/>
+<tli id="T64" time="51.506713615022946"/>
+<tli id="T65" time="51.852086167366835"/>
+<tli id="T66" time="52.25270478674478"/>
+<tli id="T67" time="52.55236880307098"/>
+<tli id="T68" time="52.792063558675494"/>
+<tli id="T69" time="52.96539272303027"/>
+<tli id="T70" time="54.00477431805763" type="intp"/>
+<tli id="T71" time="54.500020075941535"/>
+<tli id="T72" time="54.82381400982973" type="intp"/>
+<tli id="T73" time="55.14760794371792"/>
+<tli id="T74" time="55.54533066938808"/>
+<tli id="T75" time="56.3999440014133"/>
+<tli id="T76" time="57.95713118754777"/>
+<tli id="T77" time="58.938582386949115"/>
+<tli id="T78" time="59.3571309056596"/>
+<tli id="T79" time="59.65189856333228"/>
+<tli id="T80" time="59.89995879373325"/>
+<tli id="T81" time="60.126672300144996"/>
+<tli id="T82" time="60.42671065642575"/>
+<tli id="T83" time="60.80008875443983"/>
+<tli id="T84" time="61.78570184524135"/>
+<tli id="T85" time="61.96517625683656"/>
+<tli id="T86" time="62.328558878794915"/>
+<tli id="T87" time="62.66430743947102" type="intp"/>
+<tli id="T88" time="62.93181967343056"/>
+<tli id="T89" time="64.09845827966471"/>
+<tli id="T90" time="64.37178503883958"/>
+<tli id="T91" time="65.03176916465203"/>
+<tli id="T92" time="65.23326822437052"/>
+<tli id="T93" time="66.68093895482963"/>
+<tli id="T94" time="67.31903406444522"/>
+<tli id="T95" time="67.9467511357377"/>
+<tli id="T96" time="68.75167969195861"/>
+<tli id="T97" time="69.65839616452146"/>
+<tli id="T98" time="71.04760474227368"/>
+<tli id="T99" time="73.0115772312936"/>
+<tli id="T100" time="73.13157434507768"/>
+<tli id="T101" time="74.01821968581564"/>
+<tli id="T102" time="75.25152335526316"/>
+<tli id="T103" time="75.71151229143547"/>
+<tli id="T104" time="79.82474669170102"/>
+<tli id="T105" time="80.21333109532212"/>
+<tli id="T106" time="82.90005600040719"/>
+<tli id="T107" time="84.1379762816067"/>
+<tli id="T108" time="86.43331820859214"/>
+<tli id="T109" time="87.67336650748196"/>
+<tli id="T110" time="87.95121789741202"/>
+<tli id="T111" time="88.31120923876426"/>
+<tli id="T112" time="88.70453311172321"/>
+<tli id="T113" time="89.371183743857"/>
+<tli id="T114" time="89.72670904679475"/>
+<tli id="T115" time="92.11111784192691"/>
+<tli id="T116" time="92.82443401831009"/>
+<tli id="T117" time="95.3177073824905"/>
+<tli id="T118" time="95.61103366062936"/>
+<tli id="T119" time="95.99769102726697"/>
+<tli id="T120" time="96.28435079908449"/>
+<tli id="T121" time="97.29521850496889"/>
+<tli id="T122" time="97.74431568345751"/>
+<tli id="T123" time="98.27096968284322"/>
+<tli id="T124" time="99.3576102132213"/>
+<tli id="T125" time="99.67760251664554"/>
+<tli id="T126" time="99.87759770628567"/>
+<tli id="T127" time="100.44425074359938"/>
+<tli id="T128" time="100.96423823666376"/>
+<tli id="T129" time="101.21089897055327"/>
+<tli id="T130" time="102.9199268747851"/>
+<tli id="T131" time="104.25749235940471"/>
+<tli id="T132" time="106.75076572358512"/>
+<tli id="T133" time="107.10002815632649"/>
+<tli id="T134" time="109.59736392279646"/>
+<tli id="T135" time="110.07068587161145"/>
+<tli id="T136" time="111.00004860463733"/>
+<tli id="T137" time="111.57338410314586"/>
+<tli id="T138" time="112.0800516040877"/>
+<tli id="T139" time="113.09993132306212"/>
+<tli id="T140" time="114.8254256602333"/>
+<tli id="T141" time="115.18569109322102"/>
+<tli id="T142" time="115.29722682754044"/>
+<tli id="T143" time="117.01426215361198"/>
+<tli id="T144" time="119.01713735484701"/>
+<tli id="T145" time="119.42060093523278"/>
+<tli id="T146" time="120.20004543498452"/>
+<tli id="T147" time="121.30374902306595"/>
+<tli id="T148" time="121.59991667883537"/>
+<tli id="T149" time="126.27696273878408"/>
+<tli id="T150" time="126.64938515465768"/>
+<tli id="T151" time="132.03682420042009"/>
+<tli id="T152" time="132.3785347314693"/>
+<tli id="T153" time="132.55681169348446"/>
+<tli id="T154" time="132.89013700955138"/>
+<tli id="T155" time="133.20010037788717"/>
+<tli id="T156" time="133.7523540215136"/>
+<tli id="T157" time="133.95623115911877"/>
+<tli id="T158" time="134.2001046042643"/>
+<tli id="T159" time="134.6000221901704"/>
+<tli id="T160" time="134.88342239963143"/>
+<tli id="T161" time="135.1767486777703"/>
+<tli id="T162" time="135.8128854585528" type="intp"/>
+<tli id="T163" time="136.18339113229234"/>
+<tli id="T164" time="136.5700484989299"/>
+<tli id="T165" time="136.94337285292485"/>
+<tli id="T166" time="137.99995245520785"/>
+<tli id="T167" time="138.89521012886317"/>
+<tli id="T168" time="139.08800876933154"/>
+<tli id="T169" time="139.41616493889535"/>
+<tli id="T170" time="139.81701445453723" type="intp"/>
+<tli id="T171" time="140.4232891526633"/>
+<tli id="T172" time="141.9047333324233"/>
+<tli id="T173" time="142.93330455389318"/>
+<tli id="T174" time="143.53806633688708"/>
+<tli id="T175" time="144.31652884432467"/>
+<tli id="T176" time="144.47824370469775"/>
+<tli id="T177" time="145.38378182018621"/>
+<tli id="T178" time="145.56316552641488"/>
+<tli id="T179" time="145.70316215916299"/>
+<tli id="T180" time="147.08294296800798"/>
+<tli id="T181" time="147.57271354617336"/>
+<tli id="T182" time="148.26310058655673"/>
+<tli id="T183" time="148.58975939630233"/>
+<tli id="T184" time="149.10308038304532"/>
+<tli id="T185" time="149.44973871175492"/>
+<tli id="T186" time="150.85711248225402"/>
+<tli id="T187" time="151.49635615240567"/>
+<tli id="T188" time="151.78968243054456"/>
+<tli id="T189" time="153.0963176695268"/>
+<tli id="T190" time="153.28964635284558"/>
+<tli id="T191" time="153.5962535615465"/>
+<tli id="T192" time="154.02962855451412"/>
+<tli id="T193" time="154.44282604598942"/>
+<tli id="T194" time="155.06960354064282"/>
+<tli id="T195" time="155.27626523660433"/>
+<tli id="T196" time="156.17096542268786" type="intp"/>
+<tli id="T197" time="156.45623685548114"/>
+<tli id="T198" time="156.7162306020133"/>
+<tli id="T199" time="159.46187265445835"/>
+<tli id="T200" time="160.99996871375916"/>
+<tli id="T201" time="161.5161151533767"/>
+<tli id="T202" time="161.66944479876744"/>
+<tli id="T203" time="161.8694399884076"/>
+<tli id="T204" time="162.34060053087623"/>
+<tli id="T205" time="162.5560901395054"/>
+<tli id="T206" time="163.32853854257672"/>
+<tli id="T207" time="163.77096977292814"/>
+<tli id="T208" time="163.9800663061593"/>
+<tli id="T209" time="164.4160454031587"/>
+<tli id="T210" time="164.84978497069076"/>
+<tli id="T211" time="165.14269459218454"/>
+<tli id="T212" time="165.46268689560875"/>
+<tli id="T213" time="167.05234731660207"/>
+<tli id="T214" time="167.7268251460335"/>
+<tli id="T215" time="168.027989777308"/>
+<tli id="T216" time="168.45580685544581" type="intp"/>
+<tli id="T217" time="168.92362670172707"/>
+<tli id="T218" time="169.36633494592166"/>
+<tli id="T219" time="170.50472757385063"/>
+<tli id="T220" time="170.69589435785906"/>
+<tli id="T221" time="173.25583278525286"/>
+<tli id="T222" time="173.53582605074905"/>
+<tli id="T223" time="174.51580247998572"/>
+<tli id="T224" time="174.8224617707673"/>
+<tli id="T225" time="175.07336719422858"/>
+<tli id="T226" time="175.5999852100207"/>
+<tli id="T227" time="177.59997297545706"/>
+<tli id="T228" time="178.1223823998296"/>
+<tli id="T229" time="178.22904650097098"/>
+<tli id="T230" time="178.4623742222178"/>
+<tli id="T231" time="178.82663629418218"/>
+<tli id="T232" time="179.0121656859258"/>
+<tli id="T233" time="179.52234872731057"/>
+<tli id="T234" time="180.0880589775923" type="intp"/>
+<tli id="T235" time="180.48232563758322"/>
+<tli id="T236" time="181.31563892775046"/>
+<tli id="T237" time="181.56667455641337"/>
+<tli id="T238" time="182.03198096231782" type="intp"/>
+<tli id="T239" time="182.4639513563522"/>
+<tli id="T240" time="183.0555970776197"/>
+<tli id="T241" time="183.3955889000079"/>
+<tli id="T242" time="184.29490320686045"/>
+<tli id="T243" time="185.1822125941265"/>
+<tli id="T244" time="185.81553069465363"/>
+<tli id="T245" time="186.1999038526511"/>
+<tli id="T246" time="187.72215150255627"/>
+<tli id="T247" time="187.96006244689903"/>
+<tli id="T248" time="190.21979433924196"/>
+<tli id="T249" time="192.5395193069509"/>
+<tli id="T250" time="192.94869245848525"/>
+<tli id="T251" time="193.2553517492668"/>
+<tli id="T252" time="193.63534260958306"/>
+<tli id="T253" time="195.14119180699592"/>
+<tli id="T254" time="195.6999440032338"/>
+<tli id="T255" time="197.08560731599619"/>
+<tli id="T256" time="197.47943749542134"/>
+<tli id="T257" time="198.2285654649849"/>
+<tli id="T258" time="198.79329146531515"/>
+<tli id="T259" time="200.04185518438888"/>
+<tli id="T260" time="200.30004754921336"/>
+<tli id="T261" time="200.86850196823477"/>
+<tli id="T262" time="201.33515741072844"/>
+<tli id="T263" time="202.90010391739224"/>
+<tli id="T264" time="204.6284115334694"/>
+<tli id="T265" time="204.97995255723853"/>
+<tli id="T266" time="206.59990596609973"/>
+<tli id="T267" time="207.90004275809264"/>
+<tli id="T268" time="208.25499097227728"/>
+<tli id="T269" time="208.8000448308442"/>
+<tli id="T270" time="210.09992075841967"/>
+<tli id="T271" time="210.311"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK0" category="v" type="t" display-name="MOD [v]"><event start="T1" end="T2">• • </event>
+<event start="T2" end="T3">((nefes alır)) </event>
+<event start="T3" end="T4">Buyrun efendim. </event>
+<event start="T4" end="T5">İyi günler. </event>
+<event start="T7" end="T8">I bugün bizim telefonlara sadece bayanlar bağalanıyor dikkatimi çekiyor. </event>
+<event start="T8" end="T9">((nefes alır)) </event>
+<event start="T9" end="T10">Iı siz bayanlar şanslı bugün. </event>
+<event start="T10" end="T11">Hatice hanım, sizi dinliyorum. </event>
+<event start="T11" end="T12">Nereden arıyorsunuz? </event>
+<event start="T15" end="T16">Neresinden, hangi şehirden? </event>
+<event start="T18" end="T19">((nefes alır)) </event>
+<event start="T19" end="T20">E </event>
+<event start="T20" end="T21">benimle </event>
+<event start="T21" end="T22">konuşuyorsunuz. </event>
+<event start="T22" end="T23">Şerif Issı'la görüşüyorsunuz. </event>
+<event start="T23" end="T24">Sosyal hizmetler uzmanı. </event>
+<event start="T24" end="T25">Avukat değilim ben. </event>
+<event start="T25" end="T26">Şerif Issı benim adım. </event>
+<event start="T26" end="T27">Sosyal hizmetler uzm</event>
+<event start="T27" end="T28">anıyım. </event>
+<event start="T29" end="T30">Şerif </event>
+<event start="T30" end="T31">Issı. </event>
+<event start="T31" end="T32">Şerif Bey diyebilirsiniz. </event>
+<event start="T32" end="T33">Buyurun. </event>
+<event start="T34" end="T35">Evet. </event>
+<event start="T42" end="T43">((nefes alır)) </event>
+<event start="T43" end="T44">Hatice Hanım ben sizi anlamakta zorlanıyorum. </event>
+<event start="T44" end="T45">Yavas </event>
+<event start="T45" end="T46">konuşun! </event>
+<event start="T47" end="T48">((anl.))˙ </event>
+<event start="T49" end="T50">M˙ </event>
+<event start="T50" end="T51">• Ben </event>
+<event start="T51" end="T52">bilmiyoru</event>
+<event start="T52" end="T53">m. </event>
+<event start="T53" end="T54">Bir </event>
+<event start="T54" end="T55">sani</event>
+<event start="T55" end="T56">ye. </event>
+<event start="T56" end="T57">Beni dinleyin şimd</event>
+<event start="T57" end="T58">i! </event>
+<event start="T61" end="T62">Beni dinléyin şimdi! </event>
+<event start="T63" end="T64">Şu anda beni dinleyin! </event>
+<event start="T67" end="T68">Ş</event>
+<event start="T68" end="T69">şu </event>
+<event start="T69" end="T70">anda beni dinleyin! </event>
+<event start="T70" end="T71">• • </event>
+<event start="T71" end="T72">Bir: </event>
+<event start="T72" end="T73">• • </event>
+<event start="T73" end="T74">Yavaş </event>
+<event start="T74" end="T75">konuşmaya çalışın. </event>
+<event start="T75" end="T76">Tane tane konuşmaya çalışın. </event>
+<event start="T76" end="T77">Hiç anlamıyorum sizi. </event>
+<event start="T77" end="T78">• • </event>
+<event start="T78" end="T79">Benim </event>
+<event start="T79" end="T80">za/ </event>
+<event start="T80" end="T81">Ben </event>
+<event start="T81" end="T82">size zaman </event>
+<event start="T82" end="T83">ayırcağım. </event>
+<event start="T83" end="T84">Heyecanlamayin lütfen! </event>
+<event start="T86" end="T87">Şimdi </event>
+<event start="T87" end="T88">• • </event>
+<event start="T88" end="T89">siz bin dokuz yüz doksan bir </event>
+<event start="T89" end="T90">yılda </event>
+<event start="T90" end="T91">işe girdiniz. </event>
+<event start="T93" end="T94">Kaç sene calış</event>
+<event start="T94" end="T95">tınız? </event>
+<event start="T96" end="T97">Ben/ Benim </event>
+<event start="T97" end="T98">sorularıma cevap verin Hatice hanım! </event>
+<event start="T107" end="T108">((2,3s)) </event>
+<event start="T108" end="T109">Televizyonuzun sesini kısın! </event>
+<event start="T109" end="T110">Bir. </event>
+<event start="T112" end="T113">Tamamen! </event>
+<event start="T115" end="T116">• • • </event>
+<event start="T116" end="T117">Şimdi • • benim sorularıma tek tek cevap verin. </event>
+<event start="T121" end="T122">Bir dak… </event>
+<event start="T122" end="T123">Benim… </event>
+<event start="T124" end="T125">• • </event>
+<event start="T125" end="T126">Ben… </event>
+<event start="T140" end="T141">Hatice han</event>
+<event start="T141" end="T142">im… </event>
+<event start="T143" end="T144">Hatice Hanim, böyle konuşursanız… </event>
+<event start="T147" end="T148">• • </event>
+<event start="T148" end="T149">Hatice Hanim, böyle konuşursanız • benim ss/ ben size yardımcı olamam hattan almak zorunda kalabilirim. </event>
+<event start="T149" end="T150">((nefes alır)) </event>
+<event start="T150" end="T151">Benim sorularıma • • • ben sorayım, cevap verin, susun, bir daha sorayım, tekrar cevap verin! </event>
+<event start="T153" end="T154">Mesela… </event>
+<event start="T156" end="T157">Bir </event>
+<event start="T157" end="T158">saniye! </event>
+<event start="T158" end="T159">Bekleyin! </event>
+<event start="T159" end="T160">Şimdi… </event>
+<event start="T160" end="T161">• • </event>
+<event start="T161" end="T162">Siz doksan… </event>
+<event start="T165" end="T166">Hayır kapatmayın! </event>
+<event start="T166" end="T167">Beni dinleyin lütfen! </event>
+<event start="T169" end="T170">Si… </event>
+<event start="T170" end="T171">• • • </event>
+<event start="T171" end="T172">Doksan birde işe başladınız. </event>
+<event start="T173" end="T174">Évét deyin! </event>
+<event start="T174" end="T175">Tamam bitti. </event>
+<event start="T175" end="T176">• </event>
+<event start="T176" end="T177">Lütfen ama yani! </event>
+<event start="T177" end="T178">• </event>
+<event start="T178" end="T179">I… </event>
+<event start="T179" end="T180">Sizi hattan almak zorunda kalacağim. </event>
+<event start="T180" end="T181">Yardımcı </event>
+<event start="T181" end="T182">olmak istiyorum. </event>
+<event start="T184" end="T185">• • </event>
+<event start="T185" end="T186">Doksan birde işe başladınız. </event>
+<event start="T187" end="T188">B˙ </event>
+<event start="T189" end="T190">Bi/ </event>
+<event start="T190" end="T191">Bir </event>
+<event start="T191" end="T192">saniye! </event>
+<event start="T193" end="T194">Nefes a</event>
+<event start="T194" end="T195">lın! </event>
+<event start="T200" end="T201">Hatice Hanim… </event>
+<event start="T205" end="T206">Şu anda… </event>
+<event start="T207" end="T208">• • </event>
+<event start="T208" end="T209">Beni/ </event>
+<event start="T209" end="T210">• • </event>
+<event start="T210" end="T211">B/ </event>
+<event start="T211" end="T212">Ben </event>
+<event start="T212" end="T213">sizi anlamakta zorlanıyorum. </event>
+<event start="T213" end="T214">Benim soruma </event>
+<event start="T214" end="T215">cevap </event>
+<event start="T215" end="T216">verin! </event>
+<event start="T216" end="T217">((nefes alır)) </event>
+<event start="T217" end="T218">Durun! </event>
+<event start="T218" end="T219">• Bir daha konuşun! </event>
+<event start="T219" end="T220">((nefes alır)) </event>
+<event start="T220" end="T221">Hepsini makinali, tüfek gibi arka arkaya saymayın! </event>
+<event start="T221" end="T222">((nefes alır)) </event>
+<event start="T222" end="T223">Size yardımcı olamam. </event>
+<event start="T223" end="T224">• • </event>
+<event start="T224" end="T225">((nefes alır)) </event>
+<event start="T225" end="T226">Bir: </event>
+<event start="T226" end="T227">Doksan birden doksan dörde kadar calıştınız. </event>
+<event start="T227" end="T228">Bunu anladım. </event>
+<event start="T231" end="T232">(Bir)… </event>
+<event start="T233" end="T234">Tamam bitti! </event>
+<event start="T234" end="T235">• • </event>
+<event start="T235" end="T236">Doksan dörtden… </event>
+<event start="T237" end="T238">Bi</event>
+<event start="T238" end="T239">tti! </event>
+<event start="T239" end="T240">Lütfen! </event>
+<event start="T240" end="T241">• • </event>
+<event start="T241" end="T242">Doksan dörtden </event>
+<event start="T242" end="T243">sonra ne yaptınız? </event>
+<event start="T243" end="T244">• • </event>
+<event start="T244" end="T245">((nefes alır)) </event>
+<event start="T245" end="T246">Doksan dörtden sonra ne yaptınız? </event>
+<event start="T253" end="T254">((nefes alır)) </event>
+<event start="T254" end="T255">Iı benim size tavsiyem. </event>
+<event start="T255" end="T256">• Siz </event>
+<event start="T256" end="T257">en yakınızda… </event>
+<event start="T263" end="T264">Ben hiç bir şey anlamadım sizin söylediklerinizden. </event>
+<event start="T264" end="T265">((nefes alır)) </event>
+<event start="T265" end="T266">Ben bir şeyler söylemeye çalışacağım. </event>
+<event start="T266" end="T267">Beni televizyondan dinleyin lütfen, </event>
+<event start="T267" end="T268">çünkü </event>
+<event start="T268" end="T269">anlam yok. </event>
+<event start="T269" end="T270">Peki iyi günler efendim. </event>
+</tier><tier id="TIE1" speaker="SPK0" category="akz" type="a" display-name=""><event start="T20" end="T21">—</event>
+<event start="T30" end="T31">—</event>
+<event start="T73" end="T74">—</event>
+<event start="T156" end="T157">—</event>
+<event start="T180" end="T181">—</event>
+<event start="T211" end="T212">—</event>
+<event start="T214" end="T215">—</event>
+<event start="T237" end="T239">—</event>
+</tier><tier id="TIE2" speaker="SPK0" category="de" type="a" display-name="MOD [de]"><event start="T1" end="T2">• • </event>
+<event start="T2" end="T3">((atmet ein)) </event>
+<event start="T3" end="T4">Bitte sehr! </event>
+<event start="T4" end="T5">Guten Tag. </event>
+<event start="T7" end="T8">Mir fällt auf, dass heute nur Frauen mit unseren Telefonen verbunden werden. </event>
+<event start="T8" end="T9">((atmet ein)) </event>
+<event start="T9" end="T10">Ihr Frauen habt heute Glück. </event>
+<event start="T10" end="T11">Frau Hatice, ich höre Ihnen zu. </event>
+<event start="T11" end="T12">Von wo rufen Sie an? </event>
+<event start="T15" end="T16">Von wo aus, aus welcher Stadt? </event>
+<event start="T18" end="T19">((atmet ein)) </event>
+<event start="T19" end="T22">Äm Sie sprechen mit mir. </event>
+<event start="T22" end="T23">Sie sprechen mit Şerif Issı. </event>
+<event start="T23" end="T24">Experte for soziale Angelegemheiten. </event>
+<event start="T24" end="T25">Ich bin kein Anwalt. </event>
+<event start="T25" end="T26">Mein Name ist Şerif Issı . </event>
+<event start="T26" end="T28">Ich bin Experte for soziale Angelegenheiten. </event>
+<event start="T29" end="T31">Şerif Issı. </event>
+<event start="T31" end="T32">Sie können Herr Şerif sagen. </event>
+<event start="T32" end="T33">Bitte sehr. </event>
+<event start="T34" end="T35">Ja. </event>
+<event start="T42" end="T43">((atmet ein)) </event>
+<event start="T43" end="T44">Frau Hatice ich muss mich anstrengen, Sie zu verstehen. </event>
+<event start="T44" end="T46">Sprechen Sie langsam! </event>
+<event start="T47" end="T48">((unv.))˙ </event>
+<event start="T49" end="T50">M˙ </event>
+<event start="T50" end="T53">• Weiß ich nicht. </event>
+<event start="T53" end="T54">Eine </event>
+<event start="T54" end="T56">Sekunde! </event>
+<event start="T56" end="T58">Hören Sie mir jetzt zu! </event>
+<event start="T61" end="T62">Hören Sie mir jetzt zu! </event>
+<event start="T63" end="T64">Hören Sie mir in diesem Moment zu! </event>
+<event start="T67" end="T70">Hören Sie mir in diesem Moment zu! </event>
+<event start="T70" end="T71">• • </event>
+<event start="T71" end="T72">Erstens: </event>
+<event start="T72" end="T73">• • </event>
+<event start="T73" end="T75">Bemühen Sie sich, langsam zu sprechen. </event>
+<event start="T75" end="T76">Bemühen Sie sich nacheinander zu sprechen. </event>
+<event start="T76" end="T77">Ich verstehe Sie überhaupt nicht. </event>
+<event start="T77" end="T78">• • </event>
+<event start="T78" end="T79">Meine </event>
+<event start="T79" end="T80">Zei/ </event>
+<event start="T80" end="T83">Ich werde Ihnen Zeit zuteilen. </event>
+<event start="T83" end="T84">Bitte regen Sie sich nicht auf! </event>
+<event start="T86" end="T87">Jetzt </event>
+<event start="T87" end="T88">• • </event>
+<event start="T88" end="T91">Sie haben im Jahr neunzehnhunderteinundneunzig eine Arbeitsstelle angetreten. </event>
+<event start="T93" end="T95">Wieviele Jahre haben Sie gearbeitet? </event>
+<event start="T96" end="T97">Ich/ </event>
+<event start="T97" end="T98">Beantworten Sie mein Fragen Frau Hatice! </event>
+<event start="T107" end="T108">((2,3s)) </event>
+<event start="T108" end="T109">Stellen Sie den Fernsehton leiser! </event>
+<event start="T109" end="T110">Erstens. </event>
+<event start="T112" end="T113">Komplett! </event>
+<event start="T115" end="T116">• • • </event>
+<event start="T116" end="T117">Jetzt • • beantworten Sie meine Fragen im Einzelnen. </event>
+<event start="T121" end="T122">Einen Mome… </event>
+<event start="T122" end="T123">Mein… </event>
+<event start="T124" end="T125">• • </event>
+<event start="T125" end="T126">Ich… </event>
+<event start="T140" end="T142">Frau Hatice… </event>
+<event start="T143" end="T144">Frau Hatice, wenn Sie so sprechen… </event>
+<event start="T147" end="T148">• • </event>
+<event start="T148" end="T149">Frau Hatice, wenn Sie so reden mein/ kann ich Ihnen nicht helfen und muss Sie eventuell aus der Leitung nehmen. </event>
+<event start="T149" end="T150">((atmet ein)) </event>
+<event start="T150" end="T151">Ich stelle die Fragen, Sie antworten, schweigen, ich frage noch einmal, Sie antworten wieder! </event>
+<event start="T153" end="T154">Zum Beispiel… </event>
+<event start="T156" end="T158">Eine Sekunde! </event>
+<event start="T158" end="T159">Warten Sie! </event>
+<event start="T159" end="T160">Jetzt … </event>
+<event start="T160" end="T161">• • </event>
+<event start="T161" end="T162">Sie neunzig… </event>
+<event start="T165" end="T166">Nein nicht auflegen! </event>
+<event start="T166" end="T167">Bitte hören Sie mir zu! </event>
+<event start="T169" end="T170">Si… </event>
+<event start="T170" end="T171">• • • </event>
+<event start="T171" end="T172">Einundneunzig haben Sie angefangen zu arbeiten. </event>
+<event start="T173" end="T174">Sagen sie Ja! </event>
+<event start="T174" end="T175">Fertig, aus! </event>
+<event start="T175" end="T176">• </event>
+<event start="T176" end="T177">Also bitte! </event>
+<event start="T177" end="T178"> • </event>
+<event start="T178" end="T179">Äh… </event>
+<event start="T179" end="T180">Ich werde Sie sonst aus der Leitung nehmen müssen. </event>
+<event start="T180" end="T182">Ich möchte Ihnen helfen. </event>
+<event start="T184" end="T185">• • </event>
+<event start="T185" end="T186">Einundneunzig haben sie angefangen zu arbeiten. </event>
+<event start="T187" end="T188">B˙ </event>
+<event start="T189" end="T192">Ei/ Eine Sekunde! </event>
+<event start="T193" end="T195">Holen Sie Luft! </event>
+<event start="T200" end="T201">Frau Hatice… </event>
+<event start="T205" end="T206">Im Moment… </event>
+<event start="T207" end="T208">• • </event>
+<event start="T208" end="T209">Mich/ </event>
+<event start="T209" end="T210">• • </event>
+<event start="T210" end="T211">I/ </event>
+<event start="T211" end="T212">Ich </event>
+<event start="T212" end="T213">muss mich anstrengen, Sie zu verstehen. </event>
+<event start="T213" end="T216">Geben Sie auf meine Fragen eine Antwort! </event>
+<event start="T216" end="T217">((atmet ein)) </event>
+<event start="T217" end="T218">Machen Sie halt! </event>
+<event start="T218" end="T219">• Sprechen Sie noch einmal. </event>
+<event start="T219" end="T220">((atmet ein)) </event>
+<event start="T220" end="T221">Zählen Sie nicht alles nacheinander maschinenartig, wie ein Gewehr auf! </event>
+<event start="T221" end="T222">((atmet ein)) </event>
+<event start="T222" end="T223">Ich kann Ihnen nicht helfen. </event>
+<event start="T223" end="T224">• • </event>
+<event start="T224" end="T225">((atmet ein)) </event>
+<event start="T225" end="T226">Erstens: </event>
+<event start="T226" end="T227">Von einundneunzig bis vierundneunzig haben Sie gearbeitet. </event>
+<event start="T227" end="T228">Das habe ich verstanden. </event>
+<event start="T231" end="T232">(Ein)… </event>
+<event start="T233" end="T234">Fertig aus! </event>
+<event start="T234" end="T235">• • </event>
+<event start="T235" end="T236">Von vierundneunzig… </event>
+<event start="T237" end="T239">Aus! </event>
+<event start="T239" end="T240">Bitte! </event>
+<event start="T240" end="T241">• • </event>
+<event start="T241" end="T243">Was haben Sie nach vierundneunzig getan? </event>
+<event start="T243" end="T244">• • </event>
+<event start="T244" end="T245">((atmet ein)) </event>
+<event start="T245" end="T246">Was haben Sie nach vierundneunzig getan? </event>
+<event start="T253" end="T254">((atmet ein)) </event>
+<event start="T254" end="T255">Also mein Rat an Sie. </event>
+<event start="T255" end="T257">• Bald werden Sie… </event>
+<event start="T263" end="T264">Ich habe nichts von dem verstanden, was Sie gesagt haben. </event>
+<event start="T264" end="T265">((atmet ein)) </event>
+<event start="T265" end="T266">Ich werde mich bemühen, einige Dinge zu sagen. </event>
+<event start="T266" end="T267">Bitte hören Sie mir per Fernseher zu, </event>
+<event start="T267" end="T269">weil es keinen Sinn macht. </event>
+<event start="T269" end="T270">Schönen Tag noch. </event>
+</tier><tier id="TIE3" speaker="SPK0" category="en" type="a" display-name="MOD [en]"><event start="T1" end="T2">• • </event>
+<event start="T2" end="T3">((breathes in)) </event>
+<event start="T3" end="T4">Here you go! </event>
+<event start="T4" end="T5">Good afternoon. </event>
+<event start="T7" end="T8">I am noticing that today only women are conneceted with our telephones. </event>
+<event start="T8" end="T9">((breathes in)) </event>
+<event start="T9" end="T10">Today you woman are in luck. </event>
+<event start="T10" end="T11">Mrs Hatice, I am listening to you. </event>
+<event start="T11" end="T12">Wherefrom are you calling? </event>
+<event start="T15" end="T16">Wherefrom, which city? </event>
+<event start="T18" end="T19">((breathes in)) </event>
+<event start="T19" end="T22">So you are talking to me. </event>
+<event start="T22" end="T23">You are talking to Şerif Issı. </event>
+<event start="T23" end="T24">Expert for social affairs. </event>
+<event start="T24" end="T25">I am not a lawyer. </event>
+<event start="T25" end="T26">My name is Şerif Issı. </event>
+<event start="T26" end="T28">I am expert for social affairs. </event>
+<event start="T29" end="T31">Şerif Issı. </event>
+<event start="T31" end="T32">You can call me Mister Şerif. </event>
+<event start="T32" end="T33">Here you go. </event>
+<event start="T34" end="T35">Yes. </event>
+<event start="T42" end="T43">((breathes in)) </event>
+<event start="T43" end="T44">Mrs. Hatice I must make an effort to understand you. </event>
+<event start="T44" end="T46">Speak slowly! </event>
+<event start="T47" end="T48">((inc.))˙ </event>
+<event start="T49" end="T50">M˙ </event>
+<event start="T50" end="T53">•  I don't know. </event>
+<event start="T53" end="T54">A </event>
+<event start="T54" end="T56">second! </event>
+<event start="T56" end="T58">Listen to me now! </event>
+<event start="T61" end="T62">Listen to me now! </event>
+<event start="T63" end="T64">Listen to me at the moment! </event>
+<event start="T67" end="T70">Listen to me at this moment! </event>
+<event start="T70" end="T71">• • </event>
+<event start="T71" end="T72">First: </event>
+<event start="T72" end="T73">• • </event>
+<event start="T73" end="T75">Attempt to speak slowly. </event>
+<event start="T75" end="T76">Attempt to speak step by step. </event>
+<event start="T76" end="T77">I don't understand you at all. </event>
+<event start="T77" end="T78">• • </event>
+<event start="T78" end="T79">My </event>
+<event start="T79" end="T80">tim/ </event>
+<event start="T80" end="T83">I will give you time. </event>
+<event start="T83" end="T84">Please don't excite! </event>
+<event start="T86" end="T87">Now </event>
+<event start="T87" end="T88">• • </event>
+<event start="T88" end="T91">in the year nineteen ninety-one you got a job. </event>
+<event start="T93" end="T95">How many years did you work? </event>
+<event start="T96" end="T97">I/ </event>
+<event start="T97" end="T98">Answer my questions Mrs. Hatice! </event>
+<event start="T107" end="T108">((2,3s)) </event>
+<event start="T108" end="T109">Turn down the TV sound! </event>
+<event start="T109" end="T110">First. </event>
+<event start="T112" end="T113">Completly! </event>
+<event start="T115" end="T116">• • • </event>
+<event start="T116" end="T117">Now • • answer my questions step by step. </event>
+<event start="T121" end="T122">Just a mome… </event>
+<event start="T122" end="T123">My… </event>
+<event start="T124" end="T125">• • </event>
+<event start="T125" end="T126">I… </event>
+<event start="T140" end="T142">Mrs. Hatice… </event>
+<event start="T143" end="T144">Mrs Hatice if you are speaking like this… </event>
+<event start="T147" end="T148">• • </event>
+<event start="T148" end="T149">Mrs Hatice if you are speaking like this my/ I cannot help you and maybe I have to cut you off from the telephone line. </event>
+<event start="T149" end="T150">((breathes in)) </event>
+<event start="T150" end="T151">I ask the questions, you answer, you keep quiet, I ask once more, you answer again! </event>
+<event start="T153" end="T154">For example… </event>
+<event start="T156" end="T158">Just a second! </event>
+<event start="T158" end="T159">Wait! </event>
+<event start="T159" end="T160">Now… </event>
+<event start="T160" end="T161">• • </event>
+<event start="T161" end="T162">You ninety… </event>
+<event start="T165" end="T166">No, don't hang up! </event>
+<event start="T166" end="T167">Please listen to me! </event>
+<event start="T169" end="T170">Yo… </event>
+<event start="T170" end="T171">• • • </event>
+<event start="T171" end="T172">Ninety-one you began to work. </event>
+<event start="T173" end="T174">Say yes! </event>
+<event start="T174" end="T175">Finished, over! </event>
+<event start="T175" end="T176">• </event>
+<event start="T176" end="T177">Well, please! </event>
+<event start="T177" end="T178">• </event>
+<event start="T178" end="T179">E… </event>
+<event start="T179" end="T180">Otherwise I will have to cut you off from the telephone line. </event>
+<event start="T180" end="T182">I want to help you. </event>
+<event start="T184" end="T185">• • </event>
+<event start="T185" end="T186">Ninety-one you began to work. </event>
+<event start="T187" end="T188">B˙ </event>
+<event start="T189" end="T192">Just a second! </event>
+<event start="T193" end="T195">Breathe! </event>
+<event start="T200" end="T201">Mrs. Hatice… </event>
+<event start="T205" end="T206">At this moment… </event>
+<event start="T207" end="T208">• • </event>
+<event start="T208" end="T209">Me/ </event>
+<event start="T209" end="T210">• • </event>
+<event start="T210" end="T211">I/</event>
+<event start="T211" end="T212">I </event>
+<event start="T212" end="T213">must make an effort to understand you. </event>
+<event start="T213" end="T216">Give an answer to my questions! </event>
+<event start="T216" end="T217">((breathes in)) </event>
+<event start="T217" end="T218">Come to an end! </event>
+<event start="T218" end="T219">• Speak again! </event>
+<event start="T219" end="T220">((breathes in)) </event>
+<event start="T220" end="T221">Don't count everything mechanically, like a gun! </event>
+<event start="T221" end="T222">((breathes in)) </event>
+<event start="T222" end="T223">I cannot help you. </event>
+<event start="T223" end="T224">• • </event>
+<event start="T224" end="T225">((breathes in)) </event>
+<event start="T225" end="T226">First: </event>
+<event start="T226" end="T227">From ninety-one to ninety-four you worked. </event>
+<event start="T227" end="T228">That's what I have understood. </event>
+<event start="T231" end="T232">(A)… </event>
+<event start="T233" end="T234">It's over! </event>
+<event start="T234" end="T235">• • </event>
+<event start="T235" end="T236">From ninety-four… </event>
+<event start="T237" end="T239">Over! </event>
+<event start="T239" end="T240">Please! </event>
+<event start="T240" end="T241">• • </event>
+<event start="T241" end="T243">What did you do after ninety-four? </event>
+<event start="T243" end="T244">• • </event>
+<event start="T244" end="T245">((breathes in)) </event>
+<event start="T245" end="T246">What did you do after ninety-four? </event>
+<event start="T253" end="T254">((breathes in)) </event>
+<event start="T254" end="T255">Well my advice to you. </event>
+<event start="T255" end="T257">• Soon you will… </event>
+<event start="T263" end="T264">I haven't understood anything, what you had told. </event>
+<event start="T264" end="T265">((breathes in)) </event>
+<event start="T265" end="T266">I will try to tell you some things. </event>
+<event start="T266" end="T267">Please listen to me by TV, </event>
+<event start="T267" end="T269">because it does not make sense. </event>
+<event start="T269" end="T270">Well have a nice day. </event>
+</tier><tier id="TIE8" speaker="SPK0" category="k" type="a" display-name="MOD [k]"><event start="T47" end="T48">louder </event>
+<event start="T50" end="T53">faster </event>
+<event start="T54" end="T56">louder </event>
+<event start="T56" end="T57">faster </event>
+<event start="T61" end="T62">louder </event>
+<event start="T63" end="T64">louder, faster </event>
+<event start="T67" end="T70">slower </event>
+<event start="T80" end="T82">louder </event>
+<event start="T82" end="T83">for: ayıracağım </event>
+<event start="T89" end="T90">for: yılında </event>
+<event start="T96" end="T98">louder, fast </event>
+<event start="T122" end="T123">louder </event>
+<event start="T169" end="T170">quiet </event>
+<event start="T173" end="T177">loud, annoyed </event>
+<event start="T178" end="T182">fast </event>
+<event start="T191" end="T192">louder </event>
+<event start="T200" end="T201">louder </event>
+<event start="T227" end="T228">fast </event>
+<event start="T233" end="T234">fast </event>
+<event start="T235" end="T236">louder </event>
+<event start="T241" end="T242">laughingly </event>
+</tier><tier id="TIE4" speaker="SPK1" category="v" type="t" display-name="ANR [v]"><event start="T5" end="T6">• • </event>
+<event start="T6" end="T7">İyi günler. </event>
+<event start="T12" end="T13">• • </event>
+<event start="T13" end="T14">((nefes alır)) </event>
+<event start="T14" end="T15">Ya ben Almanya'dan arıyorum. </event>
+<event start="T16" end="T17">Hî ııı ben eee ben eee avukatınla </event>
+<event start="T17" end="T18">konuşcadım. </event>
+<event start="T23" end="T24">Aa avukat • tabi. </event>
+<event start="T27" end="T28">Ha, Şe</event>
+<event start="T28" end="T29">rif ne? </event>
+<event start="T33" end="T34">Hî e ben doksan birde işe girdim. </event>
+<event start="T35" end="T36">Ondan sonra </event>
+<event start="T36" end="T37">((anl.)) iki bin dörtde kadın hastanede yattım </event>
+<event start="T37" end="T38">((nefes alır)) </event>
+<event start="T38" end="T39">Üç sene çalıştım ((anl.)) </event>
+<event start="T39" end="T40">• • </event>
+<event start="T40" end="T41">((nefes alır)) </event>
+<event start="T41" end="T42">Ondan sonra üç sene ((anl.)) çalıştım… </event>
+<event start="T45" end="T46">Hıı˙ </event>
+<event start="T46" end="T47">• Ha </event>
+<event start="T47" end="T48">doksan </event>
+<event start="T48" end="T49">birde işe girdim ya. </event>
+<event start="T52" end="T53">So</event>
+<event start="T53" end="T54">nra… </event>
+<event start="T57" end="T58">H́</event>
+<event start="T58" end="T59">m˙ </event>
+<event start="T59" end="T60">((nefes alır)) </event>
+<event start="T60" end="T61">Bide </event>
+<event start="T61" end="T62">burda çocuk oldu. </event>
+<event start="T62" end="T63">Ben </event>
+<event start="T63" end="T64">eli sekiz yaşındayım </event>
+<event start="T64" end="T65">Rente </event>
+<event start="T65" end="T66">alabilir miyim </event>
+<event start="T66" end="T67">burd</event>
+<event start="T67" end="T68">a? </event>
+<event start="T78" end="T79">Hı́˙ </event>
+<event start="T84" end="T85">• </event>
+<event start="T85" end="T86">Hî˙ </event>
+<event start="T91" end="T92">• • </event>
+<event start="T92" end="T93">Hî doksan birde işe girdim. </event>
+<event start="T94" end="T95">Hî˙ • </event>
+<event start="T95" end="T96">Ondan sonra iki </event>
+<event start="T96" end="T97">bin dört ((anl.))… </event>
+<event start="T98" end="T99">Bana çıkış verdi iki bin dörtde. </event>
+<event start="T99" end="T100">• </event>
+<event start="T100" end="T101">Ondan sonra ıı… </event>
+<event start="T101" end="T102">Doksan dört dedim ya ama. </event>
+<event start="T102" end="T103">((nefes alır)) </event>
+<event start="T103" end="T104">Doksan dörtde bana çıkış verdi bir de burda(n) çocuk ((anl.)) oldu. </event>
+<event start="T104" end="T105">((nefes alır)) </event>
+<event start="T105" end="T106">Bir de burda bir çocuk olunca, ben emekli olabilir miyin? </event>
+<event start="T106" end="T107">Eli sekiz yaşındayım. </event>
+<event start="T110" end="T111">• • </event>
+<event start="T111" end="T112">Hî˙ </event>
+<event start="T112" end="T113">((nefes alır)) </event>
+<event start="T113" end="T114">• • </event>
+<event start="T114" end="T115">Hı televizyonun sesini ııı ben kapattim hî. </event>
+<event start="T117" end="T118">• • </event>
+<event start="T118" end="T119">Hî˙ </event>
+<event start="T119" end="T120">((nefes alır)) </event>
+<event start="T120" end="T121">Ondan sonra ben bin do</event>
+<event start="T121" end="T122">kuz yüz doksan birde </event>
+<event start="T122" end="T123">bir </event>
+<event start="T123" end="T124">işe girdim ya üç sene </event>
+<event start="T125" end="T126">• </event>
+<event start="T126" end="T127">(fabrikada). </event>
+<event start="T127" end="T128">• • • </event>
+<event start="T128" end="T129">((nefes alır)) </event>
+<event start="T129" end="T130">Ondan sonra iki bin dörtdee/ </event>
+<event start="T130" end="T131">Ondan sonra bin ı/ bin ı… </event>
+<event start="T131" end="T132">((anl.)) Orda ııı dört sene, üç sene calıştım.</event>
+<event start="T132" end="T133">((nefes alır)) </event>
+<event start="T133" end="T134">bin dokuz yüz dört/ doksan dörtde ben ı kadın </event>
+<event start="T134" end="T135">hastanede </event>
+<event start="T135" end="T136">yattım iki hafta. </event>
+<event start="T136" end="T137">Ondan sonra </event>
+<event start="T137" end="T138">((nefes alır)) </event>
+<event start="T138" end="T139">bana çıkış verdi. </event>
+<event start="T139" end="T140">Bir sene işsiz parası verdi. </event>
+<event start="T141" end="T142">On</event>
+<event start="T142" end="T143">dan sonra ben şimdi eli sekiz yaşındayım. </event>
+<event start="T143" end="T144">Burda bir çocuk olunca ondan sonra (ben bir) </event>
+<event start="T144" end="T145">Rente </event>
+<event start="T145" end="T146">olabilir miyim? </event>
+<event start="T146" end="T147">Eli sekiz yaşındayım. </event>
+<event start="T151" end="T152">• • </event>
+<event start="T152" end="T153">Hı́, </event>
+<event start="T153" end="T154">bir daha </event>
+<event start="T154" end="T155">edim. </event>
+<event start="T155" end="T156">Oldu mu? </event>
+<event start="T161" end="T162">((a</event>
+<event start="T162" end="T163">nl.)) </event>
+<event start="T163" end="T164">Kapatim </event>
+<event start="T164" end="T165">telefonu? </event>
+<event start="T167" end="T168">• </event>
+<event start="T168" end="T169">Hı hı. </event>
+<event start="T169" end="T170">Tamam. </event>
+<event start="T172" end="T173">Hı doksan birde işe </event>
+<event start="T173" end="T174">başladım. </event>
+<event start="T182" end="T183">• • </event>
+<event start="T183" end="T184">Hî˙ </event>
+<event start="T186" end="T187">Hı́ üç </event>
+<event start="T187" end="T188">sene </event>
+<event start="T188" end="T189">çalıştım doksan dörtde. </event>
+<event start="T189" end="T190">((nefes alır)) </event>
+<event start="T190" end="T191">Ondan </event>
+<event start="T191" end="T192">sonra ka</event>
+<event start="T192" end="T193">dın hastalığı</event>
+<event start="T193" end="T194">nda yattım. </event>
+<event start="T194" end="T195">(Bana) </event>
+<event start="T195" end="T196">çıkış geldi.</event>
+<event start="T196" end="T197">• • </event>
+<event start="T197" end="T198">((nefes alır)) </event>
+<event start="T198" end="T199">Ondan sonra o o (fabrika) (kağıt) ((anl.)) olmadı. </event>
+<event start="T199" end="T200">Şimdi burada bir doğum yaptım. </event>
+<event start="T200" end="T201">Ondan sonra </event>
+<event start="T201" end="T202">ben </event>
+<event start="T202" end="T203">Rente </event>
+<event start="T203" end="T204">olabilir miyim? </event>
+<event start="T204" end="T205">Eli </event>
+<event start="T205" end="T206">sekiz yaşındayım </event>
+<event start="T206" end="T207">şimdı́. </event>
+<event start="T228" end="T229">Hı˙ </event>
+<event start="T229" end="T230">((nefes alır)) </event>
+<event start="T230" end="T231">Üç sene </event>
+<event start="T231" end="T232">çalış</event>
+<event start="T232" end="T233">tım hı. </event>
+<event start="T235" end="T236">((anl.)) (diyor</event>
+<event start="T236" end="T237">um y</event>
+<event start="T237" end="T238">a). </event>
+<event start="T241" end="T243">((anl.))˙ </event>
+<event start="T246" end="T247">• • </event>
+<event start="T247" end="T248">Hı doksansenede üç sene çalıştım. </event>
+<event start="T248" end="T249">İşte (bu) hiç bi/ bir şey gelmedi (bir kez)… </event>
+<event start="T249" end="T250">Bazen bir </event>
+<event start="T250" end="T251">Rente </event>
+<event start="T251" end="T252">kağıtlerı </event>
+<event start="T252" end="T253">geliyor Alman/ Almanya şeyinden. </event>
+<event start="T256" end="T257">Hı eli sekiz</event>
+<event start="T257" end="T258">yaşında işte. </event>
+<event start="T258" end="T259">Şimdi eli sekiz yaşındayım.</event>
+<event start="T259" end="T260">• • </event>
+<event start="T260" end="T261">Hı ben </event>
+<event start="T261" end="T262">kapatim, </event>
+<event start="T262" end="T263">dinleyim ı av/ avukat, oldu mu? </event>
+<event start="T267" end="T268">Hî˙ </event>
+<event start="T269" end="T270">((anl.))˙ </event>
+</tier><tier id="TIE5" speaker="SPK1" category="de" type="a" display-name="ANR [de]"><event start="T5" end="T6">• • </event>
+<event start="T6" end="T7">Guten Tag. </event>
+<event start="T12" end="T13">• • </event>
+<event start="T13" end="T14">((atmet ein)) </event>
+<event start="T14" end="T15">Also ich rufe aus Deutschland an. </event>
+<event start="T16" end="T18">Ja also ähm ich wollte mit einem Anwalt sprechen. </event>
+<event start="T23" end="T24">Ah ein Anwalt • natürlich. </event>
+<event start="T27" end="T29">Hm, Şerif wer? </event>
+<event start="T33" end="T34">Ja, also ich habe einundneunzig eine Arbeitsstelle angetreten. </event>
+<event start="T35" end="T36">Und dann </event>
+<event start="T36" end="T37">((unv.)) zweitausendvier lag ich im Frauenkrankenhaus. </event>
+<event start="T37" end="T38">((atmet ein)) </event>
+<event start="T38" end="T39">Drei Jahre habe ich gearbeitet ((unv.)) </event>
+<event start="T39" end="T40">• • </event>
+<event start="T40" end="T41">((atmet ein)) </event>
+<event start="T41" end="T42">Und dann drei Jahre ((unv.)) gearbeitet…</event>
+<event start="T45" end="T46">Hm̌˙ </event>
+<event start="T46" end="T49">•  Ich hatte doch einundneunzig eine Arbeitsstelle angetreten. </event>
+<event start="T52" end="T54">Dann… </event>
+<event start="T59" end="T60">((atmet ein)) </event>
+<event start="T60" end="T62">Ich habe hier ein Kind bekommen. </event>
+<event start="T62" end="T64">Ich bin achtundfünfzig Jahre alt. </event>
+<event start="T64" end="T68">Kann ich hier meine Rente bekommen? </event>
+<event start="T78" end="T79">Hm̂˙ </event>
+<event start="T84" end="T85">• </event>
+<event start="T85" end="T86">Hm̂˙ </event>
+<event start="T91" end="T92">• • </event>
+<event start="T92" end="T93">Hm̂, einundneunzig habe ich eine Arbeitsstelle angetreten. </event>
+<event start="T94" end="T95">Ḿhm̀˙ • </event>
+<event start="T95" end="T97">Und dann zweitausendundvier ((unv.))… </event>
+<event start="T98" end="T99">Man hat mich gekündigt zweitausendvier. </event>
+<event start="T99" end="T100">• </event>
+<event start="T100" end="T101">Und dann äh… </event>
+<event start="T101" end="T102">Aber ich habe doch vierundneunzig gesagt. </event>
+<event start="T102" end="T103">((atmet ein)) </event>
+<event start="T103" end="T104">Vierundneunzig hat man mich gekündigt und auch hier Kind ((unv.)) geboren. </event>
+<event start="T104" end="T105">((atmet ein)) </event>
+<event start="T105" end="T106">Und wenn ich hier ein Kind habe, kann ich dann in Rente gehen? </event>
+<event start="T106" end="T107">Ich bin achtundfünfzig Jahre alt. </event>
+<event start="T110" end="T111">• • </event>
+<event start="T111" end="T112">H́m̀˙ </event>
+<event start="T112" end="T113">((atmet ein)) </event>
+<event start="T113" end="T114">• • </event>
+<event start="T114" end="T115">Ja, ich habe den Fernsehton ausgemacht ja. </event>
+<event start="T117" end="T118">• • </event>
+<event start="T118" end="T119">Hm̂˙ </event>
+<event start="T119" end="T120">((atmet ein)) </event>
+<event start="T120" end="T124">Und dann habe ich doch neunzehnhunderteinundneunzig eine Arbeitsstelle für drei Jahre gehabt </event>
+<event start="T125" end="T126">• </event>
+<event start="T126" end="T127">(in der Fabrik). </event>
+<event start="T127" end="T128">• • • </event>
+<event start="T128" end="T129">((atmet ein)) </event>
+<event start="T129" end="T130">Und dann zweitausendundvier/ </event>
+<event start="T130" end="T131">Und dann tausend ä / tausend ä… </event>
+<event start="T131" end="T132">((anl.)) Da habe ich vier, drei Jahre gearbeitet. </event>
+<event start="T132" end="T133">((atmet ein)) </event>
+<event start="T133" end="T136">Neunzehnhundertvierundneunzig/ vierundneunzig habe ich für zwei Wochen im Frauenkrankenhaus gelegen.  </event>
+<event start="T136" end="T137">Und dann </event>
+<event start="T137" end="T138">((atmet ein)) </event>
+<event start="T138" end="T139">habt man mir gekündigt. </event>
+<event start="T139" end="T140">Ein Jahr habe ich Arbeitslosengeld erhalten. </event>
+<event start="T141" end="T143">Und dann bin ich jetzt fünfundachtzig Jahre alt. </event>
+<event start="T143" end="T146">Wenn ich hier ein Kind habe, kann ich dann in Rente gehen? </event>
+<event start="T146" end="T147">Ich bin fünfundachtzig Jahre alt. </event>
+<event start="T151" end="T152">• • </event>
+<event start="T152" end="T155">Ja, dann rufe ich wieder an. </event>
+<event start="T155" end="T156">Einverstanden? </event>
+<event start="T161" end="T165">((unv.)) soll ich auflegen? </event>
+<event start="T167" end="T168">• </event>
+<event start="T168" end="T169">Hm hm. </event>
+<event start="T169" end="T170">Schon gut. </event>
+<event start="T172" end="T174">Ja, einundneunzig habe ich angefangen zu arbeiten. </event>
+<event start="T182" end="T183">• • </event>
+<event start="T183" end="T184">Hm̂˙ </event>
+<event start="T186" end="T189">Ja, drei Jahre habe ich vierundneunzig gearbeitet. </event>
+<event start="T189" end="T190">((atmet ein)) </event>
+<event start="T190" end="T194">Und dann habe ich wegen einer Frauenkrankheit gelegen. </event>
+<event start="T194" end="T196">Ich wurde gekündigt. </event>
+<event start="T196" end="T197">• • </event>
+<event start="T197" end="T198">((atmet ein)) </event>
+<event start="T198" end="T199">Und dann in der Fabrik (die Unterlagen) ((unv.)) ist nicht geworden. </event>
+<event start="T199" end="T200">Nun habe ich hier ein Kind auf die Welt gebracht. </event>
+<event start="T200" end="T204">Kann ich dann in Rente gehen? </event>
+<event start="T204" end="T207">Ich bin jetzt fünfundachtzig Jahre alt. </event>
+<event start="T228" end="T229">Hm˙ </event>
+<event start="T229" end="T230">((atmet ein)) </event>
+<event start="T230" end="T233">Drei Jahre habe ich gearbeitet, a. </event>
+<event start="T235" end="T238">((unv.)) (Sage ich doch). </event>
+<event start="T241" end="T243">((unv.))˙ </event>
+<event start="T246" end="T247">• • </event>
+<event start="T247" end="T248">Also in den neunziger Jahren habe ich drei Jahre gearbeitet. </event>
+<event start="T248" end="T249">Also hier ist nichts bei rausgekommen (einmal)… </event>
+<event start="T249" end="T253">Manchmal bekomme ich Rente-Unterlagen aus Deutsch/ Deutschland Dings erhalten. </event>
+<event start="T256" end="T258">Ja also ich bin achtundfünfzig Jahre. </event>
+<event start="T258" end="T259">Jetzt bin ich achtundfünfzig Jahre alt. </event>
+<event start="T259" end="T260">• • </event>
+<event start="T260" end="T262">Ja ich lege dann mal auf, </event>
+<event start="T262" end="T263">höre dem Anw/ dem Anwalt zu, einverstanden? </event>
+<event start="T267" end="T268">Hî˙ </event>
+<event start="T269" end="T270">((unv.))˙ </event>
+</tier><tier id="TIE6" speaker="SPK1" category="en" type="a" display-name="ANR [en]"><event start="T5" end="T6">• • </event>
+<event start="T6" end="T7">Good afternoon. </event>
+<event start="T12" end="T13">• • </event>
+<event start="T13" end="T14">((breathes in)) </event>
+<event start="T14" end="T15">Well I am calling from Germany. </event>
+<event start="T16" end="T18">Well I wanted to talk to a lawyer. </event>
+<event start="T23" end="T24">Yes a lawyer • of course. </event>
+<event start="T27" end="T29">Well, Şerif who? </event>
+<event start="T33" end="T34">Well ninety-one I got a job. </event>
+<event start="T35" end="T36">And then </event>
+<event start="T36" end="T37">((inc.)) two thousend and four I was in gynaecological-hospital. </event>
+<event start="T37" end="T38">((breathes in)) </event>
+<event start="T38" end="T39">I worked for three years ((inc.)) </event>
+<event start="T39" end="T40">• • </event>
+<event start="T40" end="T41">((breathes in)) </event>
+<event start="T41" end="T42">And then worked for ((inc.)) three years. </event>
+<event start="T45" end="T46">Yes. </event>
+<event start="T46" end="T49">• You know ninety-one I got a job. </event>
+<event start="T52" end="T54">Then… </event>
+<event start="T59" end="T60">((breathes in)) </event>
+<event start="T60" end="T62">And I got a child here. </event>
+<event start="T62" end="T64">I am fifty-eight years old. </event>
+<event start="T64" end="T68">May I get my pension here? </event>
+<event start="T78" end="T79">Yes. </event>
+<event start="T84" end="T85">• </event>
+<event start="T85" end="T86">Yes. </event>
+<event start="T91" end="T92">• • </event>
+<event start="T92" end="T93">Yes ninety-one I got a job. </event>
+<event start="T94" end="T95">Yes. • </event>
+<event start="T95" end="T97">And then two thousend and four ((inc.))… </event>
+<event start="T98" end="T99">Twothousend and four I got a sack. </event>
+<event start="T99" end="T100">• </event>
+<event start="T100" end="T101">And then eh… </event>
+<event start="T101" end="T102">But I have said ninety-four. </event>
+<event start="T102" end="T103">((breathes in)) </event>
+<event start="T103" end="T104">Ninety-four I got a sack and the child ((inc.)) born here. </event>
+<event start="T104" end="T105">((breathes in)) </event>
+<event start="T105" end="T106">And if I have a child here, can I go on pension? </event>
+<event start="T106" end="T107">I am fifty-eight years old. </event>
+<event start="T110" end="T111">• • </event>
+<event start="T111" end="T112">Yes. </event>
+<event start="T112" end="T113">((breathes in)) </event>
+<event start="T113" end="T114">• • </event>
+<event start="T114" end="T115">Yes I have switched off the TV sound, yes. </event>
+<event start="T117" end="T118">• • </event>
+<event start="T118" end="T119">Yes. </event>
+<event start="T119" end="T120">((breathes in)) </event>
+<event start="T120" end="T124">In the year nineteen ninety-nine I got a job for three years. </event>
+<event start="T125" end="T126">• </event>
+<event start="T126" end="T127">(in the factory). </event>
+<event start="T127" end="T128">• • • </event>
+<event start="T128" end="T129">((breathes in)) </event>
+<event start="T129" end="T130">And then twothousend and foour </event>
+<event start="T130" end="T131">And then thousand e/ thousand e… </event>
+<event start="T131" end="T132">((anl.)) There I worked for four, three years. </event>
+<event start="T132" end="T133">((breathes in)) </event>
+<event start="T133" end="T136">Nineteen ninety-four/ ninety-four I have been in a gynaeic-hospital  for two weeks. </event>
+<event start="T136" end="T137">And then </event>
+<event start="T137" end="T138">((breathes in)) </event>
+<event start="T138" end="T139">I got a sack. </event>
+<event start="T139" end="T140">I got unemployment benefit for one year. </event>
+<event start="T141" end="T143">And then now I am fifty-eight years old. </event>
+<event start="T143" end="T146">If I have a child here, can I go on pension? </event>
+<event start="T146" end="T147">I am fifty-eight years old. </event>
+<event start="T151" end="T152">• • </event>
+<event start="T152" end="T155">Yes, then I call again. </event>
+<event start="T155" end="T156">Okay? </event>
+<event start="T161" end="T165">((inc.)) should I hang up? </event>
+<event start="T167" end="T168">• </event>
+<event start="T168" end="T169">Yes yes. </event>
+<event start="T169" end="T170">It's allright. </event>
+<event start="T172" end="T174">Yes ninety-one I began to work. </event>
+<event start="T182" end="T183">• • </event>
+<event start="T183" end="T184">Yes. </event>
+<event start="T186" end="T189">Yes, I worked for four years ninety-four. </event>
+<event start="T189" end="T190">((breathes in)) </event>
+<event start="T190" end="T194">And then I laid because of a gynaecological disorder. </event>
+<event start="T194" end="T196">I got the sack. </event>
+<event start="T196" end="T197">• • </event>
+<event start="T197" end="T198">((breathes in)) </event>
+<event start="T198" end="T199">And then in the factory (the documents) ((inc.)) it didn't work. </event>
+<event start="T199" end="T200">Well I beared a child here. </event>
+<event start="T200" end="T204">And then may I go on pension? </event>
+<event start="T204" end="T207">Now I am fifty-eight years old. </event>
+<event start="T228" end="T229">Yes. </event>
+<event start="T229" end="T230">((breathes in)) </event>
+<event start="T230" end="T233">I worked for four years, yes. </event>
+<event start="T235" end="T238">((inc.)) but thats what I am saying. </event>
+<event start="T241" end="T243">((inc.))˙ </event>
+<event start="T246" end="T247">• • </event>
+<event start="T247" end="T248">Well in the nineties I worked for four years. </event>
+<event start="T248" end="T249">Well nothing didn't come out (once)</event>
+<event start="T249" end="T253">Sometimes I was getting some pension documents from German/ Germany something. . </event>
+<event start="T256" end="T258">Well I am fifty-eight years old. </event>
+<event start="T258" end="T259">Now I am fifty-eight years old. </event>
+<event start="T259" end="T260">• • </event>
+<event start="T260" end="T263">Well I hang up then, listen to the law/ lawyer, okay? </event>
+<event start="T267" end="T268">Yes. </event>
+<event start="T269" end="T270">((inc.))˙ </event>
+</tier><tier id="TIE9" speaker="SPK1" category="k" type="a" display-name="ANR [k]"><event start="T17" end="T18">for: konuşacaktım </event>
+<event start="T45" end="T46">affirmative </event>
+<event start="T61" end="T62">for: bir de </event>
+<event start="T64" end="T65">in german for: pension </event>
+<event start="T66" end="T67">for: burada </event>
+<event start="T78" end="T79">affirmative </event>
+<event start="T85" end="T86">affirmative </event>
+<event start="T94" end="T95">affirmative </event>
+<event start="T111" end="T112">affirmative </event>
+<event start="T118" end="T119">affirmative </event>
+<event start="T120" end="T124">faster </event>
+<event start="T134" end="T135">for: hastanesinde </event>
+<event start="T144" end="T145">in german for: pension </event>
+<event start="T154" end="T155">for: edeyim </event>
+<event start="T163" end="T164">for: kapatayım </event>
+<event start="T168" end="T169">affirmative </event>
+<event start="T183" end="T184">affirmative </event>
+<event start="T200" end="T202">fast </event>
+<event start="T202" end="T203">in german for: pension</event>
+<event start="T203" end="T204">fast</event>
+<event start="T204" end="T207">fast</event>
+<event start="T228" end="T229">affirmative </event>
+<event start="T250" end="T251">in german for: pension </event>
+<event start="T251" end="T252">for: kağıtları </event>
+<event start="T261" end="T262">for: kapatayım </event>
+<event start="T267" end="T268">affirmative </event>
+</tier><tier id="TIE7" category="nn" type="d" display-name="[nn]"><event start="T0" end="T1">((telefon çalır, 0,5s)) ((telephone ringing, 0,5s)) </event>
+<event start="T107" end="T110">((televizyon sesleri)) ((TV-sound)) </event>
+</tier></basic-body>
+</basic-transcription>
