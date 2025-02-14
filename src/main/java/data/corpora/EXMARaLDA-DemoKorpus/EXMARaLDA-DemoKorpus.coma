@@ -1124,7 +1124,7 @@
     <!-- ******************************** -->
     <!-- ******************************** -->
 
-    <Communication Id="C_SerifIssi"
+    <!-- <Communication Id="C_SerifIssi"
       Name="Serif Issi: Expertenauskunft">
       <Setting>
         <Description />
@@ -1196,12 +1196,8 @@
           <Key Name="Transcription status">fully transcribed</Key>
           <Key Name="segmented">true</Key>
         </Description>
-      </Transcription>
+      </Transcription> 
 
-      <!-- ******************************** -->
-      <!-- ******************************** -->
-      <!-- ******************************** -->
-      
 
       <Recording Id="RID24ADED32-B782-E9B8-E9EB-EAA8AAA44D7A">
         <Name>Expertenauskunft</Name>
@@ -1213,7 +1209,11 @@
           <NSLink>SerifIssi/SerifIssi.wav</NSLink>
         </Media>
       </Recording>
-    </Communication>
+    </Communication> -->
+  
+    <!-- ********************************* -->
+    <!-- ********************************* -->
+    <!-- ********************************* -->
     
     <Speaker Id="IDC8FE7935-0C4F-FAFD-6E0A-1A05D0166222">
       <Sigle>AC</Sigle>
