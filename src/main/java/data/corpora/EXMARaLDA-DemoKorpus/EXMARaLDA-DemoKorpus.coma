@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  Id="IDA6876531-A9D8-3C38-9BAA-BB30AFE13DB4" Name="EXMARaLDA-DemoKorpus"
-  uniqueSpeakerDistinction="//speaker/abbreviation"
-  xsi:noNamespaceSchemaLocation="http://www.exmaralda.org/xml/CoMaCorpus.xsd">
+<?xml version="1.0" encoding="UTF-8"?><Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="IDA6876531-A9D8-3C38-9BAA-BB30AFE13DB4" Name="EXMARaLDA-DemoKorpus" uniqueSpeakerDistinction="//speaker/abbreviation" xsi:noNamespaceSchemaLocation="http://www.exmaralda.org/xml/CoMaCorpus.xsd">
   <DBNode/>
   <CorpusData>
     <!-- ******************************** -->
@@ -34,7 +30,7 @@
         <NSLink>AnneWill/AnneWill.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID50033F28-D20F-9912-A793-45272C398F0A</Key>
+          <Key Name="Recording ID">MID50033F28-D20F-9912-A793-45272C398F0A;MIDDB2FB9E1-1E37-E90E-F7ED-064EDE7AC301</Key>
         </Description>
       </Transcription>
       <!-- ////////////////// -->
@@ -43,7 +39,7 @@
         <Filename>AnneWill.xml</Filename>
         <NSLink>AnneWill/AnneWill.xml</NSLink>
         <Description>
-          <Key Name="Recording ID">MID50033F28-D20F-9912-A793-45272C398F0A</Key>
+          <Key Name="Recording ID">MID50033F28-D20F-9912-A793-45272C398F0A;MIDDB2FB9E1-1E37-E90E-F7ED-064EDE7AC301</Key>
         </Description>
       </Transcription>
       <!-- ////////////////// -->
@@ -136,7 +132,7 @@
         <NSLink>Beckhams/Beckhams.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID8FED5BE3-D35F-691E-37CC-F420DA31913D</Key>
+          <Key Name="Recording ID">MID8FED5BE3-D35F-691E-37CC-F420DA31913D;MIDB3864BB3-2289-02B4-65C0-B2DC29C392CA</Key>
         </Description>
       </Transcription>
       <!-- ////////////////// -->
@@ -145,7 +141,7 @@
         <Filename>Beckhams.xml</Filename>
         <NSLink>Beckhams/Beckhams.xml</NSLink>
         <Description>
-          <Key Name="Recording ID">MID8FED5BE3-D35F-691E-37CC-F420DA31913D</Key>
+          <Key Name="Recording ID">MID8FED5BE3-D35F-691E-37CC-F420DA31913D;MIDB3864BB3-2289-02B4-65C0-B2DC29C392CA</Key>
         </Description>
       </Transcription>
       <!-- ////////////////// -->
@@ -229,7 +225,7 @@
         <NSLink>Royal/Royal.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID5501F873-8D95-3B4D-77F0-DAFFDA1CDE81</Key>
+          <Key Name="Recording ID">MID5501F873-8D95-3B4D-77F0-DAFFDA1CDE81;MID83D1C940-32C7-FC74-5848-8C8D247840D9</Key>
         </Description>
       </Transcription>
       <!-- ////////////////// -->
@@ -239,7 +235,7 @@
         <NSLink>Royal/Royal.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID5501F873-8D95-3B4D-77F0-DAFFDA1CDE81</Key>
+          <Key Name="Recording ID">MID5501F873-8D95-3B4D-77F0-DAFFDA1CDE81;MID83D1C940-32C7-FC74-5848-8C8D247840D9</Key>
         </Description>
       </Transcription>
       <!-- ////////////////// -->
@@ -320,7 +316,7 @@
         <NSLink>Gasperini/Gasperini.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID03E10411-C607-EBBB-CE4A-ECEDE7FBF5EB</Key>
+          <Key Name="Recording ID">MID03E10411-C607-EBBB-CE4A-ECEDE7FBF5EB;MIDCE99F08B-A465-21B4-8397-769119FE1DEA</Key>
         </Description>
       </Transcription>
       <!-- ////////////////// -->
@@ -330,7 +326,7 @@
         <NSLink>Gasperini/Gasperini.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID03E10411-C607-EBBB-CE4A-ECEDE7FBF5EB</Key>
+          <Key Name="Recording ID">MID03E10411-C607-EBBB-CE4A-ECEDE7FBF5EB;MIDCE99F08B-A465-21B4-8397-769119FE1DEA</Key>
         </Description>
       </Transcription>
       <!-- ////////////////// -->
@@ -411,7 +407,7 @@
         <NSLink>Savater/Savater.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">RID77A52F7B-83AA-A416-9E04-B300DFBD19AD</Key>
+          <Key Name="Recording ID">MID1B5B1620-EE57-37F5-3A3B-3F743AD948AC</Key>
         </Description>
       </Transcription>
       <Transcription Id="Savater">
@@ -420,7 +416,7 @@
         <NSLink>Savater/Savater.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">RID77A52F7B-83AA-A416-9E04-B300DFBD19AD</Key>
+          <Key Name="Recording ID">MID1B5B1620-EE57-37F5-3A3B-3F743AD948AC</Key>
         </Description>
       </Transcription>
       <Transcription Id="EXS_Savater">
@@ -499,7 +495,7 @@
         <NSLink>BatatasFritas/BatatasFritas.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID2EC84370-71CF-29B3-0B90-2EFF7991DBA5</Key>
+          <Key Name="Recording ID">MID14B19624-2079-95D2-9936-BEEF91340404;MID2EC84370-71CF-29B3-0B90-2EFF7991DBA5</Key>
         </Description>
       </Transcription>
       <Transcription Id="BatatasFritas">
@@ -508,7 +504,7 @@
         <NSLink>BatatasFritas/BatatasFritas.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID2EC84370-71CF-29B3-0B90-2EFF7991DBA5</Key>
+          <Key Name="Recording ID">MID14B19624-2079-95D2-9936-BEEF91340404;MID2EC84370-71CF-29B3-0B90-2EFF7991DBA5</Key>
         </Description>
       </Transcription>
       <Transcription Id="EXS_BatatasFritas">
@@ -598,7 +594,7 @@
         <NSLink>NTVshniki/NTVshniki.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID0F82B57D-831C-F438-B71E-00287E1FE25E</Key>
+          <Key Name="Recording ID">MID6CF35E4A-4D90-76C3-C9D9-F41AD1822C39;MID0F82B57D-831C-F438-B71E-00287E1FE25E</Key>
         </Description>
       </Transcription>
       <Transcription Id="NTVshniki">
@@ -607,7 +603,7 @@
         <NSLink>NTVshniki/NTVshniki.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID0F82B57D-831C-F438-B71E-00287E1FE25E</Key>
+          <Key Name="Recording ID">MID6CF35E4A-4D90-76C3-C9D9-F41AD1822C39;MID0F82B57D-831C-F438-B71E-00287E1FE25E</Key>
         </Description>
       </Transcription>
       <Transcription Id="EXS_NTVshniki">
@@ -695,7 +691,7 @@
         <NSLink>RudiVoellerWutausbruch/RudiVoellerWutausbruch.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MIDAFECF98F-D7AA-B20A-C2C5-77E5E3477563</Key>
+          <Key Name="Recording ID">MID80FD3FD2-881F-0D02-B307-6245408B0394;MIDAFECF98F-D7AA-B20A-C2C5-77E5E3477563</Key>
         </Description>
       </Transcription>
       <Transcription Id="RudiVoellerWutausbruch">
@@ -704,7 +700,7 @@
         <NSLink>RudiVoellerWutausbruch/RudiVoellerWutausbruch.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MIDAFECF98F-D7AA-B20A-C2C5-77E5E3477563</Key>
+          <Key Name="Recording ID">MID80FD3FD2-881F-0D02-B307-6245408B0394;MIDAFECF98F-D7AA-B20A-C2C5-77E5E3477563</Key>
         </Description>
       </Transcription>
       <Transcription Id="EXS_RudiVoellerWutausbruch">
@@ -795,7 +791,7 @@
         <NSLink>SzymonMajewski/SzymonMajewski.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID6C6BF9E0-1E24-E421-D97E-E252B03094FA</Key>
+          <Key Name="Recording ID">MIDA2CD0DF2-9A1C-F099-6A0A-5C8750471174;MID6C6BF9E0-1E24-E421-D97E-E252B03094FA</Key>
         </Description>
       </Transcription>
       <Transcription Id="SzymonMajewski">
@@ -804,7 +800,7 @@
         <NSLink>SzymonMajewski/SzymonMajewski.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID6C6BF9E0-1E24-E421-D97E-E252B03094FA</Key>
+          <Key Name="Recording ID">MIDA2CD0DF2-9A1C-F099-6A0A-5C8750471174;MID6C6BF9E0-1E24-E421-D97E-E252B03094FA</Key>
         </Description>
       </Transcription>
       <Transcription Id="EXS_SzymonMajewski">
