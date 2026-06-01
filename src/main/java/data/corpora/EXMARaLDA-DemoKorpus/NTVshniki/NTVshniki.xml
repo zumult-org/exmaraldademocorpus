@@ -200,10 +200,10 @@
                   <w xml:id="w4454" norm="я" pos="P-1-snn" lemma="я" phon="j ' a">я</w>
                   <w xml:id="w4455" norm="депутат" pos="Ncmsny" lemma="депутат" phon="d_j e . p u . t a t">депутат</w>
                   <pc xml:id="pc855">,</pc>
-                  <pause type="short" xml:id="p238" />
+                  <pause rend="•" type="short" xml:id="p238" />
                   <anchor synch="T2" />
                   <w xml:id="w4456" norm="уy" pos="-" lemma="уy" phon="' u">уy</w>
-                  <pause type="short" xml:id="p239" />
+                  <pause rend="•" type="short" xml:id="p239" />
                   <w xml:id="w4457" norm="слободского" pos="Afpmsgf" lemma="слободского" phon="s l o . b o d s . k a . v a">Слободского</w>
                   <w xml:id="w4458" norm="района" pos="Ncmsgn" lemma="район" phon="r a . j o . n a">района</w>
                   <pc xml:id="pc856">,</pc>
@@ -225,7 +225,7 @@
                <seg xml:id="seg1" type="utterance" subtype="declarative">
                   <anchor synch="T3" />
                   <w xml:id="w4461" norm="aa" pos="-" lemma="aa" phon="'">aa</w>
-                  <pause type="short" xml:id="p240" />
+                  <pause rend="•" type="short" xml:id="p240" />
                   <w xml:id="w4462" norm="я" pos="P-1-snn" lemma="я" phon="j ' a">Я</w>
                   <w xml:id="w4463" norm="получил" pos="Vmis-sma-p" lemma="получить" phon="p o . l u . tS_j i l">получил</w>
                   <w xml:id="w4464" norm="письмо" pos="Ncnsan" lemma="письмо" phon="p_j i . s_j m o">письмо</w>
@@ -237,7 +237,7 @@
                   <pc xml:id="pc858">,</pc>
                   <w xml:id="w4470" norm="у" pos="Sp-g" lemma="у" phon="' u">у</w>
                   <w xml:id="w4471" norm="них" pos="P-3-pgn" lemma="они" phon="n_j ' i x">них</w>
-                  <pause type="short" xml:id="p241" />
+                  <pause rend="•" type="short" xml:id="p241" />
                   <anchor synch="T4" />
                   <w xml:id="w4472" norm="а" pos="C" lemma="а" phon="' a">а</w>
                   <pc xml:id="pc859">,</pc>
@@ -291,7 +291,7 @@
                   <w xml:id="w4487" norm="не" pos="Q" lemma="не" phon="n_j ' e">не</w>
                   <w xml:id="w4488" norm="просим" pos="Vmip1p-a-e" lemma="просить" phon="p r o . s_j i m">просим</w>
                   <pc xml:id="pc865">,</pc>
-                  <pause type="short" xml:id="p242" />
+                  <pause rend="•" type="short" xml:id="p242" />
                   <w xml:id="w4489" norm="мы" pos="P-1-pnn" lemma="мы" phon="m ' 1">мы</w>
                   <w xml:id="w4490" norm="работаем" pos="Vmip1p-a-e" lemma="работать" phon="r a . b o . t a . j e m">работаем</w>
                   <pc xml:id="pc866">.</pc>
@@ -312,11 +312,11 @@
                   <w xml:id="w4491" norm="они" pos="P-3-pnn" lemma="они" phon="o . n_j i">Они</w>
                   <w xml:id="w4492" norm="работают" pos="Vmip3p-a-e" lemma="работать" phon="r a . b o . t a . j u t">работают</w>
                   <w xml:id="w4493" norm="ну" pos="Q" lemma="ну" phon="n ' u">ну</w>
-                  <pause type="short" xml:id="p243" />
+                  <pause rend="•" type="short" xml:id="p243" />
                   <w xml:id="w4494" norm="в" pos="Sp-l" lemma="в" phon="' v">в</w>
-                  <pause type="short" xml:id="p244" />
+                  <pause rend="•" type="short" xml:id="p244" />
                   <w xml:id="w4495" norm="ва" pos="-" lemma="ва" phon="v ' a">ва</w>
-                  <pause type="short" xml:id="p245" />
+                  <pause rend="•" type="short" xml:id="p245" />
                   <w xml:id="w4496" norm="в" pos="Sp-l" lemma="в" phon="' v">в</w>
                   <w xml:id="w4497" norm="интернете" pos="Ncmsln" lemma="интернет" phon="i n . t_j e r . n_j e . t_j e">интернете</w>
                   <pc xml:id="pc867">.</pc>
@@ -352,7 +352,7 @@
                   <w xml:id="w4509" norm="получить" pos="Vmn----a-p" lemma="получить" phon="p o . l u . tS_j i t_j">получить</w>
                   <w xml:id="w4510" norm="однокомнатную" pos="Afpfsaf" lemma="однокомнатный" phon="o . d n o . k o . m n a . t n u . j u">однокомнатную</w>
                   <w xml:id="w4511" norm="квартиру" pos="Ncfsan" lemma="квартира" phon="k v a r . t_j i . r u">квартиру</w>
-                  <pause type="short" xml:id="p246" />
+                  <pause rend="•" type="short" xml:id="p246" />
                   <w xml:id="w4512" norm="в" pos="Sp-l" lemma="в" phon="' v">в</w>
                   <w xml:id="w4513" norm="хрущобе" pos="Ncmsln" lemma="хрущоб" phon="x r u . S_j o . b_j e">хрущобе</w>
                   <w xml:id="w4514" norm="на" pos="Sp-l" lemma="на" phon="n ' a">на</w>
@@ -402,7 +402,7 @@
                   <anchor synch="T11" />
                   <w xml:id="w4527" norm="а" pos="I" lemma="а" phon="' a">А</w>
                   <pc xml:id="pc875">,</pc>
-                  <pause type="short" xml:id="p247" />
+                  <pause rend="•" type="short" xml:id="p247" />
                   <w xml:id="w4528" norm="сейчас" pos="P-----r" lemma="сейчас" phon="s_j e j . tS_j a s">сейчас</w>
                   <w xml:id="w4529" norm="кое-что" pos="C" lemma="кое-что" phon="k o . j e S . t o">кое-что</w>
                   <w xml:id="w4530" norm="проверим" pos="Vmif1p-a-p" lemma="проверить" phon="p r o . v_j e . r_j i m">проверим</w>
@@ -417,7 +417,7 @@
                   <anchor synch="T13" />
                   <w xml:id="w4536" norm="умм" pos="Npmsny" lemma="умм" phon="' u m m">умм</w>
                   <pc xml:id="pc878">,</pc>
-                  <pause type="short" xml:id="p248" />
+                  <pause rend="•" type="short" xml:id="p248" />
                   <w xml:id="w4537" norm="поэтому" pos="P-----r" lemma="поэтому" phon="p o . e . t o . m u">поэтому</w>
                   <pc xml:id="pc879">,</pc>
                   <w xml:id="w4538" norm="это" pos="P--nsnn" lemma="это" phon="e . t o">это</w>
@@ -434,7 +434,7 @@
                   <anchor synch="T14" />
                   <w xml:id="w4547" norm="потош" pos="Nccpgy" lemma="потош" phon="p o . t o S">потош</w>
                   <pc xml:id="pc882">,</pc>
-                  <pause type="short" xml:id="p249" />
+                  <pause rend="•" type="short" xml:id="p249" />
                   <w xml:id="w4548" norm="конечно" pos="R" lemma="конечно" phon="k o . n_j e . S n o">конечно</w>
                   <pc xml:id="pc883">,</pc>
                   <w xml:id="w4549" norm="инвалидам" pos="Ncmpdy" lemma="инвалид" phon="i n . v a . l_j i . d a m">инвалидам</w>
@@ -468,7 +468,7 @@
                   <w xml:id="w4559" norm="имеют" pos="Vmip3p-a-e" lemma="иметь" phon="i . m_j e . j u t">имеют</w>
                   <w xml:id="w4560" norm="работу" pos="Ncfsan" lemma="работа" phon="r a . b o . t u">работу</w>
                   <pc xml:id="pc887">,</pc>
-                  <pause type="short" xml:id="p250" />
+                  <pause rend="•" type="short" xml:id="p250" />
                   <w xml:id="w4561" norm="родили" pos="Vmis-p-a-p" lemma="родить" phon="r o . d_j i . l_j i">родили</w>
                   <w xml:id="w4562" norm="здорового" pos="Afpmsaf" lemma="здоровый" phon="z d o . r o . v a . v a">здорового</w>
                   <w xml:id="w4563" norm="ребенка" pos="Ncmsay" lemma="ребенок" phon="r_j e . b_j e n . k a">ребенка</w>
@@ -478,7 +478,7 @@
                   <pc xml:id="pc889">,</pc>
                   <w xml:id="w4565" norm="слушайте" pos="Vmm-2p-a-e" lemma="слушать" phon="s l u . S a j . t_j e">слушайте</w>
                   <pc xml:id="pc890">,</pc>
-                  <pause type="short" xml:id="p251" />
+                  <pause rend="•" type="short" xml:id="p251" />
                   <w xml:id="w4566" norm="снимаю" pos="Vmip1s-a-e" lemma="снимать" phon="s n_j i . m a . j u">снимаю</w>
                   <w xml:id="w4567" norm="шляпу" pos="Ncfsan" lemma="шляпа" phon="S l_j a . p u">шляпу</w>
                   <pc xml:id="pc891">.</pc>
@@ -502,7 +502,7 @@
                   <w xml:id="w4570" norm="вот" pos="Q" lemma="вот" phon="v ' o t">вот</w>
                   <pc xml:id="pc893">,</pc>
                   <w xml:id="w4571" norm="вы" pos="P-2-pnn" lemma="вы" phon="v ' 1">Вы</w>
-                  <pause type="short" xml:id="p252" />
+                  <pause rend="•" type="short" xml:id="p252" />
                   <w xml:id="w4572" norm="мама" pos="Ncfsny" lemma="мама" phon="m a . m a">мама</w>
                   <w xml:id="w4573" norm="пятерых" pos="Mc--g" lemma="пятерых" phon="p_j a . t_j e . r 1 x">пятерых</w>
                   <w xml:id="w4574" norm="детей" pos="Ncnpgy" lemma="дитя" phon="d_j e . t_j e j">детей</w>
@@ -547,14 +547,14 @@
                   <w xml:id="w4592" norm="скать" pos="Vmn----a-p" lemma="скать" phon="s k ' a t_j">скать</w>
                   <pc xml:id="pc899">:</pc>
                   <w xml:id="w4593" norm="когда" pos="C" lemma="когда" phon="k o g . d a">когда</w>
-                  <pause type="short" xml:id="p254" />
+                  <pause rend="•" type="short" xml:id="p254" />
                   <w xml:id="w4594" norm="a" pos="-" lemma="a" phon="'">a</w>
-                  <pause type="short" xml:id="p255" />
+                  <pause rend="•" type="short" xml:id="p255" />
                   <w xml:id="w4595" norm="до" pos="Sp-g" lemma="до" phon="d ' o">до</w>
                   <w xml:id="w4596" norm="кризиса" pos="Ncmsgn" lemma="кризис" phon="k r_j i . z_j i . s a">кризиса</w>
-                  <pause type="short" xml:id="p256" />
+                  <pause rend="•" type="short" xml:id="p256" />
                   <w xml:id="w4597" norm="мхм" pos="Ncmsin" lemma="мхм" phon="' m x m">мхм</w>
-                  <pause type="short" xml:id="p257" />
+                  <pause rend="•" type="short" xml:id="p257" />
                   <w xml:id="w4598" norm="мы" pos="P-1-pnn" lemma="мы" phon="m ' 1">мы</w>
                   <w xml:id="w4599" norm="занимали" pos="Vmis-p-a-e" lemma="занимать" phon="z a . n_j i . m a . l_j i">занимали</w>
                   <w xml:id="w4600" norm="первое" pos="Monsa" lemma="первый" phon="p_j e r . v o . j e">первое</w>
@@ -578,7 +578,7 @@
                   <anchor synch="T22" />
                   <w xml:id="w4604" norm="да" pos="Q" lemma="да" phon="d ' a">Да</w>
                   <pc xml:id="pc901">,</pc>
-                  <pause type="short" xml:id="p258" />
+                  <pause rend="•" type="short" xml:id="p258" />
                   <w xml:id="w4605" norm="что" pos="C" lemma="что" phon="S t ' o">что</w>
                   <pc xml:id="pc902">?</pc>
                   <anchor synch="T23" />
@@ -677,7 +677,7 @@
                   <w xml:id="w4616" norm="тот" pos="P--msna" lemma="тот" phon="t ' o t">тот</w>
                   <w xml:id="w4617" norm="мальчик" pos="Ncmsny" lemma="мальчик" phon="m a l_j . tS_j i k">мальчик</w>
                   <pc xml:id="pc908">,</pc>
-                  <pause type="short" xml:id="p259" />
+                  <pause rend="•" type="short" xml:id="p259" />
                   <w xml:id="w4618" norm="сейчас" pos="P-----r" lemma="сейчас" phon="s_j e j . tS_j a s">сейчас</w>
                   <pc xml:id="pc909">,</pc>
                   <w xml:id="w4619" norm="секундочку" pos="Ncfsan" lemma="секундочка" phon="s_j e . k u n . d o tS_j . k u">секундочку</w>
@@ -695,7 +695,7 @@
                   <anchor synch="T31" />
                   <w xml:id="w4624" norm="чи" pos="I" lemma="чи" phon="tS_j ' i">чи</w>
                   <pc xml:id="pc914">,</pc>
-                  <pause type="short" xml:id="p260" />
+                  <pause rend="•" type="short" xml:id="p260" />
                   <w xml:id="w4625" norm="пожалуйста" pos="I" lemma="пожалуйста" phon="p o . Z a . l u j s . t a">пожалуйста</w>
                   <pc xml:id="pc915">.</pc>
                   <anchor synch="T32" />
@@ -820,7 +820,7 @@
                   <w xml:id="w4629" norm="это" pos="P--nsnn" lemma="это" phon="e . t o">это</w>
                   <w xml:id="w4630" norm="первое" pos="Monsn" lemma="первый" phon="p_j e r . v o . j e">первое</w>
                   <pc xml:id="pc918">,</pc>
-                  <pause type="short" xml:id="p262" />
+                  <pause rend="•" type="short" xml:id="p262" />
                   <w xml:id="w4631" norm="да" pos="Q" lemma="да" phon="d ' a">да</w>
                   <pc xml:id="pc919">,</pc>
                   <w xml:id="w4632" norm="второе" pos="Monsn" lemma="второй" phon="v t o . r o . j e">второе</w>
@@ -829,13 +829,13 @@
                   <w xml:id="w4635" norm="этот" pos="P--msna" lemma="этот" phon="e . t o t">этот</w>
                   <w xml:id="w4636" norm="мальчик" pos="Ncmsny" lemma="мальчик" phon="m a l_j . tS_j i k">мальчик</w>
                   <pc xml:id="pc920">,</pc>
-                  <pause type="short" xml:id="p263" />
+                  <pause rend="•" type="short" xml:id="p263" />
                   <w xml:id="w4637" norm="да" pos="C" lemma="да" phon="d ' a">да</w>
                   <pc xml:id="pc921">,</pc>
                   <w xml:id="w4638" norm="пухленький" pos="Afpmsnf" lemma="пухленький" phon="p u . x l_j e n_j . k_j i j">пухленький</w>
                   <w xml:id="w4639" norm="там" pos="P-----r" lemma="там" phon="t ' a m">там</w>
                   <pc xml:id="pc922">,</pc>
-                  <pause type="short" xml:id="p264" />
+                  <pause rend="•" type="short" xml:id="p264" />
                   <w xml:id="w4640" norm="как" pos="C" lemma="как" phon="k ' a k">как</w>
                   <w xml:id="w4641" norm="сказали" pos="Vmis-p-a-p" lemma="сказать" phon="s k a . z a . l_j i">сказали</w>
                   <pc xml:id="pc923">,</pc>
@@ -843,7 +843,7 @@
                   <w xml:id="w4642" norm="справа" pos="R" lemma="справа" phon="s p r a . v a">справа</w>
                   <w xml:id="w4643" norm="там" pos="P-----r" lemma="там" phon="t ' a m">там</w>
                   <pc xml:id="pc924">,</pc>
-                  <pause type="short" xml:id="p265" />
+                  <pause rend="•" type="short" xml:id="p265" />
                   <w xml:id="w4644" norm="и" pos="C" lemma="и" phon="' i">и</w>
                   <w xml:id="w4645" norm="так" pos="P-----r" lemma="так" phon="t ' a k">так</w>
                   <w xml:id="w4646" norm="далее" pos="R" lemma="далее" phon="d a . l_j e . e">далее</w>
@@ -902,7 +902,7 @@
                   <pc xml:id="pc931">,</pc>
                   <w xml:id="w4676" norm="понимаете" pos="Vmip2p-a-e" lemma="понимать" phon="p o . n_j i . m a . j e . t_j e">понимаете</w>
                   <pc xml:id="pc932">,</pc>
-                  <pause type="medium" xml:id="p266" />
+                  <pause rend="• •" type="medium" xml:id="p266" />
                   <w xml:id="w4677" norm="да" pos="C" lemma="да" phon="d ' a">да</w>
                   <pc xml:id="pc933">?</pc>
                   <anchor synch="T41" />
@@ -962,7 +962,7 @@
                   <anchor synch="T43" />
                   <w xml:id="w4751" norm="подождите" pos="Vmm-2p-a-p" lemma="подождать" phon="p o . d o Z . d_j i . t_j e">Подождите</w>
                   <pc xml:id="pc963">,</pc>
-                  <pause type="short" xml:id="p277" />
+                  <pause rend="•" type="short" xml:id="p277" />
                   <w xml:id="w4752" norm="сергей" pos="Npmsny" lemma="сергей" phon="s_j e r . g_j e j">Сергей</w>
                   <pc xml:id="pc964">!</pc>
                   <anchor synch="T44" />
@@ -1035,7 +1035,7 @@
                   <w xml:id="w4684" norm="сейчас" pos="P-----r" lemma="сейчас" phon="s_j e j . tS_j a s">Сейчас</w>
                   <w xml:id="w4685" norm="можно" pos="R" lemma="можно" phon="m o . Z n o">можно</w>
                   <pc xml:id="pc937">,</pc>
-                  <pause type="short" xml:id="p268" />
+                  <pause rend="•" type="short" xml:id="p268" />
                   <w xml:id="w4686" norm="секундочку" pos="Ncfsan" lemma="секундочка" phon="s_j e . k u n . d o tS_j . k u">секундочку</w>
                   <pc xml:id="pc938">!</pc>
                   <anchor synch="T47" />
@@ -1055,7 +1055,7 @@
                   <w xml:id="w4687" norm="это" pos="P--nsnn" lemma="это" phon="e . t o">Это</w>
                   <w xml:id="w4688" norm="просто" pos="Q" lemma="просто" phon="p r o s . t o">просто</w>
                   <pc xml:id="pc939">,</pc>
-                  <pause type="medium" xml:id="p269" />
+                  <pause rend="• •" type="medium" xml:id="p269" />
                   <w xml:id="w4689" norm="я" pos="P-1-snn" lemma="я" phon="j ' a">я</w>
                   <w xml:id="w4690" norm="слышал" pos="Vmis-sma-e" lemma="слышать" phon="s l 1 . S a l">слышал</w>
                   <w xml:id="w4691" norm="сегодня" pos="R" lemma="сегодня" phon="s_j e . g o . d n_j a">сегодня</w>
@@ -1080,9 +1080,9 @@
                <seg xml:id="seg45" type="utterance" subtype="exclamative">
                   <anchor synch="T48" />
                   <w xml:id="w4697" norm="тут" pos="P-----r" lemma="тут" phon="t ' u t">Тут</w>
-                  <pause type="short" xml:id="p270" />
+                  <pause rend="•" type="short" xml:id="p270" />
                   <w xml:id="w4698" norm="тут" pos="P-----r" lemma="тут" phon="t ' u t">тут</w>
-                  <pause type="short" xml:id="p271" />
+                  <pause rend="•" type="short" xml:id="p271" />
                   <w xml:id="w4699" norm="тут" pos="P-----r" lemma="тут" phon="t ' u t">тут</w>
                   <pc xml:id="pc941">!</pc>
                   <anchor synch="T49" />
@@ -1116,7 +1116,7 @@
             <u xml:id="au13_u_seg46">
                <seg xml:id="seg46" type="utterance" subtype="declarative">
                   <anchor synch="T49" />
-                  <pause type="short" xml:id="p272" />
+                  <pause rend="•" type="short" xml:id="p272" />
                   <w xml:id="w4700" norm="тут" pos="P-----r" lemma="тут" phon="t ' u t">Тут</w>
                   <w xml:id="w4701" norm="все" pos="P---pnn" lemma="все" phon="v s_j ' e">все</w>
                   <w xml:id="w4702" norm="у" pos="Sp-g" lemma="у" phon="' u">у</w>
@@ -1124,7 +1124,7 @@
                   <w xml:id="w4704" norm="главные" pos="Afpmpnf" lemma="главный" phon="g l a . v n 1 . e">главные</w>
                   <pc xml:id="pc942">,</pc>
                   <anchor synch="T50" />
-                  <pause type="short" xml:id="p273" />
+                  <pause rend="•" type="short" xml:id="p273" />
                   <w xml:id="w4705" norm="значит" pos="R" lemma="значит" phon="z n a . tS_j i t">значит</w>
                   <pc xml:id="pc943">,</pc>
                   <w xml:id="w4706" norm="одни" pos="P---pna" lemma="один" phon="o . d n_j i">одни</w>
@@ -1132,7 +1132,7 @@
                   <w xml:id="w4708" norm="летчики" pos="Ncmpny" lemma="летчик" phon="l_j e t . tS_j i . k_j i">летчики</w>
                   <pc xml:id="pc944">,</pc>
                   <anchor synch="T51" />
-                  <pause type="short" xml:id="p274" />
+                  <pause rend="•" type="short" xml:id="p274" />
                   <w xml:id="w4709" norm="другие" pos="P---pna" lemma="другой" phon="d r u . g_j i . e">другие</w>
                   <pc xml:id="pc945">,</pc>
                   <w xml:id="w4710" norm="значит" pos="R" lemma="значит" phon="z n a . tS_j i t">значит</w>
@@ -1192,7 +1192,7 @@
             <u xml:id="au13_u_seg49">
                <seg xml:id="seg49" type="utterance" subtype="declarative">
                   <anchor synch="T54" />
-                  <pause type="short" xml:id="p275" />
+                  <pause rend="•" type="short" xml:id="p275" />
                   <w xml:id="w4721" norm="честно" pos="R" lemma="честно" phon="tS_j e . s n o">Честно</w>
                   <w xml:id="w4722" norm="говоря" pos="Vmgp---a-e" lemma="говорить" phon="g o . v o . r_j a">говоря</w>
                   <pc xml:id="pc950">,</pc>
@@ -1267,7 +1267,7 @@
             <u xml:id="au5_u_seg14">
                <seg xml:id="seg14" type="utterance" subtype="interrogative">
                   <anchor synch="T58" />
-                  <pause type="medium" xml:id="p278" />
+                  <pause rend="• •" type="medium" xml:id="p278" />
                   <w xml:id="w4761" norm="ну" pos="Q" lemma="ну" phon="n ' u">Ну</w>
                   <pc xml:id="pc968">?</pc>
                   <anchor synch="T59" />
@@ -1302,7 +1302,7 @@
             <u xml:id="au5_u_seg15">
                <seg xml:id="seg15" type="utterance" subtype="exclamative">
                   <anchor synch="T59" />
-                  <pause type="medium" xml:id="p279" />
+                  <pause rend="• •" type="medium" xml:id="p279" />
                   <w xml:id="w4762" norm="давай" pos="Vmm-2s-a-e" lemma="давать" phon="d a . v a j">Давай</w>
                   <pc xml:id="pc969">,</pc>
                   <w xml:id="w4763" norm="давай" pos="Vmm-2s-a-e" lemma="давать" phon="d a . v a j">давай</w>
@@ -1343,7 +1343,7 @@
                   <w xml:id="w4770" norm="ты" pos="P-2-snn" lemma="ты" phon="t ' 1">Ты</w>
                   <w xml:id="w4771" norm="что" pos="P--nsan" lemma="что" phon="S t ' o">что</w>
                   <pc xml:id="pc973">,</pc>
-                  <pause type="short" xml:id="p280" />
+                  <pause rend="•" type="short" xml:id="p280" />
                   <w xml:id="w4772" norm="совсем" pos="R" lemma="совсем" phon="s o . v s_j e m">совсем</w>
                   <w xml:id="w4773" norm="сдурел" pos="Vmis-sma-p" lemma="сдуреть" phon="s d u . r_j e l">сдурел</w>
                   <pc xml:id="pc974">,</pc>
@@ -1351,7 +1351,7 @@
                   <w xml:id="w4775" norm="ли" pos="Q" lemma="ли" phon="l_j ' i">ли</w>
                   <pc xml:id="pc975">,</pc>
                   <anchor synch="T62" />
-                  <pause type="short" xml:id="p281" />
+                  <pause rend="•" type="short" xml:id="p281" />
                   <w xml:id="w4776" norm="дружище" pos="Ncmsny" lemma="дружище" phon="d r u . Z i . S_j e">дружище</w>
                   <pc xml:id="pc976">?</pc>
                   <anchor synch="T63" />
@@ -1369,11 +1369,11 @@
                <seg xml:id="seg70" type="utterance" subtype="declarative">
                   <anchor synch="T63" />
                   <w xml:id="w4777" norm="а" pos="C" lemma="а" phon="' a">А</w>
-                  <pause type="medium" xml:id="p282" />
+                  <pause rend="• •" type="medium" xml:id="p282" />
                   <w xml:id="w4778" norm="александр" pos="Ncmsnn" lemma="александр" phon="a . l_j e . k s a n d r">Александр</w>
                   <w xml:id="w4779" norm="евгеньевич" pos="Afpmsnf" lemma="евгеньевич" phon="e v . g_j e . n_j e . v_j i tS_j">Евгеньевич</w>
                   <pc xml:id="pc977">,</pc>
-                  <pause type="short" xml:id="p283" />
+                  <pause rend="•" type="short" xml:id="p283" />
                   <w xml:id="w4780" norm="пожалуйста" pos="Q" lemma="пожалуйста" phon="p o . Z a . l u j s . t a">пожалуйста</w>
                   <pc xml:id="pc978">.</pc>
                   <anchor synch="T64" />
@@ -1397,21 +1397,21 @@
                   <w xml:id="w4784" norm="это" pos="P--nsnn" lemma="это" phon="e . t o">это</w>
                   <w xml:id="w4785" norm="будет" pos="Vmif3s-a-e" lemma="быть" phon="b u . d_j e t">будет</w>
                   <anchor synch="T65" />
-                  <pause type="short" xml:id="p284" />
+                  <pause rend="•" type="short" xml:id="p284" />
                   <w xml:id="w4786" norm="я" pos="P-1-snn" lemma="я" phon="j ' a">я</w>
                   <w xml:id="w4787" norm="понимаю" pos="Vmip1s-a-e" lemma="понимать" phon="p o . n_j i . m a . j u">понимаю</w>
                   <pc xml:id="pc980">,</pc>
                   <w xml:id="w4788" norm="что" pos="C" lemma="что" phon="S t ' o">что</w>
                   <w xml:id="w4789" norm="это" pos="P--nsnn" lemma="это" phon="e . t o">это</w>
-                  <pause type="short" xml:id="p285" />
+                  <pause rend="•" type="short" xml:id="p285" />
                   <w xml:id="w4790" norm="будет" pos="Vmif3s-a-e" lemma="быть" phon="b u . d_j e t">будет</w>
                   <w xml:id="w4791" norm="ааа" pos="I" lemma="ааа" phon="a . a . a">ааа</w>
-                  <pause type="short" xml:id="p286" />
+                  <pause rend="•" type="short" xml:id="p286" />
                   <anchor synch="T66" />
                   <w xml:id="w4792" norm="кра" pos="Npmsay" lemma="кр" phon="k r ' a">кра</w>
-                  <pause type="short" xml:id="p287" />
+                  <pause rend="•" type="short" xml:id="p287" />
                   <w xml:id="w4793" norm="кра" pos="Npmsay" lemma="кр" phon="k r ' a">кра</w>
-                  <pause type="short" xml:id="p288" />
+                  <pause rend="•" type="short" xml:id="p288" />
                   <w xml:id="w4794" norm="сивая" pos="Vmgp---a-e" lemma="сивая" phon="s_j i . v a . j a">сивая</w>
                   <w xml:id="w4795" norm="кар" pos="Ncmsan" lemma="кар" phon="k ' a r">кар</w>
                   <anchor synch="T67" />
@@ -1481,10 +1481,10 @@
             <u xml:id="au27_u_seg72">
                <seg xml:id="seg72" type="utterance" subtype="interrogative">
                   <anchor synch="T68" />
-                  <pause type="short" xml:id="p289" />
+                  <pause rend="•" type="short" xml:id="p289" />
                   <w xml:id="w4797" norm="но" pos="C" lemma="но" phon="n ' o">Но</w>
                   <pc xml:id="pc982">,</pc>
-                  <pause type="short" xml:id="p290" />
+                  <pause rend="•" type="short" xml:id="p290" />
                   <w xml:id="w4798" norm="но" pos="C" lemma="но" phon="n ' o">но</w>
                   <w xml:id="w4799" norm="я" pos="P-1-snn" lemma="я" phon="j ' a">я</w>
                   <anchor synch="T69" />
@@ -1494,7 +1494,7 @@
                   <anchor synch="T70" />
                   <w xml:id="w4802" norm="столько" pos="Mc--n" lemma="столько" phon="s t o l_j . k o">столько</w>
                   <pc xml:id="pc984">,</pc>
-                  <pause type="short" xml:id="p291" />
+                  <pause rend="•" type="short" xml:id="p291" />
                   <w xml:id="w4803" norm="столько" pos="Mc--n" lemma="столько" phon="s t o l_j . k o">столько</w>
                   <w xml:id="w4804" norm="людей" pos="Ncmpgy" lemma="человек" phon="l_j u . d_j e j">людей</w>
                   <anchor synch="T71" />
@@ -1783,7 +1783,7 @@
                <seg xml:id="seg75" type="utterance" subtype="exclamative">
                   <anchor synch="T86" />
                   <w xml:id="w4871" norm="ус" pos="Ncmsan" lemma="ус" phon="' u s">Ус</w>
-                  <pause type="short" xml:id="p292" />
+                  <pause rend="•" type="short" xml:id="p292" />
                   <w xml:id="w4872" norm="успокойтесь" pos="Vmm-2p-m-p" lemma="успокоиться" phon="u s . p o . k o j . t_j e s_j">Успокойтесь</w>
                   <pc xml:id="pc1012">!</pc>
                   <anchor synch="T87" />
@@ -2027,7 +2027,7 @@
                   <w xml:id="w4928" norm="аю" pos="Vmip1s-a-e" lemma="ать" phon="a . j u">аю</w>
                   <pc xml:id="pc1032">,</pc>
                   <w xml:id="w4929" norm="уже" pos="R" lemma="уже" phon="u . Z e">уже</w>
-                  <pause type="medium" xml:id="p293" />
+                  <pause rend="• •" type="medium" xml:id="p293" />
                   <w xml:id="w4930" norm="два" pos="Mcm-a" lemma="два" phon="d v ' a">два</w>
                   <w xml:id="w4931" norm="часа" pos="Ncmsgn" lemma="час" phon="tS_j a . s a">часа</w>
                   <w xml:id="w4932" norm="сижу" pos="Vmip1s-a-e" lemma="сидеть" phon="s_j i . Z u">сижу</w>
@@ -2046,7 +2046,7 @@
             <u xml:id="au11_u_seg27">
                <seg xml:id="seg27" type="utterance" subtype="declarative">
                   <anchor synch="T103" />
-                  <pause type="long" xml:id="p294" />
+                  <pause rend="• • •" type="long" xml:id="p294" />
                   <w xml:id="w4933" norm="я" pos="P-1-snn" lemma="я" phon="j ' a">Я</w>
                   <w xml:id="w4934" norm="на" pos="Sp-l" lemma="на" phon="n ' a">на</w>
                   <w xml:id="w4935" norm="самом" pos="P--nsla" lemma="самый" phon="s a . m o m">самом</w>
@@ -2241,12 +2241,12 @@
                   <w xml:id="w4970" norm="подождите" pos="Vmm-2p-a-p" lemma="подождать" phon="p o . d o Z . d_j i . t_j e">Подождите</w>
                   <pc xml:id="pc1044">,</pc>
                   <w xml:id="w4971" norm="о" pos="Sp-l" lemma="о" phon="' o">о</w>
-                  <pause type="short" xml:id="p295" />
+                  <pause rend="•" type="short" xml:id="p295" />
                   <w xml:id="w4972" norm="ка" pos="Q" lemma="ка" phon="k ' a">ка</w>
-                  <pause type="short" xml:id="p296" />
+                  <pause rend="•" type="short" xml:id="p296" />
                   <w xml:id="w4973" norm="ко" pos="Sp-d" lemma="ко" phon="k ' o">ко</w>
                   <w xml:id="w4974" norm="кок" pos="Ncmsnn" lemma="кок" phon="k ' o k">кок</w>
-                  <pause type="short" xml:id="p297" />
+                  <pause rend="•" type="short" xml:id="p297" />
                   <w xml:id="w4975" norm="вообще" pos="R" lemma="вообще" phon="v o . o . b S_j e">вообще</w>
                   <w xml:id="w4976" norm="борьбе" pos="Ncfsln" lemma="борьба" phon="b o r_j . b_j e">борьбе</w>
                   <w xml:id="w4977" norm="с" pos="Sp-i" lemma="с" phon="' s">с</w>
@@ -2260,7 +2260,7 @@
                   <w xml:id="w4983" norm="идти" pos="Vmn----a-e" lemma="идти" phon="i d . t_j i">идти</w>
                   <w xml:id="w4984" norm="речь" pos="Ncfsnn" lemma="речь" phon="r_j ' e tS_j">речь</w>
                   <pc xml:id="pc1046">,</pc>
-                  <pause type="short" xml:id="p298" />
+                  <pause rend="•" type="short" xml:id="p298" />
                   <w xml:id="w4985" norm="если" pos="C" lemma="если" phon="e . s l_j i">если</w>
                   <w xml:id="w4986" norm="два" pos="Mcm-n" lemma="два" phon="d v ' a">два</w>
                   <w xml:id="w4987" norm="человека" pos="Ncmsgy" lemma="человек" phon="tS_j e . l o . v_j e . k a">человека</w>
@@ -2281,7 +2281,7 @@
                   <pc xml:id="pc1050">,</pc>
                   <w xml:id="w4993" norm="какие-то" pos="R" lemma="какие-то" phon="k a . k_j i . e . t o">какие-то</w>
                   <pc xml:id="pc1051">,</pc>
-                  <pause type="short" xml:id="p299" />
+                  <pause rend="•" type="short" xml:id="p299" />
                   <w xml:id="w4994" norm="строят" pos="Vmip3p-a-e" lemma="строить" phon="s t r o . j a t">строят</w>
                   <w xml:id="w4995" norm="бизнесы" pos="Ncmpnn" lemma="бизнес" phon="b_j i . z n_j e . s 1">бизнесы</w>
                   <pc xml:id="pc1052">.</pc>

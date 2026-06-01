@@ -636,7 +636,7 @@
             <u xml:id="au34_u_seg64">
                <seg xml:id="seg64" type="utterance" subtype="declarative">
                   <anchor synch="T1" />
-                  <pause type="medium" xml:id="p394" />
+                  <pause rend="• •" type="medium" xml:id="p394" />
                   <anchor synch="T2" />
                   <w xml:id="w6785" norm="ja" pos="NGIRR" lemma="ja" phon="j ' a">Ja</w>
                   <pc xml:id="pc1443">.</pc>
@@ -654,7 +654,7 @@
             <u xml:id="au2_u_seg1">
                <seg xml:id="seg1" type="utterance" subtype="interrogative">
                   <anchor synch="T3" />
-                  <pause type="medium" xml:id="p395" />
+                  <pause rend="• •" type="medium" xml:id="p395" />
                   <anchor synch="T4" />
                   <w xml:id="w6786" norm="wie viel" pos="PWAV PIS" lemma="wie viel" phon="v ' i: . f i: l">Wieviel</w>
                   <pc xml:id="pc1444">?</pc>
@@ -672,7 +672,7 @@
             <u xml:id="au35_u_seg65">
                <seg xml:id="seg65" type="utterance" subtype="declarative">
                   <anchor synch="T5" />
-                  <pause type="medium" xml:id="p396" />
+                  <pause rend="• •" type="medium" xml:id="p396" />
                   <anchor synch="T6" />
                   <incident rend="atmet ein" xml:id="i248">
                      <desc>atmet ein</desc>
@@ -703,7 +703,7 @@
             <u xml:id="au3_u_seg2">
                <seg xml:id="seg2" type="utterance" subtype="declarative">
                   <anchor synch="T8" />
-                  <pause type="medium" xml:id="p397" />
+                  <pause rend="• •" type="medium" xml:id="p397" />
                   <anchor synch="T9" />
                   <w xml:id="w6797" norm="eins" pos="CARD" lemma="eins" phon="? ' aI n s">Eins</w>
                   <w xml:id="w6798" norm="dreiunddreißig" pos="CARD" lemma="dreiunddreißig" phon="d r ' aI . U n t . d r aI . s I C">dreiunddreißig</w>
@@ -777,7 +777,7 @@
             <u xml:id="au36_u_seg66">
                <seg xml:id="seg66" type="utterance" subtype="declarative">
                   <anchor synch="T14" />
-                  <pause type="medium" xml:id="p398" />
+                  <pause rend="• •" type="medium" xml:id="p398" />
                   <anchor synch="T15" />
                   <incident rend="atmet ein" xml:id="i250">
                      <desc>atmet ein</desc>
@@ -870,7 +870,7 @@
             <u xml:id="au43_u_seg76">
                <seg xml:id="seg76" type="utterance" subtype="declarative">
                   <anchor synch="T22" />
-                  <pause type="medium" xml:id="p400" />
+                  <pause rend="• •" type="medium" xml:id="p400" />
                   <anchor synch="T23" />
                   <w xml:id="w6853" norm="also" pos="SEDM" lemma="also" phon="? ' a l . z o:">Also</w>
                   <w xml:id="w6854" norm="bei" pos="APPR" lemma="bei" phon="b ' aI">bei</w>
@@ -931,7 +931,7 @@
             <u xml:id="au43_u_seg78">
                <seg xml:id="seg78" type="utterance" subtype="declarative">
                   <anchor synch="T27" />
-                  <pause type="long" xml:id="p401" />
+                  <pause rend="• • •" type="long" xml:id="p401" />
                   <anchor synch="T28" />
                   <w xml:id="w6879" norm="ich" pos="PPER" lemma="ich" phon="? ' I C">Ich</w>
                   <w xml:id="w6880" norm="sparst" pos="VVFIN" lemma="sparst" phon="S p ' a r s">spars</w>
@@ -952,7 +952,7 @@
             <u xml:id="au5_u_seg7">
                <seg xml:id="seg7" type="utterance" subtype="declarative">
                   <anchor synch="T29" />
-                  <pause type="long" xml:id="p402" />
+                  <pause rend="• • •" type="long" xml:id="p402" />
                   <anchor synch="T30" />
                   <w xml:id="w6883" norm="es" pos="PPER" lemma="es" phon="? ' E s">Es</w>
                   <w xml:id="w6884" norm="ist" pos="VAFIN" lemma="sein" phon="? ' I s t">ist</w>
@@ -980,7 +980,7 @@
                   <anchor synch="T32" />
                   <w xml:id="w6888" norm="Friseur" pos="NN" lemma="Friseur" phon="f r I . z ' 2:6">Friseur</w>
                   <w xml:id="w6889" norm="ist" pos="VAFIN" lemma="sein" phon="? ' I s t">ist</w>
-                  <pause type="short" xml:id="p403" />
+                  <pause rend="•" type="short" xml:id="p403" />
                   <w xml:id="w6890" norm="oft" pos="ADV" lemma="oft" phon="? ' O f t">oft</w>
                   <w xml:id="w6891" norm="nicht" pos="PTKNEG" lemma="nicht" phon="n ' I C t">nicht</w>
                   <w xml:id="w6892" norm="drin" pos="ADV" lemma="drin" phon="d r ' I n">drin</w>
@@ -999,7 +999,7 @@
             <u xml:id="au6_u_seg8">
                <seg xml:id="seg8" type="utterance" subtype="modeless">
                   <anchor synch="T33" />
-                  <pause type="medium" xml:id="p404" />
+                  <pause rend="• •" type="medium" xml:id="p404" />
                   <anchor synch="T34" />
                   <w xml:id="w6893" norm="ḿhm̀" pos="NE" lemma="ḿhm̀" phon="? E m . h ' a: . ? E m">Ḿhm̀</w>
                   <pc xml:id="pc1458">˙</pc>
@@ -1017,7 +1017,7 @@
             <u xml:id="au6_u_seg9">
                <seg xml:id="seg9" type="utterance" subtype="declarative">
                   <anchor synch="T35" />
-                  <pause type="medium" xml:id="p405" />
+                  <pause rend="• •" type="medium" xml:id="p405" />
                   <anchor synch="T36" />
                   <w xml:id="w6894" norm="ich" pos="PPER" lemma="ich" phon="? ' I C">Ich</w>
                   <w xml:id="w6895" norm="spare" pos="VVFIN" lemma="sparen" phon="S p ' a: r">spar</w>
@@ -1095,7 +1095,7 @@
             <u xml:id="au6_u_seg12">
                <seg xml:id="seg12" type="utterance" subtype="declarative">
                   <anchor synch="T41" />
-                  <pause type="medium" xml:id="p406" />
+                  <pause rend="• •" type="medium" xml:id="p406" />
                   <anchor synch="T42" />
                   <w xml:id="w6910" norm="Frau" pos="NN" lemma="Frau" phon="f r ' aU">Frau</w>
                   <w xml:id="w6911" norm="Bartel" pos="NE" lemma="Bartel" phon="b ' a r . t @ l">Bartel</w>
@@ -1144,7 +1144,7 @@
                   <w xml:id="w6933" norm="fünfundsechzig" pos="CARD" lemma="fünfundsechzig" phon="f ' Y n . f U n t . z E C . t s I C">fünfundsechzig</w>
                   <anchor synch="T47" />
                   <w xml:id="w6934" norm="Prozent" pos="NN" lemma="Prozent" phon="p r o . ts ' E n t">Prozent</w>
-                  <pause type="medium" xml:id="p407" />
+                  <pause rend="• •" type="medium" xml:id="p407" />
                   <w xml:id="w6935" norm="gestiegen" pos="VVPP" lemma="steigen" phon="g @ . S t ' i: . g @ n">gestiegen</w>
                   <pc xml:id="pc1464">.</pc>
                   <anchor synch="T48" />
@@ -1184,7 +1184,7 @@
                   <w xml:id="w6937" norm="verändern" pos="VVINF" lemma="verändern" phon="f E6 . ? ' E n . d 6 n">v<anchor synch="T49" />erändern</w>
                   <w xml:id="w6938" norm="diese" pos="PDAT" lemma="diese" phon="d ' i: . z @">diese</w>
                   <w xml:id="w6939" norm="gestiegenen" pos="ADJA" lemma="gestiegen" phon="g @ . S t ' i: . g @ . n @ n">gestiegenen</w>
-                  <pause type="short" xml:id="p408" />
+                  <pause rend="•" type="short" xml:id="p408" />
                   <w xml:id="w6940" norm="heiz-" pos="NE" lemma="heiz-" phon="h ' aI ts">Heiz-</w>
                   <w xml:id="w6941" norm="und" pos="KON" lemma="und" phon="? ' U n t">und</w>
                   <w xml:id="w6942" norm="und" pos="KON" lemma="und" phon="? ' U n t">und</w>
@@ -1222,7 +1222,7 @@
             <u xml:id="au63_u_seg119">
                <seg xml:id="seg119" type="utterance" subtype="declarative">
                   <anchor synch="T50" />
-                  <pause type="medium" xml:id="p409" />
+                  <pause rend="• •" type="medium" xml:id="p409" />
                   <anchor synch="T51" />
                   <w xml:id="w6948" norm="ja" pos="NGIRR" lemma="ja" phon="j ' a">Ja</w>
                   <w xml:id="w6949" norm="ne" pos="SEQU" lemma="ne" phon="n ' E">ne</w>
@@ -1252,7 +1252,7 @@
                      <desc>atmet ein</desc>
                   </incident>
                   <anchor synch="T54" />
-                  <pause type="medium" xml:id="p410" />
+                  <pause rend="• •" type="medium" xml:id="p410" />
                   <anchor synch="T55" />
                   <w xml:id="w6953" norm="ich" pos="PPER" lemma="ich" phon="? ' I C">Ich</w>
                   <w xml:id="w6954" norm="muss" pos="VMFIN" lemma="müssen" phon="m ' U s">muss</w>
@@ -1280,7 +1280,7 @@
                      <desc>atmet aus</desc>
                   </incident>
                   <anchor synch="T61" />
-                  <pause type="long" xml:id="p413" />
+                  <pause rend="• • •" type="long" xml:id="p413" />
                   <anchor synch="T63" />
                   <w xml:id="w6964" norm="meinen" pos="PPOSAT" lemma="mein" phon="m ' aI . n @ n">meinen</w>
                   <w xml:id="w6965" norm="Räumen" pos="NN" lemma="Raum" phon="r ' OY . m @ n">Räumen</w>
@@ -1299,7 +1299,7 @@
             <u xml:id="au7_u_seg15">
                <seg xml:id="seg15" type="utterance" subtype="interrogative">
                   <anchor synch="T61" />
-                  <pause type="medium" xml:id="p417" />
+                  <pause rend="• •" type="medium" xml:id="p417" />
                   <anchor synch="T62" />
                   <w xml:id="w7027" norm="wie" pos="PWAV" lemma="wie" phon="v ' i:">Wie</w>
                   <w xml:id="w7028" norm="machen" pos="VVFIN" lemma="machen" phon="m ' a x . @ n">mach<anchor synch="T63" />en</w>
@@ -1343,7 +1343,7 @@
             <u xml:id="au63_u_seg122">
                <seg xml:id="seg122" type="utterance" subtype="declarative">
                   <anchor synch="T65" />
-                  <pause type="medium" xml:id="p414" />
+                  <pause rend="• •" type="medium" xml:id="p414" />
                   <anchor synch="T66" />
                   <w xml:id="w6973" norm="habe" pos="VAFIN" lemma="haben" phon="h ' a: p">Hab</w>
                   <w xml:id="w6974" norm="nur" pos="PTKIFG" lemma="nur" phon="n ' u:6">nur</w>
@@ -1385,7 +1385,7 @@
             <u xml:id="au63_u_seg123">
                <seg xml:id="seg123" type="utterance" subtype="declarative">
                   <anchor synch="T69" />
-                  <pause type="medium" xml:id="p415" />
+                  <pause rend="• •" type="medium" xml:id="p415" />
                   <anchor synch="T70" />
                   <w xml:id="w6992" norm="die" pos="ART" lemma="d" phon="d ' i:">Die</w>
                   <w xml:id="w6993" norm="Küche" pos="NN" lemma="Küche" phon="k ' Y C . @">Küche</w>
@@ -1408,7 +1408,7 @@
                   <w xml:id="w7007" norm="im" pos="APPRART" lemma="im" phon="? ' I m">im</w>
                   <w xml:id="w7008" norm="kalten" pos="ADJA" lemma="kalt" phon="k ' a l . t @ n">Kalten</w>
                   <anchor synch="T71" />
-                  <pause type="long" xml:id="p416" />
+                  <pause rend="• • •" type="long" xml:id="p416" />
                   <anchor synch="T72" />
                   <w xml:id="w7009" norm="und" pos="KON" lemma="und" phon="? ' U n t">und</w>
                   <w xml:id="w7010" norm="äh" pos="NGHES" lemma="äh" phon="? ' E:">äh</w>
@@ -1449,7 +1449,7 @@
             <u xml:id="au8_u_seg16">
                <seg xml:id="seg16" type="utterance" subtype="modeless">
                   <anchor synch="T75" />
-                  <pause type="medium" xml:id="p418" />
+                  <pause rend="• •" type="medium" xml:id="p418" />
                   <anchor synch="T76" />
                   <w xml:id="w7032" norm="ḿhm̀" pos="NE" lemma="ḿhm̀" phon="? E m . h ' a: . ? E m">Ḿhm̀</w>
                   <pc xml:id="pc1481">˙</pc>
@@ -1470,7 +1470,7 @@
             <u xml:id="au8_u_seg17">
                <seg xml:id="seg17" type="utterance" subtype="interrupted">
                   <anchor synch="T77" />
-                  <pause type="medium" xml:id="p419" />
+                  <pause rend="• •" type="medium" xml:id="p419" />
                   <anchor synch="T78" />
                   <incident rend="atmet ein" xml:id="i260">
                      <desc>atmet ein</desc>
@@ -1522,7 +1522,7 @@
             <u xml:id="au9_u_seg18">
                <seg xml:id="seg18" type="utterance" subtype="interrogative">
                   <anchor synch="T82" />
-                  <pause type="medium" xml:id="p420" />
+                  <pause rend="• •" type="medium" xml:id="p420" />
                   <anchor synch="T83" />
                   <w xml:id="w7045" norm="weil" pos="KOUS" lemma="weil" phon="v ' aI l">Weil</w>
                   <w xml:id="w7046" norm="sie" pos="PPER" lemma="Sie" phon="z ' i:">Sie</w>
@@ -1567,7 +1567,7 @@
             <u xml:id="au10_u_seg19">
                <seg xml:id="seg19" type="utterance" subtype="modeless">
                   <anchor synch="T85" />
-                  <pause type="short" xml:id="p421" />
+                  <pause rend="•" type="short" xml:id="p421" />
                   <anchor synch="T86" />
                   <w xml:id="w7058" norm="ḿhm̀" pos="NE" lemma="ḿhm̀" phon="? E m . h ' a: . ? E m">Ḿhm̀</w>
                   <pc xml:id="pc1488">˙</pc>
@@ -1588,7 +1588,7 @@
             <u xml:id="au66_u_seg126">
                <seg xml:id="seg126" type="utterance" subtype="interrupted">
                   <anchor synch="T87" />
-                  <pause type="short" xml:id="p422" />
+                  <pause rend="•" type="short" xml:id="p422" />
                   <anchor synch="T88" />
                   <w xml:id="w7059" norm="muss" pos="VMFIN" lemma="müssen" phon="m ' U s">Muss</w>
                   <w xml:id="w7060" norm="so" pos="PTKIFG" lemma="so" phon="z ' o:">so</w>
@@ -1655,7 +1655,7 @@
             <u xml:id="au67_u_seg128">
                <seg xml:id="seg128" type="utterance" subtype="declarative">
                   <anchor synch="T92" />
-                  <pause type="medium" xml:id="p423" />
+                  <pause rend="• •" type="medium" xml:id="p423" />
                   <anchor synch="T93" />
                   <w xml:id="w7075" norm="äh" pos="NGHES" lemma="äh" phon="? ' E:">Äh</w>
                   <w xml:id="w7076" norm="Euro" pos="NN" lemma="Euro" phon="? ' OY . r o">Euro</w>
@@ -1690,7 +1690,7 @@
             <u xml:id="au67_u_seg130">
                <seg xml:id="seg130" type="utterance" subtype="declarative">
                   <anchor synch="T95" />
-                  <pause type="long" xml:id="p424" />
+                  <pause rend="• • •" type="long" xml:id="p424" />
                   <anchor synch="T96" />
                   <w xml:id="w7078" norm="und" pos="KON" lemma="und" phon="? ' U n t">Und</w>
                   <anchor synch="T97" />
@@ -1698,7 +1698,7 @@
                   <w xml:id="w7080" norm="muss" pos="VMFIN" lemma="müssen" phon="m ' U s">muss</w>
                   <pc xml:id="pc1494">,</pc>
                   <anchor synch="T98" />
-                  <pause type="short" xml:id="p425" />
+                  <pause rend="•" type="short" xml:id="p425" />
                   <w xml:id="w7081" norm="das" pos="PDS" lemma="die" phon="d ' a s">das</w>
                   <w xml:id="w7082" norm="muss" pos="VMFIN" lemma="müssen" phon="m ' U s">muss</w>
                   <w xml:id="w7083" norm="eingespart" pos="VVPP" lemma="einsparen" phon="? ' aI n . g @ . S p a: r t">eingespart</w>
@@ -1849,7 +1849,7 @@
                   <w xml:id="w7135" norm="sind" pos="VAFIN" lemma="sein" phon="z ' I n t">sind</w>
                   <w xml:id="w7136" norm="da" pos="ADV" lemma="da" phon="d ' a">da</w>
                   <w xml:id="w7137" norm="eingerahmt" pos="VVPP" lemma="einrahmen" phon="? ' aI n . g @ . r a: m t">eingerahmt</w>
-                  <pause type="medium" xml:id="p426" />
+                  <pause rend="• •" type="medium" xml:id="p426" />
                   <w xml:id="w7138" norm="von" pos="APPR" lemma="von" phon="f ' O n">von</w>
                   <w xml:id="w7139" norm="der" pos="ART" lemma="d" phon="d ' e:6">der</w>
                   <w xml:id="w7140" norm="Mittelschicht" pos="NN" lemma="Mittelschicht" phon="m ' I t . @ l . S I C t">Mittelschicht</w>
@@ -1868,7 +1868,7 @@
             <u xml:id="au37_u_seg67">
                <seg xml:id="seg67" type="utterance" subtype="declarative">
                   <anchor synch="T108" />
-                  <pause type="medium" xml:id="p427" />
+                  <pause rend="• •" type="medium" xml:id="p427" />
                   <anchor synch="T109" />
                   <w xml:id="w7142" norm="ja" pos="NGIRR" lemma="ja" phon="j ' a">Ja</w>
                   <w xml:id="w7143" norm="die" pos="ART" lemma="d" phon="d ' i:">die</w>
@@ -2027,7 +2027,7 @@
                   <anchor synch="T120" />
                   <w xml:id="w7236" norm="sichtbar" pos="ADJD" lemma="sichtbar" phon="z ' I C t . b a: r">sichtbar</w>
                   <anchor synch="T121" />
-                  <pause type="medium" xml:id="p428" />
+                  <pause rend="• •" type="medium" xml:id="p428" />
                   <anchor synch="T122" />
                   <w xml:id="w7237" norm="die" pos="PDS" lemma="die" phon="d ' i:">die</w>
                   <w xml:id="w7238" norm="folgen" pos="VVFIN" lemma="folgen" phon="f ' O l . g @ n">Folgen</w>
@@ -2364,7 +2364,7 @@
                   <w xml:id="w7377" norm="alle" pos="PIAT" lemma="alle" phon="? ' a l . @">Alle</w>
                   <w xml:id="w7378" norm="Regierungen" pos="NN" lemma="Regierung" phon="r e . g ' i: . r U N . @ n">Regierungen</w>
                   <anchor synch="T151" />
-                  <pause type="long" xml:id="p429" />
+                  <pause rend="• • •" type="long" xml:id="p429" />
                   <anchor synch="T152" />
                   <w xml:id="w7379" norm="äh" pos="NGHES" lemma="äh" phon="? ' E:">äh</w>
                   <w xml:id="w7380" norm="der" pos="ART" lemma="d" phon="d ' e:6">der</w>
@@ -2374,13 +2374,13 @@
                   <w xml:id="w7384" norm="vergangenen" pos="ADJA" lemma="vergangen" phon="f E6 . g ' a N . @ . n @ n">vergangenen</w>
                   <w xml:id="w7385" norm="Jahrzehnte" pos="NN" lemma="Jahrzehnt" phon="j a: r . ts ' e: n . t @">Jahrzehnte</w>
                   <w xml:id="w7386" norm="haben" pos="VAFIN" lemma="haben" phon="h ' a: . b @ n">haben</w>
-                  <pause type="short" xml:id="p430" />
+                  <pause rend="•" type="short" xml:id="p430" />
                   <w xml:id="w7387" norm="jeweils" pos="ADV" lemma="jeweils" phon="j e . v ' aI l s">jeweils</w>
                   <w xml:id="w7388" norm="zu" pos="PTKA" lemma="zu" phon="ts ' u">zu</w>
                   <w xml:id="w7389" norm="spät" pos="ADJD" lemma="spät" phon="S p ' E: t">spät</w>
                   <w xml:id="w7390" norm="auf" pos="APPR" lemma="auf" phon="? ' aU f">auf</w>
                   <w xml:id="w7391" norm="Entwicklungen" pos="NN" lemma="Entwicklung" phon="? E n t . v ' I k . l U N . @ n">Entwicklungen</w>
-                  <pause type="short" xml:id="p431" />
+                  <pause rend="•" type="short" xml:id="p431" />
                   <w xml:id="w7392" norm="reagiert" pos="VVPP" lemma="reagieren" phon="r e . a . g ' i:6 t">reagiert</w>
                   <pc xml:id="pc1524">.</pc>
                   <anchor synch="T153" />
@@ -2436,7 +2436,7 @@
                <seg xml:id="seg30" type="utterance" subtype="interrogative">
                   <anchor synch="T155" />
                   <w xml:id="w7413" norm="ist" pos="VAFIN" lemma="sein" phon="? ' I s">Is</w>
-                  <pause type="medium" xml:id="p432" />
+                  <pause rend="• •" type="medium" xml:id="p432" />
                   <w xml:id="w7414" norm="das" pos="PDS" lemma="die" phon="d ' a s">das</w>
                   <w xml:id="w7415" norm="in" pos="APPR" lemma="in" phon="? ' I n">in</w>
                   <w xml:id="w7416" norm="ihren" pos="PPOSAT" lemma="ihr" phon="? ' i: . r @ n">Ihren</w>
@@ -2460,7 +2460,7 @@
             <u xml:id="au83_u_seg162">
                <seg xml:id="seg162" type="utterance" subtype="interrupted">
                   <anchor synch="T156" />
-                  <pause type="long" xml:id="p433" />
+                  <pause rend="• • •" type="long" xml:id="p433" />
                   <anchor synch="T157" />
                   <w xml:id="w7422" norm="es" pos="PPER" lemma="es" phon="? ' E s">Es</w>
                   <w xml:id="w7423" norm="ist" pos="VAFIN" lemma="sein" phon="? ' I s">is</w>
@@ -2536,7 +2536,7 @@
                   <w xml:id="w7471" norm="abgesackt" pos="VVPP" lemma="absacken" phon="? ' a p . g @ . z a k t">abgesackt</w>
                   <anchor synch="T168" />
                   <w xml:id="w7472" norm="äh" pos="NGHES" lemma="äh" phon="? ' E:">äh</w>
-                  <pause type="short" xml:id="p434" />
+                  <pause rend="•" type="short" xml:id="p434" />
                   <w xml:id="w7473" norm="und" pos="KON" lemma="und" phon="? ' U n t">und</w>
                   <w xml:id="w7474" norm="dazu" pos="ADV" lemma="dazu" phon="d a ts . ' u:">dazu</w>
                   <w xml:id="w7475" norm="äh" pos="NGHES" lemma="äh" phon="? ' E: m">ähm</w>
@@ -2873,7 +2873,7 @@
             <u xml:id="au87_u_seg168">
                <seg xml:id="seg168" type="utterance" subtype="declarative">
                   <anchor synch="T195" />
-                  <pause type="medium" xml:id="p435" />
+                  <pause rend="• •" type="medium" xml:id="p435" />
                   <anchor synch="T196" />
                   <incident rend="atmet ein" xml:id="i284">
                      <desc>atmet ein</desc>
@@ -2958,7 +2958,7 @@
                   <w xml:id="w7617" norm="derer" pos="PDS" lemma="die" phon="d @ . r 6">derer</w>
                   <pc xml:id="pc1555">,</pc>
                   <w xml:id="w7618" norm="die" pos="PDS" lemma="die" phon="d ' i:">die</w>
-                  <pause type="medium" xml:id="p436" />
+                  <pause rend="• •" type="medium" xml:id="p436" />
                   <w xml:id="w7619" norm="morgens" pos="ADV" lemma="morgens" phon="m ' O6 . g @ n s">morgens</w>
                   <w xml:id="w7620" norm="zur" pos="APPRART" lemma="zur" phon="ts ' u:6">zur</w>
                   <w xml:id="w7621" norm="Arbeit" pos="NN" lemma="Arbeit" phon="? ' a r . b aI t">Arbeit</w>
@@ -3113,7 +3113,7 @@
                   <w xml:id="w7707" norm="und" pos="KON" lemma="und" phon="? ' U n t">und</w>
                   <w xml:id="w7708" norm="vielen" pos="PIAT" lemma="viel" phon="f ' i: . l @ n">vielen</w>
                   <w xml:id="w7709" norm="anderen" pos="PIDS" lemma="ander" phon="? ' a n . d @ . r @ n">anderen</w>
-                  <pause type="medium" xml:id="p437" />
+                  <pause rend="• •" type="medium" xml:id="p437" />
                   <w xml:id="w7710" norm="äh" pos="NGHES" lemma="äh" phon="? ' E:">äh</w>
                   <w xml:id="w7711" norm="streichungen" pos="NN" lemma="Streichung" phon="S t r ' aI . C U N . @ n">Streichungen</w>
                   <pc xml:id="pc1567">,</pc>
@@ -3285,7 +3285,7 @@
                   <w xml:id="w7771" norm="bei" pos="APPR" lemma="bei" phon="b ' aI">bei</w>
                   <w xml:id="w7772" norm="den" pos="ART" lemma="d" phon="d ' e: n">den</w>
                   <w xml:id="w7773" norm="Bürgern" pos="NN" lemma="Bürger" phon="b ' Y6 . g 6 n">Bürgern</w>
-                  <pause type="short" xml:id="p438" />
+                  <pause rend="•" type="short" xml:id="p438" />
                   <w xml:id="w7774" norm="bleibt" pos="VVFIN" lemma="bleiben" phon="b l ' aI p t">bleibt</w>
                   <w xml:id="w7775" norm="davon" pos="ADV" lemma="davon" phon="d a f . ' O n">davon</w>
                   <w xml:id="w7776" norm="nicht" pos="PTKNEG" lemma="nicht" phon="n ' I C t">nicht</w>
@@ -3431,7 +3431,7 @@
                   <w xml:id="w7832" norm="so" pos="PTKIFG" lemma="so" phon="z ' o:">so</w>
                   <w xml:id="w7833" norm="lange" pos="ADJD" lemma="lang" phon="l ' a N . @">lange</w>
                   <w xml:id="w7834" norm="nichts" pos="PIS" lemma="nichts" phon="n ' I C t s">nichts</w>
-                  <pause type="long" xml:id="p439" />
+                  <pause rend="• • •" type="long" xml:id="p439" />
                   <w xml:id="w7835" norm="zu" pos="PTKZU" lemma="zu" phon="ts ' u">zu</w>
                   <w xml:id="w7836" norm="hören" pos="VVINF" lemma="hören" phon="h ' 2: . r @ n">hören</w>
                   <w xml:id="w7837" norm="war" pos="VAFIN" lemma="sein" phon="v ' a: r">war</w>
@@ -3521,7 +3521,7 @@
             <u xml:id="au46_u_seg81">
                <seg xml:id="seg81" type="utterance" subtype="declarative">
                   <anchor synch="T258" />
-                  <pause type="medium" xml:id="p440" />
+                  <pause rend="• •" type="medium" xml:id="p440" />
                   <anchor synch="T259" />
                   <incident rend="atmet ein" xml:id="i304">
                      <desc>atmet ein</desc>
@@ -3714,7 +3714,7 @@
                   <w xml:id="w7969" norm="immer" pos="ADV" lemma="immer" phon="? ' I m . 6">immer</w>
                   <w xml:id="w7970" norm="kürzer" pos="ADJD" lemma="kurz" phon="k ' Y6 . ts 6">kürzer</w>
                   <anchor synch="T275" />
-                  <pause type="medium" xml:id="p441" />
+                  <pause rend="• •" type="medium" xml:id="p441" />
                   <anchor synch="T276" />
                   <w xml:id="w7971" norm="irgendwie" pos="ADV" lemma="irgendwie" phon="? ' I6 . g @ n t . v i:">irgendwie</w>
                   <anchor synch="T277" />
@@ -3749,7 +3749,7 @@
                   <w xml:id="w7989" norm="wird" pos="VAFIN" lemma="werden" phon="v ' I6 t">wird</w>
                   <pc xml:id="pc1609">,</pc>
                   <anchor synch="T281" />
-                  <pause type="medium" xml:id="p442" />
+                  <pause rend="• •" type="medium" xml:id="p442" />
                   <anchor synch="T282" />
                   <w xml:id="w7990" norm="ja" pos="NGIRR" lemma="ja" phon="j ' a">ja</w>
                   <w xml:id="w7991" norm="dass" pos="KOUS" lemma="dass" phon="d ' a s">dass</w>
@@ -3787,7 +3787,7 @@
                      <desc>atmet ein</desc>
                   </incident>
                   <anchor synch="T285" />
-                  <pause type="medium" xml:id="p443" />
+                  <pause rend="• •" type="medium" xml:id="p443" />
                   <anchor synch="T286" />
                   <w xml:id="w8016" norm="reagieren" pos="VVFIN" lemma="reagieren" phon="r e . a . g ' i: . r @ n">rea<anchor synch="T287" />gieren</w>
                   <w xml:id="w8017" norm="dauert" pos="VVFIN" lemma="dauern" phon="d ' aU . 6 t">dauert</w>
@@ -4056,7 +4056,7 @@
             <u xml:id="au48_u_seg88">
                <seg xml:id="seg88" type="utterance" subtype="modeless">
                   <anchor synch="T306" />
-                  <pause type="medium" xml:id="p444" />
+                  <pause rend="• •" type="medium" xml:id="p444" />
                   <anchor synch="T307" />
                   <incident rend="räuspert sich" xml:id="i318">
                      <desc>räuspert sich</desc>
@@ -4073,7 +4073,7 @@
             <u xml:id="au71_u_seg135">
                <seg xml:id="seg135" type="utterance" subtype="declarative">
                   <anchor synch="T308" />
-                  <pause type="medium" xml:id="p445" />
+                  <pause rend="• •" type="medium" xml:id="p445" />
                   <anchor synch="T309" />
                   <w xml:id="w8082" norm="ganz" pos="PTKIFG" lemma="ganz" phon="g ' a n ts">Ganz</w>
                   <w xml:id="w8083" norm="kurz" pos="ADJD" lemma="kurz" phon="k ' U6 ts">kurz</w>
@@ -4085,13 +4085,13 @@
                   <anchor synch="T311" />
                   <w xml:id="w8085" norm="alss" pos="ADV" lemma="alss" phon="? ' a l s">alss</w>
                   <anchor synch="T312" />
-                  <pause type="medium" xml:id="p446" />
+                  <pause rend="• •" type="medium" xml:id="p446" />
                   <anchor synch="T313" />
                   <w xml:id="w8086" norm="die" pos="ART" lemma="d" phon="d ' i:">die</w>
                   <w xml:id="w8087" norm="Zeit" pos="NN" lemma="Zeit" phon="ts ' aI t">Zeit</w>
                   <w xml:id="w8088" norm="war" pos="VAFIN" lemma="sein" phon="v ' a: r">war</w>
                   <pc xml:id="pc1629">,</pc>
-                  <pause type="short" xml:id="p447" />
+                  <pause rend="•" type="short" xml:id="p447" />
                   <w xml:id="w8089" norm="wo" pos="PWAV" lemma="wo" phon="v ' o:">wo</w>
                   <w xml:id="w8090" norm="die" pos="ART" lemma="d" phon="d ' i:">die</w>
                   <w xml:id="w8091" norm="Väter" pos="NN" lemma="Vater" phon="f ' E: . t 6">Väter</w>
@@ -4153,7 +4153,7 @@
                   <anchor synch="T320" />
                   <w xml:id="w8118" norm="húndért-" pos="VVFIN" lemma="húndért-" phon="h ' U n . d @ r t">húndért-</w>
                   <anchor synch="T321" />
-                  <pause type="long" xml:id="p448" />
+                  <pause rend="• • •" type="long" xml:id="p448" />
                   <anchor synch="T322" />
                   <w xml:id="w8119" norm="-achtundzwanzig" pos="CARD" lemma="-achtundzwanzig" phon="? ' a x . t U n t . t s v a n . t s I C">-achtundzwanzig</w>
                   <w xml:id="w8120" norm="Mark" pos="NN" lemma="Mark" phon="m ' a r k">Mark</w>
@@ -4198,7 +4198,7 @@
                   </incident>
                   <anchor synch="T327" />
                   <w xml:id="w8126" norm="davon" pos="ADV" lemma="davon" phon="d a f . ' O n">Davon</w>
-                  <pause type="short" xml:id="p449" />
+                  <pause rend="•" type="short" xml:id="p449" />
                   <w xml:id="w8127" norm="mussten" pos="VMFIN" lemma="müssen" phon="m ' U s . t @ n">mussten</w>
                   <w xml:id="w8128" norm="neununddreißig" pos="CARD" lemma="neununddreißig" phon="n ' OY . n U n t . d r aI . s I C">neununddreißig</w>
                   <w xml:id="w8129" norm="Mark" pos="NN" lemma="Mark" phon="m ' a r k">Mark</w>
@@ -4296,7 +4296,7 @@
             <u xml:id="au71_u_seg140">
                <seg xml:id="seg140" type="utterance" subtype="declarative">
                   <anchor synch="T335" />
-                  <pause type="medium" xml:id="p450" />
+                  <pause rend="• •" type="medium" xml:id="p450" />
                   <anchor synch="T336" />
                   <incident rend="atmet ein" xml:id="i327">
                      <desc>atmet ein</desc>
@@ -4414,18 +4414,18 @@
             <u xml:id="au71_u_seg144">
                <seg xml:id="seg144" type="utterance" subtype="declarative">
                   <anchor synch="T348" />
-                  <pause type="long" xml:id="p452" />
+                  <pause rend="• • •" type="long" xml:id="p452" />
                   <anchor synch="T349" />
                   <w xml:id="w8185" norm="es" pos="PPER" lemma="es" phon="? ' E s">Es</w>
                   <w xml:id="w8186" norm="war" pos="VAFIN" lemma="sein" phon="v ' a: r">war</w>
                   <w xml:id="w8187" norm="ein" pos="ART" lemma="ein" phon="? ' aI n">ein</w>
                   <anchor synch="T350" />
-                  <pause type="short" xml:id="p453" />
+                  <pause rend="•" type="short" xml:id="p453" />
                   <anchor synch="T351" />
                   <w xml:id="w8188" norm="trauriges" pos="ADJA" lemma="traurig" phon="t r ' aU . r I . g @ s">trauriges</w>
                   <pc xml:id="pc1643">,</pc>
                   <anchor synch="T352" />
-                  <pause type="long" xml:id="p454" />
+                  <pause rend="• • •" type="long" xml:id="p454" />
                   <anchor synch="T353" />
                   <w xml:id="w8189" norm="wirklich" pos="PTKIFG" lemma="wirklich" phon="v ' I6 . k l I C">wirklich</w>
                   <w xml:id="w8190" norm="trauriges" pos="ADJA" lemma="traurig" phon="t r ' aU . r I . g @ s">trauriges</w>
@@ -4557,7 +4557,7 @@
                   <w xml:id="w8236" norm="Mutter" pos="NN" lemma="Mutter" phon="m ' U t . 6">Mutter</w>
                   <w xml:id="w8237" norm="in" pos="APPR" lemma="in" phon="? ' I n">in</w>
                   <w xml:id="w8238" norm="die" pos="ART" lemma="d" phon="d ' i:">die</w>
-                  <pause type="short" xml:id="p455" />
+                  <pause rend="•" type="short" xml:id="p455" />
                   <w xml:id="w8239" norm="Fabrik" pos="NN" lemma="Fabrik" phon="f a . b r ' i: k">Fabrik</w>
                   <w xml:id="w8240" norm="gefahren" pos="VVPP" lemma="fahren" phon="g @ . f ' a: r n">gefahrn</w>
                   <w xml:id="w8241" norm="nach" pos="APPR" lemma="nach" phon="n ' a: x">nach</w>
@@ -4608,7 +4608,7 @@
             <u xml:id="au71_u_seg149">
                <seg xml:id="seg149" type="utterance" subtype="declarative">
                   <anchor synch="T371" />
-                  <pause type="medium" xml:id="p456" />
+                  <pause rend="• •" type="medium" xml:id="p456" />
                   <anchor synch="T372" />
                   <incident rend="atmet ein" xml:id="i335">
                      <desc>atmet ein</desc>
@@ -4617,11 +4617,11 @@
                   <w xml:id="w8252" norm="über" pos="APPR" lemma="über" phon="? ' y: . b 6">Über</w>
                   <w xml:id="w8253" norm="mir" pos="PPER" lemma="ich" phon="m ' i:6">mir</w>
                   <w xml:id="w8254" norm="die" pos="ART" lemma="d" phon="d ' i:">die</w>
-                  <pause type="short" xml:id="p457" />
+                  <pause rend="•" type="short" xml:id="p457" />
                   <w xml:id="w8255" norm="Amis" pos="NN" lemma="Ami" phon="? ' a m . I s">Amis</w>
                   <w xml:id="w8256" norm="und" pos="KON" lemma="und" phon="? ' U n t">und</w>
                   <w xml:id="w8257" norm="die" pos="ART" lemma="d" phon="d ' i:">die</w>
-                  <pause type="short" xml:id="p458" />
+                  <pause rend="•" type="short" xml:id="p458" />
                   <w xml:id="w8258" norm="tommies" pos="ADJA" lemma="tommies" phon="t O m . ' i: s">Tommies</w>
                   <pc xml:id="pc1654">,</pc>
                   <anchor synch="T374" />
@@ -4707,7 +4707,7 @@
             <u xml:id="au26_u_seg48">
                <seg xml:id="seg48" type="utterance" subtype="declarative">
                   <anchor synch="T380" />
-                  <pause type="long" xml:id="p459" />
+                  <pause rend="• • •" type="long" xml:id="p459" />
                   <anchor synch="T381" />
                   <w xml:id="w8307" norm="und" pos="KON" lemma="und" phon="? ' U n t">Und</w>
                   <w xml:id="w8308" norm="dann" pos="ADV" lemma="dann" phon="d ' a n">dann</w>
@@ -4950,7 +4950,7 @@
                   <w xml:id="w8374" norm="allen" pos="PIAT" lemma="alle" phon="? ' a l . @ n">allen</w>
                   <w xml:id="w8375" norm="Dingen" pos="NN" lemma="Ding" phon="d ' I N . @ n">Dingen</w>
                   <anchor synch="T398" />
-                  <pause type="short" xml:id="p460" />
+                  <pause rend="•" type="short" xml:id="p460" />
                   <anchor synch="T399" />
                   <w xml:id="w8376" norm="mehr" pos="PIAT" lemma="mehr" phon="m ' e:6">mehr</w>
                   <w xml:id="w8377" norm="Menschlichkeit" pos="NN" lemma="Menschlichkeit" phon="m ' E n . S l I C . k aI t">Menschlichkeit</w>
@@ -4992,7 +4992,7 @@
                      <desc>atmet ein</desc>
                   </incident>
                   <anchor synch="T400" />
-                  <pause type="long" xml:id="p461" />
+                  <pause rend="• • •" type="long" xml:id="p461" />
                   <anchor synch="T401" />
                   <w xml:id="w8382" norm="gerne" pos="ADV" lemma="gerne" phon="g ' E6 . n @">gerne</w>
                   <w xml:id="w8383" norm="was" pos="PWS" lemma="was" phon="v ' a s">was</w>
@@ -5093,7 +5093,7 @@
                   <anchor synch="T407" />
                   <w xml:id="w8404" norm="dass" pos="KOUS" lemma="dass" phon="d ' a s">dass</w>
                   <w xml:id="w8405" norm="wir" pos="PPER" lemma="wir" phon="v ' i:6">wir</w>
-                  <pause type="short" xml:id="p462" />
+                  <pause rend="•" type="short" xml:id="p462" />
                   <w xml:id="w8406" norm="äh" pos="NGHES" lemma="äh" phon="? ' E: m">ähm</w>
                   <w xml:id="w8407" norm="mehr" pos="PTKMWL" lemma="mehr" phon="m ' e:6">mehr</w>
                   <w xml:id="w8408" norm="mehr" pos="PIS" lemma="mehr" phon="m ' e:6">mehr</w>
@@ -5154,7 +5154,7 @@
                   <w xml:id="w8426" norm="was" pos="PRELS" lemma="was" phon="v ' a s">was</w>
                   <w xml:id="w8427" norm="wir" pos="PPER" lemma="wir" phon="v ' i:6">wir</w>
                   <anchor synch="T412" />
-                  <pause type="medium" xml:id="p463" />
+                  <pause rend="• •" type="medium" xml:id="p463" />
                   <anchor synch="T413" />
                   <w xml:id="w8428" norm="leisten" pos="VVINF" lemma="leisten" phon="l ' aI s . t @ n">leisten</w>
                   <anchor synch="T414" />
@@ -5276,7 +5276,7 @@
                      <desc>atmet ein</desc>
                   </incident>
                   <anchor synch="T424" />
-                  <pause type="medium" xml:id="p464" />
+                  <pause rend="• •" type="medium" xml:id="p464" />
                   <anchor synch="T425" />
                   <w xml:id="w8447" norm="vorwärts" pos="ADV" lemma="vorwärts" phon="f ' o:6 . v E6 t s">vorwärts</w>
                   <w xml:id="w8448" norm="bringen" pos="VVINF" lemma="bringen" phon="b r ' I N . @ n">bringen</w>
@@ -5487,7 +5487,7 @@
                   <w xml:id="w8533" norm="unglaublich" pos="ADJD" lemma="unglaublich" phon="? U n . g l ' aU . p l I C">unglaublich</w>
                   <w xml:id="w8534" norm="hoch" pos="ADV" lemma="hoch" phon="h ' o: x">hoch</w>
                   <pc xml:id="pc1712">,</pc>
-                  <pause type="short" xml:id="p465" />
+                  <pause rend="•" type="short" xml:id="p465" />
                   <w xml:id="w8535" norm="was" pos="PWS" lemma="was" phon="v ' a s">was</w>
                   <anchor synch="T445" />
                   <w xml:id="w8536" norm="man" pos="PIS" lemma="man" phon="m ' a n">man</w>
@@ -5640,7 +5640,7 @@
                   </incident>
                   <anchor synch="T465" />
                   <w xml:id="w8595" norm="Hörgerät" pos="NN" lemma="Hörgerät" phon="h ' 2: r . g @ . r E: t">Hörgerät</w>
-                  <pause type="short" xml:id="p466" />
+                  <pause rend="•" type="short" xml:id="p466" />
                   <incident rend="lacht" xml:id="i359">
                      <desc>lacht</desc>
                   </incident>
@@ -5874,7 +5874,7 @@
                   <w xml:id="w8652" norm="sie" pos="PPER" lemma="sie" phon="z ' i:">sie</w>
                   <w xml:id="w8653" norm="diesem" pos="PDAT" lemma="diese" phon="d ' i: . z @ m">diesem</w>
                   <anchor synch="T478" />
-                  <pause type="short" xml:id="p467" />
+                  <pause rend="•" type="short" xml:id="p467" />
                   <w xml:id="w8654" norm="Druck" pos="NN" lemma="Druck" phon="d r ' U k">Druck</w>
                   <w xml:id="w8655" norm="versuchen" pos="VVINF" lemma="versuchen" phon="f E6 . z ' u: . x @ n">versuchen</w>
                   <w xml:id="w8656" norm="standzuhalten" pos="VVINF" lemma="standzuhalten" phon="S t a n t . t s ' u: . a l . t @ n">standzuhalten</w>
@@ -5887,7 +5887,7 @@
                   <w xml:id="w8660" norm="jetzt" pos="ADV" lemma="jetzt" phon="j ' E t s t">jetzt</w>
                   <w xml:id="w8661" norm="mal" pos="PTKMA" lemma="mal" phon="m ' a: l">mal</w>
                   <anchor synch="T481" />
-                  <pause type="medium" xml:id="p469" />
+                  <pause rend="• •" type="medium" xml:id="p469" />
                   <anchor synch="T482" />
                   <w xml:id="w8662" norm="in" pos="APPR" lemma="in" phon="? ' I n">in</w>
                   <w xml:id="w8663" norm="ihren" pos="PPOSAT" lemma="ihr" phon="? ' i: . r @ n">Ihren</w>
@@ -6018,7 +6018,7 @@
                   <w xml:id="w8700" norm="Beispiel" pos="NN" lemma="Beispiel" phon="b ' aI . S p i: l">Beispiel</w>
                   <w xml:id="w8701" norm="jetzt" pos="ADV" lemma="jetzt" phon="j ' E t s t">jetzt</w>
                   <pc xml:id="pc1746">:</pc>
-                  <pause type="short" xml:id="p470" />
+                  <pause rend="•" type="short" xml:id="p470" />
                   <w xml:id="w8702" norm="Klavier" pos="NN" lemma="Klavier" phon="k l a . v ' i:6">Klavier</w>
                   <w xml:id="w8703" norm="gegen" pos="APPR" lemma="gegen" phon="g ' e: . g @ n">gegen</w>
                   <w xml:id="w8704" norm="Zahnspange" pos="NN" lemma="Zahnspange" phon="ts ' a: n . S p a N . @">Zahnspange</w>
@@ -6058,7 +6058,7 @@
             <u xml:id="au88_u_seg177">
                <seg xml:id="seg177" type="utterance" subtype="declarative">
                   <anchor synch="T492" />
-                  <pause type="long" xml:id="p471" />
+                  <pause rend="• • •" type="long" xml:id="p471" />
                   <anchor synch="T493" />
                   <incident rend="atmet ein" xml:id="i369">
                      <desc>atmet ein</desc>
@@ -6080,7 +6080,7 @@
                   <pc xml:id="pc1749">,</pc>
                   <w xml:id="w8724" norm="insofern" pos="ADV" lemma="insofern" phon="? I n . z ' o: . f E6 n">insofern</w>
                   <anchor synch="T495" />
-                  <pause type="medium" xml:id="p472" />
+                  <pause rend="• •" type="medium" xml:id="p472" />
                   <anchor synch="T496" />
                   <w xml:id="w8725" norm="äh" pos="NGHES" lemma="äh" phon="? ' E:">äh</w>
                   <w xml:id="w8726" norm="finde" pos="VVFIN" lemma="finden" phon="f ' I n t">find</w>
@@ -6217,7 +6217,7 @@
             <u xml:id="au88_u_seg181">
                <seg xml:id="seg181" type="utterance" subtype="declarative">
                   <anchor synch="T506" />
-                  <pause type="medium" xml:id="p473" />
+                  <pause rend="• •" type="medium" xml:id="p473" />
                   <anchor synch="T507" />
                   <w xml:id="w8783" norm="man" pos="PIS" lemma="man" phon="m ' a n">Man</w>
                   <w xml:id="w8784" norm="hätte" pos="VAFIN" lemma="haben" phon="h ' E t . @">hätte</w>
@@ -6230,7 +6230,7 @@
                   <w xml:id="w8790" norm="frühzeitig" pos="ADJD" lemma="frühzeitig" phon="f r ' y: . ts aI . t I C">frühzeitig</w>
                   <w xml:id="w8791" norm="mit" pos="APPR" lemma="mit" phon="m ' I t">mit</w>
                   <w xml:id="w8792" norm="günstigen" pos="ADJA" lemma="günstig" phon="g ' Y n s . t I . g @ n">günstigen</w>
-                  <pause type="medium" xml:id="p474" />
+                  <pause rend="• •" type="medium" xml:id="p474" />
                   <w xml:id="w8793" norm="Beiträgen" pos="NN" lemma="Beitrag" phon="b ' aI . t r E: . g @ n">Beiträgen</w>
                   <pc xml:id="pc1760">,</pc>
                   <anchor synch="T508" />
@@ -6251,7 +6251,7 @@
                   <w xml:id="w8802" norm="man" pos="PIS" lemma="man" phon="m ' a n">man</w>
                   <w xml:id="w8803" norm="so" pos="ADV" lemma="so" phon="z ' o:">so</w>
                   <w xml:id="w8804" norm="was" pos="PWS" lemma="was" phon="v ' a s">was</w>
-                  <pause type="short" xml:id="p475" />
+                  <pause rend="•" type="short" xml:id="p475" />
                   <w xml:id="w8805" norm="macht" pos="VVFIN" lemma="machen" phon="m ' a x t">macht</w>
                   <w xml:id="w8806" norm="oder" pos="KON" lemma="oder" phon="? ' o: . d 6">oder</w>
                   <w xml:id="w8807" norm="einen" pos="ART" lemma="ein" phon="n ' E n">nen</w>

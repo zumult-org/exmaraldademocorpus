@@ -139,7 +139,7 @@
                   <w xml:id="w4022" norm="falar-vos" pos="NCMP" lemma="falar-vos" phon="f a . l ' a 4 . b o s">falar-vos</w>
                   <w xml:id="w4023" norm="dum" pos="SPS+DI0" lemma="de+um" phon="d ' u n">dum</w>
                   <w xml:id="w4024" norm="tema" pos="NCMS" lemma="tema" phon="t ' e . m a">tema</w>
-                  <pause type="short" xml:id="p160" />
+                  <pause rend="•" type="short" xml:id="p160" />
                   <w xml:id="w4025" norm="que" pos="PR0" lemma="que" phon="k ' e">que</w>
                   <w xml:id="w4026" norm="me" pos="PP1" lemma="me" phon="m ' e">me</w>
                   <w xml:id="w4027" norm="ocorreu" pos="VMI" lemma="ocorrer" phon="o . k o . r ' e w">ocorreu</w>
@@ -167,26 +167,26 @@
             <u xml:id="au1_u_seg1">
                <seg xml:id="seg1" type="utterance" subtype="exclamative">
                   <anchor synch="T1" />
-                  <pause type="medium" xml:id="p161" />
+                  <pause rend="• •" type="medium" xml:id="p161" />
                   <w xml:id="w4033" norm="vocês" pos="PP3" lemma="você" phon="b ' o k s">Vocês</w>
                   <w xml:id="w4034" norm="já" pos="RG" lemma="já" phon="x ' a">já</w>
                   <w xml:id="w4035" norm="repararam" pos="VMI" lemma="reparar" phon="r e . p a . 4 a . 4 ' a n">repararam</w>
                   <w type="uncertain" xml:id="w4036" norm="quando" pos="RG" lemma="quando" phon="k w ' a n . d o">quando</w>
                   <pc xml:id="pc745">,</pc>
-                  <pause type="short" xml:id="p162" />
+                  <pause rend="•" type="short" xml:id="p162" />
                   <w xml:id="w4037" norm="às" pos="SPS" lemma="a+as" phon="' a s">às</w>
                   <w xml:id="w4038" norm="vezes" pos="NCFP" lemma="vez" phon="b ' e . T e s">vezes</w>
                   <pc xml:id="pc746">,</pc>
-                  <pause type="medium" xml:id="p163" />
+                  <pause rend="• •" type="medium" xml:id="p163" />
                   <w xml:id="w4039" norm="tá" pos="I" lemma="tá" phon="t ' a">tá</w>
                   <w xml:id="w4040" norm="uma" pos="DI0" lemma="um" phon="' u . m a">uma</w>
                   <w xml:id="w4041" norm="determinada" pos="VMP" lemma="determinar" phon="d e . t e 4 . m i . n ' a . D a">determinada</w>
                   <w xml:id="w4042" norm="situação" pos="NCFS" lemma="situação" phon="s i . t w ' a . o">situação</w>
                   <pc xml:id="pc747">,</pc>
-                  <pause type="medium" xml:id="p164" />
+                  <pause rend="• •" type="medium" xml:id="p164" />
                   <w xml:id="w4043" norm="e" pos="CC" lemma="e" phon="' e">e</w>
                   <w xml:id="w4044" norm="chega" pos="VMI" lemma="chegar" phon="tS ' e . G a">chega</w>
-                  <pause type="medium" xml:id="p165" />
+                  <pause rend="• •" type="medium" xml:id="p165" />
                   <w xml:id="w4045" norm="uma" pos="DI0" lemma="um" phon="' u . m a">uma</w>
                   <w xml:id="w4046" norm="pessoa" pos="NCFS" lemma="pessoa" phon="p e . s ' o . a">pessoa</w>
                   <w xml:id="w4047" norm="que" pos="PR0" lemma="que" phon="k ' e">que</w>
@@ -194,7 +194,7 @@
                   <w xml:id="w4049" norm="um" pos="DI0" lemma="um" phon="' u n">um</w>
                   <w xml:id="w4050" norm="certo" pos="AQ0" lemma="certo" phon="T ' e 4 . t o">certo</w>
                   <w xml:id="w4051" norm="comportamento" pos="NCMS" lemma="comportamento" phon="k o m . p o 4 . t a . m ' e n . t o">comportamento</w>
-                  <pause type="medium" xml:id="p166" />
+                  <pause rend="• •" type="medium" xml:id="p166" />
                   <w xml:id="w4052" norm="que" pos="PR0" lemma="que" phon="k ' e">que</w>
                   <w xml:id="w4053" norm="não" pos="RN" lemma="não" phon="n ' o">não</w>
                   <w xml:id="w4054" norm="se" pos="PP3" lemma="se" phon="s ' e">se</w>
@@ -269,7 +269,7 @@
                <seg xml:id="seg4" type="utterance" subtype="not_classified">
                   <anchor synch="T5" />
                   <w type="repair" xml:id="w4069" norm="n" pos="NCMS" lemma="n" phon="' n">N</w>
-                  <pause type="short" xml:id="p167" />
+                  <pause rend="•" type="short" xml:id="p167" />
                   <w xml:id="w4070" norm="não" pos="RN" lemma="não" phon="n ' o">não</w>
                   <w xml:id="w4071" norm="me" pos="PP1" lemma="me" phon="m ' e">me</w>
                   <w xml:id="w4072" norm="lembro" pos="VMI" lemma="lembrar" phon="l ' e m . b 4 o">lembro</w>
@@ -278,7 +278,7 @@
                   <w xml:id="w4075" norm="o" pos="DA0" lemma="o" phon="' o">o</w>
                   <w xml:id="w4076" norm="tema" pos="NCMS" lemma="tema" phon="t ' e . m a">tema</w>
                   <pc xml:id="pc750">,</pc>
-                  <pause type="short" xml:id="p168" />
+                  <pause rend="•" type="short" xml:id="p168" />
                   <w xml:id="w4077" norm="ehm" pos="NCMS" lemma="ehm" phon="' e n">ehm</w>
                   <pc xml:id="pc751">,</pc>
                   <anchor synch="T6" />
@@ -320,7 +320,7 @@
             <u xml:id="au3_u_seg6">
                <seg xml:id="seg6" type="utterance" subtype="declarative">
                   <anchor synch="T8" />
-                  <pause type="medium" xml:id="p170" />
+                  <pause rend="• •" type="medium" xml:id="p170" />
                   <w xml:id="w4082" norm="eu" pos="PP1" lemma="eu" phon="' e w">Eu</w>
                   <w xml:id="w4083" norm="ando" pos="VMI" lemma="andar" phon="' a n . d o">ando</w>
                   <w xml:id="w4084" norm="transtornado" pos="VMP" lemma="transtornar" phon="t 4 a n s . t o 4 . n ' a . D o">transtornado</w>
@@ -345,11 +345,11 @@
             <u xml:id="au3_u_seg7">
                <seg xml:id="seg7" type="utterance" subtype="declarative">
                   <anchor synch="T9" />
-                  <pause type="long" xml:id="p171" />
+                  <pause rend="• • •" type="long" xml:id="p171" />
                   <w xml:id="w4088" norm="é" pos="VMI" lemma="ser" phon="' e">É</w>
                   <w xml:id="w4089" norm="muito" pos="RG" lemma="muito" phon="m w ' i . t o">muito</w>
                   <w xml:id="w4090" norm="complicado" pos="VMP" lemma="complicar" phon="k o m . p l i . k ' a . D o">complicado</w>
-                  <pause type="short" xml:id="p172" />
+                  <pause rend="•" type="short" xml:id="p172" />
                   <w xml:id="w4091" norm="encontrar" pos="VMN" lemma="encontrar" phon="e N . k o n . t 4 ' a 4">encontrar</w>
                   <w xml:id="w4092" norm="batatas" pos="NCFP" lemma="batata" phon="b a . t ' a . t a s">batatas</w>
                   <w xml:id="w4093" norm="fritas" pos="VMP" lemma="frigir" phon="f 4 ' i . t a s">fritas</w>
@@ -379,7 +379,7 @@
             <u xml:id="au3_u_seg8">
                <seg xml:id="seg8" type="utterance" subtype="declarative">
                   <anchor synch="T10" />
-                  <pause type="medium" xml:id="p173" />
+                  <pause rend="• •" type="medium" xml:id="p173" />
                   <w xml:id="w4102" norm="é" pos="VMI" lemma="ser" phon="' e">É</w>
                   <w xml:id="w4103" norm="mesmo" pos="RG" lemma="mesmo" phon="m ' e . z m o">mesmo</w>
                   <w xml:id="w4104" norm="complicado" pos="VMP" lemma="complicar" phon="k o m . p l i . k ' a . D o">complicado</w>
@@ -401,7 +401,7 @@
             <u xml:id="au3_u_seg9">
                <seg xml:id="seg9" type="utterance" subtype="declarative">
                   <anchor synch="T11" />
-                  <pause type="medium" xml:id="p174" />
+                  <pause rend="• •" type="medium" xml:id="p174" />
                   <w xml:id="w4105" norm="há" pos="VMI" lemma="haver" phon="' a">Há</w>
                   <w xml:id="w4106" norm="batata" pos="NCFS" lemma="batata" phon="b a . t ' a . t a">batata</w>
                   <w xml:id="w4107" norm="frita" pos="AQ0" lemma="frito" phon="f 4 ' i . t a">frita</w>
@@ -410,7 +410,7 @@
                   <w xml:id="w4110" norm="a" pos="DA0" lemma="o" phon="' a">a</w>
                   <w xml:id="w4111" norm="queijo" pos="NCMS" lemma="queijo" phon="k ' e j . x o">queijo</w>
                   <pc xml:id="pc756">,</pc>
-                  <pause type="medium" xml:id="p175" />
+                  <pause rend="• •" type="medium" xml:id="p175" />
                   <w xml:id="w4112" norm="batata" pos="NCFS" lemma="batata" phon="b a . t ' a . t a">batata</w>
                   <w xml:id="w4113" norm="frita" pos="AQ0" lemma="frito" phon="f 4 ' i . t a">frita</w>
                   <w xml:id="w4114" norm="que" pos="PR0" lemma="que" phon="k ' e">que</w>
@@ -418,7 +418,7 @@
                   <w xml:id="w4116" norm="a" pos="DA0" lemma="o" phon="' a">a</w>
                   <w xml:id="w4117" norm="cebola" pos="NCFS" lemma="cebola" phon="T e . B ' o . l a">cebola</w>
                   <pc xml:id="pc757">,</pc>
-                  <pause type="medium" xml:id="p176" />
+                  <pause rend="• •" type="medium" xml:id="p176" />
                   <w xml:id="w4118" norm="batata" pos="NCFS" lemma="batata" phon="b a . t ' a . t a">batata</w>
                   <w xml:id="w4119" norm="frita" pos="AQ0" lemma="frito" phon="f 4 ' i . t a">frita</w>
                   <w xml:id="w4120" norm="que" pos="PR0" lemma="que" phon="k ' e">que</w>
@@ -450,7 +450,7 @@
             <u xml:id="au3_u_seg10">
                <seg xml:id="seg10" type="utterance" subtype="declarative">
                   <anchor synch="T12" />
-                  <pause type="medium" xml:id="p177" />
+                  <pause rend="• •" type="medium" xml:id="p177" />
                   <w xml:id="w4130" norm="mas" pos="CC" lemma="mas" phon="m ' a s">Mas</w>
                   <pc xml:id="pc760">,</pc>
                   <w xml:id="w4131" norm="eh" pos="I" lemma="eh" phon="' e">eh</w>
@@ -464,7 +464,7 @@
                   <w xml:id="w4138" norm="é" pos="VMI" lemma="ser" phon="' e">é</w>
                   <w xml:id="w4139" norm="muito" pos="RG" lemma="muito" phon="m w ' i . t o">muito</w>
                   <w xml:id="w4140" norm="complicado" pos="VMP" lemma="complicar" phon="k o m . p l i . k ' a . D o">complicado</w>
-                  <pause type="medium" xml:id="p178" />
+                  <pause rend="• •" type="medium" xml:id="p178" />
                   <w xml:id="w4141" norm="encontrar" pos="VMN" lemma="encontrar" phon="e N . k o n . t 4 ' a 4">encontrar</w>
                   <pc xml:id="pc762">.</pc>
                   <anchor synch="T13" />
@@ -484,7 +484,7 @@
             <u xml:id="au3_u_seg11">
                <seg xml:id="seg11" type="utterance" subtype="declarative">
                   <anchor synch="T13" />
-                  <pause type="medium" xml:id="p179" />
+                  <pause rend="• •" type="medium" xml:id="p179" />
                   <w xml:id="w4142" norm="e" pos="CC" lemma="e" phon="' e">E</w>
                   <w xml:id="w4143" norm="depois" pos="RG" lemma="depois" phon="d ' e . p o j s">depois</w>
                   <pc xml:id="pc763">,</pc>
@@ -536,7 +536,7 @@
             <u xml:id="au3_u_seg13">
                <seg xml:id="seg13" type="utterance" subtype="declarative">
                   <anchor synch="T15" />
-                  <pause type="medium" xml:id="p180" />
+                  <pause rend="• •" type="medium" xml:id="p180" />
                   <w xml:id="w4155" norm="não" pos="RN" lemma="não" phon="n ' o">Não</w>
                   <pc xml:id="pc767">,</pc>
                   <w xml:id="w4156" norm="não" pos="RN" lemma="não" phon="n ' o">não</w>
@@ -558,7 +558,7 @@
             <u xml:id="au3_u_seg14">
                <seg xml:id="seg14" type="utterance" subtype="exclamative">
                   <anchor synch="T16" />
-                  <pause type="short" xml:id="p181" />
+                  <pause rend="•" type="short" xml:id="p181" />
                   <w xml:id="w4157" norm="não" pos="RN" lemma="não" phon="n ' o">Não</w>
                   <pc xml:id="pc769">,</pc>
                   <w xml:id="w4158" norm="não" pos="RN" lemma="não" phon="n ' o">não</w>
@@ -581,7 +581,7 @@
             <u xml:id="au3_u_seg15">
                <seg xml:id="seg15" type="utterance" subtype="declarative">
                   <anchor synch="T17" />
-                  <pause type="medium" xml:id="p182" />
+                  <pause rend="• •" type="medium" xml:id="p182" />
                   <w xml:id="w4160" norm="não" pos="RN" lemma="não" phon="n ' o">Não</w>
                   <pc xml:id="pc771">,</pc>
                   <w xml:id="w4161" norm="porque" pos="CS" lemma="porque" phon="p ' o 4 . k e">porque</w>
@@ -649,7 +649,7 @@
             <u xml:id="au3_u_seg17">
                <seg xml:id="seg17" type="utterance" subtype="declarative">
                   <anchor synch="T19" />
-                  <pause type="short" xml:id="p183" />
+                  <pause rend="•" type="short" xml:id="p183" />
                   <w xml:id="w4187" norm="ora" pos="RG" lemma="ora" phon="' o . 4 a">Ora</w>
                   <pc xml:id="pc777">,</pc>
                   <w xml:id="w4188" norm="barbecue" pos="NCFS" lemma="barbecue" phon="b a 4 . B ' e . k w e">barbecue</w>
@@ -683,7 +683,7 @@
             <u xml:id="au3_u_seg18">
                <seg xml:id="seg18" type="utterance" subtype="interrogative">
                   <anchor synch="T20" />
-                  <pause type="medium" xml:id="p184" />
+                  <pause rend="• •" type="medium" xml:id="p184" />
                   <w xml:id="w4199" norm="ne" pos="VMI" lemma="ne" phon="n ' e">Ne</w>
                   <pc xml:id="pc781">?</pc>
                   <anchor synch="T21" />
@@ -703,7 +703,7 @@
             <u xml:id="au3_u_seg19">
                <seg xml:id="seg19" type="utterance" subtype="declarative">
                   <anchor synch="T21" />
-                  <pause type="medium" xml:id="p185" />
+                  <pause rend="• •" type="medium" xml:id="p185" />
                   <w xml:id="w4200" norm="e" pos="CC" lemma="e" phon="' e">E</w>
                   <w xml:id="w4201" norm="as" pos="DA0" lemma="o" phon="' a s">as</w>
                   <w xml:id="w4202" norm="batatas" pos="NCFP" lemma="batata" phon="b a . t ' a . t a s">batatas</w>
@@ -727,7 +727,7 @@
             <u xml:id="au3_u_seg20">
                <seg xml:id="seg20" type="utterance" subtype="declarative">
                   <anchor synch="T22" />
-                  <pause type="long" xml:id="p186" />
+                  <pause rend="• • •" type="long" xml:id="p186" />
                   <w xml:id="w4205" norm="eh" pos="I" lemma="eh" phon="' e">Eh</w>
                   <pc xml:id="pc783">,</pc>
                   <w xml:id="w4206" norm="é" pos="VMI" lemma="ser" phon="' e">é</w>
@@ -759,7 +759,7 @@
             <u xml:id="au3_u_seg21">
                <seg xml:id="seg21" type="utterance" subtype="declarative">
                   <anchor synch="T23" />
-                  <pause type="short" xml:id="p187" />
+                  <pause rend="•" type="short" xml:id="p187" />
                   <w xml:id="w4217" norm="eh" pos="I" lemma="eh" phon="' e">Eh</w>
                   <pc xml:id="pc785">,</pc>
                   <w xml:id="w4218" norm="as" pos="DA0" lemma="o" phon="' a s">as</w>
@@ -785,12 +785,12 @@
             <u xml:id="au3_u_seg22">
                <seg xml:id="seg22" type="utterance" subtype="declarative">
                   <anchor synch="T24" />
-                  <pause type="short" xml:id="p188" />
+                  <pause rend="•" type="short" xml:id="p188" />
                   <w xml:id="w4223" norm="põe" pos="VMI" lemma="pôr" phon="p ' e">Põe</w>
                   <w xml:id="w4224" norm="aí" pos="RG" lemma="aí" phon="' a i">aí</w>
                   <w xml:id="w4225" norm="barbecue" pos="NCFS" lemma="barbecue" phon="b a 4 . B ' e . k w e">barbecue</w>
                   <pc xml:id="pc787">,</pc>
-                  <pause type="short" xml:id="p189" />
+                  <pause rend="•" type="short" xml:id="p189" />
                   <w xml:id="w4226" norm="que" pos="CS" lemma="que" phon="k ' e">que</w>
                   <w xml:id="w4227" norm="a" pos="DA0" lemma="o" phon="' a">a</w>
                   <w xml:id="w4228" norm="malta" pos="NCFS" lemma="malta" phon="m ' a l . t a">malta</w>
@@ -813,14 +813,14 @@
             <u xml:id="au3_u_seg23">
                <seg xml:id="seg23" type="utterance" subtype="declarative">
                   <anchor synch="T25" />
-                  <pause type="long" xml:id="p190" />
+                  <pause rend="• • •" type="long" xml:id="p190" />
                   <w xml:id="w4230" norm="e" pos="CC" lemma="e" phon="' e">E</w>
                   <w xml:id="w4231" norm="é" pos="VMI" lemma="ser" phon="' e">é</w>
                   <w xml:id="w4232" norm="isto" pos="PD0" lemma="isto" phon="' i s . t o">isto</w>
                   <w xml:id="w4233" norm="agora" pos="RG" lemma="agora" phon="a . G ' o . 4 a">agora</w>
                   <w xml:id="w4234" norm="por" pos="SPS" lemma="por" phon="p ' o 4">por</w>
                   <w type="repair" xml:id="w4235" norm="tod" pos="NCMS" lemma="tod" phon="t ' o T">tod</w>
-                  <pause type="short" xml:id="p191" />
+                  <pause rend="•" type="short" xml:id="p191" />
                   <w xml:id="w4236" norm="a" pos="SPS" lemma="a" phon="' a">a</w>
                   <w xml:id="w4237" norm="comida" pos="NCFS" lemma="comida" phon="k o . m ' i . D a">comida</w>
                   <w xml:id="w4238" norm="toda" pos="PI0" lemma="todo" phon="t ' o . D a">toda</w>
@@ -832,11 +832,11 @@
                   <w xml:id="w4243" norm="outra" pos="DI0" lemma="outro" phon="' o w . t 4 a">outra</w>
                   <w xml:id="w4244" norm="comida" pos="NCFS" lemma="comida" phon="k o . m ' i . D a">comida</w>
                   <pc xml:id="pc790">,</pc>
-                  <pause type="medium" xml:id="p192" />
+                  <pause rend="• •" type="medium" xml:id="p192" />
                   <w xml:id="w4245" norm="todo" pos="DI0" lemma="todo" phon="t ' o . D o">todo</w>
                   <w xml:id="w4246" norm="o" pos="DA0" lemma="o" phon="' o">o</w>
                   <w xml:id="w4247" norm="lado" pos="NCMS" lemma="lado" phon="l ' a . D o">lado</w>
-                  <pause type="medium" xml:id="p193" />
+                  <pause rend="• •" type="medium" xml:id="p193" />
                   <w xml:id="w4248" norm="todo" pos="DI0" lemma="todo" phon="t ' o . D o">todo</w>
                   <w xml:id="w4249" norm="o" pos="DA0" lemma="o" phon="' o">o</w>
                   <w xml:id="w4250" norm="lado" pos="NCMS" lemma="lado" phon="l ' a . D o">lado</w>
@@ -858,9 +858,9 @@
             <u xml:id="au3_u_seg24">
                <seg xml:id="seg24" type="utterance" subtype="exclamative">
                   <anchor synch="T26" />
-                  <pause type="long" xml:id="p194" />
+                  <pause rend="• • •" type="long" xml:id="p194" />
                   <w xml:id="w4251" norm="eh" pos="I" lemma="eh" phon="' e">Eh</w>
-                  <pause type="short" xml:id="p195" />
+                  <pause rend="•" type="short" xml:id="p195" />
                   <w xml:id="w4252" norm="águas" pos="NCFP" lemma="água" phon="' a . G w a s">águas</w>
                   <pc xml:id="pc792">!</pc>
                   <anchor synch="T27" />
@@ -880,14 +880,14 @@
             <u xml:id="au3_u_seg25">
                <seg xml:id="seg25" type="utterance" subtype="declarative">
                   <anchor synch="T27" />
-                  <pause type="short" xml:id="p196" />
+                  <pause rend="•" type="short" xml:id="p196" />
                   <w xml:id="w4253" norm="as" pos="DA0" lemma="o" phon="' a s">As</w>
                   <w xml:id="w4254" norm="águas" pos="NCFP" lemma="água" phon="' a . G w a s">águas</w>
                   <w xml:id="w4255" norm="agora" pos="RG" lemma="agora" phon="a . G ' o . 4 a">agora</w>
                   <w xml:id="w4256" norm="eh" pos="I" lemma="eh" phon="' e">eh</w>
-                  <pause type="short" xml:id="p197" />
+                  <pause rend="•" type="short" xml:id="p197" />
                   <w xml:id="w4257" norm="água" pos="NCFS" lemma="água" phon="' a . G w a">água</w>
-                  <pause type="short" xml:id="p198" />
+                  <pause rend="•" type="short" xml:id="p198" />
                   <w xml:id="w4258" norm="com" pos="SPS" lemma="com" phon="k ' o n">com</w>
                   <w xml:id="w4259" norm="sabor" pos="NCMS" lemma="sabor" phon="s a . B ' o 4">sabor</w>
                   <w xml:id="w4260" norm="a" pos="SPS" lemma="a" phon="' a">a</w>
@@ -910,7 +910,7 @@
             <u xml:id="au3_u_seg26">
                <seg xml:id="seg26" type="utterance" subtype="exclamative">
                   <anchor synch="T28" />
-                  <pause type="short" xml:id="p199" />
+                  <pause rend="•" type="short" xml:id="p199" />
                   <w xml:id="w4262" norm="não" pos="RN" lemma="não" phon="n ' o">Não</w>
                   <pc xml:id="pc794">!</pc>
                   <anchor synch="T29" />
@@ -930,7 +930,7 @@
             <u xml:id="au3_u_seg27">
                <seg xml:id="seg27" type="utterance" subtype="exclamative">
                   <anchor synch="T29" />
-                  <pause type="medium" xml:id="p200" />
+                  <pause rend="• •" type="medium" xml:id="p200" />
                   <w xml:id="w4263" norm="não" pos="RN" lemma="não" phon="n ' o">Não</w>
                   <pc xml:id="pc795">!</pc>
                   <anchor synch="T30" />
@@ -950,7 +950,7 @@
             <u xml:id="au3_u_seg28">
                <seg xml:id="seg28" type="utterance" subtype="exclamative">
                   <anchor synch="T30" />
-                  <pause type="medium" xml:id="p201" />
+                  <pause rend="• •" type="medium" xml:id="p201" />
                   <w xml:id="w4264" norm="não" pos="RN" lemma="não" phon="n ' o">Não</w>
                   <w xml:id="w4265" norm="á" pos="VMI" lemma="á" phon="' a">á</w>
                   <w xml:id="w4266" norm="água" pos="NCFS" lemma="água" phon="' a . G w a">água</w>
@@ -991,7 +991,7 @@
             <u xml:id="au3_u_seg30">
                <seg xml:id="seg30" type="utterance" subtype="declarative">
                   <anchor synch="T32" />
-                  <pause type="short" xml:id="p202" />
+                  <pause rend="•" type="short" xml:id="p202" />
                   <w xml:id="w4268" norm="água" pos="NCFS" lemma="água" phon="' a . G w a">Água</w>
                   <w xml:id="w4269" norm="é" pos="VMI" lemma="ser" phon="' e">é</w>
                   <w xml:id="w4270" norm="eu" pos="PP1" lemma="eu" phon="' e w">eu</w>
@@ -1000,7 +1000,7 @@
                   <w xml:id="w4273" norm="só" pos="RG" lemma="só" phon="s ' o">só</w>
                   <w xml:id="w4274" norm="uma" pos="DI0" lemma="um" phon="' u . m a">uma</w>
                   <w xml:id="w4275" norm="coisa" pos="NCFS" lemma="coisa" phon="k ' o j . s a">coisa</w>
-                  <pause type="short" xml:id="p203" />
+                  <pause rend="•" type="short" xml:id="p203" />
                   <w xml:id="w4276" norm="aqui" pos="RG" lemma="aqui" phon="' a . k i">aqui</w>
                   <w xml:id="w4277" norm="para" pos="SPS" lemma="para" phon="p ' a . 4 a">para</w>
                   <w xml:id="w4278" norm="os" pos="DA0" lemma="o" phon="' o s">os</w>
@@ -1025,13 +1025,13 @@
             <u xml:id="au3_u_seg31">
                <seg xml:id="seg31" type="utterance" subtype="declarative">
                   <anchor synch="T33" />
-                  <pause type="long" xml:id="p204" />
+                  <pause rend="• • •" type="long" xml:id="p204" />
                   <w xml:id="w4282" norm="ora" pos="RG" lemma="ora" phon="' o . 4 a">Ora</w>
                   <w xml:id="w4283" norm="bom" pos="AQ0" lemma="bom" phon="b ' o n">bom</w>
-                  <pause type="short" xml:id="p205" />
+                  <pause rend="•" type="short" xml:id="p205" />
                   <w xml:id="w4284" norm="água" pos="NCFS" lemma="água" phon="' a . G w a">água</w>
                   <pc xml:id="pc799">,</pc>
-                  <pause type="medium" xml:id="p206" />
+                  <pause rend="• •" type="medium" xml:id="p206" />
                   <w xml:id="w4285" norm="água" pos="NCFS" lemma="água" phon="' a . G w a">água</w>
                   <pc xml:id="pc800">.</pc>
                   <anchor synch="T34" />
@@ -1051,7 +1051,7 @@
             <u xml:id="au3_u_seg32">
                <seg xml:id="seg32" type="utterance" subtype="declarative">
                   <anchor synch="T34" />
-                  <pause type="long" xml:id="p207" />
+                  <pause rend="• • •" type="long" xml:id="p207" />
                   <w xml:id="w4286" norm="dicionário" pos="NCMS" lemma="dicionário" phon="d i . T j o . n ' a . 4 j o">Dicionário</w>
                   <pc xml:id="pc801">.</pc>
                   <anchor synch="T35" />
@@ -1071,10 +1071,10 @@
             <u xml:id="au3_u_seg33">
                <seg xml:id="seg33" type="utterance" subtype="declarative">
                   <anchor synch="T35" />
-                  <pause type="short" xml:id="p208" />
+                  <pause rend="•" type="short" xml:id="p208" />
                   <w xml:id="w4287" norm="água" pos="NCFS" lemma="água" phon="' a . G w a">Água</w>
                   <pc xml:id="pc802">,</pc>
-                  <pause type="short" xml:id="p209" />
+                  <pause rend="•" type="short" xml:id="p209" />
                   <w xml:id="w4288" norm="água" pos="NCFS" lemma="água" phon="' a . G w a">água</w>
                   <pc xml:id="pc803">.</pc>
                   <anchor synch="T36" />
@@ -1094,7 +1094,7 @@
             <u xml:id="au3_u_seg34">
                <seg xml:id="seg34" type="utterance" subtype="declarative">
                   <anchor synch="T36" />
-                  <pause type="medium" xml:id="p210" />
+                  <pause rend="• •" type="medium" xml:id="p210" />
                   <w xml:id="w4289" norm="líquido" pos="AQ0" lemma="líquido" phon="l i . k ' i . D o">Líquido</w>
                   <w xml:id="w4290" norm="incolor" pos="AQ0" lemma="incolor" phon="i N . k o . l ' o 4">incolor</w>
                   <w xml:id="w4291" norm="e" pos="CC" lemma="e" phon="' e">e</w>
@@ -1150,7 +1150,7 @@
             <u xml:id="au3_u_seg36">
                <seg xml:id="seg36" type="utterance" subtype="interrogative">
                   <anchor synch="T38" />
-                  <pause type="short" xml:id="p211" />
+                  <pause rend="•" type="short" xml:id="p211" />
                   <w xml:id="w4305" norm="água" pos="NCFS" lemma="água" phon="' a . G w a">Água</w>
                   <w xml:id="w4306" norm="com" pos="SPS" lemma="com" phon="k ' o n">com</w>
                   <w xml:id="w4307" norm="sabor" pos="NCMS" lemma="sabor" phon="s a . B ' o 4">sabor</w>
@@ -1191,7 +1191,7 @@
             <u xml:id="au3_u_seg38">
                <seg xml:id="seg38" type="utterance" subtype="declarative">
                   <anchor synch="T40" />
-                  <pause type="long" xml:id="p212" />
+                  <pause rend="• • •" type="long" xml:id="p212" />
                   <w xml:id="w4309" norm="ah" pos="I" lemma="ah" phon="' a">Ah</w>
                   <pc xml:id="pc811">,</pc>
                   <w xml:id="w4310" norm="mas" pos="CC" lemma="mas" phon="m ' a s">mas</w>
@@ -1221,7 +1221,7 @@
             <u xml:id="au3_u_seg39">
                <seg xml:id="seg39" type="utterance" subtype="interrogative">
                   <anchor synch="T41" />
-                  <pause type="long" xml:id="p213" />
+                  <pause rend="• • •" type="long" xml:id="p213" />
                   <w xml:id="w4318" norm="esta" pos="DD0" lemma="este" phon="' e s . t a">Esta</w>
                   <w xml:id="w4319" norm="água" pos="NCFS" lemma="água" phon="' a . G w a">água</w>
                   <w xml:id="w4320" norm="é" pos="VMI" lemma="ser" phon="' e">é</w>
@@ -1270,7 +1270,7 @@
             <u xml:id="au3_u_seg41">
                <seg xml:id="seg41" type="utterance" subtype="interrogative">
                   <anchor synch="T43" />
-                  <pause type="long" xml:id="p214" />
+                  <pause rend="• • •" type="long" xml:id="p214" />
                   <w xml:id="w4329" norm="é" pos="VMI" lemma="ser" phon="' e">É</w>
                   <w xml:id="w4330" norm="com" pos="SPS" lemma="com" phon="k ' o n">com</w>
                   <w xml:id="w4331" norm="sabora" pos="VMI" lemma="sabora" phon="s a . B ' o . 4 a">sabora</w>
@@ -1334,7 +1334,7 @@
             <u xml:id="au3_u_seg44">
                <seg xml:id="seg44" type="utterance" subtype="exclamative">
                   <anchor synch="T46" />
-                  <pause type="medium" xml:id="p215" />
+                  <pause rend="• •" type="medium" xml:id="p215" />
                   <w xml:id="w4338" norm="não" pos="RN" lemma="não" phon="n ' o">Não</w>
                   <w xml:id="w4339" norm="é" pos="VMI" lemma="ser" phon="' e">é</w>
                   <w xml:id="w4340" norm="água" pos="NCFS" lemma="água" phon="' a . G w a">água</w>
@@ -1356,11 +1356,11 @@
             <u xml:id="au3_u_seg45">
                <seg xml:id="seg45" type="utterance" subtype="declarative">
                   <anchor synch="T47" />
-                  <pause type="long" xml:id="p216" />
+                  <pause rend="• • •" type="long" xml:id="p216" />
                   <w xml:id="w4341" norm="água" pos="NCFS" lemma="água" phon="' a . G w a">Água</w>
                   <w xml:id="w4342" norm="com" pos="SPS" lemma="com" phon="k ' o n">com</w>
                   <w xml:id="w4343" norm="sabor" pos="NCMS" lemma="sabor" phon="s a . B ' o 4">sabor</w>
-                  <pause type="medium" xml:id="p217" />
+                  <pause rend="• •" type="medium" xml:id="p217" />
                   <w xml:id="w4344" norm="não" pos="RN" lemma="não" phon="n ' o">não</w>
                   <w xml:id="w4345" norm="é" pos="VMI" lemma="ser" phon="' e">é</w>
                   <w xml:id="w4346" norm="água" pos="NCFS" lemma="água" phon="' a . G w a">água</w>
@@ -1382,10 +1382,10 @@
             <u xml:id="au3_u_seg46">
                <seg xml:id="seg46" type="utterance" subtype="exclamative">
                   <anchor synch="T48" />
-                  <pause type="long" xml:id="p218" />
+                  <pause rend="• • •" type="long" xml:id="p218" />
                   <w xml:id="w4347" norm="pft" pos="NCMS" lemma="pft" phon="' p f t">Pft</w>
                   <pc xml:id="pc822">,</pc>
-                  <pause type="medium" xml:id="p219" />
+                  <pause rend="• •" type="medium" xml:id="p219" />
                   <w xml:id="w4348" norm="não" pos="RN" lemma="não" phon="n ' o">não</w>
                   <w xml:id="w4349" norm="é" pos="VMI" lemma="ser" phon="' e">é</w>
                   <w xml:id="w4350" norm="água" pos="NCFS" lemma="água" phon="' a . G w a">água</w>
@@ -1407,7 +1407,7 @@
             <u xml:id="au3_u_seg47">
                <seg xml:id="seg47" type="utterance" subtype="exclamative">
                   <anchor synch="T49" />
-                  <pause type="medium" xml:id="p220" />
+                  <pause rend="• •" type="medium" xml:id="p220" />
                   <w xml:id="w4351" norm="não" pos="RN" lemma="não" phon="n ' o">Não</w>
                   <w xml:id="w4352" norm="é" pos="VMI" lemma="ser" phon="' e">é</w>
                   <w xml:id="w4353" norm="água" pos="NCFS" lemma="água" phon="' a . G w a">água</w>
@@ -1429,10 +1429,10 @@
             <u xml:id="au3_u_seg48">
                <seg xml:id="seg48" type="utterance" subtype="exclamative">
                   <anchor synch="T50" />
-                  <pause type="medium" xml:id="p221" />
+                  <pause rend="• •" type="medium" xml:id="p221" />
                   <w xml:id="w4354" norm="não" pos="RN" lemma="não" phon="n ' o">Não</w>
                   <w xml:id="w4355" norm="é" pos="VMI" lemma="ser" phon="' e">é</w>
-                  <pause type="short" xml:id="p222" />
+                  <pause rend="•" type="short" xml:id="p222" />
                   <w xml:id="w4356" norm="água" pos="NCFS" lemma="água" phon="' a . G w a">água</w>
                   <pc xml:id="pc825">!</pc>
                   <anchor synch="T51" />
@@ -1452,7 +1452,7 @@
             <u xml:id="au3_u_seg49">
                <seg xml:id="seg49" type="utterance" subtype="interrogative">
                   <anchor synch="T51" />
-                  <pause type="medium" xml:id="p223" />
+                  <pause rend="• •" type="medium" xml:id="p223" />
                   <w xml:id="w4357" norm="tá" pos="I" lemma="tá" phon="t ' a">Tá</w>
                   <w xml:id="w4358" norm="bem" pos="RG" lemma="bem" phon="b ' e n">bem</w>
                   <pc xml:id="pc826">?</pc>
@@ -1473,7 +1473,7 @@
             <u xml:id="au3_u_seg50">
                <seg xml:id="seg50" type="utterance" subtype="declarative">
                   <anchor synch="T52" />
-                  <pause type="long" xml:id="p224" />
+                  <pause rend="• • •" type="long" xml:id="p224" />
                   <w xml:id="w4359" norm="por" pos="SPS" lemma="por" phon="p ' o 4">Por</w>
                   <w xml:id="w4360" norm="exemplo" pos="NCMS" lemma="exemplo" phon="e . k s ' e m . p l o">exemplo</w>
                   <pc xml:id="pc827">,</pc>
@@ -1488,7 +1488,7 @@
                   <w xml:id="w4368" norm="de" pos="SPS" lemma="de" phon="d ' e">de</w>
                   <w xml:id="w4369" norm="chocolate" pos="NCMS" lemma="chocolate" phon="tS o . k o . l ' a . t e">chocolate</w>
                   <w xml:id="w4370" norm="com" pos="SPS" lemma="com" phon="k ' o n">com</w>
-                  <pause type="medium" xml:id="p225" />
+                  <pause rend="• •" type="medium" xml:id="p225" />
                   <w xml:id="w4371" norm="piri-píri" pos="NCMP" lemma="piri-píri" phon="p i . 4 i . p ' i . 4 i">piri-píri</w>
                   <pc xml:id="pc829">.</pc>
                   <anchor synch="T53" />
@@ -1508,7 +1508,7 @@
             <u xml:id="au3_u_seg51">
                <seg xml:id="seg51" type="utterance" subtype="declarative">
                   <anchor synch="T53" />
-                  <pause type="short" xml:id="p226" />
+                  <pause rend="•" type="short" xml:id="p226" />
                   <incident rend="risos" xml:id="i138">
                      <desc>risos</desc>
                   </incident>
@@ -1520,7 +1520,7 @@
                   <w xml:id="w4374" norm="o" pos="DA0" lemma="o" phon="' o">o</w>
                   <w xml:id="w4375" norm="requinte" pos="NCMS" lemma="requinte" phon="r e . k ' i n . t e">requinte</w>
                   <pc xml:id="pc832">,</pc>
-                  <pause type="short" xml:id="p227" />
+                  <pause rend="•" type="short" xml:id="p227" />
                   <w xml:id="w4376" norm="chocolate" pos="NCMS" lemma="chocolate" phon="tS o . k o . l ' a . t e">chocolate</w>
                   <w xml:id="w4377" norm="com" pos="SPS" lemma="com" phon="k ' o n">com</w>
                   <w xml:id="w4378" norm="picante" pos="NCMS" lemma="picante" phon="p i . k ' a n . t e">picante</w>
@@ -1587,7 +1587,7 @@
             <u xml:id="au3_u_seg54">
                <seg xml:id="seg54" type="utterance" subtype="declarative">
                   <anchor synch="T57" />
-                  <pause type="short" xml:id="p228" />
+                  <pause rend="•" type="short" xml:id="p228" />
                   <w xml:id="w4385" norm="não" pos="RN" lemma="não" phon="n ' o">Não</w>
                   <w xml:id="w4386" norm="é" pos="VMI" lemma="ser" phon="' e">é</w>
                   <w xml:id="w4387" norm="requinte" pos="NCMS" lemma="requinte" phon="r e . k ' i n . t e">requinte</w>
@@ -1629,7 +1629,7 @@
             <u xml:id="au3_u_seg56">
                <seg xml:id="seg56" type="utterance" subtype="interrogative">
                   <anchor synch="T59" />
-                  <pause type="long" xml:id="p229" />
+                  <pause rend="• • •" type="long" xml:id="p229" />
                   <w xml:id="w4390" norm="tá" pos="I" lemma="tá" phon="t ' a">Tá</w>
                   <w xml:id="w4391" norm="bem" pos="RG" lemma="bem" phon="b ' e n">bem</w>
                   <pc xml:id="pc839">?</pc>
@@ -1650,7 +1650,7 @@
             <u xml:id="au3_u_seg57">
                <seg xml:id="seg57" type="utterance" subtype="interrogative">
                   <anchor synch="T60" />
-                  <pause type="medium" xml:id="p230" />
+                  <pause rend="• •" type="medium" xml:id="p230" />
                   <w xml:id="w4392" norm="sabem" pos="VMI" lemma="saber" phon="s a . B ' e n">Sabem</w>
                   <w xml:id="w4393" norm="onde" pos="RG" lemma="onde" phon="' o n . d e">onde</w>
                   <w xml:id="w4394" norm="é" pos="VMI" lemma="ser" phon="' e">é</w>
@@ -1682,7 +1682,7 @@
             <u xml:id="au3_u_seg58">
                <seg xml:id="seg58" type="utterance" subtype="declarative">
                   <anchor synch="T61" />
-                  <pause type="medium" xml:id="p231" />
+                  <pause rend="• •" type="medium" xml:id="p231" />
                   <w xml:id="w4404" norm="nos" pos="SP+DA" lemma="em+os" phon="n ' o s">Nos</w>
                   <w xml:id="w4405" norm="sítios" pos="NCMP" lemma="sítio" phon="s ' i . t j o s">sítios</w>
                   <w xml:id="w4406" norm="onde" pos="RG" lemma="onde" phon="' o n . d e">onde</w>
@@ -1707,7 +1707,7 @@
             <u xml:id="au3_u_seg59">
                <seg xml:id="seg59" type="utterance" subtype="declarative">
                   <anchor synch="T62" />
-                  <pause type="long" xml:id="p232" />
+                  <pause rend="• • •" type="long" xml:id="p232" />
                   <w xml:id="w4410" norm="que" pos="CS" lemma="que" phon="k ' e">Que</w>
                   <w xml:id="w4411" norm="vai" pos="VMI" lemma="ir" phon="b ' a j">vai</w>
                   <w xml:id="w4412" norm="tudo" pos="PI0" lemma="tudo" phon="t ' u . D o">tudo</w>
@@ -1760,7 +1760,7 @@
             <u xml:id="au3_u_seg61">
                <seg xml:id="seg61" type="utterance" subtype="interrogative">
                   <anchor synch="T64" />
-                  <pause type="short" xml:id="p233" />
+                  <pause rend="•" type="short" xml:id="p233" />
                   <w xml:id="w4423" norm="o" pos="PD0" lemma="o" phon="' o">O</w>
                   <w xml:id="w4424" norm="que" pos="PR0" lemma="que" phon="k ' e">que</w>
                   <w xml:id="w4425" norm="é" pos="VMI" lemma="ser" phon="' e">é</w>
@@ -1875,7 +1875,7 @@
             <u xml:id="au5_u_seg66">
                <seg xml:id="seg66" type="utterance" subtype="not_classified">
                   <anchor synch="T71" />
-                  <pause type="short" xml:id="p236" />
+                  <pause rend="•" type="short" xml:id="p236" />
                   <incident rend="incompreensível" xml:id="i139">
                      <desc>incompreensível</desc>
                   </incident>
