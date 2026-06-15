@@ -35,6 +35,7 @@
 <tli id="T8" time="4.259977906478385"/>
 <tli id="T9" time="4.70007158339431"/>
 <tli id="T10" time="5.019847861885746"/>
+<tli id="T151" time="5.397255778503554" type="intp"/>
 <tli id="T11" time="5.799824222895882"/>
 <tli id="T12" time="6.593133513154054"/>
 <tli id="T13" time="7.866428256341541"/>
@@ -61,6 +62,7 @@
 <tli id="T34" time="25.985669718771216"/>
 <tli id="T35" time="26.83572697917673"/>
 <tli id="T36" time="27.059179908890098"/>
+<tli id="T152" time="27.27023691768921" type="intp"/>
 <tli id="T37" time="29.064221492481686"/>
 <tli id="T38" time="29.4143049743471"/>
 <tli id="T39" time="29.90709436973865"/>
@@ -180,7 +182,8 @@
 <event start="T113" end="T114">lauter</event>
 <event start="T126" end="T128">lauter</event>
 </tier><tier id="TIE1" speaker="SPK0" category="v" type="t" display-name="WH [v]"><event start="T35" end="T36">• • </event>
-<event start="T36" end="T37">Rudi, darf ich zu dem Spiel heute noch mal zurückkommen? </event>
+<event start="T36" end="T152">Rudi, </event>
+<event start="T152" end="T37">darf ich zu dem Spiel heute noch mal zurückkommen? </event>
 <event start="T38" end="T39">Okay. </event>
 <event start="T39" end="T40">• </event>
 <event start="T40" end="T41">((atmet ein)) </event>
@@ -251,7 +254,7 @@
 <event start="T133" end="T134">—</event>
 <event start="T142" end="T143">—</event>
 <event start="T145" end="T146">—</event>
-</tier><tier id="TIE3" speaker="SPK0" category="en" type="a" display-name="WH [en]"><event start="T35" end="T36">• • </event>
+</tier><tier id="TIE13" speaker="SPK0" category="gnd" type="a" display-name="WH [gnd]"></tier><tier id="TIE3" speaker="SPK0" category="en" type="a" display-name="WH [en]"><event start="T35" end="T36">• • </event>
 <event start="T36" end="T37">Rudi, can I return to the game again? </event>
 <event start="T38" end="T39">Okay. </event>
 <event start="T39" end="T40">• </event>
@@ -321,7 +324,8 @@
 <event start="T7" end="T8">Natürlich! </event>
 <event start="T8" end="T9">Wir ham heute… </event>
 <event start="T9" end="T10">• • </event>
-<event start="T10" end="T11">Und da hat der Sebastian Kehl… </event>
+<event start="T10" end="T151">Und da hat der </event>
+<event start="T151" end="T11">Sebastian Kehl… </event>
 <event start="T11" end="T12">Wir ham • gerecht/ </event>
 <event start="T12" end="T13">Wir ham heute beim Tabellenführer gespielt. </event>
 <event start="T13" end="T14">Wir ham null null gespielt. </event>
@@ -419,6 +423,8 @@
 <event start="T102" end="T103">—</event>
 <event start="T116" end="T117">—</event>
 <event start="T122" end="T124">—</event>
+</tier><tier id="TIE12" speaker="SPK1" category="gnd" type="a" display-name="RV [gnd]"><event start="T151" end="T11">128676477</event>
+<event start="T95" end="T96">118738569</event>
 </tier><tier id="TIE8" speaker="SPK1" category="en" type="a" display-name="RV [en]"><event start="T0" end="T1">(How)/ I can only repeat myself: </event>
 <event start="T1" end="T2"> • • </event>
 <event start="T2" end="T3">the story with the lowest point. </event>
