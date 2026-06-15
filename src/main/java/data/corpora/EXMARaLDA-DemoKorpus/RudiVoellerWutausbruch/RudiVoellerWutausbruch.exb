@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <basic-transcription>
 <head>
-<meta-information><project-name>EXMARaLDA DemoKorpus</project-name><transcription-name>Rudi Völler: Wutausbruch</transcription-name><referenced-file url="RudiVoellerWutausbruch_web.mp4"/><referenced-file url="RudiVoellerWutausbruch.wav"/><ud-meta-information><ud-information attribute-name="AutoSave">;C:\Users\bernd\EXMARaLDA_AutoBackup_2024_06_03_04_26_16.exb at 2024_06_03_04_26_16;C:\Users\bernd\EXMARaLDA_AutoBackup_2024_06_03_04_31_16.exb at 2024_06_03_04_31_16</ud-information></ud-meta-information><comment></comment><transcription-convention>HIAT (simplified)</transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<meta-information><project-name>EXMARaLDA DemoKorpus</project-name><transcription-name>Rudi Völler: Wutausbruch</transcription-name><referenced-file url="RudiVoellerWutausbruch_web.mp4"/><referenced-file url="RudiVoellerWutausbruch.wav"/><ud-meta-information><ud-information attribute-name="AutoSave">;C:\Users\bernd\EXMARaLDA_AutoBackup_2024_06_03_04_26_16.exb at 2024_06_03_04_26_16;C:\Users\bernd\EXMARaLDA_AutoBackup_2024_06_03_04_31_16.exb at 2024_06_03_04_31_16;C:\Users\bernd\EXMARaLDA_AutoBackup_2026_06_15_05_16_34.exb at 2026_06_15_05_16_34</ud-information></ud-meta-information><comment></comment><transcription-convention>HIAT (simplified)</transcription-convention></meta-information><speakertable><speaker id="SPK0">
 <abbreviation>WH</abbreviation>
 <sex value="m"/>
 <languages-used><language lang="GER"/></languages-used>
@@ -254,7 +254,8 @@
 <event start="T133" end="T134">—</event>
 <event start="T142" end="T143">—</event>
 <event start="T145" end="T146">—</event>
-</tier><tier id="TIE13" speaker="SPK0" category="gnd" type="a" display-name="WH [gnd]"></tier><tier id="TIE3" speaker="SPK0" category="en" type="a" display-name="WH [en]"><event start="T35" end="T36">• • </event>
+</tier><tier id="TIE13" speaker="SPK0" category="gnd" type="a" display-name="WH [gnd]"><event start="T36" end="T152">119064065</event>
+</tier><tier id="TIE3" speaker="SPK0" category="en" type="a" display-name="WH [en]"><event start="T35" end="T36">• • </event>
 <event start="T36" end="T37">Rudi, can I return to the game again? </event>
 <event start="T38" end="T39">Okay. </event>
 <event start="T39" end="T40">• </event>
