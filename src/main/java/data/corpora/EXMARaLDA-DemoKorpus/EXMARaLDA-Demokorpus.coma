@@ -1212,6 +1212,7 @@
         <Key Name="Function">subject</Key>
         <Key Name="Name">Arlette Chabot</Key>
         <Key Name="Role">Host</Key>
+        <Key Name="GND-ID">1165539780</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_Anne_Will.AW">
@@ -1287,6 +1288,7 @@
         <Key Name="Family:Siblings">1 Bruder</Key>
         <Key Name="Name">Anne Will</Key>
         <Key Name="Role">Host</Key>
+        <Key Name="GND-ID">137619219</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_Beckhams.DAV">
@@ -1353,6 +1355,7 @@
         <Key Name="Family:Marital status">Verheiratet</Key>
         <Key Name="Name">David Beckham</Key>
         <Key Name="Role">Guest</Key>
+        <Key Name="GND-ID">123314178</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_Anne_Will.GL">
@@ -1441,6 +1444,7 @@
         <Key Name="Family:Siblings">2 Schwestern</Key>
         <Key Name="Name">Gottfried Ludewig</Key>
         <Key Name="Role">Guest</Key>
+        <Key Name="GND-ID">1052432654</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_Anne_Will.GW">
@@ -1551,6 +1555,7 @@
         <Key Name="Family:Siblings">2</Key>
         <Key Name="Name">Guido Westerwelle</Key>
         <Key Name="Role">Guest</Key>
+        <Key Name="GND-ID">121665429</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_Anne_Will.HG">
@@ -1675,6 +1680,7 @@
         <Key Name="Family:Siblings">4</Key>
         <Key Name="Name">Heiner Geißler</Key>
         <Key Name="Role">Guest</Key>
+        <Key Name="GND-ID">118690248</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_Royal.NS">
@@ -1824,6 +1830,7 @@
         <Key Name="Family:Siblings">2 Brüder, 1 Halbschwester, 1 Halbbruder</Key>
         <Key Name="Name">Nicolas Sarkozy</Key>
         <Key Name="Role">Guest</Key>
+        <Key Name="GND-ID">119343487</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_Beckhams.PAR">
@@ -1885,6 +1892,7 @@
         <Key Name="Family:Profession father">Bergwerksarbeiter</Key>
         <Key Name="Name">Michael Parkinson</Key>
         <Key Name="Role">Host</Key>
+        <Key Name="GND-ID">139940863</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_Royal.PP">
@@ -1949,6 +1957,7 @@
         <Key Name="Family:Profession mother">Hausfrau</Key>
         <Key Name="Name">Patrick Poivre d'Arvor</Key>
         <Key Name="Role">Host</Key>
+        <Key Name="GND-ID">119522063</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_Royal.SR">
@@ -2099,6 +2108,7 @@
         <Key Name="Family:Profession mother">Hausfrau</Key>
         <Key Name="Name">Ségolène Royal</Key>
         <Key Name="Role">Guest</Key>
+        <Key Name="GND-ID">131452525</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_Beckhams.VIC">
@@ -2156,6 +2166,7 @@
         <Key Name="Family:Marital status">Verheiratet</Key>
         <Key Name="Name">Victoria Beckham</Key>
         <Key Name="Role">Guest</Key>
+        <Key Name="GND-ID">123314135</Key>
       </Description>
     </Speaker>
     <!-- **************************************** -->
@@ -2190,6 +2201,7 @@
         <Key Name="Function">subject</Key>
         <Key Name="Family:Marital status">Verheiratet</Key>
         <Key Name="Name">Claudio Rossini</Key>
+        <Key Name="GND-ID">1238022561</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_Gasperini.P">
@@ -2351,6 +2363,7 @@
         <Key Name="Family:Profession father">Handwerker</Key>
         <Key Name="Family:Profession mother">Lehrerin</Key>
         <Key Name="Name">Juán Ramón Lucas</Key>
+        <Key Name="GND-ID">1166590046</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_Savater.FS">
@@ -2435,6 +2448,7 @@
         <Key Name="Family:Profession father">Notar</Key>
         <Key Name="Family:Profession mother">Hausfrau</Key>
         <Key Name="Name">Fernando Savater</Key>
+        <Key Name="GND-ID">119442132</Key>
       </Description>
     </Speaker>
     <!-- **************************************** -->
@@ -2467,6 +2481,7 @@
       <Description>
         <Key Name="Function">subject</Key>
         <Key Name="Name">Ricardo Araújo Pererira</Key>
+        <Key Name="GND-ID">1135414955</Key>
       </Description>
     </Speaker>
     <!-- **************************************** -->
@@ -2546,6 +2561,7 @@
         <Key Name="Family:Profession father">Professor (Mathe und Physik) </Key>
         <Key Name="Family:Profession mother">Lehrerin</Key>
         <Key Name="Name">Sergey Lisovskij</Key>
+        <Key Name="GND-ID">171929608</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_NTVshniki.KG">
@@ -2617,6 +2633,7 @@
       <Description>
         <Key Name="Function">subject</Key>
         <Key Name="Name">Katerina Gordeeva</Key>
+        <Key Name="GND-ID">1155106423</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_NTVshniki.SP">
@@ -2764,6 +2781,7 @@
       <Description>
         <Key Name="Function">subject</Key>
         <Key Name="Name">Anton Krasovskij</Key>
+        <Key Name="GND-ID">1161696180</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_NTVshniki.AL">
@@ -2992,6 +3010,7 @@
         <Key Name="Role">Fernsehmoderator, Sport</Key>
         <Key Name="Hobbies">Golf, Tennis und Skilauf</Key>
         <Key Name="Name">Waldemar Hartmann</Key>
+        <Key Name="GND-ID">119393492</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_RudioVoellerWutausbruch.RV">
@@ -3126,15 +3145,16 @@
         </Description>
       </Location>
       <Description>
-        <Key Name="Function">subject</Key>
         <Key Name="Family:Children">3 Söhne, 2 Töchter</Key>
         <Key Name="Family:Marital status">Seit 1995 in zweiter Ehe mit einer Italienerin</Key>
         <Key Name="Family:Profession father">Gelernter Dreher, Lagermeister, Jugendbetreuer beim TSV
           Hanau 1860 (Fußballverein).</Key>
         <Key Name="Family:Profession mother">Näherin und Putzfrau</Key>
         <Key Name="Family:Siblings">3 Brüder</Key>
-        <Key Name="Role">Gast bei Waldemar Hartmann (WH) im ARD-Studio nach 0:0 gegen Island.</Key>
+        <Key Name="Function">subject</Key>
+        <Key Name="GND-ID">119064065</Key>
         <Key Name="Name">Rudolf Völler</Key>
+        <Key Name="Role">Gast bei Waldemar Hartmann (WH) im ARD-Studio nach 0:0 gegen Island.</Key>
       </Description>
     </Speaker>
     <!-- **************************************** -->
@@ -3171,6 +3191,7 @@
         <Key Name="Family:Profession father">Wirt</Key>
         <Key Name="Family:Profession mother">Theaterschauspielerin</Key>
         <Key Name="Name">Szymon Majewski</Key>
+        <Key Name="GND-ID">1041699522</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_SzymonMajewski.WojM">
@@ -3204,6 +3225,7 @@
         <Key Name="Family:Profession father">Mikrobiologe</Key>
         <Key Name="Family:Profession mother">Dozentin</Key>
         <Key Name="Name">Wojciech Mecwaldowski</Key>
+        <Key Name="GND-ID">1253537941</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_SzymonMajewski.PawW">
@@ -3303,6 +3325,7 @@
         <Key Name="Family:Profession father">Maler</Key>
         <Key Name="Family:Profession mother">Schriftstellerin</Key>
         <Key Name="Name">Sonia Bohosiewicz</Key>
+        <Key Name="GND-ID">1042577404</Key>
       </Description>
     </Speaker>
     <!-- **************************************** -->
@@ -3352,6 +3375,7 @@
         <Key Name="Family:Profession mother">Musiklehrerin</Key>
         <Key Name="Family:Siblings">1 Bruder, 1 Stiefschwester</Key>
         <Key Name="Name">Paul McCartney</Key>
+        <Key Name="GND-ID">118575708</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_PaulMcCartney.INT">
@@ -3508,6 +3532,7 @@
         <Key Name="Family:Profession father">Einzelhandelskaufmann</Key>
         <Key Name="Family:Profession mother">Einzelhandelskauffrau</Key>
         <Key Name="Name">Ronald Pofalla</Key>
+        <Key Name="GND-ID">112564046</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_HartAberFair.FB">
@@ -3606,6 +3631,7 @@
         <Key Name="Family:Profession father">Versicherungskaufmann</Key>
         <Key Name="Family:Profession mother">Sozialarbeiterin</Key>
         <Key Name="Name">Frank Plasberg</Key>
+        <Key Name="GND-ID">133311244</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_HartAberFair.FK">
@@ -3664,11 +3690,12 @@
         </Description>
       </Location>
       <Description>
-        <Key Name="Function">subject</Key>
         <Key Name="Family:Marital status">Verheiratet</Key>
         <Key Name="Family:Profession father">Immobilienmakler</Key>
         <Key Name="Family:Profession mother">Rezeptionistin</Key>
-        <Key Name="Name">Ursula Engelen-Käfer</Key>
+        <Key Name="Function">subject</Key>
+        <Key Name="Name">Ursula Engelen-Kefer</Key>
+        <Key Name="GND-ID">124158242</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_HartAberFair.HB">
@@ -3732,6 +3759,7 @@
         <Key Name="Family:Profession mother">Leiterin eines Weingeschäfts</Key>
         <Key Name="Family:Siblings">1 Bruder</Key>
         <Key Name="Name">Daniel Bahr</Key>
+        <Key Name="GND-ID">140002782</Key>
       </Description>
     </Speaker>
     <!-- **************************************** -->
@@ -4050,6 +4078,7 @@
           Souffleuse</Key>
         <Key Name="Family:Profession partner in life">Fotografin</Key>
         <Key Name="Name">Hubert Johannes Fichte</Key>
+        <Key Name="GND-ID">118532839</Key>
       </Description>
     </Speaker>
     <Speaker Id="C_HubertFichteInterview.Ulli">
@@ -4410,8 +4439,8 @@
       Hamburg, corpora@uni-hamburg.de</Key>
     <Key Name="olac:researcher">Thomas Schmidt; Kai Wörner; Hanna Hedeland</Key>
     <Key Name="olac:sponsor">Deutsche Forschungsgemeinschaft (DFG)</Key>
-    <Key Name="zumult:speechEventMetadataTableSelection">Communication type;Background information;Source</Key>
     <Key Name="zumult:speakerMetadataTableSelection">Name;Role</Key>
+    <Key Name="zumult:speechEventMetadataTableSelection">Communication type;Background information;Source</Key>
   </Description>
   <AsocFile Id="FIDD8D0523D-959D-32C7-B9B1-6D4A6AD2EE76">
     <Name>Metadata overview</Name>
