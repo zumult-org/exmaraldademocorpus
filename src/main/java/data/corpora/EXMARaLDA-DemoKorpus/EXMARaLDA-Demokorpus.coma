@@ -14,11 +14,12 @@
         <Description />
       </Setting>
       <Description>
-        <Key Name="Background information">Politische Diskussionsrunde zum Thema „Hungern muss hier
-          keiner – Ein Land redet sich arm“</Key>
+        <Key Name="Background information" xml:lang="eng">Political round-table discussion on the topic ‘No one here needs to go hungry – a country talking itself into poverty’. </Key>
+        <Key Name="Hintergrundinformation" xml:lang="deu">Politische Diskussionsrunde zum Thema „Hungern muss hier keiner – Ein Land redet sich arm“. </Key>
         <Key Name="Communication type">television debate</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
-        <Key Name="Source">Auszug aus der wöchentlichen Polit-Talkshow "Anne Will" auf ARD</Key>
+        <Key Name="Source">Excerpt from the weekly political talk show ‘Anne Will’ on ARD</Key>
+        <Key Name="Quelle">Auszug aus der wöchentlichen Polit-Talkshow "Anne Will" auf ARD</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>deu</LanguageCode>
@@ -105,11 +106,12 @@
         <Description />
       </Setting>
       <Description>
-        <Key Name="Background information">Victoria und David Beckham sind zu Gast bei
-          Parkinson</Key>
+        <Key Name="Background information" xml:lang="eng">Victoria and David Beckham are guests on the Parkinson show</Key>
+        <Key Name="Hintergrundinformation" xml:lang="deu">Victoria und David Beckham sind zu Gast bei Parkinson</Key>
         <Key Name="Communication type">television interview</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
-        <Key Name="Source">Parkinson Talkshow auf BBC</Key>
+        <Key Name="Source">Parkinson talkshow on BBC</Key>
+        <Key Name="Quelle">Parkinson Talkshow auf BBC</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>eng</LanguageCode>
@@ -197,11 +199,12 @@
         <Description />
       </Setting>
       <Description>
-        <Key Name="Background information">TV-Duell zwischen der Sozialistin Royal und dem
-          Konservativen Sarkozy vor den Präsidentschaftswahlen 2007</Key>
+        <Key Name="Background information" xml:lang="eng">TV debate between the socialist Royal and the conservative Sarkozy ahead of the 2007 presidential elections</Key>
+        <Key Name="Hintergrundinformation" xml:lang="deu">TV-Duell zwischen der Sozialistin Royal und dem Konservativen Sarkozy vor den Präsidentschaftswahlen 2007</Key>
         <Key Name="Communication type">television debate</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
-        <Key Name="Source">Französisches Fernsehen (versch. Kanäle)</Key>
+        <Key Name="Source">French television (various channels)</Key>
+        <Key Name="Quelle">Französisches Fernsehen (verschiedene Kanäle)</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>fra</LanguageCode>
@@ -289,10 +292,12 @@
         <Description />
       </Setting>
       <Description>
-        <Key Name="Background information">Interview mit Fußballspieler Christian Panucci über
-          Telefonverbindung</Key>
+        <Key Name="Background information" xml:lang="eng">Interview with footballer Christian Panucci over the phone</Key>
+        <Key Name="Hintergrundinformation" xml:lang="deu">Interview mit Fußballspieler Christian Panucci über Telefonverbindung</Key>
         <Key Name="Communication type">telephone interview in television</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
+        <Key Name="Source">Italian television (channel not documented)</Key>
+        <Key Name="Quelle">Italienisches Fernsehen (Kanal nicht dokumentiert)</Key>        
       </Description>
       <Language Type="Communication">
         <LanguageCode>ita</LanguageCode>
@@ -377,10 +382,12 @@
         <Description />
       </Setting>
       <Description>
-        <Key Name="Background information">Interview zum Roman „La Hermandad de la Buena Suerte“
-          (Die Bruderschaft des Glücks) von Fernando Savater</Key>
+        <Key Name="Background information" xml:lang="eng">Interview about the novel "La Hermandad de la Buena Suerte" (The Brotherhood of Good Fortune) by Fernando Savater</Key>
+        <Key Name="Hintergrundinformation" xml:lang="deu">Interview zum Roman "La Hermandad de la Buena Suerte" (Die Bruderschaft des Glücks) von Fernando Savater</Key>
         <Key Name="Communication type">telephone interview</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
+        <Key Name="Source">not documented</Key>
+        <Key Name="Quelle">nicht dokumentiert</Key>                
       </Description>
       <Language Type="Communication">
         <LanguageCode>spa</LanguageCode>
@@ -461,11 +468,12 @@
         <Person>C_BatatasFritas.RAP</Person>
       </Setting>
       <Description>
-        <Key Name="Background information">Ricardo Araújo Pereira speaks of his dislike for flavored
-          food. </Key>
+        <Key Name="Background information" xml:lang="eng">Ricardo Araújo Pereira speaks of his dislike for flavored food. </Key>
+        <Key Name="Hintergrundinformation" xml:lang="deu">Ricardo Araújo Pereira spricht darüber, dass er aromatisierte Speisen nicht mag. </Key>
         <Key Name="Communication type">television sketch</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
         <Key Name="Source">sketch by Ricardo Araújo Pereira</Key>
+        <Key Name="Quelle">Sketch von Ricardo Araújo Pereira</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>por</LanguageCode>
@@ -554,13 +562,12 @@
         <Person>C_NTVshniki.AL</Person>
       </Setting>
       <Description>
-        <Key Name="Background information">Eigentlich sollten die beiden Unternehmer über die
-          Finanzkrise diskutieren - aber während der Sendung im russischen Fernsehen wurde der
-          Milliardär Alexander Lebedew plötzlich handgreiflich und prügelte seinen Nachbarn vom
-          Sitz.(www.Spiegel.de)</Key>
+        <Key Name="Background information" xml:lang="eng">The two businessmen were actually supposed to be discussing the financial crisis – but during the programme on Russian television, the billionaire Alexander Lebedev suddenly became violent and knocked his neighbour off his seat. (www.spiegel.de)</Key>
+        <Key Name="Hintergrundinformation" xml:lang="deu">Eigentlich sollten die beiden Unternehmer über die Finanzkrise diskutieren - aber während der Sendung im russischen Fernsehen wurde der Milliardär Alexander Lebedew plötzlich handgreiflich und prügelte seinen Nachbarn vom Sitz.(www.spiegel.de)</Key>
         <Key Name="Communication type">interview</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
-        <Key Name="Source">Auszug aus dem Programm NTVshniki vom 16.09.2011</Key>
+        <Key Name="Source">Excerpt from the program NTVshniki on 16.09.2011</Key>
+        <Key Name="Quelle">Auszug aus dem Programm NTVshniki vom 16.09.2011</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>rus</LanguageCode>
@@ -645,14 +652,12 @@
         <Description />
       </Setting>
       <Description>
-        <Key Name="Background information" xml:lang="deu">Das Fußball-EM-Qualifikationsspiels gegen
-          Island endete 0:0. Vor der Live-Schaltung nach Reykjavik haben die Moderatoren der
-          Sportsendung, Gerhard Delling und Günter Netzer, die noch auf einem Monitor im Studio zu
-          sehen sind, das Spiel bzw. die Leistung der deutschen Nationalmannschaft bewertet. </Key>
+        <Key Name="Background information" xml:lang="eng">The European Championship qualifying match against Iceland ended 0–0. Before the live link to Reykjavik, the presenters of the sports programme, Gerhard Delling and Günter Netzer – who can still be seen on a monitor in the studio – assessed the match and the performance of the German national team. </Key>
+        <Key Name="Hintergrundinformation" xml:lang="deu">Das Fußball-EM-Qualifikationsspiels gegen Island endete 0:0. Vor der Live-Schaltung nach Reykjavik haben die Moderatoren der Sportsendung, Gerhard Delling und Günter Netzer, die noch auf einem Monitor im Studio zu sehen sind, das Spiel bzw. die Leistung der deutschen Nationalmannschaft bewertet. </Key>
         <Key Name="Communication type">television interview</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
-        <Key Name="Source">Sportschau (ARD); Aufgenommen und bereitgestellt von Dr. Wilfried Schütte
-          (Institut für Deutsche Sprache, Mannheim).</Key>
+        <Key Name="Source">Sportschau (ARD); recorded and  provided by Dr. Wilfried Schütte (Institute for the German Language, Mannheim).</Key>
+        <Key Name="Quelle">Sportschau (ARD); Aufgenommen und bereitgestellt von Dr. Wilfried Schütte (Institut für Deutsche Sprache, Mannheim).</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>deu</LanguageCode>
@@ -746,11 +751,12 @@
         <Description />
       </Setting>
       <Description>
-        <Key Name="Background information">Four Polish actors from the TV programme "Usta usta" are
-          guests in a TV talkshow</Key>
+        <Key Name="Background information" xml:lang="eng">Four Polish actors from the TV programme "Usta usta" are guests in a TV talkshow. </Key>
+        <Key Name="Hintergrundinformation" xml:lang="deu">Vier polnische Schauspieler aus der Fernsehsendung „Usta usta“ sind zu Gast in einer TV-Talkshow. </Key>
         <Key Name="Communication type">television conversation</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
-        <Key Name="Source">Polnische Fernsehsendung "Szymon Majewski Show"</Key>
+        <Key Name="Source">Polish TV program "Szymon Majewski Show"</Key>
+        <Key Name="Quelle">Polnische Fernsehsendung "Szymon Majewski Show"</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>pol</LanguageCode>
@@ -834,10 +840,12 @@
         <Description />
       </Setting>
       <Description>
-        <Key Name="Background information">Interview mit Paul McCartney auf einem US-amerikanischen
-          Radiosender</Key>
+        <Key Name="Background information" xml:lang="eng">An interview with Paul McCartney on a US radio station during the Beatles’ US tour in 1964. </Key>
+        <Key Name="Hintergrundinformation" xml:lang="deu">Interview mit Paul McCartney auf einem US-amerikanischen Radiosender während der Beatles US tour in 1964. </Key>
         <Key Name="Communication type">radio interview</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
+        <Key Name="Source">Not documented</Key>
+        <Key Name="Quelle">Nicht dokumentiert</Key>        
       </Description>
       <Language Type="Communication">
         <LanguageCode>eng</LanguageCode>
@@ -845,7 +853,7 @@
       </Language>
       <Location Type="Communication">
         <Period>
-          <PeriodStart>1970-01-07T00:00:00</PeriodStart>
+          <PeriodStart>1964-01-07T00:00:00</PeriodStart>
           <PeriodExact>false</PeriodExact>
           <PeriodDuration>0</PeriodDuration>
         </Period>
@@ -920,12 +928,12 @@
         <Person>C_HartAberFair.HB</Person>
       </Setting>
       <Description>
-        <Key Name="Background information">Politische Diskussionsrunde zum Thema "Arm durch
-          Arbeit"</Key>
+        <Key Name="Background information" xml:lang="eng">Political round-table discussion on the topic of ‘Poor through work’. </Key>
+        <Key Name="Hintergrundinformation" xml:lang="deu">Politische Diskussionsrunde zum Thema "Arm durch Arbeit". </Key>
         <Key Name="Communication type">television debate</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
-        <Key Name="Source">Auszug aus der wöchentlich ausgestrahlten Polit-Talkshow "Hart aber fair"
-          auf ARD DasErste</Key>
+        <Key Name="Source">Excerpt from the weekly political talk show ‘Hart aber fair’ broadcast on ARD DasErste</Key>
+        <Key Name="Quelle">Auszug aus der wöchentlich ausgestrahlten Polit-Talkshow "Hart aber fair" auf ARD DasErste</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>deu</LanguageCode>
@@ -1003,16 +1011,13 @@
         <Description />
       </Setting>
       <Description>
-        <Key Name="Background information">Ulli wurde zusammen mit anderen Personen im Umfeld von
-          Wolli, einem "Hanseatischen Kaufmann" bzw. "Puff-Boss", von Fichte 1969 interviewt. </Key>
-        <Key Name="Comment">Das Gespräch wurde 1969 von Fichte auf Tonband aufgezeichnet und neben
-          weiteren Interviews 1972 im Rowohlt-Verlag unter dem Titel "Interviews aus dem Palais
-          d’Amour" veröffentlicht (erweiterte Neuausgabe 1978 im Fischer-Verlag unter dem Titel
-          "Wolli Indienfahrer").</Key>
+        <Key Name="Background information" xml:lang="eng">In 1969, Ulli, along with other people associated with Wolli – a ‘Hanseatic merchant’ or ‘brothel boss’ – was interviewed by the writer and ethnographer Hubert Fichte. </Key>
+        <Key Name="Hintergrundinformation" xml:lang="deu">Ulli wurde 1969 zusammen mit anderen Personen im Umfeld von Wolli, einem "Hanseatischen Kaufmann" bzw. "Puff-Boss", vom Schriftsteller und Ethonograph Hubert Fichte interviewt. </Key>
+        <Key Name="Comment">Das Gespräch wurde 1969 von Fichte auf Tonband aufgezeichnet und neben weiteren Interviews 1972 im Rowohlt-Verlag unter dem Titel "Interviews aus dem Palais d’Amour" veröffentlicht (erweiterte Neuausgabe 1978 im Fischer-Verlag unter dem Titel "Wolli Indienfahrer").</Key>
         <Key Name="Communication type">interview</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
-        <Key Name="Source">Hubert Fichte: St. Pauli Interviews. Oktober 2000 supposé (Hrsg. Nils
-          Röller und Klaus Sander) erschienen.</Key>
+        <Key Name="Source">Hubert Fichte -- St. Pauli Interviews. Originalaufnahmen, Hamburg 1969. Edited by Nils Röller and Klaus Sander. Production: Wyk auf Föhr: supposé 2000. Audio CD</Key>
+        <Key Name="Quelle">Hubert Fichte -- St. Pauli Interviews. Originalaufnahmen, Hamburg 1969. Herausgegeben von Nils Röller und Klaus Sander. Produktion: Wyk auf Föhr: supposé 2000. Audio-CD</Key>
       </Description>
       <Language Type="Communication">
         <LanguageCode>deu</LanguageCode>
@@ -1099,7 +1104,7 @@
         <Person>ID1EF8C226-FAC3-2A03-A750-2B19C864D01D</Person>
       </Setting>
       <Description>
-        <Key Name="Background information">Türkische Anruferin aus Deutschland ruft bei einer TV-Livesendung an, um sich von einem Experten über ihre zukünftige Rentensituation beraten zu lassen. Sie spricht sehr schnell und durcheinander, sodass der Experte große Mühe hat, sie zu verstehen und ihr entsprechend Auskunft zu geben.</Key>
+        <Key Name="Background information" xml:lang="eng">Türkische Anruferin aus Deutschland ruft bei einer TV-Livesendung an, um sich von einem Experten über ihre zukünftige Rentensituation beraten zu lassen. Sie spricht sehr schnell und durcheinander, sodass der Experte große Mühe hat, sie zu verstehen und ihr entsprechend Auskunft zu geben.</Key>
         <Key Name="Communication type">advice by phone in television</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
         <Key Name="Source">Programm "Danisma Saati" mit Serif Issi auf deutsch-türkischem Sender "Turkshow"</Key>
@@ -1275,8 +1280,7 @@
         </Period>
         <Country>Germany</Country>
         <Description>
-          <Key Name="Name">Moderation und Leitung der politischen Talkshow "Anne Will" des NDR in
-            der ARD</Key>
+          <Key Name="Name">Moderation und Leitung der politischen Talkshow "Anne Will" des NDR in der ARD</Key>
         </Description>
       </Location>
       <Description>
@@ -4381,7 +4385,7 @@
       </Location>
       <Description>
         <Key Name="Function">subject</Key>
-        <Key Name="Background information">Raucht seit 8 Monaten (30-40 Zigaretten/ Tag) in der
+        <Key Name="Background information" xml:lang="eng">Raucht seit 8 Monaten (30-40 Zigaretten/ Tag) in der
           Aufnahme zu hören, 2-3 mal/ Woche Hasch. Trinkt "jedenfalls mehr als der
           Durchschnittsbürger". War schon mal über eine Woche betrunken. Insgesamt 7,5 Jahre
           Gefägnis wegen u.a. Körperverletzung (auch als Gewohnheitsverbrecher), Widerstand gegen
