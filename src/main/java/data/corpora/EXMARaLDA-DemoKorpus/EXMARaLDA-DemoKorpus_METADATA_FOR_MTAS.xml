@@ -2,4 +2,8 @@
 <metadata-for-mtas>
     <metadata key="Communication type" level="speech-event"/>
     <metadata key="Role" level="speaker"/>
+    <metadata key="Profession" level="speaker"/>
+    <metadata key="Birth year" level="speaker"/>
+    <metadata key="Language" level="speaker"/>
+    <metadata key="GND-ID" level="speaker"/>
 </metadata-for-mtas>
