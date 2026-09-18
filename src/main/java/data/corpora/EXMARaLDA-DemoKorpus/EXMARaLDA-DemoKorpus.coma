@@ -690,6 +690,7 @@
           </Description>
           <NSLink>Gasperini/Gasperini_web.mp4</NSLink>
         </Media>
+        <Description />
       </Recording>
     </Communication>
     <!-- ******************************** -->
@@ -982,7 +983,7 @@
       <Description>
         <Key Name="Background information" xml:lang="eng">The two businessmen were actually supposed to be discussing the financial crisis – but during the programme on Russian television, the billionaire Alexander Lebedev suddenly became violent and knocked his neighbour off his seat. (www.spiegel.de)</Key>
         <Key Name="Hintergrundinformation" xml:lang="deu">Eigentlich sollten die beiden Unternehmer über die Finanzkrise diskutieren - aber während der Sendung im russischen Fernsehen wurde der Milliardär Alexander Lebedew plötzlich handgreiflich und prügelte seinen Nachbarn vom Sitz.(www.spiegel.de)</Key>
-        <Key Name="Communication type">interview</Key>
+        <Key Name="Communication type">television interview</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
         <Key Name="Source">Excerpt from the program NTVshniki on 16.09.2011</Key>
         <Key Name="Quelle">Auszug aus dem Programm NTVshniki vom 16.09.2011</Key>
@@ -1692,6 +1693,7 @@
           </Description>
           <NSLink>HartAberFair/HartAberFair.wav</NSLink>
         </Media>
+        <Description />
       </Recording>
     </Communication>
     <!-- ******************************** -->
@@ -1707,7 +1709,7 @@
         <Key Name="Background information" xml:lang="eng">In 1969, Ulli, along with other people associated with Wolli – a ‘Hanseatic merchant’ or ‘brothel boss’ – was interviewed by the writer and ethnographer Hubert Fichte. </Key>
         <Key Name="Hintergrundinformation" xml:lang="deu">Ulli wurde 1969 zusammen mit anderen Personen im Umfeld von Wolli, einem "Hanseatischen Kaufmann" bzw. "Puff-Boss", vom Schriftsteller und Ethonograph Hubert Fichte interviewt. </Key>
         <Key Name="Comment">Das Gespräch wurde 1969 von Fichte auf Tonband aufgezeichnet und neben weiteren Interviews 1972 im Rowohlt-Verlag unter dem Titel "Interviews aus dem Palais d’Amour" veröffentlicht (erweiterte Neuausgabe 1978 im Fischer-Verlag unter dem Titel "Wolli Indienfahrer").</Key>
-        <Key Name="Communication type">interview</Key>
+        <Key Name="Communication type">audio interview</Key>
         <Key Name="Project name">EXMARaLDA DemoKorpus</Key>
         <Key Name="Source">Hubert Fichte -- St. Pauli Interviews. Originalaufnahmen, Hamburg 1969. Edited by Nils Röller and Klaus Sander. Production: Wyk auf Föhr: supposé 2000. Audio CD</Key>
         <Key Name="Quelle">Hubert Fichte -- St. Pauli Interviews. Originalaufnahmen, Hamburg 1969. Herausgegeben von Nils Röller und Klaus Sander. Produktion: Wyk auf Föhr: supposé 2000. Audio-CD</Key>
@@ -1801,6 +1803,7 @@
           </Description>
           <NSLink>HubertFichteInterview/HubertFichteInterview.wav</NSLink>
         </Media>
+        <Description />
       </Recording>
     </Communication>
     <!-- ******************************** -->
