@@ -1,13 +1,10 @@
-EXMARaLDA Demo Corpus
+EXMARaLDA Demo Corpus v1.2
 
-The EXMARaLDA Demo Corpus contains examples of EXMARaLDA transcriptions in 13 languages. The EXMARaLDA Demo Corpus can be used to demonstrate and experiment with the functionality of the EXMARaLDA tools.
-
-A document that explains how to install the EXMARaLDA tools and how to use the EXMARaLDA demo corpus can be found here: https://doi.org/10.25592/uhhfdm.9019
-
-More documents and literature can be found in the section “Help & Documentation” at the EXMARaLDA homepage: https://exmaralda.org
-
+The EXMARaLDA Demo Corpus is a small corpus originally designed for demonstrating the functionality of the EXMARaLDA system.
+It consists of a selection of short transcribed audio and video recordings in various languages.
+Version 1.2 is a subset of version 1.1, curated for the Transcription+ project, with the main aim of demonstrating the use of ISO 24624:2016 Language resource management — Transcription of spoken language.
+	
 The corpus includes the following communications:
-
 
 ========================================================================
  1. Anne Will: Halbes Wahlrecht

@@ -7,8 +7,10 @@
     <Header>
         <MdCreator>Universität Duisburg-Essen</MdCreator>
         <MdCreationDate>2026-09-18</MdCreationDate>
-        <MdSelfLink>???</MdSelfLink>
+        <!-- the URL or PID of this file -->
+        <MdSelfLink></MdSelfLink>
         <MdProfile>clarin.eu:cr1:p_1422885449343</MdProfile>
+        <!--  an (optional but recommended) plain text indication to which collection this file belongs. Used for the Collection facet in the VLO -->
         <MdCollectionDisplayName>Hamburger Zentrum für Sprachkorpora (HZSK)</MdCollectionDisplayName>
     </Header>
     <Resources>
@@ -22,8 +24,8 @@
                 <ResourceRef>https://corpora.uni-hamburg.de/repository/communication:demo-1.2_Anne_Will_Halbes_Wahlrecht/CMDI</ResourceRef>
             </ResourceProxy> -->
         </ResourceProxyList>
-        <JournalFileProxyList></JournalFileProxyList>
-        <ResourceRelationList></ResourceRelationList>
+        <JournalFileProxyList/>
+        <ResourceRelationList/>
     </Resources>
     
     <!-- ****************************************************** -->
@@ -33,9 +35,10 @@
     <Components>
         <SpokenCorpusProfile>
             <GeneralInfo ComponentId="clarin.eu:cr1:c_1422885449330">
-                <Name xml:lang="eng">DEMO-KORPUS</Name>
+                <Name xml:lang="eng">EXMARaLDA Demo corpus 1.2</Name>
                 <Title xml:lang="eng">EXMARaLDA Demo corpus 1.2</Title>
-                <PID>???</PID>
+                <!-- The PID of the resource. -->
+                <PID></PID>
                 <Description xml:lang="eng">
                     The EXMARaLDA Demo Corpus is a small corpus originally designed for demonstrating the functionality of the EXMARaLDA system.
                     It consists of a selection of short transcribed audio and video recordings in various languages.
@@ -58,8 +61,9 @@
                     <Email>corpora@uni-hamburg.de</Email>
                     <Organisation xml:lang="deu">Hamburger Zentrum für Sprachkorpora</Organisation>
                     <Organisation xml:lang="eng">Hamburg Centre for Language Corpora</Organisation>
-                    <Telephone>+49 40 42838-6425</Telephone>
-                    <Website>https://corpora.uni-hamburg.de</Website>
+                    <!-- Anybody want to give their telephone number? -->
+                    <Telephone></Telephone>
+                    <Website>https://www.slm.uni-hamburg.de/hzsk/</Website>
                 </Contact>
                 <License ComponentId="clarin.eu:cr1:c_1345561703649">
                     <DistributionType>public</DistributionType>
@@ -70,14 +74,28 @@
                 <Project ComponentId="clarin.eu:cr1:c_1271859438125">
                     <Title xml:lang="eng">Z2 "Computer Assisted Methods for the creation and analysis of  multilingual data"</Title>
                     <Title xml:lang="deu">Z2 "Computergestützte Erfassungs- und Analysemethoden multilingualer  Daten"</Title>
-                   <Funder xml:lang="deu">Deutsche Forschungsgemeinschaft (DFG)</Funder>
-                   <Funder xml:lang="eng">German Research Foundation (DFG)</Funder>
+                    <Funder xml:lang="deu">Deutsche Forschungsgemeinschaft (DFG)</Funder>
+                    <Funder xml:lang="eng">German Research Foundation (DFG)</Funder>
+                    <Website>https://www-archiv.fdm.uni-hamburg.de/sfb538/www.uni-hamburg.de/sfb538/forschungsprogramm/computergestuetze-methoden.html</Website>
+                </Project>
+                <Project>
+                    <Title xml:lang="eng">ISO 24624:2016 – Transcription of spoken language: Resources, Documentation and multilingual demo corpus (Transcription+)</Title>
+                    <Title xml:lang="deu">ISO 24624:2016 – Transcription of spoken language: Ressourcen, Dokumentation und multilinguales Demokorpus (Transcription+)</Title>                    
+                    <Funder xml:lang="deu">Deutsche Forschungsgemeinschaft (DFG)</Funder>
+                    <Funder xml:lang="eng">German Research Foundation (DFG)</Funder>
+                    <Website>https://transcription-plus.awhamburg.de/</Website>
                 </Project>                
                 <Creators ComponentId="clarin.eu:cr1:c_1271859438134">
                     <Creator ComponentId="clarin.eu:cr1:c_1271859438129">
                         <Contact ComponentId="clarin.eu:cr1:c_1271859438113">
                             <Person>Hamburger Zentrum für Sprachkorpora</Person>
                             <Email>Max-Brauer-Allee 60 / D-22765 Hamburg</Email>
+                        </Contact>
+                    </Creator>
+                    <Creator ComponentId="clarin.eu:cr1:c_1271859438129">
+                        <Contact ComponentId="clarin.eu:cr1:c_1271859438113">
+                            <Person>Thomas Schmidt</Person>
+                            <Email>thomas@linguisticbits.de</Email>
                         </Contact>
                     </Creator>
                 </Creators>
@@ -130,7 +148,7 @@
                     <TemporalClassification>synchronic</TemporalClassification>
                 </CorpusContext>
                 <Coverage ComponentId="clarin.eu:cr1:c_1422885449339">
-                    <TimeCoverage>1970-01-07/2013-04-01</TimeCoverage>
+                    <TimeCoverage>1964-01-07/2011-09-16</TimeCoverage>
                     <Location ComponentId="clarin.eu:cr1:c_1271859438112">
                         <Country ComponentId="clarin.eu:cr1:c_1271859438104">
                             <Code>DE</Code>
@@ -299,7 +317,6 @@
                         <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
                             <Description>HIAT (simplified)</Description>
                             <Description>HIAT</Description>
-                            <Description>Mimik und Gestik der Sprecher werden nur ansatzweise angedeutet. Abkürzungen: LA= linker Arm, RA= rechter Arm, LH= linke Hand, RH= rechte Hand, KO= Kopf, OK= Oberkörper.</Description>
                         </Descriptions>
                     </AnnotationType>
                     <AnnotationType ComponentId="clarin.eu:cr1:c_1422885449337">
@@ -338,6 +355,36 @@
                             <Description>suprasegmental information</Description>
                         </Descriptions>
                     </AnnotationType>
+                    <AnnotationType ComponentId="clarin.eu:cr1:c_1422885449337">
+                        <AnnotationLevelType xml:lang="eng">pos</AnnotationLevelType>
+                        <Descriptions>
+                            <Description>part of speech</Description>
+                        </Descriptions>
+                    </AnnotationType>
+                    <AnnotationType ComponentId="clarin.eu:cr1:c_1422885449337">
+                        <AnnotationLevelType xml:lang="eng">norm</AnnotationLevelType>
+                        <Descriptions>
+                            <Description>orthographic normalisation</Description>
+                        </Descriptions>
+                    </AnnotationType>
+                    <AnnotationType ComponentId="clarin.eu:cr1:c_1422885449337">
+                        <AnnotationLevelType xml:lang="eng">lemma</AnnotationLevelType>
+                        <Descriptions>
+                            <Description>lemmatisation</Description>
+                        </Descriptions>
+                    </AnnotationType>
+                    <AnnotationType ComponentId="clarin.eu:cr1:c_1422885449337">
+                        <AnnotationLevelType xml:lang="eng">phon</AnnotationLevelType>
+                        <Descriptions>
+                            <Description>phonetic transcription</Description>
+                        </Descriptions>
+                    </AnnotationType>
+                    <AnnotationType ComponentId="clarin.eu:cr1:c_1422885449337">
+                        <AnnotationLevelType xml:lang="eng">speech-rate</AnnotationLevelType>
+                        <Descriptions>
+                            <Description>speech rate</Description>
+                        </Descriptions>
+                    </AnnotationType>
                 </AnnotationTypes>
                 
                 <!-- ****************************************************** -->
@@ -346,32 +393,32 @@
                 
                 <Size ComponentId="clarin.eu:cr1:c_1271859438128">
                     <TotalSize ComponentId="clarin.eu:cr1:c_1271859438114">
-                        <Number>26</Number>
+                        <Number>12</Number>
                         <SizeUnit xml:lang="eng">communications</SizeUnit>
                         <SizeUnit xml:lang="deu">Kommunikationen</SizeUnit>
                     </TotalSize>
                     <TotalSize ComponentId="clarin.eu:cr1:c_1271859438114">
-                        <Number>1.89</Number>
-                        <SizeUnit xml:lang="eng">hours</SizeUnit>
-                        <SizeUnit xml:lang="deu">Stunden</SizeUnit>
-                    </TotalSize>
-                    <TotalSize ComponentId="clarin.eu:cr1:c_1271859438114">
-                        <Number>113</Number>
+                        <Number>56</Number>
                         <SizeUnit xml:lang="eng">minutes</SizeUnit>
                         <SizeUnit xml:lang="deu">Minuten</SizeUnit>
                     </TotalSize>
                     <TotalSize ComponentId="clarin.eu:cr1:c_1271859438114">
-                        <Number>26</Number>
-                        <SizeUnit xml:lang="eng">recordings</SizeUnit>
-                        <SizeUnit xml:lang="deu">Aufnahmen</SizeUnit>
+                        <Number>12</Number>
+                        <SizeUnit xml:lang="eng">audio recordings</SizeUnit>
+                        <SizeUnit xml:lang="deu">Audio-Aufnahmen</SizeUnit>
                     </TotalSize>
                     <TotalSize ComponentId="clarin.eu:cr1:c_1271859438114">
-                        <Number>26</Number>
+                        <Number>8</Number>
+                        <SizeUnit xml:lang="eng">video recordings</SizeUnit>
+                        <SizeUnit xml:lang="deu">Video-Aufnahmen</SizeUnit>
+                    </TotalSize>
+                    <TotalSize ComponentId="clarin.eu:cr1:c_1271859438114">
+                        <Number>12</Number>
                         <SizeUnit xml:lang="eng">transcriptions</SizeUnit>
                         <SizeUnit xml:lang="deu">Transkriptionen</SizeUnit>
                     </TotalSize>
                     <TotalSize ComponentId="clarin.eu:cr1:c_1271859438114">
-                        <Number>19918</Number>
+                        <Number>10769</Number>
                         <SizeUnit xml:lang="eng">words</SizeUnit>
                         <SizeUnit xml:lang="deu">Wörter</SizeUnit>
                     </TotalSize>
@@ -379,26 +426,15 @@
             </CorpusInfo>
             
             <SpeechCorpusInfo ComponentId="clarin.eu:cr1:c_1422885449346">
-                <DurationOfFullDatabase>1.89 h</DurationOfFullDatabase>
-                <NumberOfSpeakers>69</NumberOfSpeakers>
-                <SpeakerDemographics xml:lang="eng">23 female, 46 male</SpeakerDemographics>
+                <DurationOfFullDatabase>0.93 h</DurationOfFullDatabase>
+                <NumberOfSpeakers>38</NumberOfSpeakers>
+                <SpeakerDemographics xml:lang="eng">10 female, 28 male</SpeakerDemographics>
             </SpeechCorpusInfo>
             
-            <AssociatedFile ComponentId="clarin.eu:cr1:c_1374481371398"
-                ref="FIDD9FF4EC4-66DD-A6F7-1474-1BF8479B1E53">
-                <Name>Metadata overview</Name>
-                <MimeType ComponentId="clarin.eu:cr1:c_1271859438106">
-                    <MimeType>application/pdf</MimeType>
-                </MimeType>
-                <Keys ComponentId="clarin.eu:cr1:c_1302702320447">
-                    <Key Name="Language">English</Key>
-                    <Key Name="Type">Metadata overview</Key>
-                </Keys>
-            </AssociatedFile>
             
             <Documentation ComponentId="clarin.eu:cr1:c_1342181139641">
                 <DocumentationType xml:lang="eng">website</DocumentationType>
-                <Url>https://corpora.uni-hamburg.de/repository/spoken-corpus:demo-1.1</Url>
+                <Url>https://exmaralda.org/en/exmaralda-demo-corpus/</Url>
             </Documentation>
             
         </SpokenCorpusProfile>

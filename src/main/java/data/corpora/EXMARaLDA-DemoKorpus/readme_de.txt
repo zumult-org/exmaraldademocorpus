@@ -1,12 +1,10 @@
 EXMARaLDA Demokorpus
 --------------------
-Das EXMARaLDA-Demokorpus enthält Beispiele für EXMARaLDA-Transkripte in 13 Sprachen. Mit dem Demokorpus lässt sich die Funktionalität des EXMARaLDA-Systems ausprobieren und demonstrieren.
 
-
-
-Grundlagen zur Arbeit mit den EXMARaLDA-Werkzeuge am Beispiel dieses Demokorpus finden sich hier: https://doi.org/10.25592/uhhfdm.9007
-
-Das Korpus umfasst die folgenden Kommunikationen:
+Das EXMARaLDA-Demokorpus ist ein kleines Korpus, das ursprünglich entwickelt wurde, um die Funktionalitäten des EXMARaLDA-Systems zu demonstrieren.
+Es besteht aus einer Auswahl kurzer transkribierter Audio- und Videoaufnahmen in verschiedenen Sprachen.
+Version 1.2 ist eine für das Projekt Transcription+ kuratierte Teilmenge der Version 1.1. 
+Ihr Hauptzweck besteht darin, die Anwendung des Standards ISO 24624:2016 „Language resource management — Transcription of spoken language“ zu demonstrieren.
 
 
 ========================================================================
