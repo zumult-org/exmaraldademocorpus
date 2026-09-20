@@ -2,8 +2,14 @@ EXMARaLDA Demo Corpus v1.2
 
 The EXMARaLDA Demo Corpus is a small corpus originally designed for demonstrating the functionality of the EXMARaLDA system.
 It consists of a selection of short transcribed audio and video recordings in various languages.
-Version 1.2 is a subset of version 1.1, curated for the Transcription+ project, with the main aim of demonstrating the use of ISO 24624:2016 Language resource management — Transcription of spoken language.
-	
+
+Version history
+--------------------
+
+Version 1.0 (????) - the first published version of the corpus was accessible via the repository of the HZSK
+Version 1.1 (2020) - A revision of v1.0, archived with the Zentrum für nachhaltiges Forschungsdatenmanagement of the University of Hamburg
+Version 1.2 (2026) - a subset of version 1.1, curated for the Transcription+ project, with the main aim of demonstrating the use of ISO 24624:2016 Language resource management — Transcription of spoken language.
+
 The corpus includes the following communications:
 
 ========================================================================

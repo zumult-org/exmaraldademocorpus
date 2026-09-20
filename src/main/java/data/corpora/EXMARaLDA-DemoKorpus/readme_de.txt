@@ -3,8 +3,13 @@ EXMARaLDA Demokorpus
 
 Das EXMARaLDA-Demokorpus ist ein kleines Korpus, das ursprünglich entwickelt wurde, um die Funktionalitäten des EXMARaLDA-Systems zu demonstrieren.
 Es besteht aus einer Auswahl kurzer transkribierter Audio- und Videoaufnahmen in verschiedenen Sprachen.
-Version 1.2 ist eine für das Projekt Transcription+ kuratierte Teilmenge der Version 1.1. 
-Ihr Hauptzweck besteht darin, die Anwendung des Standards ISO 24624:2016 „Language resource management — Transcription of spoken language“ zu demonstrieren.
+
+Versionsgeschichte
+--------------------
+
+Version 1.0 (????) - die erste veröffentlichte Version des Korpus war über das Repositorium des HZSK zugänglich
+Version 1.1 (2020) - Überarbeitung von v1.0, beim Zentrum für nachhaltiges Forschungsdatenmanagement der Universität Hamburg archiviert
+Version 1.2 (2026) - eine für das Projekt Transcription+ kuratierte Teilmenge der Version 1.1. Ihr Hauptzweck besteht darin, die Anwendung des Standards ISO 24624:2016 „Language resource management — Transcription of spoken language“ zu demonstrieren.
 
 
 ========================================================================
