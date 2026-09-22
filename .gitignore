@@ -1,2 +1,4 @@
 *.comaindex
 temp/
+# mac resources
+.DS_Store
