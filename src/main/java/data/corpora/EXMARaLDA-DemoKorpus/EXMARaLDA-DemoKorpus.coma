@@ -5258,15 +5258,32 @@
     </Speaker>
   </CorpusData>
   <Description>
-    <Key Name="DC:contributor">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de; Wilfried Schütte, schuette@ids-mannheim.de; Dan Loehr,       loehrd@georgetown.edu</Key>
-    <Key Name="DC:coverage">Covers mainly television and radio broadcasted speech recorded as audio and video from adult native speakers of English,Turkish, German, Polish, Swedish, Italian,       Vietnamese, Norwegian, Spanish and German from 1970 to 2013.</Key>
+    <Key Name="DC:contributor">
+      Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de; 
+      Transcription+ project (Thomas Schmidt)
+      Wilfried Schütte; 
+    </Key>
+    <Key Name="DC:coverage">
+      Covers mainly television and radio broadcast speech recorded as audio and video 
+      from adult native speakers of English, German, Polish, Italian, Spanish, Portuguese, Russian, French  
+      from 1964 to 2011.
+    </Key>
     <Key Name="DC:created">2007-11-08</Key>
-    <Key Name="DC:creator">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de</Key>
-    <Key Name="DC:description">A linguistic corpus of spoken language (various languages, approx. 20.000 transcribed words) created to demonstrate the EXMARaLDA system.</Key>
+    <Key Name="DC:creator">
+      Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de
+    </Key>
+    <Key Name="DC:description">
+      The EXMARaLDA Demo Corpus is a small corpus originally designed for demonstrating the functionality of the EXMARaLDA system.
+      It consists of a selection of short transcribed audio and video recordings in various languages.
+      Version 1.2 is a subset of version 1.1, curated for the Transcription+ project, with the main aim of demonstrating the use
+      of ISO 24624:2016 Language resource management — Transcription of spoken language.
+    </Key>
     <Key Name="DC:format">XML</Key>
-    <Key Name="DC:identifier">https://www.fdr.uni-hamburg.de/record/8364</Key>
+    <Key Name="DC:identifier">https://www.fdr.uni-hamburg.de/record/21551;10.25592/uhhfdm.21551</Key>
     <Key Name="DC:language">DEU; ENG; FRA; SPA; POL; ITA; RUS; POR;</Key>
-    <Key Name="DC:publisher">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de</Key>
+    <Key Name="DC:publisher">
+      Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de
+    </Key>
     <Key Name="DC:rights">Free to use for research and teaching purposes.</Key>
     <Key Name="DC:rightsHolder">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de</Key>
     <Key Name="DC:subject">Linguistic corpus of spoken language</Key>
@@ -5275,27 +5292,29 @@
     <Key Name="hzsk:corpusPrefix">EXMARaLDA-DemoKorpus</Key>
     <Key Name="hzsk:corpusVersion">1.2</Key>
     <Key Name="hzsk:keywords">L1 data</Key>
-    <Key Name="hzsk:shortDescription">A selection of short audio and video recordings in various languages to be used for instruction or demonstration of the EXMARaLDA system.</Key>
-    <Key Name="olac:compiler">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de</Key>
-    <Key Name="olac:data-inputter">Secil Yusun; Annette Schnieder; Andrea Rolle; Silke Merkel; Thomas Schmidt; Martina Schwalm; Peter M. Fischer; Kim-Chi Hamze; Franziska Watzke; Roman       Stachowicz; Karolina Kaminska; Nicole Stäwen; Maria Görlich; Tara Al-Jaraf; Florian Fuchs;       Heidemarie Sambale</Key>
-    <Key Name="olac:developer">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de</Key>
-    <Key Name="olac:researcher">Thomas Schmidt; Kai Wörner; Hanna Hedeland</Key>
+    <Key Name="hzsk:shortDescription">
+      A selection of short transcribed audio and video recordings in various languages 
+      compiled to be used for instruction or demonstration of the EXMARaLDA system and the standard
+      ISO 24624:2016 Language resource management — Transcription of spoken language.
+    </Key>
+    <Key Name="olac:compiler">
+      Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de
+    </Key>
+    <Key Name="olac:data-inputter">
+      Secil Yusun; Annette Schnieder; Andrea Rolle; Silke Merkel; Thomas Schmidt; Martina Schwalm; Peter M. Fischer; 
+      Kim-Chi Hamze; Franziska Watzke; Roman Stachowicz; Karolina Kaminska; Nicole Stäwen; Maria Görlich; 
+      Tara Al-Jaraf; Florian Fuchs; Heidemarie Sambale
+    </Key>
+    <Key Name="olac:developer">
+      Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de;
+      University of Duisburg-Essen, Institute for Communication Studies
+    </Key>
+    <Key Name="olac:researcher">
+      Thomas Schmidt; Kai Wörner; Hanna Hedeland; Timm Lehmberg
+    </Key>
     <Key Name="olac:sponsor">Deutsche Forschungsgemeinschaft (DFG)</Key>
     <Key Name="zumult:speakerMetadataTableSelection">Name;Role;Language;Profession;Birth year;GND-ID</Key>
     <Key Name="zumult:speechEventMetadataTableSelection">Communication type;Background information;Source</Key>
   </Description>
-  <AsocFile Id="FIDD8D0523D-959D-32C7-B9B1-6D4A6AD2EE76">
-    <Name>Metadata overview</Name>
-    <Description>
-      <Key Name="Language">English</Key>
-      <Key Name="Type">Metadata overview</Key>
-    </Description>
-    <File Id="FIDD9FF4EC4-66DD-A6F7-1474-1BF8479B1E53">
-      <filename>Metadata.pdf</filename>
-      <mimetype>application/pdf</mimetype>
-      <relPath>corpus-materials/Metadata.pdf</relPath>
-      <Description />
-    </File>
-  </AsocFile>
 </Corpus>
 
