@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="EXMARaLDA-Demokorpus" Name="EXMARaLDA-Demokorpus" uniqueSpeakerDistinction="//speaker/abbreviation" xsi:noNamespaceSchemaLocation="http://www.exmaralda.org/xml/CoMaCorpus.xsd">
-  <DBNode />
+  <DBNode/>
   <CorpusData>
     <!-- ******************************** -->
     <!-- ******************************** -->
@@ -11,7 +11,7 @@
         <Person>C_Anne_Will.GL</Person>
         <Person>C_Anne_Will.HG</Person>
         <Person>C_Anne_Will.GW</Person>
-        <Description />
+        <Description/>
       </Setting>
       <Description>
         <Key Name="Background information" xml:lang="eng">Political round-table discussion on the topic ‘No one here needs to go hungry – a country talking itself into poverty’. </Key>
@@ -23,7 +23,7 @@
       </Description>
       <Language Type="Communication">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <!-- ////////////////// -->
       <Transcription Id="EXB_Anne_Will">
@@ -32,7 +32,7 @@
         <NSLink>AnneWill/AnneWill.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID50033F28-D20F-9912-A793-45272C398F0A;MIDDB2FB9E1-1E37-E90E-F7ED-064EDE7AC301</Key>
+          <Key Name="Recording ID">A_C_Anne_Will;V_C_Anne_Will;</Key>
         </Description>
       </Transcription>
       <!-- ////////////////// -->
@@ -41,7 +41,7 @@
         <Filename>AnneWill.xml</Filename>
         <NSLink>AnneWill/AnneWill.xml</NSLink>
         <Description>
-          <Key Name="Recording ID">MID50033F28-D20F-9912-A793-45272C398F0A;MIDDB2FB9E1-1E37-E90E-F7ED-064EDE7AC301</Key>
+          <Key Name="Recording ID">A_C_Anne_Will;V_C_Anne_Will;</Key>
         </Description>
       </Transcription>
       <!-- ////////////////// -->
@@ -67,11 +67,11 @@
           <Key Name="segmented">true</Key>
         </Description>
       </Transcription>
-      <Recording Id="RID7D37BDAC-9DDB-B6CD-34D3-A50A67CBA980">
+      <Recording Id="R_C_Anne_Will">
         <Name>AnneWill</Name>
         <RecordingDuration>360003</RecordingDuration>
-        <Media Id="MID50033F28-D20F-9912-A793-45272C398F0A">
-          <Description>
+        <Media Id="A_C_Anne_Will">
+          <Description><Key Name="Media_Type">audio/wav</Key><Key Name="Duration">00:06:00.00</Key><Key Name="Codec">PCM signed 16-bit little-endian</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-audio-avg_frame_rate">0/0</Key>
             <Key Name="ffprobe-audio-bit_rate">1536000</Key>
@@ -93,8 +93,8 @@
           </Description>
           <NSLink>AnneWill/AnneWill.wav</NSLink>
         </Media>
-        <Media Id="MIDDB2FB9E1-1E37-E90E-F7ED-064EDE7AC301">
-          <Description>
+        <Media Id="V_C_Anne_Will">
+          <Description><Key Name="Media_Type">video/mp4</Key><Key Name="Duration">00:06:00.00</Key><Key Name="Codec">h264 + AAC</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-video-avg_frame_rate">25/1</Key>
             <Key Name="ffprobe-video-bit_rate">2001569</Key>
@@ -162,7 +162,7 @@
           </Description>
           <NSLink>AnneWill/AnneWill_web.mp4</NSLink>
         </Media>
-        <Description />
+        <Description/>
       </Recording>
       <Location Type="Communication">
         <Period>
@@ -172,7 +172,7 @@
         </Period>
         <Country>Germany</Country>
         <City>Berlin</City>
-        <Description />
+        <Description/>
       </Location>
     </Communication>
     <!-- ******************************** -->
@@ -183,7 +183,7 @@
         <Person>C_Beckhams.PAR</Person>
         <Person>C_Beckhams.VIC</Person>
         <Person>C_Beckhams.DAV</Person>
-        <Description />
+        <Description/>
       </Setting>
       <Description>
         <Key Name="Background information" xml:lang="eng">Victoria and David Beckham are guests on the Parkinson show</Key>
@@ -195,7 +195,7 @@
       </Description>
       <Language Type="Communication">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <City>London</City>
@@ -205,7 +205,7 @@
           <PeriodExact>false</PeriodExact>
           <PeriodDuration>0</PeriodDuration>
         </Period>
-        <Description />
+        <Description/>
       </Location>
       <!-- ////////////////// -->
       <Transcription Id="EXB_Beckhams">
@@ -214,7 +214,7 @@
         <NSLink>Beckhams/Beckhams.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID8FED5BE3-D35F-691E-37CC-F420DA31913D;MIDB3864BB3-2289-02B4-65C0-B2DC29C392CA</Key>
+          <Key Name="Recording ID">A_C_Beckhams;V_C_Beckhams;</Key>
         </Description>
       </Transcription>
       <!-- ////////////////// -->
@@ -223,7 +223,7 @@
         <Filename>Beckhams.xml</Filename>
         <NSLink>Beckhams/Beckhams.xml</NSLink>
         <Description>
-          <Key Name="Recording ID">MID8FED5BE3-D35F-691E-37CC-F420DA31913D;MIDB3864BB3-2289-02B4-65C0-B2DC29C392CA</Key>
+          <Key Name="Recording ID">A_C_Beckhams;V_C_Beckhams;</Key>
         </Description>
       </Transcription>
       <!-- ////////////////// -->
@@ -249,11 +249,11 @@
           <Key Name="segmented">true</Key>
         </Description>
       </Transcription>
-      <Recording Id="RIDEB95C961-B6F6-D14D-4265-23D80BAE2228">
+      <Recording Id="R_C_Beckhams">
         <Name>Beckhams</Name>
         <RecordingDuration>265043</RecordingDuration>
-        <Media Id="MID8FED5BE3-D35F-691E-37CC-F420DA31913D">
-          <Description>
+        <Media Id="A_C_Beckhams">
+          <Description><Key Name="Media_Type">audio/wav</Key><Key Name="Duration">00:04:25.04</Key><Key Name="Codec">PCM signed 16-bit little-endian</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-audio-avg_frame_rate">0/0</Key>
             <Key Name="ffprobe-audio-bit_rate">1536000</Key>
@@ -275,8 +275,8 @@
           </Description>
           <NSLink>Beckhams/Beckhams.wav</NSLink>
         </Media>
-        <Media Id="MIDB3864BB3-2289-02B4-65C0-B2DC29C392CA">
-          <Description>
+        <Media Id="V_C_Beckhams">
+          <Description><Key Name="Media_Type">video/mp4</Key><Key Name="Duration">00:04:25.04</Key><Key Name="Codec">h264 + AAC</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-video-avg_frame_rate">25/1</Key>
             <Key Name="ffprobe-video-bit_rate">1999388</Key>
@@ -344,7 +344,7 @@
           </Description>
           <NSLink>Beckhams/Beckhams_web.mp4</NSLink>
         </Media>
-        <Description />
+        <Description/>
       </Recording>
     </Communication>
     <!-- ******************************** -->
@@ -356,7 +356,7 @@
         <Person>C_Royal.PP</Person>
         <Person>C_Royal.AC</Person>
         <Person>C_Royal.NS</Person>
-        <Description />
+        <Description/>
       </Setting>
       <Description>
         <Key Name="Background information" xml:lang="eng">TV debate between the socialist Royal and the conservative Sarkozy ahead of the 2007 presidential elections</Key>
@@ -368,7 +368,7 @@
       </Description>
       <Language Type="Communication">
         <LanguageCode>fra</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <Period>
@@ -378,7 +378,7 @@
         </Period>
         <City>Paris</City>
         <Country>France</Country>
-        <Description />
+        <Description/>
       </Location>
       <!-- ////////////////// -->
       <Transcription Id="EXB_Royal">
@@ -387,7 +387,7 @@
         <NSLink>Royal/Royal.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID5501F873-8D95-3B4D-77F0-DAFFDA1CDE81;MID83D1C940-32C7-FC74-5848-8C8D247840D9</Key>
+          <Key Name="Recording ID">A_C_Royal;V_C_Royal;</Key>
         </Description>
       </Transcription>
       <!-- ////////////////// -->
@@ -397,7 +397,7 @@
         <NSLink>Royal/Royal.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID5501F873-8D95-3B4D-77F0-DAFFDA1CDE81;MID83D1C940-32C7-FC74-5848-8C8D247840D9</Key>
+          <Key Name="Recording ID">A_C_Royal;V_C_Royal;</Key>
         </Description>
       </Transcription>
       <!-- ////////////////// -->
@@ -424,11 +424,11 @@
           <Key Name="segmented">true</Key>
         </Description>
       </Transcription>
-      <Recording Id="RID1DB60C4E-E4F3-3431-638D-CDE28E352D25">
+      <Recording Id="R_C_Royal">
         <Name>Royal</Name>
         <RecordingDuration>147123</RecordingDuration>
-        <Media Id="MID5501F873-8D95-3B4D-77F0-DAFFDA1CDE81">
-          <Description>
+        <Media Id="A_C_Royal">
+          <Description><Key Name="Media_Type">audio/wav</Key><Key Name="Duration">00:02:27.12</Key><Key Name="Codec">PCM signed 16-bit little-endian</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-audio-avg_frame_rate">0/0</Key>
             <Key Name="ffprobe-audio-bit_rate">1536000</Key>
@@ -450,8 +450,8 @@
           </Description>
           <NSLink>Royal/Royal.wav</NSLink>
         </Media>
-        <Media Id="MID83D1C940-32C7-FC74-5848-8C8D247840D9">
-          <Description>
+        <Media Id="V_C_Royal">
+          <Description><Key Name="Media_Type">video/mp4</Key><Key Name="Duration">00:02:27.12</Key><Key Name="Codec">h264 + AAC</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-video-avg_frame_rate">25/1</Key>
             <Key Name="ffprobe-video-bit_rate">2002938</Key>
@@ -519,7 +519,7 @@
           </Description>
           <NSLink>Royal/Royal_web.mp4</NSLink>
         </Media>
-        <Description />
+        <Description/>
       </Recording>
     </Communication>
     <!-- ******************************** -->
@@ -529,7 +529,7 @@
       <Setting>
         <Person>C_Gasperini.C</Person>
         <Person>C_Gasperini.P</Person>
-        <Description />
+        <Description/>
       </Setting>
       <Description>
         <Key Name="Background information" xml:lang="eng">Interview with footballer Christian Panucci over the phone</Key>
@@ -541,7 +541,7 @@
       </Description>
       <Language Type="Communication">
         <LanguageCode>ita</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <Period>
@@ -550,7 +550,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>Italy</Country>
-        <Description />
+        <Description/>
       </Location>
       <!-- ////////////////// -->
       <Transcription Id="EXB_Gasperini">
@@ -559,7 +559,7 @@
         <NSLink>Gasperini/Gasperini.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID03E10411-C607-EBBB-CE4A-ECEDE7FBF5EB;MIDCE99F08B-A465-21B4-8397-769119FE1DEA</Key>
+          <Key Name="Recording ID">A_C_Gasperini;V_C_Gasperini;</Key>
         </Description>
       </Transcription>
       <!-- ////////////////// -->
@@ -569,7 +569,7 @@
         <NSLink>Gasperini/Gasperini.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID03E10411-C607-EBBB-CE4A-ECEDE7FBF5EB;MIDCE99F08B-A465-21B4-8397-769119FE1DEA</Key>
+          <Key Name="Recording ID">A_C_Gasperini;V_C_Gasperini;</Key>
         </Description>
       </Transcription>
       <!-- ////////////////// -->
@@ -595,11 +595,11 @@
           <Key Name="segmented">true</Key>
         </Description>
       </Transcription>
-      <Recording Id="RID2A467D5D-20E6-38CA-E3AD-9C38D4897BB6">
+      <Recording Id="R_C_Gasperini">
         <Name>Gasperini</Name>
         <RecordingDuration>355523</RecordingDuration>
-        <Media Id="MID03E10411-C607-EBBB-CE4A-ECEDE7FBF5EB">
-          <Description>
+        <Media Id="A_C_Gasperini">
+          <Description><Key Name="Media_Type">audio/wav</Key><Key Name="Duration">00:05:55.52</Key><Key Name="Codec">PCM signed 16-bit little-endian</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-audio-avg_frame_rate">0/0</Key>
             <Key Name="ffprobe-audio-bit_rate">1536000</Key>
@@ -621,8 +621,8 @@
           </Description>
           <NSLink>Gasperini/Gasperini.wav</NSLink>
         </Media>
-        <Media Id="MIDCE99F08B-A465-21B4-8397-769119FE1DEA">
-          <Description>
+        <Media Id="V_C_Gasperini">
+          <Description><Key Name="Media_Type">video/mp4</Key><Key Name="Duration">00:05:55.52</Key><Key Name="Codec">h264 + AAC</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-video-avg_frame_rate">25/1</Key>
             <Key Name="ffprobe-video-bit_rate">2000935</Key>
@@ -690,7 +690,7 @@
           </Description>
           <NSLink>Gasperini/Gasperini_web.mp4</NSLink>
         </Media>
-        <Description />
+        <Description/>
       </Recording>
     </Communication>
     <!-- ******************************** -->
@@ -700,7 +700,7 @@
       <Setting>
         <Person>C_Savater.LR</Person>
         <Person>C_Savater.FS</Person>
-        <Description />
+        <Description/>
       </Setting>
       <Description>
         <Key Name="Background information" xml:lang="eng">Interview about the novel "La Hermandad de la Buena Suerte" (The Brotherhood of Good Fortune) by Fernando Savater</Key>
@@ -712,7 +712,7 @@
       </Description>
       <Language Type="Communication">
         <LanguageCode>spa</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <Period>
@@ -721,7 +721,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>Spain</Country>
-        <Description />
+        <Description/>
       </Location>
       <Transcription Id="EXB_Savater">
         <Name>Savater</Name>
@@ -729,7 +729,7 @@
         <NSLink>Savater/Savater.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID1B5B1620-EE57-37F5-3A3B-3F743AD948AC</Key>
+          <Key Name="Recording ID">A_C_Savater;</Key>
         </Description>
       </Transcription>
       <Transcription Id="Savater">
@@ -738,7 +738,7 @@
         <NSLink>Savater/Savater.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID1B5B1620-EE57-37F5-3A3B-3F743AD948AC</Key>
+          <Key Name="Recording ID">A_C_Savater;</Key>
         </Description>
       </Transcription>
       <Transcription Id="EXS_Savater">
@@ -766,14 +766,14 @@
         </Description>
         <Availability>
           <Available>false</Available>
-          <ObtainingInformation />
+          <ObtainingInformation/>
         </Availability>
       </Transcription>
-      <Recording Id="RID77A52F7B-83AA-A416-9E04-B300DFBD19AD">
+      <Recording Id="R_C_Savater">
         <Name>Savater</Name>
         <RecordingDuration>232651</RecordingDuration>
-        <Media Id="MID1B5B1620-EE57-37F5-3A3B-3F743AD948AC">
-          <Description>
+        <Media Id="A_C_Savater">
+          <Description><Key Name="Media_Type">audio/wav</Key><Key Name="Duration">00:03:52.65</Key><Key Name="Codec">PCM signed 16-bit little-endian</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-audio-avg_frame_rate">0/0</Key>
             <Key Name="ffprobe-audio-bit_rate">1536000</Key>
@@ -795,7 +795,7 @@
           </Description>
           <NSLink>Savater/Savater.wav</NSLink>
         </Media>
-        <Description />
+        <Description/>
       </Recording>
     </Communication>
     <!-- ******************************** -->
@@ -803,7 +803,7 @@
     <!-- ******************************** -->
     <Communication Id="C_BatatasFritas" Name="Batatas Fritas">
       <Setting>
-        <Description />
+        <Description/>
         <Person>C_BatatasFritas.RAP</Person>
       </Setting>
       <Description>
@@ -816,7 +816,7 @@
       </Description>
       <Language Type="Communication">
         <LanguageCode>por</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <Period>
@@ -826,7 +826,7 @@
         </Period>
         <City>Lisbon</City>
         <Country>Portugal</Country>
-        <Description />
+        <Description/>
       </Location>
       <Transcription Id="EXB_BatatasFritas">
         <Name>BatatasFritas</Name>
@@ -834,7 +834,7 @@
         <NSLink>BatatasFritas/BatatasFritas.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID14B19624-2079-95D2-9936-BEEF91340404;MID2EC84370-71CF-29B3-0B90-2EFF7991DBA5</Key>
+          <Key Name="Recording ID">A_C_BatatasFritas;V_C_BatatasFritas;</Key>
         </Description>
       </Transcription>
       <Transcription Id="BatatasFritas">
@@ -843,7 +843,7 @@
         <NSLink>BatatasFritas/BatatasFritas.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID14B19624-2079-95D2-9936-BEEF91340404;MID2EC84370-71CF-29B3-0B90-2EFF7991DBA5</Key>
+          <Key Name="Recording ID">A_C_BatatasFritas;V_C_BatatasFritas;</Key>
         </Description>
       </Transcription>
       <Transcription Id="EXS_BatatasFritas">
@@ -870,11 +870,11 @@
           <Key Name="segmented">true</Key>
         </Description>
       </Transcription>
-      <Recording Id="RID0752AD99-1708-00B8-7573-8299F9163C39">
+      <Recording Id="R_C_BatatasFritas">
         <Name>BatatasFritas_web</Name>
         <RecordingDuration>172763</RecordingDuration>
-        <Media Id="MID14B19624-2079-95D2-9936-BEEF91340404">
-          <Description>
+        <Media Id="A_C_BatatasFritas">
+          <Description><Key Name="Media_Type">audio/wav</Key><Key Name="Duration">00:02:52.76</Key><Key Name="Codec">PCM signed 16-bit little-endian</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-audio-avg_frame_rate">0/0</Key>
             <Key Name="ffprobe-audio-bit_rate">1536000</Key>
@@ -896,8 +896,8 @@
           </Description>
           <NSLink>BatatasFritas/BatatasFritas.wav</NSLink>
         </Media>
-        <Media Id="MID2EC84370-71CF-29B3-0B90-2EFF7991DBA5">
-          <Description>
+        <Media Id="V_C_BatatasFritas">
+          <Description><Key Name="Media_Type">video/mp4</Key><Key Name="Duration">00:02:52.76</Key><Key Name="Codec">h264 + AAC</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-video-avg_frame_rate">25/1</Key>
             <Key Name="ffprobe-video-bit_rate">1999037</Key>
@@ -965,7 +965,7 @@
           </Description>
           <NSLink>BatatasFritas/BatatasFritas_web.mp4</NSLink>
         </Media>
-        <Description />
+        <Description/>
       </Recording>
     </Communication>
     <!-- ******************************** -->
@@ -973,7 +973,7 @@
     <!-- ******************************** -->
     <Communication Id="C_NTVshniki" Name="NTVshniki">
       <Setting>
-        <Description />
+        <Description/>
         <Person>C_NTVshniki.SL</Person>
         <Person>C_NTVshniki.KG</Person>
         <Person>C_NTVshniki.SP</Person>
@@ -990,7 +990,7 @@
       </Description>
       <Language Type="Communication">
         <LanguageCode>rus</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <City>Moscow</City>
@@ -1000,7 +1000,7 @@
           <PeriodExact>false</PeriodExact>
           <PeriodDuration>0</PeriodDuration>
         </Period>
-        <Description />
+        <Description/>
       </Location>
       <Transcription Id="EXB_NTVshniki">
         <Name>NTVshniki</Name>
@@ -1008,7 +1008,7 @@
         <NSLink>NTVshniki/NTVshniki.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID6CF35E4A-4D90-76C3-C9D9-F41AD1822C39;MID0F82B57D-831C-F438-B71E-00287E1FE25E</Key>
+          <Key Name="Recording ID">A_C_NTVshniki;V_C_NTVshniki;</Key>
         </Description>
       </Transcription>
       <Transcription Id="NTVshniki">
@@ -1017,7 +1017,7 @@
         <NSLink>NTVshniki/NTVshniki.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID6CF35E4A-4D90-76C3-C9D9-F41AD1822C39;MID0F82B57D-831C-F438-B71E-00287E1FE25E</Key>
+          <Key Name="Recording ID">A_C_NTVshniki;V_C_NTVshniki;</Key>
         </Description>
       </Transcription>
       <Transcription Id="EXS_NTVshniki">
@@ -1043,11 +1043,11 @@
           <Key Name="segmented">true</Key>
         </Description>
       </Transcription>
-      <Recording Id="RIDAFCA0C10-C480-EB5D-408E-C2483DBDA547">
+      <Recording Id="R_C_NTVshniki">
         <Name>NTVshniki</Name>
         <RecordingDuration>352603</RecordingDuration>
-        <Media Id="MID6CF35E4A-4D90-76C3-C9D9-F41AD1822C39">
-          <Description>
+        <Media Id="A_C_NTVshniki">
+          <Description><Key Name="Media_Type">audio/wav</Key><Key Name="Duration">00:05:52.60</Key><Key Name="Codec">PCM signed 16-bit little-endian</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-audio-avg_frame_rate">0/0</Key>
             <Key Name="ffprobe-audio-bit_rate">1536000</Key>
@@ -1069,8 +1069,8 @@
           </Description>
           <NSLink>NTVshniki/NTVshniki.wav</NSLink>
         </Media>
-        <Media Id="MID0F82B57D-831C-F438-B71E-00287E1FE25E">
-          <Description>
+        <Media Id="V_C_NTVshniki">
+          <Description><Key Name="Media_Type">video/mp4</Key><Key Name="Duration">00:05:52.60</Key><Key Name="Codec">h264 + AAC</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-video-avg_frame_rate">25/1</Key>
             <Key Name="ffprobe-video-bit_rate">2001206</Key>
@@ -1138,7 +1138,7 @@
           </Description>
           <NSLink>NTVshniki/NTVshniki_web.mp4</NSLink>
         </Media>
-        <Description />
+        <Description/>
       </Recording>
     </Communication>
     <!-- ******************************** -->
@@ -1148,7 +1148,7 @@
       <Setting>
         <Person>C_RudioVoellerWutausbruch.WH</Person>
         <Person>C_RudioVoellerWutausbruch.RV</Person>
-        <Description />
+        <Description/>
       </Setting>
       <Description>
         <Key Name="Background information" xml:lang="eng">The European Championship qualifying match against Iceland ended 0–0. Before the live link to Reykjavik, the presenters of the sports programme, Gerhard Delling and Günter Netzer – who can still be seen on a monitor in the studio – assessed the match and the performance of the German national team. </Key>
@@ -1160,7 +1160,7 @@
       </Description>
       <Language Type="Communication">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <Period>
@@ -1170,7 +1170,7 @@
         </Period>
         <City>Reykjavik</City>
         <Country>Iceland</Country>
-        <Description />
+        <Description/>
       </Location>
       <Transcription Id="EXB_RudiVoellerWutausbruch">
         <Name>RudiVoellerWutausbruch</Name>
@@ -1178,7 +1178,7 @@
         <NSLink>RudiVoellerWutausbruch/RudiVoellerWutausbruch.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID80FD3FD2-881F-0D02-B307-6245408B0394;MIDAFECF98F-D7AA-B20A-C2C5-77E5E3477563</Key>
+          <Key Name="Recording ID">A_C_RudioVoellerWutausbruch;V_C_RudioVoellerWutausbruch;</Key>
         </Description>
       </Transcription>
       <Transcription Id="RudiVoellerWutausbruch">
@@ -1187,7 +1187,7 @@
         <NSLink>RudiVoellerWutausbruch/RudiVoellerWutausbruch.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID80FD3FD2-881F-0D02-B307-6245408B0394;MIDAFECF98F-D7AA-B20A-C2C5-77E5E3477563</Key>
+          <Key Name="Recording ID">A_C_RudioVoellerWutausbruch;V_C_RudioVoellerWutausbruch;</Key>
         </Description>
       </Transcription>
       <Transcription Id="EXS_RudiVoellerWutausbruch">
@@ -1220,11 +1220,11 @@
           <Key Name="segmented">true</Key>
         </Description>
       </Transcription>
-      <Recording Id="RIDFDADE53F-0CEC-0229-0C09-FF100AE993BE">
+      <Recording Id="R_C_RudioVoellerWutausbruch">
         <Name>RudiVoellerWutausbruch</Name>
         <RecordingDuration>125803</RecordingDuration>
-        <Media Id="MID80FD3FD2-881F-0D02-B307-6245408B0394">
-          <Description>
+        <Media Id="A_C_RudioVoellerWutausbruch">
+          <Description><Key Name="Media_Type">audio/wav</Key><Key Name="Duration">00:02:05.80</Key><Key Name="Codec">PCM signed 16-bit little-endian</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-audio-avg_frame_rate">0/0</Key>
             <Key Name="ffprobe-audio-bit_rate">1536000</Key>
@@ -1246,8 +1246,8 @@
           </Description>
           <NSLink>RudiVoellerWutausbruch/RudiVoellerWutausbruch.wav</NSLink>
         </Media>
-        <Media Id="MIDAFECF98F-D7AA-B20A-C2C5-77E5E3477563">
-          <Description>
+        <Media Id="V_C_RudioVoellerWutausbruch">
+          <Description><Key Name="Media_Type">video/mp4</Key><Key Name="Duration">00:02:05.80</Key><Key Name="Codec">h264 + AAC</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-video-avg_frame_rate">25/1</Key>
             <Key Name="ffprobe-video-bit_rate">2005395</Key>
@@ -1327,7 +1327,7 @@
         <Person>C_SzymonMajewski.PawW</Person>
         <Person>C_SzymonMajewski.MagR</Person>
         <Person>C_SzymonMajewski.SonB</Person>
-        <Description />
+        <Description/>
       </Setting>
       <Description>
         <Key Name="Background information" xml:lang="eng">Four Polish actors from the TV programme "Usta usta" are guests in a TV talkshow. </Key>
@@ -1339,7 +1339,7 @@
       </Description>
       <Language Type="Communication">
         <LanguageCode>pol</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <Period>
@@ -1348,7 +1348,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>Poland</Country>
-        <Description />
+        <Description/>
       </Location>
       <Transcription Id="EXB_SzymonMajewski">
         <Name>SzymonMajewski</Name>
@@ -1356,7 +1356,7 @@
         <NSLink>SzymonMajewski/SzymonMajewski.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MIDA2CD0DF2-9A1C-F099-6A0A-5C8750471174;MID6C6BF9E0-1E24-E421-D97E-E252B03094FA</Key>
+          <Key Name="Recording ID">A_C_SzymonMajewski;V_C_SzymonMajewski;</Key>
         </Description>
       </Transcription>
       <Transcription Id="SzymonMajewski">
@@ -1365,7 +1365,7 @@
         <NSLink>SzymonMajewski/SzymonMajewski.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MIDA2CD0DF2-9A1C-F099-6A0A-5C8750471174;MID6C6BF9E0-1E24-E421-D97E-E252B03094FA</Key>
+          <Key Name="Recording ID">A_C_SzymonMajewski;V_C_SzymonMajewski;</Key>
         </Description>
       </Transcription>
       <Transcription Id="EXS_SzymonMajewski">
@@ -1392,11 +1392,11 @@
           <Key Name="segmented">true</Key>
         </Description>
       </Transcription>
-      <Recording Id="RIDF1BB6136-0D99-CB72-0674-B8FDB696AD8A">
+      <Recording Id="R_C_SzymonMajewski">
         <Name>SzymonMajewski</Name>
         <RecordingDuration>173043</RecordingDuration>
-        <Media Id="MIDA2CD0DF2-9A1C-F099-6A0A-5C8750471174">
-          <Description>
+        <Media Id="A_C_SzymonMajewski">
+          <Description><Key Name="Media_Type">audio/wav</Key><Key Name="Duration">00:02:53.04</Key><Key Name="Codec">PCM signed 16-bit little-endian</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-audio-avg_frame_rate">0/0</Key>
             <Key Name="ffprobe-audio-bit_rate">1536000</Key>
@@ -1418,8 +1418,8 @@
           </Description>
           <NSLink>SzymonMajewski/SzymonMajewski.wav</NSLink>
         </Media>
-        <Media Id="MID6C6BF9E0-1E24-E421-D97E-E252B03094FA">
-          <Description>
+        <Media Id="V_C_SzymonMajewski">
+          <Description><Key Name="Media_Type">video/mp4</Key><Key Name="Duration">00:02:53.04</Key><Key Name="Codec">h264 + AAC</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-video-avg_frame_rate">25/1</Key>
             <Key Name="ffprobe-video-bit_rate">2001534</Key>
@@ -1487,7 +1487,7 @@
           </Description>
           <NSLink>SzymonMajewski/SzymonMajewski_web.mp4</NSLink>
         </Media>
-        <Description />
+        <Description/>
       </Recording>
     </Communication>
     <!-- ******************************** -->
@@ -1497,7 +1497,7 @@
       <Setting>
         <Person>C_PaulMcCartney.PMC</Person>
         <Person>C_PaulMcCartney.INT</Person>
-        <Description />
+        <Description/>
       </Setting>
       <Description>
         <Key Name="Background information" xml:lang="eng">An interview with Paul McCartney on a US radio station during the Beatles’ US tour in 1964. </Key>
@@ -1509,7 +1509,7 @@
       </Description>
       <Language Type="Communication">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <Period>
@@ -1518,7 +1518,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>United States</Country>
-        <Description />
+        <Description/>
       </Location>
       <Transcription Id="EXB_PaulMcCartney">
         <Name>PaulMcCartney</Name>
@@ -1526,7 +1526,7 @@
         <NSLink>PaulMcCartney/PaulMcCartney.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID2AAF4191-B841-929F-C393-FB57480182DD</Key>
+          <Key Name="Recording ID">A_C_PaulMcCartney;</Key>
         </Description>
       </Transcription>
       <Transcription Id="PaulMcCartney">
@@ -1535,7 +1535,7 @@
         <NSLink>PaulMcCartney/PaulMcCartney.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID2AAF4191-B841-929F-C393-FB57480182DD</Key>
+          <Key Name="Recording ID">A_C_PaulMcCartney;</Key>
         </Description>
       </Transcription>
       <Transcription Id="EXS_PaulMcCartney">
@@ -1563,11 +1563,11 @@
           <Key Name="segmented">true</Key>
         </Description>
       </Transcription>
-      <Recording Id="RIDE4486BC4-9F99-848C-87B7-0D96418FCEA6">
+      <Recording Id="R_C_PaulMcCartney">
         <Name>PaulMcCartney</Name>
         <RecordingDuration>177010</RecordingDuration>
-        <Media Id="MID2AAF4191-B841-929F-C393-FB57480182DD">
-          <Description>
+        <Media Id="A_C_PaulMcCartney">
+          <Description><Key Name="Media_Type">audio/wav</Key><Key Name="Duration">00:02:57.01</Key><Key Name="Codec">PCM signed 16-bit little-endian</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-audio-avg_frame_rate">0/0</Key>
             <Key Name="ffprobe-audio-bit_rate">1536000</Key>
@@ -1596,7 +1596,7 @@
     <!-- ******************************** -->
     <Communication Id="C_HartAberFair" Name="Hart aber fair">
       <Setting>
-        <Description />
+        <Description/>
         <Person>C_HartAberFair.RP</Person>
         <Person>C_HartAberFair.FB</Person>
         <Person>C_HartAberFair.FP</Person>
@@ -1614,7 +1614,7 @@
       </Description>
       <Language Type="Communication">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <Period>
@@ -1623,7 +1623,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Transcription Id="EXB_HartAberFair">
         <Name>HartAberFair</Name>
@@ -1631,7 +1631,7 @@
         <NSLink>HartAberFair/HartAberFair.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MIDFAB6B68E-E844-549B-428C-A7476915B691</Key>
+          <Key Name="Recording ID">A_C_HartAberFair;</Key>
         </Description>
       </Transcription>
       <Transcription Id="HartAberFair">
@@ -1640,7 +1640,7 @@
         <NSLink>HartAberFair/HartAberFair.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MIDFAB6B68E-E844-549B-428C-A7476915B691</Key>
+          <Key Name="Recording ID">A_C_HartAberFair;</Key>
         </Description>
       </Transcription>
       <Transcription Id="EXS_HartAberFair">
@@ -1667,11 +1667,11 @@
           <Key Name="segmented">true</Key>
         </Description>
       </Transcription>
-      <Recording Id="RID9E2A4088-415E-B780-5433-D7BF461862B6">
+      <Recording Id="R_C_HartAberFair">
         <Name>HartAberFair</Name>
         <RecordingDuration>800187</RecordingDuration>
-        <Media Id="MIDFAB6B68E-E844-549B-428C-A7476915B691">
-          <Description>
+        <Media Id="A_C_HartAberFair">
+          <Description><Key Name="Media_Type">audio/wav</Key><Key Name="Duration">00:13:20.19</Key><Key Name="Codec">PCM signed 16-bit little-endian</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-audio-avg_frame_rate">0/0</Key>
             <Key Name="ffprobe-audio-bit_rate">1536000</Key>
@@ -1693,7 +1693,7 @@
           </Description>
           <NSLink>HartAberFair/HartAberFair.wav</NSLink>
         </Media>
-        <Description />
+        <Description/>
       </Recording>
     </Communication>
     <!-- ******************************** -->
@@ -1703,7 +1703,7 @@
       <Setting>
         <Person>C_HubertFichteInterview.Fichte</Person>
         <Person>C_HubertFichteInterview.Ulli</Person>
-        <Description />
+        <Description/>
       </Setting>
       <Description>
         <Key Name="Background information" xml:lang="eng">In 1969, Ulli, along with other people associated with Wolli – a ‘Hanseatic merchant’ or ‘brothel boss’ – was interviewed by the writer and ethnographer Hubert Fichte. </Key>
@@ -1716,7 +1716,7 @@
       </Description>
       <Language Type="Communication">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Communication">
         <Street>Reeperbahn</Street>
@@ -1738,9 +1738,9 @@
         <NSLink>HubertFichteInterview/HubertFichteInterview.exb</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID2A02DA0B-C5B9-D96F-16ED-5BDFB7C17044</Key>
+          <Key Name="Recording ID">A_C_HubertFichteInterview;</Key>
         </Description>
-        <Key Name="Transcriber" />
+        <Key Name="Transcriber"/>
       </Transcription>
       <Transcription Id="HubertFichteInterview">
         <Name>HubertFichteInterview</Name>
@@ -1748,9 +1748,9 @@
         <NSLink>HubertFichteInterview/HubertFichteInterview.xml</NSLink>
         <Description>
           <Key Name="segmented">false</Key>
-          <Key Name="Recording ID">MID2A02DA0B-C5B9-D96F-16ED-5BDFB7C17044</Key>
+          <Key Name="Recording ID">A_C_HubertFichteInterview;</Key>
         </Description>
-        <Key Name="Transcriber" />
+        <Key Name="Transcriber"/>
       </Transcription>
       <Transcription Id="EXS_HubertFichteInterview">
         <Name>HubertFichteInterview</Name>
@@ -1777,11 +1777,11 @@
           <Key Name="segmented">true</Key>
         </Description>
       </Transcription>
-      <Recording Id="RIDAC668207-D4BC-0868-D173-2DFE9B972AED">
+      <Recording Id="R_C_HubertFichteInterview">
         <Name>HubertFichteInterview</Name>
         <RecordingDuration>712024</RecordingDuration>
-        <Media Id="MID2A02DA0B-C5B9-D96F-16ED-5BDFB7C17044">
-          <Description>
+        <Media Id="A_C_HubertFichteInterview">
+          <Description><Key Name="Media_Type">audio/wav</Key><Key Name="Duration">00:11:52.02</Key><Key Name="Codec">PCM signed 16-bit little-endian</Key>
             <Key Name="Type">digital</Key>
             <Key Name="ffprobe-audio-avg_frame_rate">0/0</Key>
             <Key Name="ffprobe-audio-bit_rate">1536000</Key>
@@ -1803,7 +1803,7 @@
           </Description>
           <NSLink>HubertFichteInterview/HubertFichteInterview.wav</NSLink>
         </Media>
-        <Description />
+        <Description/>
       </Recording>
     </Communication>
     <!-- ******************************** -->
@@ -1905,7 +1905,7 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>fra</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -1915,7 +1915,7 @@
         </Period>
         <City>Chatres</City>
         <Country>France</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Country>France</Country>
@@ -1943,11 +1943,11 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Language Type="L2">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -1957,7 +1957,7 @@
         </Period>
         <City>Köln</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -2021,7 +2021,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -2031,7 +2031,7 @@
         </Period>
         <City>London</City>
         <Country>England</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <City>Manchester</City>
@@ -2091,7 +2091,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -2101,7 +2101,7 @@
         </Period>
         <City>Bonn</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -2183,7 +2183,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -2193,7 +2193,7 @@
         </Period>
         <City>Bad Honnef</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -2297,7 +2297,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -2307,7 +2307,7 @@
         </Period>
         <City>Oberndorf am Neckar</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <City>München</City>
@@ -2401,7 +2401,7 @@
         </Period>
         <City>Gleisweiler</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Description>
         <Key Name="Function">subject</Key>
@@ -2425,7 +2425,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>fra</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -2435,7 +2435,7 @@
         </Period>
         <City>Paris</City>
         <Country>France</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <City>Paris</City>
@@ -2578,7 +2578,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -2588,7 +2588,7 @@
         </Period>
         <City>Cudworth</City>
         <Country>England</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Country>England</Country>
@@ -2643,7 +2643,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>fra</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -2653,7 +2653,7 @@
         </Period>
         <City>Reims</City>
         <Country>France</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <City>Paris</City>
@@ -2711,7 +2711,7 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>fra</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -2865,7 +2865,7 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -2875,7 +2875,7 @@
         </Period>
         <City>Hertfordshire</City>
         <Country>England</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Period>
@@ -2929,7 +2929,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>ita</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -2939,7 +2939,7 @@
         </Period>
         <City>Rom</City>
         <Country>Italy</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Country>Italy</Country>
@@ -2965,7 +2965,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>ita</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -2975,7 +2975,7 @@
         </Period>
         <City>Savona</City>
         <Country>Italy</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <City>London (Fulham)</City>
@@ -3096,7 +3096,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>spa</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -3136,7 +3136,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>spa</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -3146,7 +3146,7 @@
         </Period>
         <City>San Sebastián</City>
         <Country>Spain</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <City>Madrid</City>
@@ -3228,7 +3228,7 @@
       <Sex>male</Sex>
       <Language>
         <LanguageCode>por</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -3238,7 +3238,7 @@
         </Period>
         <City>Lisbon</City>
         <Country>Portugal</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Description>
@@ -3265,16 +3265,16 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>rus</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Language Type="L2">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <City>Moskau</City>
         <Country>Russia</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -3346,15 +3346,15 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>rus</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Language Type="L2">
         <LanguageCode>ita</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Language Type="L2">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <City>Rastov-Na-Donu</City>
@@ -3364,7 +3364,7 @@
           <PeriodExact>true</PeriodExact>
           <PeriodDuration>0</PeriodDuration>
         </Period>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -3422,11 +3422,11 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>rus</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Language Type="L2">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -3436,7 +3436,7 @@
         </Period>
         <City>St. Petersburg</City>
         <Country>Russia</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -3506,11 +3506,11 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>rus</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Language Type="L2">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -3520,7 +3520,7 @@
         </Period>
         <City>Podolsk</City>
         <Country>Russia</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -3578,24 +3578,24 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>rus</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Language Type="L2">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Language Type="L2">
         <LanguageCode>spa</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location>
-        <Description />
+        <Description/>
       </Location>
       <Location>
-        <Description />
+        <Description/>
       </Location>
       <Location>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Birth">
         <Period>
@@ -3604,7 +3604,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>Russia</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -3738,7 +3738,7 @@
         </Period>
         <City>Nürnberg</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -3792,7 +3792,7 @@
         </Period>
         <City>München</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Description>
         <Key Name="Function">subject</Key>
@@ -3827,7 +3827,7 @@
         </Period>
         <City>Hanau</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Description>
@@ -3964,7 +3964,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>pol</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -3974,7 +3974,7 @@
         </Period>
         <City>Warschau</City>
         <Country>Poland</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Country>Polen</Country>
@@ -4002,7 +4002,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>pol</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -4012,7 +4012,7 @@
         </Period>
         <Country>Poland</Country>
         <City>Dusznikach</City>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Country>Polen</Country>
@@ -4040,7 +4040,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>pol</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -4050,7 +4050,7 @@
         </Period>
         <City>Wronkach</City>
         <Country>Poland</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Country>Polen</Country>
@@ -4077,7 +4077,7 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>pol</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -4087,7 +4087,7 @@
         </Period>
         <City>Nowa Sól</City>
         <Country>Poland</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Country>Polen</Country>
@@ -4114,7 +4114,7 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>pol</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -4124,7 +4124,7 @@
         </Period>
         <City>Cieszynie</City>
         <Country>Poland</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Country>Polen</Country>
@@ -4155,7 +4155,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -4165,7 +4165,7 @@
         </Period>
         <City>Liverpool</City>
         <Country>England</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <City>Liverpool</City>
@@ -4206,7 +4206,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>eng</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -4215,7 +4215,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>United States</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Description>
@@ -4244,7 +4244,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -4254,7 +4254,7 @@
         </Period>
         <City>Weeze</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -4371,7 +4371,7 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -4380,7 +4380,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Description>
@@ -4406,7 +4406,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -4416,7 +4416,7 @@
         </Period>
         <City>Remscheid</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Period>
@@ -4478,7 +4478,7 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -4487,7 +4487,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Description>
@@ -4514,7 +4514,7 @@
       <Sex>female</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -4523,7 +4523,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Occupation">
         <Description>
@@ -4550,7 +4550,7 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -4560,7 +4560,7 @@
         </Period>
         <City>Lahnstein</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Education">
         <Country>Germany</Country>
@@ -4621,11 +4621,11 @@
       <Sex>male</Sex>
       <Language Type="L1">
         <LanguageCode>deu</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Language Type="L2">
         <LanguageCode>fra</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Location Type="Birth">
         <Period>
@@ -4821,7 +4821,7 @@
         </Period>
         <City>Hamburg</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Residence">
         <Period>
@@ -4830,7 +4830,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Residence">
         <Period>
@@ -4840,7 +4840,7 @@
         </Period>
         <City>Hamburg</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Residence">
         <Period>
@@ -4885,7 +4885,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>Italy</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Stay">
         <Period>
@@ -4895,7 +4895,7 @@
         </Period>
         <City>Provence</City>
         <Country>France</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Stay">
         <Period>
@@ -4915,7 +4915,7 @@
           <PeriodDuration>0</PeriodDuration>
         </Period>
         <Country>Finland</Country>
-        <Description />
+        <Description/>
       </Location>
       <Description>
         <Key Name="Birth year">1935</Key>
@@ -4941,7 +4941,7 @@
       <Sex>male</Sex>
       <Language>
         <LanguageCode>NDS</LanguageCode>
-        <Description />
+        <Description/>
       </Language>
       <Language>
         <LanguageCode>XXX</LanguageCode>
@@ -5061,7 +5061,7 @@
         </Period>
         <City>Lübeck</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Residence">
         <Period>
@@ -5071,7 +5071,7 @@
         </Period>
         <City>Hamburg</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Residence">
         <Period>
@@ -5092,7 +5092,7 @@
         </Period>
         <City>Hamburg</City>
         <Country>Germany</Country>
-        <Description />
+        <Description/>
       </Location>
       <Location Type="Residence">
         <Period>
@@ -5258,15 +5258,32 @@
     </Speaker>
   </CorpusData>
   <Description>
-    <Key Name="DC:contributor">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de; Wilfried Schütte, schuette@ids-mannheim.de; Dan Loehr,       loehrd@georgetown.edu</Key>
-    <Key Name="DC:coverage">Covers mainly television and radio broadcasted speech recorded as audio and video from adult native speakers of English,Turkish, German, Polish, Swedish, Italian,       Vietnamese, Norwegian, Spanish and German from 1970 to 2013.</Key>
+    <Key Name="DC:contributor">
+      Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de; 
+      Transcription+ project (Thomas Schmidt)
+      Wilfried Schütte; 
+    </Key>
+    <Key Name="DC:coverage">
+      Covers mainly television and radio broadcast speech recorded as audio and video 
+      from adult native speakers of English, German, Polish, Italian, Spanish, Portuguese, Russian, French  
+      from 1964 to 2011.
+    </Key>
     <Key Name="DC:created">2007-11-08</Key>
-    <Key Name="DC:creator">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de</Key>
-    <Key Name="DC:description">A linguistic corpus of spoken language (various languages, approx. 20.000 transcribed words) created to demonstrate the EXMARaLDA system.</Key>
+    <Key Name="DC:creator">
+      Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de
+    </Key>
+    <Key Name="DC:description">
+      The EXMARaLDA Demo Corpus is a small corpus originally designed for demonstrating the functionality of the EXMARaLDA system.
+      It consists of a selection of short transcribed audio and video recordings in various languages.
+      Version 1.2 is a subset of version 1.1, curated for the Transcription+ project, with the main aim of demonstrating the use
+      of ISO 24624:2016 Language resource management — Transcription of spoken language.
+    </Key>
     <Key Name="DC:format">XML</Key>
-    <Key Name="DC:identifier">https://www.fdr.uni-hamburg.de/record/8364</Key>
+    <Key Name="DC:identifier">https://www.fdr.uni-hamburg.de/record/21551;10.25592/uhhfdm.21551</Key>
     <Key Name="DC:language">DEU; ENG; FRA; SPA; POL; ITA; RUS; POR;</Key>
-    <Key Name="DC:publisher">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de</Key>
+    <Key Name="DC:publisher">
+      Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de
+    </Key>
     <Key Name="DC:rights">Free to use for research and teaching purposes.</Key>
     <Key Name="DC:rightsHolder">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de</Key>
     <Key Name="DC:subject">Linguistic corpus of spoken language</Key>
@@ -5275,27 +5292,29 @@
     <Key Name="hzsk:corpusPrefix">EXMARaLDA-DemoKorpus</Key>
     <Key Name="hzsk:corpusVersion">1.2</Key>
     <Key Name="hzsk:keywords">L1 data</Key>
-    <Key Name="hzsk:shortDescription">A selection of short audio and video recordings in various languages to be used for instruction or demonstration of the EXMARaLDA system.</Key>
-    <Key Name="olac:compiler">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de</Key>
-    <Key Name="olac:data-inputter">Secil Yusun; Annette Schnieder; Andrea Rolle; Silke Merkel; Thomas Schmidt; Martina Schwalm; Peter M. Fischer; Kim-Chi Hamze; Franziska Watzke; Roman       Stachowicz; Karolina Kaminska; Nicole Stäwen; Maria Görlich; Tara Al-Jaraf; Florian Fuchs;       Heidemarie Sambale</Key>
-    <Key Name="olac:developer">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de</Key>
-    <Key Name="olac:researcher">Thomas Schmidt; Kai Wörner; Hanna Hedeland</Key>
+    <Key Name="hzsk:shortDescription">
+      A selection of short transcribed audio and video recordings in various languages 
+      compiled to be used for instruction or demonstration of the EXMARaLDA system and the standard
+      ISO 24624:2016 Language resource management — Transcription of spoken language.
+    </Key>
+    <Key Name="olac:compiler">
+      Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de
+    </Key>
+    <Key Name="olac:data-inputter">
+      Secil Yusun; Annette Schnieder; Andrea Rolle; Silke Merkel; Thomas Schmidt; Martina Schwalm; Peter M. Fischer; 
+      Kim-Chi Hamze; Franziska Watzke; Roman Stachowicz; Karolina Kaminska; Nicole Stäwen; Maria Görlich; 
+      Tara Al-Jaraf; Florian Fuchs; Heidemarie Sambale
+    </Key>
+    <Key Name="olac:developer">
+      Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de;
+      University of Duisburg-Essen, Institute for Communication Studies
+    </Key>
+    <Key Name="olac:researcher">
+      Thomas Schmidt; Kai Wörner; Hanna Hedeland; Timm Lehmberg
+    </Key>
     <Key Name="olac:sponsor">Deutsche Forschungsgemeinschaft (DFG)</Key>
     <Key Name="zumult:speakerMetadataTableSelection">Name;Role;Language;Profession;Birth year;GND-ID</Key>
     <Key Name="zumult:speechEventMetadataTableSelection">Communication type;Background information;Source</Key>
+    <Key Name="zumult:mediaMetadataTableSelection">Duration;Media_Type;Codec</Key>
   </Description>
-  <AsocFile Id="FIDD8D0523D-959D-32C7-B9B1-6D4A6AD2EE76">
-    <Name>Metadata overview</Name>
-    <Description>
-      <Key Name="Language">English</Key>
-      <Key Name="Type">Metadata overview</Key>
-    </Description>
-    <File Id="FIDD9FF4EC4-66DD-A6F7-1474-1BF8479B1E53">
-      <filename>Metadata.pdf</filename>
-      <mimetype>application/pdf</mimetype>
-      <relPath>corpus-materials/Metadata.pdf</relPath>
-      <Description />
-    </File>
-  </AsocFile>
 </Corpus>
-

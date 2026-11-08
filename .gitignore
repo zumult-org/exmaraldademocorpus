@@ -1,2 +1,8 @@
 *.comaindex
+*.ffprobe
+*.stats
 temp/
+Thumbs.db
+# mac resources
+.DS_Store
+Thumbs.db

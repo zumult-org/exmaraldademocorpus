@@ -8,7 +8,8 @@
         <MdCreator>Universität Duisburg-Essen</MdCreator>
         <MdCreationDate>2026-09-18</MdCreationDate>
         <!-- the URL or PID of this file -->
-        <MdSelfLink></MdSelfLink>
+        <!-- https://www.fdr.uni-hamburg.de/record/12574/files/CHAT%20to%20ISO_TEI%20Converter%200.9.cmdi?download=1 -->
+        <MdSelfLink>https://www.fdr.uni-hamburg.de/record/21551/files/EXMARaLDA-DemoKorpus.cmdi</MdSelfLink>
         <MdProfile>clarin.eu:cr1:p_1422885449343</MdProfile>
         <!--  an (optional but recommended) plain text indication to which collection this file belongs. Used for the Collection facet in the VLO -->
         <MdCollectionDisplayName>Hamburger Zentrum für Sprachkorpora (HZSK)</MdCollectionDisplayName>
@@ -38,7 +39,7 @@
                 <Name xml:lang="eng">EXMARaLDA Demo corpus 1.2</Name>
                 <Title xml:lang="eng">EXMARaLDA Demo corpus 1.2</Title>
                 <!-- The PID of the resource. -->
-                <PID></PID>
+                <PID>10.25592/uhhfdm.21551</PID>
                 <Description xml:lang="eng">
                     The EXMARaLDA Demo Corpus is a small corpus originally designed for demonstrating the functionality of the EXMARaLDA system.
                     It consists of a selection of short transcribed audio and video recordings in various languages.
@@ -107,8 +108,8 @@
                 <Contributors ComponentId="clarin.eu:cr1:c_1422885449340">
                     <Contributor Role="depositor">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de</Contributor>
                     <Contributor Role="compiler">Hamburger Zentrum für Sprachkorpora, Max-Brauer-Allee 60 / D-22765 Hamburg, corpora@uni-hamburg.de</Contributor>
-                    <Contributor Role="compiler">Transcription+ project</Contributor>
-                    <Contributor Role="compiler">Wilfried Schütte, schuette@ids-mannheim.de</Contributor>
+                    <Contributor Role="compiler">Transcription+ project (Thomas Schmidt)</Contributor>
+                    <Contributor Role="compiler">Wilfried Schütte</Contributor>
                     <Contributor Role="data_inputter">Secil Yusun</Contributor>
                     <Contributor Role="data_inputter">Annette Schnieder</Contributor>
                     <Contributor Role="data_inputter">Andrea Rolle</Contributor>

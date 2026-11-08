@@ -11,6 +11,7 @@ Version 1.0 (????) - die erste veröffentlichte Version des Korpus war über das
 Version 1.1 (2020) - Überarbeitung von v1.0, beim Zentrum für nachhaltiges Forschungsdatenmanagement der Universität Hamburg archiviert
 Version 1.2 (2026) - eine für das Projekt Transcription+ kuratierte Teilmenge der Version 1.1. Ihr Hauptzweck besteht darin, die Anwendung des Standards ISO 24624:2016 „Language resource management — Transcription of spoken language“ zu demonstrieren.
 
+Das Korpus beinhaltet die folgenden Kommunikationen:
 
 ========================================================================
  1. Anne Will: Halbes Wahlrecht
